@@ -11,10 +11,14 @@
             "id": "9e94dbb79cea65dc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "raw/Gemini-MdP20260916.md",
+                "mode": "preview",
+                "source": true
+              },
               "icon": "lucide-file",
-              "title": "Nuova scheda"
+              "title": "Gemini-MdP20260916"
             }
           }
         ]
@@ -27,10 +31,14 @@
             "id": "a8a40f6cb0f2ea95",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista grafo"
+              "type": "markdown",
+              "state": {
+                "file": "raw/Gemini-MdP20260916.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Gemini-MdP20260916"
             }
           }
         ]
@@ -111,6 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "raw/Gemini-MdP20260916.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,6 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "raw/Gemini-MdP20260916.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -171,7 +181,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Benvenuto.md",
+                "file": "raw/Gemini-MdP20260916.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -198,13 +208,21 @@
       "bases:Crea nuova Base": false
     }
   },
-  "active": "48a3f27df1dc7008",
+  "active": "9e94dbb79cea65dc",
   "lastOpenFiles": [
-    "log.md",
-    "raw/assets",
-    "raw",
-    "wiki",
+    "raw/Gemini-MdP20260916.md",
     "README.md",
-    "Benvenuto.md"
+    "raw/lezioniNew.pdf",
+    "raw/MDP Domande orale.pdf",
+    "raw/Non confermato 763321.crdownload",
+    "raw/Non confermato 840990.crdownload",
+    "Benvenuto.md",
+    "raw/MdP20260923.m4a",
+    "raw/Non confermato 563230.crdownload",
+    "raw/MdP20260918.m4a",
+    "raw/Non confermato 504875.crdownload",
+    "raw/MdP20260916.m4a",
+    "log.md",
+    "raw/assets"
   ]
 }

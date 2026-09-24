@@ -21,15 +21,16 @@ Quando l'utente invoca `/ingest-audio` o ti chiede esplicitamente di processare/
 
 ## Step 3: Raffinamento e Conversione in Markdown
 1. Leggi il contenuto del file `.txt` salvato in `.raw/registrazioni/trascrizioni-whisper/`.
-2. Utilizzando la tua logica AI o quella di un subagent adeguato, rielabora l'intero testo applicando rigorosamente il seguente prompt:
+2. Leggi e analizza il file PDF delle dispense ufficiali (di default usa `raw/lezioniNew.pdf` o fatti indicare il file esatto) per caricare nel tuo contesto il glossario e gli argomenti esatti trattati dal professore.
+3. Utilizzando la tua logica AI o quella di un subagent adeguato, rielabora l'intero testo applicando rigorosamente il seguente prompt:
 
    > Sei un assistente accademico specializzato nel riordinare e correggere appunti per corsi universitari di Ingegneria e Scienze Informatiche.
-   > Di seguito ti fornisco la trascrizione grezza di una lezione (generata da un sistema speech-to-text locale).
+   > Di seguito ti fornisco la trascrizione grezza di una lezione (generata da un sistema speech-to-text locale) E le relative slide/dispense ufficiali.
    > 
    > Il tuo compito è:
-   > 1. Correggere eventuali errori di battitura o parole travisate dal software, ponendo massima attenzione a preservare accuratamente il lessico tecnico dell'informatica, della programmazione e della matematica.
+   > 1. Correggere eventuali errori di battitura o parole travisate dal software. **FONDAMENTALE:** Usa il file `lezioniNew.pdf` fornito come riferimento assoluto per disambiguare termini tecnici, acronimi o nomi di teoremi storpiati, ponendo massima attenzione a preservare accuratamente il lessico tecnico matematico e rimanendo aderente al 100% all'argomento.
    > 2. Identificare i cambi di interlocutore intuendoli dal contesto e assegnare le etichette corrette (es. **Professore:**, **Studente:**).
-   > 3. Formattare il risultato finale in Markdown pulito. Laddove la tua intelligenza te lo permetta, cerca di dedurre in maniera efficace la formula matematica corrispettiva di cui si parla nel testo (es. scrivendola in LaTeX). Ma assicurati di NON inventare o realizzare formule che devino totalmente dall'argomento contestuale.
+   > 3. Formattare il risultato finale in Markdown pulito. Laddove la tua intelligenza te lo permetta, cerca di dedurre in maniera efficace la formula matematica corrispettiva di cui si parla nel testo scrivendola in LaTeX. **IMPORTANTE per le formule:** usa SEMPRE la sintassi MathJax compatibile con Obsidian (simbolo del dollaro singolo `$` per formule inline, e doppio dollaro `$$` per formule a blocco). NON usare MAI `\(` o `\[`. Assicurati inoltre di NON inventare o realizzare formule che devino totalmente dall'argomento contestuale.
    > 
    > All'inizio del documento, inserisci un blocco YAML Front Matter con i seguenti metadati ricavati dal contesto:
    > ---
@@ -39,7 +40,7 @@ Quando l'utente invoca `/ingest-audio` o ti chiede esplicitamente di processare/
    > 
    > Ecco la trascrizione grezza: [testo]
 
-3. Salva l'output generato come nuovo file, chiamandolo con lo stesso nome di partenza ma con estensione `.md`, all'interno della directory `.raw/registrazioni/trascrizioni-sistemate/`.
+4. Salva l'output generato come nuovo file, chiamandolo con lo stesso nome di partenza ma con estensione `.md`, all'interno della directory `.raw/registrazioni/trascrizioni-sistemate/`.
 
 ## Step 4: Ingestione Finale
 Se la richiesta iniziale dell'utente includeva anche "l'ingestione" del materiale per la creazione della Wiki:

@@ -16,3 +16,9 @@
 # Erogazione Esempi Didattici
 - **Definizione Istanza Base**: Quando ti viene richiesto un esempio pratico in chat (specialmente di natura matematica, probabilistica o statistica), ti è ASSOLUTAMENTE VIETATO iniziare lo svolgimento dei calcoli senza aver prima definito il contesto.
 - **Struttura Obbligatoria**: Devi SEMPRE aprire la risposta esplicitando i "Dati Base dell'Esempio" (es. problema in forma standard, funzione obiettivo, vincoli completi, variabili di partenza in base/fuori base, matrici iniziali). Solo DOPO aver posto l'istanza base, puoi procedere allo sviluppo step-by-step.
+
+# Formattazione Formule Matematiche (Obsidian)
+- **Sintassi MathJax Obbligatoria**: Quando generi, trascrivi o modifichi file Markdown destinati a questo progetto (come note, appunti o flashcard per Obsidian), ti è **SEVERAMENTE VIETATO** usare i classici delimitatori LaTeX come `\(` e `\[`.
+- **Delimitatori Consentiti**:
+  - Per le formule **inline** (all'interno della stessa riga di testo), devi usare obbligatoriamente il singolo dollaro. Esempio: `$ x^2 + y^2 = r^2 $`.
+  - Per le formule a **blocco** (centrate su una nuova riga), devi usare obbligatoriamente il doppio dollaro. Esempio: `$$ \sum_{i=1}^n i = \frac{n(n+1)}{2} $$`.
