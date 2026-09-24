@@ -42,6 +42,14 @@ $$ \text{Combinazioni} = \frac{\text{Disposizioni}}{a!} $$
 $$ \binom{n}{a} = \frac{n(n-1)\dots(n-a+1)}{a!} = \frac{n!}{a! \cdot (n-a)!} = \frac{n!}{a! \cdot b!} $$
 L'eleganza di questa formula mostra immediatamente la simmetria profonda tra l'insieme estratto $a$ e il suo complementare $b$.
 
+### Identità di Ricorrenza (Regola di Pascal)
+Un'importante proprietà ricorsiva ci permette di calcolare le combinazioni sfruttando il partizionamento. Se vogliamo estrarre $a$ elementi da un totale di $n$, possiamo focalizzarci su un singolo elemento specifico (es. l'elemento $n$) e dividere tutti i possibili sottoinsiemi in due blocchi mutuamente esclusivi:
+1. I sottoinsiemi che **NON contengono** l'elemento $n$: dobbiamo scegliere tutti gli $a$ elementi tra i restanti $n-1$, ovvero $\binom{n-1}{a}$.
+2. I sottoinsiemi che **contengono** l'elemento $n$: ci mancano da scegliere $a-1$ elementi tra i restanti $n-1$, ovvero $\binom{n-1}{a-1}$.
+
+Sommando questi due casi disgiunti otteniamo la celebre identità di Pascal:
+$$ \binom{n}{a} = \binom{n-1}{a} + \binom{n-1}{a-1} $$
+
 ### Generalizzazione: Combinazioni Tri-variate (Multinomiali)
 Anziché dividere l'insieme iniziale in soli due gruppi (l'insieme e il suo complementare), lo si può partizionare in tre insiemi $A, B, C$ di cardinalità $a, b, c$ (tali che $a+b+c = n$).
 In modo naturale, estendiamo la formula al caso tri-variato:

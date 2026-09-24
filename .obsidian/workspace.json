@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "raw/registrazioni/trascrizioni-sistemate/MdP20260923.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "MdP20260923"
             }
           }
         ]
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "raw/registrazioni/trascrizioni-sistemate/MdP20260923.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "raw/registrazioni/trascrizioni-sistemate/MdP20260923.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md",
+                "file": "raw/registrazioni/trascrizioni-sistemate/MdP20260923.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -190,16 +190,16 @@
   },
   "active": "9e94dbb79cea65dc",
   "lastOpenFiles": [
+    "raw/registrazioni/MdP20260923.md",
+    "raw/registrazioni/trascrizioni-sistemate/MdP20260923.md",
+    "index.md",
     "wiki/Disposizioni_e_Combinazioni.md",
     "wiki/Basi_del_Calcolo_Combinatorio.md",
     "raw/registrazioni/trascrizioni-sistemate/MdP20260918.md",
     "wiki/index.md",
-    "index.md",
-    "raw/registrazioni/trascrizioni-sistemate/MdP20260923.md",
     "raw/registrazioni/trascrizioni-sistemate/MdP20260916.md",
     "raw/registrazioni/MdP20260918.m4a",
     "raw/registrazioni/trascrizioni-whisper/MdP20260923.txt",
-    "raw/registrazioni/MdP20260923.md",
     "raw/registrazioni/trascrizioni-whisper/MdP20260918.txt",
     "raw/registrazioni/MdP20260918.md",
     "raw/registrazioni/MdP20260916.txt",
