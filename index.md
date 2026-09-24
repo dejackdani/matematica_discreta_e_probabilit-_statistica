@@ -18,3 +18,16 @@ Qui troverai un catalogo strutturato di tutti i concetti, regole, ed entità est
 
 ## 5. Teoria della Probabilità
 *(Sezione da popolare)*
+
+## 6. Esercitazioni (EserciziMDPnew)
+* [[Esercitazione_01_18-Settembre]]: Esercizi su combinatoria intuitiva
+* [[Esercitazione_02_25-Settembre]]: Esercizi su combinatoria di base
+* [[Esercitazione_03_02-Ottobre]]: Esercizi su combinatoria avanzata
+* [[Esercitazione_04_09-Ottobre]]: Esercizi sulle partizioni
+* [[Esercitazione_05_16-Ottobre]]: Esercizi di statistica descrittiva
+* [[Esercitazione_06_23-Ottobre]]: Esercizi su probabilità di base e uniforme
+* [[Esercitazione_07_30-Ottobre]]: Esercizi sulle variabili aleatorie discrete
+* [[Esercitazione_08_06-Novembre]]: Esercizi su densità congiunta e indipendenza
+* [[Esercitazione_09_13-Novembre]]: Esercizi su valore atteso e varianza
+* [[Esercitazione_10_20-Novembre]]: Esercizi sulle variabili aleatorie continue
+* [[Esercitazione_11_27-Novembre]]: Esercizi sulle variabili normali e teorema del limite centrale

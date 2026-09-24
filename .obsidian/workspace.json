@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "raw/registrazioni/trascrizioni-sistemate/MdP20260923.md",
+                "file": "index.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MdP20260923"
+              "title": "index"
             }
           }
         ]
@@ -83,7 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 308.8203125
   },
   "right": {
     "id": "a15d0158fa90769e",
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "raw/registrazioni/trascrizioni-sistemate/MdP20260923.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "raw/registrazioni/trascrizioni-sistemate/MdP20260923.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "raw/registrazioni/trascrizioni-sistemate/MdP20260923.md",
+                "file": "index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -190,33 +190,41 @@
   },
   "active": "9e94dbb79cea65dc",
   "lastOpenFiles": [
-    "raw/registrazioni/MdP20260923.md",
-    "raw/registrazioni/trascrizioni-sistemate/MdP20260923.md",
+    "fix_frontmatter.py",
+    "wiki/Esercitazione_11_27-Novembre.md",
+    "wiki/Esercitazione_10_20-Novembre.md",
+    "wiki/Esercitazione_09_13-Novembre.md",
+    "wiki/Esercitazione_08_06-Novembre.md",
+    "wiki/Esercitazione_07_30-Ottobre.md",
+    "wiki/Esercitazione_06_23-Ottobre.md",
+    "wiki/Esercitazione_05_16-Ottobre.md",
+    "wiki/Esercitazione_04_09-Ottobre.md",
+    "wiki/Esercitazione_03_02-Ottobre.md",
+    "wiki/Esercitazione_02_25-Settembre.md",
+    "wiki/Esercitazione_01_18-Settembre.md",
+    "rename_short.py",
+    "wiki/Esercitazione_11_2026-11-27_Variabili_normali.md",
+    "wiki/Esercitazione_10_2026-11-20_Variabili_continue.md",
+    "wiki/Esercitazione_09_2026-11-13_Valore_atteso.md",
+    "wiki/Esercitazione_08_2026-11-06_Densità_congiunta.md",
+    "wiki/Esercitazione_07_2026-10-30_Variabili_discrete.md",
+    "wiki/Esercitazione_06_2026-10-23_Probabilità_base.md",
+    "wiki/Esercitazione_05_2026-10-16_Statistica_descrittiva.md",
+    "wiki/Esercitazione_04_2026-10-09_Partizioni.md",
+    "wiki/Esercitazione_03_2026-10-02_Combinatoria_avanzata.md",
+    "wiki/Esercitazione_02_2026-09-25_Combinatoria_di_base.md",
+    "wiki/Esercitazione_01_2026-09-18_Combinatoria_Intuitiva.md",
+    "rename.py",
+    "wiki/Esercizi_02_Combinatoria_di_base.md",
     "index.md",
-    "wiki/Disposizioni_e_Combinazioni.md",
-    "wiki/Basi_del_Calcolo_Combinatorio.md",
-    "raw/registrazioni/trascrizioni-sistemate/MdP20260918.md",
-    "wiki/index.md",
-    "raw/registrazioni/trascrizioni-sistemate/MdP20260916.md",
+    "wiki/Esercizi_01_Combinatoria_Intuitiva.md",
+    "create_wiki.py",
+    "raw/EserciziMDPnew.pdf",
+    "raw/Non confermato 398648.crdownload",
     "raw/registrazioni/MdP20260918.m4a",
     "raw/registrazioni/trascrizioni-whisper/MdP20260923.txt",
     "raw/registrazioni/trascrizioni-whisper/MdP20260918.txt",
-    "raw/registrazioni/MdP20260918.md",
     "raw/registrazioni/MdP20260916.txt",
-    "raw/registrazioni/drive-download-20260924T094611Z-1-001/MdP20260923.txt",
-    "raw/registrazioni/drive-download-20260924T094611Z-1-001/MdP20260923.md",
-    "raw/registrazioni/drive-download-20260924T094611Z-1-001/MdP20260918.txt",
-    "raw/registrazioni/drive-download-20260924T094611Z-1-001/MdP20260918.md",
-    "raw/registrazioni/drive-download-20260924T094611Z-1-001/MdP20260916.txt",
-    "raw/registrazioni/drive-download-20260924T094611Z-1-001",
-    "raw/registrazioni/drive-download-20260924T094611Z-1-001.zip",
-    "raw/registrazioni/Non confermato 11138.crdownload",
-    "wiki/Regole_Esame.md",
-    "raw/trascrizioni-sistemate/MdP20260916.md",
-    "wiki/Insiemi_e_Cardinalità.md",
-    "raw/Gemini-MdP20260916.md",
-    "log.md",
-    "README.md",
-    "Benvenuto.md"
+    "raw/registrazioni/drive-download-20260924T094611Z-1-001/MdP20260923.txt"
   ]
 }

@@ -5,6 +5,10 @@ Il formato è basato su [Keep a Changelog](https://keepachangelog.com/en/1.1.0/)
 
 ## [Unreleased]
 
+### Added
+- **Esercitazioni Settimanali**: Ingerito il file `EserciziMDPnew.pdf`. Creati 11 file Markdown distinti contenenti esercizi e soluzioni a scomparsa. Ogni file è stato formattato e rinominato in modo da tracciare la deadline del venerdì (dal 18 Settembre al 27 Novembre).
+- Inserite in ogni file le checkbox interattive per monitorare lo svolgimento dei singoli esercizi e il meta-tag `stato_esercitazione: 🔴 Da Svolgere` all'interno del frontmatter YAML.
+
 ### Changed
 - Aggiornata la regola `strict-sourcing.md`: autorizzata l'integrazione di dettagli omesse a voce ma presenti nella dispensa ufficiale (`lezioniNew.pdf`), a patto di confinarle in un callout di Obsidian dedicato agli approfondimenti e mantenendo l'Anti-Spoiler.
 - Aggiornato lo Step 3 del workflow `ingest-audio.md`: introdotto l'obbligo di usare la dispensa come Ground Truth durante la revisione della trascrizione vocale.
