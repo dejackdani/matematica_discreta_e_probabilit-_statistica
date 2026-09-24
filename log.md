@@ -5,6 +5,16 @@ Il formato è basato su [Keep a Changelog](https://keepachangelog.com/en/1.1.0/)
 
 ## [Unreleased]
 
+## [0.4.0] - 2026-09-24
+
+### Added
+- Ingestione della prima lezione (da registrazione locale tradotta via Whisper e combinata con dispense).
+- Create pagine della wiki: `index.md`, `Regole_Esame.md`, `Insiemi_e_Cardinalità.md` secondo i template rigorosi della skill `wiki_ingest` e applicando logiche di Active Recall.
+
+### Refactor
+- Ristrutturata gerarchia della directory `raw/` secondo il workflow `ingest-audio.md` (create le directory annidate `raw/registrazioni/`, `raw/registrazioni/trascrizioni-whisper/` e `raw/registrazioni/trascrizioni-sistemate/`).
+- Corretto un bug (typo) nel workflow `ingest-audio.md` che usava erroneamente un path nascosto (`.raw/`) al posto della directory standard del progetto (`raw/`).
+
 ## [0.3.0] - 2026-09-24
 
 ### Added

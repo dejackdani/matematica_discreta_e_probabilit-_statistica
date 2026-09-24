@@ -1,0 +1,1151 @@
+Mi fa piacere l'interesse che c'è stato su questa prima lezione di carnalità
+e come vi ho anticipato, molto più sofisticata come idee, come dimostrazioni
+di quello che andiamo a fare in queste ultime lezioni partite.
+E questo è un rischio.
+Qual è il rischio che adesso incontriamo?
+Nella lezione di oggi, in particolare, è anche quella di mercoledì.
+Prima di parlare di cose che avete già visto.
+E quando uno trova l'università, in questa matematica, come hai già visto, rischia di si perdersi.
+Perché dicevo, da questo caso le conosco già.
+E' un retico delle cose ovvie, e quindi uno si distrae e dopo un po' non capisce più niente.
+Perché non capisce più niente?
+Perché le affrontiamo, diciamo, dal punto di vista un po' superiore, no?
+Quindi cerchiamo di dare delle motivazioni.
+La cosa che voglio trasmettere in queste lezioni è come si arriva a certe cose.
+Non tanto imparare le cose, sapere che insieme di due elementi scelti tra 5 e 10,
+c'è una formuletta, uno la impara, ma da dove viene questa formuletta?
+Cioè noi dobbiamo imparare, diciamo, le motivazioni di queste cose.
+E infatti poi cosa succede?
+Che all'esame l'esercizio che tutti indistintamente ritengono più difficile è quello di combinatoria.
+Cioè almeno la parte combinatoria di questo problema.
+Che c'è sempre, un po' di combinatoria c'è sempre, ed è sempre la parte che dà più difficoltà.
+Perché ci sono strumenti elementari e quindi bisogna applicarsi,
+bisogna trovare delle giuste idee da applicare al momento.
+Che non sono sempre uguali.
+Anzi, a volte non c'è una formula che risolta l'esercizio.
+Bisogna un po' ricavarsi, portarsi le mani con il dito,
+cercare di fare anche degli esempi.
+C'è un problema che riguarda, non so, sequenze, sequenze di lunghezza 10,
+uno non sa che fare, allora comincia a prendere sequenze di lunghezza 3 o 4
+e cerca di capire come funziona per questo.
+Ma neanche nei seccesi che faremo tutt'altro,
+sono i primissimi, ma poi anche per la settimana prossima,
+c'è sempre un po' da sporcarsi le mani,
+cercare di capire come funziona le cose.
+Se uno segue, diciamo, con attenzione dal pubblico,
+impara soprattutto i nomi etnici degli oggetti che andiamo a introdurre
+e li usa correttamente, perché poi dire parte non è come dire partizione,
+che è diverso da dire permutazione, combinazione, disposizione, ripetizione,
+cioè sono tutti i termini che hanno un significato ben preciso.
+In italiano una combinazione, una disposizione,
+possono essere quasi sinonimi,
+però per noi sono cose diverse.
+E lo dobbiamo imparare.
+Questa piccola promessa possiamo iniziare.
+Iniziamo appunto con quelle che chiamiamo questo capitolo di basi,
+basi del calcolo combinatorio.
+Allora, cosa vogliamo imparare a fare oggi?
+Oggi, insomma, vogliamo imparare a costruire insiemi, diciamo,
+un po' più complessi, partendo da insiemi elementari che uno conosce,
+e poi viceversa,
+se uno ha un insieme complesso che uno conosce,
+è per cercare di ridurlo, spezzarlo,
+in modo che poi possiamo rispondere alla sua domanda
+quanti sono.
+Perché sempre lo scopo della combinatoria
+è dire quanti sono.
+Se abbiamo un insieme complicato,
+bisogna dire quanti le identità.
+Se riusciamo a spezzarlo,
+in qualche modo,
+se riusciamo a rispondere alla domanda
+quanti sono.
+Anche di un arriva, lo ricordo,
+il nostro scopo,
+rispondere alla domanda,
+quanti sono.
+La prima operazione che facciamo,
+che conoscete già bene,
+è quella del prodotto cartesiano.
+un prodotto cartesiano
+che fa insieme.
+Cos'è il prodotto cartesiano?
+Noi pensiamo a due insiemi A e B.
+Allora, il prodotto cartesiano
+lo vediamo con una A per B.
+che cos'è?
+Semplicemente insieme,
+perché le parentesi grattie
+prendono i carri insieme,
+le coppie ordinate,
+le coppie ordinate
+in un piano con le parentesi tonde,
+le coppie ordinate di elementi
+in cui,
+questi due punti per dire quali che,
+l'elemento a piccolo
+sta a dimensione A
+e l'elemento B piccolo.
+L'esempio che meglio conoscete,
+R per R
+vediamo sia la dimensione A
+che la dimensione B
+R
+abbiamo le coppie
+di elementi reali
+coordinate
+che formano il piano cartesiano.
+è sempre un esempio
+da creare a mente
+perché uno,
+se pensa al piano cartesiano,
+sa bene che
+1-2 è diverso da 2-1,
+sono due punti diversi,
+quindi l'ordine è importante,
+così come sa che
+1-1 ha senso,
+non ci possono essere
+ripetizioni.
+questo punto 1-2.
+Siccome noi vorremmo rispondere
+alla domanda quanti sono,
+non saremo tanti interessati
+a questo
+cartesiano di questo tipo,
+ma saremo in questo caso
+in cui A
+e B sono schemi
+altrimenti.
+Facciamo un esempio,
+un altro esempio.
+Vediamo come A
+A
+B
+M
+1-2
+e come B
+viene,
+non so,
+delle lettere
+A, B, C
+notate
+l'uso diverso
+delle lettere
+A, B, C
+qui
+e qui.
+Qui
+la lettera A minuscola
+indicava
+un elemento variabile
+mentre qua
+è un elemento
+che ci sa,
+è proprio
+la lettera A.
+come si fa a capire
+la differenza?
+Da come sono presentate
+qua abbiamo A
+che è un tipo
+pari A
+e qui è un elemento
+così
+santo.
+In questo caso
+chiaramente
+A per B
+è un insieme
+come avevate
+tutte le coppie
+in cui il primo elemento
+sta in A grande
+e il secondo elemento
+sta in B.
+Prende
+1A
+abbiamo la coppia
+1B
+la coppia
+1C
+e A
+2C
+insomma
+almeno per il momento
+stiamo ben attenti
+a usare sempre
+le parentesi
+nel modo giusto
+saremo sempre attenti
+però a un certo punto
+magari
+uno può alleggerire
+la notazione
+una volta
+che è chiaro
+quello che sta facendo
+ecco
+qualcuno va a chiesto
+il link
+per la
+telecamera
+magari
+che in fondo
+vuole
+piantarla
+sullo schermo
+ora
+era complicato
+farlo qui
+però
+non è di qualche momento
+a disposizione
+è un link
+senza audio
+quindi
+non è che è abbastanza
+immobile
+per seguire
+la foto
+però
+sicuramente
+qui non sta in conto
+lo vuole vedere meglio
+va bene
+chiaramente
+il prodotto
+l'artusiano
+qui abbiamo fatto
+tra due insieme
+si può fare
+anche tra tre
+e quattro insieme
+perché avere
+coppie
+avremo
+terne
+paterne
+e in particolare
+sarebbe interessato
+la potenza cartesiana
+e in particolare
+sarebbe interessata
+quella che si chiama
+la potenza cartesiana
+la potenza cartesiana
+la potenza cartesiana
+la useremo
+la potenza cartesiana
+è semplicemente
+nel caso di R di prima
+A alla N
+la potenza cartesiana
+che si chiama
+la potenza cartesiana
+la potenza cartesiana
+e la potenza cartesiana
+che si chiama
+e la potenza cartesiana
+e la potenza cartesiana
+questo per definizione
+sarà
+A
+per A
+per A
+per A
+n volte
+allora
+gli elementi di A alla N
+sequenze
+sequenze
+sequenze
+dobbiamo specificare
+diciamo
+che sono
+sequenze
+di un insieme
+dobbiamo specificare
+l'insieme
+su cui
+lo stiamo operando
+diciamo
+in A
+questa è la prima parola
+tecnica
+no
+è già la terza
+dopo
+prodotto cartesiano
+e potenza cartesiana
+ma il concetto
+di sequenza
+ecco
+è quello
+che dobbiamo
+anche imparare
+le sequenze
+con questa N
+ma
+sono
+semplicemente
+sono
+sequenze
+in una lista
+di numeri
+coordinati
+e con ripetizione
+va bene
+quando
+come abbiamo fatto
+già
+nella prima lezione
+sono in presenza
+di sequenze
+infinite
+parliamo
+di successioni
+però
+le successioni
+non è che
+utilizzeremo tanto
+perché
+in combinatoria
+dobbiamo contare
+con oggetti
+infiniti
+magari
+lo scriviamo
+ma è
+un po'
+l'osservazione
+difenze
+di umichezza
+infinita
+molto semplice
+molto semplice
+qualcuno ha
+difficoltà
+qui
+queste cose
+è un problema
+spero che nessuna
+abbia
+benissimo
+poter fare
+un altro esempio
+facciamo
+un altro esempio
+magari
+andiamo a
+a
+la terza
+2
+1
+2
+1
+2
+e poi ci sarà
+tutti i quelli
+che hanno
+1 al primo posto
+e poi
+fatti
+quelli che hanno
+1 al secondo posto
+a che scrivere
+ecco
+questi
+elementi qua
+è un esercizio
+perché uno
+impara
+anche qua
+un criterio
+per elencare
+gli elementi
+di un insieme
+dobbiamo fare
+tutte le possibili
+sequenze
+di lunghezza 3
+con il numero
+di 1 e 2
+e come facciamo
+iniziamo
+il primo
+divento 1
+iniziamo
+il secondo 1
+e facciamo
+variare
+il terzo
+in tutti i modi
+possibili
+1 e 2
+poi
+iniziamo
+la prima
+2
+1 e 2
+e facciamo
+1 e 1
+in terzo
+e così
+iniziamo
+due volte
+in volta
+i primi
+e facciamo
+variare
+il 2
+va bene
+ok
+ok
+Grazie a tutti
+Grazie a tutti
+Facciamo un passaggio invece di attrazione importante adesso
+Andiamo a parlare dell'insieme delle parti
+o dei sottinsieme
+Ricordo qui diciamo quindi
+parti è sinonimo di tutti insieme
+una parte di insieme
+e un po' sotto insieme
+tutto insieme
+un po' sotto insieme
+un po' sotto insieme
+un po' sotto insieme
+perché è un livello di astrazione maggiore
+fino ad ora abbiamo pensato
+agli elementi di un insieme
+come concetti simboli
+invece adesso
+andiamo a che fare con un insieme
+in cui gli elementi
+sono a loro volta insieme
+insieme
+l'insieme
+allora l'insieme delle parti
+di A
+usiamo la piccolissima
+per distinguere
+la parola di stampatello
+ci vedremo della probabilità
+per non creare
+un'insieme delle parti
+di A
+di E
+di B
+tali che B
+insieme
+insieme
+di A
+insieme
+per esempio
+sempre prendiamo
+la posizione A
+per i piccolini
+di A
+3 elementi
+1, 2, 3
+qualunque
+che è
+di A
+in questo caso
+allora
+siccome è un insieme
+usiamo la parentesi
+graffa
+come facciamo
+elencare
+tutti insieme
+in ordine
+diciamo
+da quelli più
+più grandi
+quindi
+abbiamo prima
+quelli
+con 0 elementi
+poi con 1 elemento
+poi con 2 elementi
+poi con 3 elementi
+con 0 elementi
+c'è
+l'insieme vuoto
+che sta
+in tutti
+e che è continuato
+in tutti i messi
+con l'insieme vuoto
+viene da un presso
+0
+lo spaccato
+va bene
+poi
+è l'unico
+insieme
+che ha 0
+elementi
+la posizione vuoto
+abbiamo
+quindi
+con un elemento
+lo spieghiamo così
+sempre tra parenti
+di grado
+perché questo
+stiamo facendo
+all'insieme
+con un elemento
+non è l'elemento
+è l'insieme
+che è un elemento
+e poi c'è
+il 2
+poi c'è il 3
+e basta
+questi sono i 3
+che insieme
+un elemento
+poi ci sono
+3 con 2 elementi
+sono 1,2
+poi c'è 1,3
+poi c'è 2,3
+bene
+chiaramente qui
+non abbiamo
+né 1,1
+né 2,1
+cioè
+in realtà
+ce l'abbiamo
+ma l'abbiamo
+già messo
+perché
+1,1
+in realtà
+è un'elemento
+1
+2,1
+e 1,2
+è la stessa
+che abbiamo
+perché non
+conta l'altro
+bene
+e poi
+con 3 elementi
+chiaramente
+abbiamo
+l'insieme
+a
+posso scrivere così
+o posso scrivere a
+comunque 3
+a fare
+così grande
+va bene
+quindi in questo caso
+abbiamo
+8
+elementi
+no
+delle parti di a
+a
+e
+bene
+ciao
+è l'insieme vuoto. Allora, P di A è un insieme, i due elementi sono i sottoinsiemi di A,
+e l'unico sottoinsieme di A è l'insieme vuoto, e quindi è lui. P di A non è uguale ad A,
+cioè A ha zero elementi, perché è l'insieme vuoto. P di A ha un elemento, e questo elemento è l'insieme vuoto.
+Vabbè, questa osservazione si rilascia bene con quello che voglio dire adesso.
+E' un primo teorema fondamentale.
+Fondamentale.
+Abbiamo visto due cose.
+Abbiamo visto due cose.
+prodotti o potenze cartesiane e l'insieme delle panze.
+questi due concetti sono estremamente correlati da questo problema.
+vediamo.
+vediamo.
+vediamo.
+vediamo.
+vediamo.
+vediamo.
+vediamo.
+vediamo.
+vediamo.
+vediamo.
+vediamo a
+vediamo
+vediamo
+vediamo
+vediamo
+vediamo
+In combinatoria ciò che importa è quanti elementi ci sono, non quali elementi ci sono,
+quindi siamo per semplicità di dare un numero da un tipo.
+Se abbiamo questo insieme qui, allora esiste una corrispondenza ambitivosa
+tra l'insieme delle parti di A e le sequenze binarie della potenza cartesiana dell'insieme zero.
+Sono tanti i sorti insiemi quante sequenze binarie.
+Vediamo se questo teorema non è complicato, adesso la vediamo, è sicuramente meno complicato
+come si dimostra.
+Per dimostrare qua, dobbiamo dire esplicitamente chi è questa corrispondenza.
+quindi io, magari la facciamo, la illustriamo, diciamo così, per m uguale a 3
+e poi cerchiamo di capire perché questa idea funziona, però niente.
+è una corrispondenza, poi niente va alla 3 e poi niente va alla 3 e poi niente va alla 3.
+e poi niente va alla 3 e le parti che abbiamo scritto nel lato e davanti.
+Torniamo quegli occhi e le metti lì e sono, appunto, in vuoto.
+1, 2, 3, 2, 3, 2, 3, 2, 3 e poi niente va alla 3.
+Questi sono gli otto elementi di TDA.
+Vediamo che sono le corrispondenze di un'invoca con le successioni binarie di 23.
+Quale può essere l'idea, ecco?
+Dobbiamo associare ogni sottinsieme a una sequenza binaria.
+Quale viene in mente da fare? Quale è la cosa più naturale da fare?
+Che sequenza binaria possiamo associare al sottinsieme U?
+Facciamo che io la scrivo e poi voi mi dite pubblicare la scrivo.
+Al vuoto associo 0000, sequenza binaria 0000.
+A 1 associo la sequenza binaria 0000.
+A 2 associo 0000.
+A 3 0000.
+A 1 associo 0000.
+A 3 0000.
+A 1 associo 0000.
+A 3 0000.
+A 3 0000.
+A 3 0000.
+A 3 0000.
+A 1 associo 0000.
+A 1 associo 0000.
+A 3 0000.
+Che criterio ha usato per scrivere la sequenza binaria?
+Si, diciamo che abbiamo usato come sequenza binaria
+una che si chiama la funzione indicatrice del sottinsieme.
+Cioè abbiamo semplicemente messo
+1 in corrispondenza degli elementi che stanno contro l'interno
+e 0 in corrispondenza degli elementi che non stanno contro l'interno.
+Per esempio, 1 2 cosa vuol dire?
+Mettiamo 1 ai posti 1 e 2.
+2 e 3.
+Mettiamo 1 nei posti 2 e 3.
+Mettiamo 0 nel posto 1.
+2 e 3 ci sono tutti.
+Quindi questo è come definito da sinistra verso destra.
+Da destra verso sinistra cosa è definito?
+Questo è la stessa volta.
+Io comprendo una sequenza binaria e guardo ai posti dove stanno gli uni.
+questo c'è 1 2 posti 1 e 3 e associo il sottinsieme a 3.
+E' chiaro che questa è la questione.
+Questo è l'interza dell'anno.
+Se quando lo sottinsieme ottengo la sequenza binaria,
+il viceversa.
+e poi arriviamo
+per andare in nord
+e poi
+Grazie.
+Grazie a tutti.
+Grazie a tutti.
+Grazie a tutti.
+Grazie a tutti.
+Grazie a tutti.
+Grazie a tutti.
+Grazie a tutti.
+Grazie a tutti.
+Grazie a tutti.
+
+Grazie a tutti.
+Grazie a tutti.
+Grazie a tutti.
+Grazie a tutti.
+Grazie a tutti.
+Grazie a tutti.
+Grazie a tutti.
+Grazie a tutti.
+
+Grazie a tutti.
+Grazie a tutti.
+Grazie a tutti.
+Grazie a tutti.
+Grazie a tutti.
+Grazie a tutti.
+
+Grazie a tutti.
+Grazie a tutti.
+
+Grazie a tutti.
+a tutti.
+a tutti.
+a tutti.
+a tutti.
+a tutti.
+a tutti.
+a tutti.
+a...
+a tutti.
+a tutti.
+a tutti.
+a tutti.
+a tutti.
+a tutti.
+a tutti.
+per la seconda.
+a tutti.
+a tutti.
+a tutti.
+a tutti.
+a tutti.
+a tutti.
+a tutti.
+a tutti.
+la scelta.
+a tutti.
+a tutti.
+a tutti.
+a tutti.
+a tutti.
+a tutti.
+a tutti.
+a tutti.
+a tutti.
+a tutti.
+a tutti.
+a tutti.
+a tutti.
+a tutti.
+a tutti.
+a tutti.
+a tutti.
+a tutti.
+a tutti.
+a tutti.
+a tutti.
+a tutti.
+tutti.
+a tutti.
+a tutti.
+a tutti.
+a tutti.
+a tutti.
+a tutti.
+a tutti.
+a tutti.
+a tutti.
+a tutti.
+a tutti.
+a tutti.
+a tutti.
+a tutti.
+a tutti.
+
+qui.
+a tutti.
+a tutti.
+a tutti.
+tutti.
+a tutti.
+a tutti.
+
+tutti.
+a tutti.
+a tutti.
+a tutti.
+se
+a tutti.
+a tutti.
+a tutti.
+a tutti.
+a tutti.
+tutti.
+a tutti.
+tutti.
+tutti.
+tutti.
+tutti.
+tutti.
+tutti.
+tutti.
+tutti.
+tutti.
+tutti.
+tutti.
+tutti.
+tutti.
+tutti.
+tutti.
+tutti.
+tutti.
+.
+, tutti.
+tutti.
+tutti.
+tutti.
+tutti.
+tutti.
+tutti.
+tutti.
+tutti.
+tutti.
+tutti.
+tutti.
+tutti.
+tutti.
+tutti.
+tutti.
+tutti.
+tutti.
+tutti.
+tutti.
+tutti.
+tutti.
+tutti.
+tutti.
+tutti.
+tutti.
+
+tutti.
+
+tutti.
+tutti.
+tutti.
+tutti.
+, tutti.
+tutti.
+, tutti.
+, tutti.
+, tutti.
+, tutti.
+, tutti.
+tutti.
+, tutti.
+, tutti.
+, tutti.
+, tutti.
+, tutti.
+E questo, quest'esempio, voglio che ve lo ricontiate sempre.
+Quando c'è che non va in questo problema?
+C'è lo stesso problema di prima, cioè che le scelte che abbiamo fatto non sono unite.
+Perché se l'insieme che voglio fare 2, 4, 6, 7,
+questo insieme che ha almeno un numero di pari,
+lo posso ottenere in diversi modi in questa costruzione.
+Questo, lo posso scelere prima 2, 4 e poi 6, 7,
+oppure lo posso scelere prima 2, 6 e poi 4, 7,
+oppure prima 4, 6 e poi 2, 7.
+Prendo sempre questo insieme.
+Non va bene perché le scelte non sono unite.
+Scusate, allora questo insieme.
+Ad esempio,
+2, 4, 6, 7,
+lo tengo,
+lo tengo prima 2, 4,
+poi 6, 7,
+ma anche
+2, 6 e poi 4, 7,
+ma anche
+4, 6,
+poi 2, 7,
+quindi finisce che questo insieme qua
+lo contiamo 3 volte.
+Va bene, non dobbiamo contarlo 3 volte,
+lo è contato una volta.
+Quando uno procede così,
+lo tiene un numero definitivamente molto più grande
+di quello che è in realtà.
+quindi per risolvere questo esercizio uno deve usare qualche altro.
+Sì?
+Possiamo suddividere il 3 sotto problemi?
+Può cercare di parlare più forte.
+Possiamo suddividere il 3 sotto problemi?
+Possiamo suddividere il 3 sotto problemi
+e ad un altro punto diventa il problema più facile da risolvere.
+Quali sono i 3 sotto problemi?
+Sono quelli che hanno 2 numeri pari,
+quelli che hanno 3 numeri pari
+e quelli che hanno 4 numeri pari.
+in quel modo noi lo suddividiamo
+e riusciamo a...
+impareremo anche delle tecniche
+più sofisticate, diciamo così,
+che permettono di risolvere questo problema facilmente
+ma anche per il modo è molto più difficile.
+Però, se vogliamo dare una risposta,
+se lo facciamo,
+proviamo a rispondere in questo momento.
+Vediamo se riusciamo a farlo in un tempo raggiunto.
+Diciamo così,
+contiamo prima quelli che hanno 2 numeri pari.
+Contiamo...
+quelli...
+2 numeri pari.
+Allora, se ho esattamente 2 numeri pari,
+quindi è come scegliere 2 numeri pari
+e poi 2 numeri distanti.
+2 numeri pari,
+come prima lo sapete,
+che è in 6 modi,
+e 2 numeri disperi anche in 7.
+E al più conseguente ho la scelta di un quadro univo.
+Quindi c'è più il numero dei pari
+e 2 numeri disperi.
+Questa è la scelta di un numero di risperi.
+Questa è la scelta di un numero di pari.
+Questa è la scelta di un numero di risperi.
+Questo fa 36.
+che è la scelta di un numero di risperi.
+in quanti modi possiamo scegliere 3 numeri pari?
+Qua abbiamo 4 numeri disponibili,
+noi dobbiamo scegliere 3,
+quindi dove ne scattiamo 1,
+quindi ne diamo 4 possibilità.
+Per numeri pari ho 4 scelte per i pari
+e poi devo scegliere un numero di risperi.
+Devo scegliere fra 4,
+e sono sempre 4.
+Quindi questo è un numero di risperi.
+34 per 4
+uguale a 16.
+E infine
+quelli
+con 4 numeri pari
+qui c'è uno solo
+che è 2,4,6,
+con 4 numeri pari
+quindi 3,4
+quindi in totale quanti sono?
+36
+più 16
+52
+più 1
+52
+Spero questo esercizio
+possa prevenire
+tanti possibili errori
+insomma
+il problema della
+buonovocità
+insomma
+di fare delle scelte
+che mi portano
+lo stesso risultato
+in più modi diversi
+non si presenterà
+tante volte.
+Bene?
+Ora vediamo
+invece qualche esercizio
+quelli
+che abbiamo detto
+puntiamo
+prima
+quindi
+diamo
+2 numeri pari
+e 2 numeri pari
+in quanti modi
+li posso scegliere?
+Abbiamo
+4 numeri
+posso prendere
+2,4
+2,6
+2,8
+4,6
+4,8
+e 6,8
+e 6,8
+e 6,8
+vedete?
+in quanti modi
+mi posso scegliere
+2 numeri pari
+ma poi devo scegliere
+2 numeri dispari
+siamo anche 6
+non siamo sempre 4
+perché
+2,4,6,8
+e abbiamo
+3,5,7
+quindi
+di sotto insieme
+che hanno
+2 pari
+e 2 dispari
+sono 36
+poi
+contiamo
+quelli
+che hanno
+3 numeri pari
+e 1 numeri pari
+e 1 numeri pari
+quelli con 3 numeri pari
+possono scegliere 4
+2,4
+6
+2,4
+8
+6
+8
+8
+8
+8
+e dobbiamo
+escludere
+1 dei 4
+1
+abbiamo 4 posizioni
+4 modi
+di scegliere
+3 numeri pari
+e 4 modi
+di scegliere
+1 numeri pari
+e abbiamo
+4 numeri pari
+e nell'ultimo caso
+dobbiamo
+scegliere
+4 numeri pari
+ma non è
+4 di più
+ma non sono
+invece
+2 numeri
+o 6
+e abbiamo
+tutto
+36
+e
+16
+più
+e
+abbiamo
+15
+di somma
+abbiamo
+spezzato
+il problema
+di 3
+casi
+e abbiamo
+contato
+i 3 casi
+e abbiamo
+il problema
+altri dubbi
+altri dubbi
+a me
+a me
+qualcuno
+che vuole
+venire alla lavagna
+l'esercizio 1.1
+l'esercizio 1.1
+2.1
+l'esercizio 1.1
+l'esercizio 1.1
+l'esercizio 1.1
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+No, le conseguenze punizie sono diventate, perché non lo abbiamo spiegato.
+Però quando li spieghiamo, li possiamo...
+Che non avessimo fatto, ovviamente...
+C'è un altro modo...
+C'è un altro modo...
+di cui possiamo ragionare e evita di fare tutti questi casi.
+Qual è? Abbiamo questi dieci amici, noi possiamo trovare numeri da 1 a 10.
+Noi possiamo pensare alle sequenze di nuovezza 2, da 1 a 10, in cui due numeri sono diversi,
+che rappresenteranno i nostri amici.
+Possiamo pensare alle coppie A e B, perché A è diverso da B e A e B sono compresi tra 1 e 10.
+Qual è il problema? Io penso che questi insieme qui hanno A.
+Quanti elementi ha? A sono coppie di numeri diversi, compresi tra 1 e 10.
+Quante scelte ho per la prima coordinata? 10. Quante per la seconda? No, quindi sono 90.
+A è un prodotto condizionato tipo 10 per 9, quindi ha 90.
+Ora però A non rappresenta le soluzioni alla mia domanda.
+Perché non rappresenta le soluzioni? Perché, diciamo, ogni soluzione qua si presenta a due ruoli.
+Se c'ho 1 a 3, c'ho anche 3 a 1, che è la stessa soluzione.
+Cioè, dare i pugnetti all'amico 1 all'amico 3, oppure all'amico 3 all'amico 1, è la stessa cosa.
+Quindi, in questo modo, ho esattamente il doppio delle soluzioni che io toglio.
+E così mi basta dividere 90 per 2 e 80 per 2.
+Ma così, diciamo, poi mi soluzione è contata due volte.
+A due abbiamo un 90 frattemperi.
+E' lo stesso numero 45 però fa domande.
+Ok.
+Un approccio diverso usando i prodotti condizionati che abbiamo fatto.
+Oppure, come funzionare con il centipilionale, ci facciamo a neanche le dita.
+Comande?
+Va bene?
+C'è qualcuno che vuole fare l'esercizio 2?
+Preparato, eh?
+forse...
+Primoegno in spago.
+Non ci confie.
+Per quelle scritte?
+Si, si, si.
+Adesso debatto migliorno.
+Ok, allora mi sentite giù?
+Il secondo esercizio diceva che quali sono le possibilità di attività finali in un torneo tra squadre considerando altri possibili pari merito.
+Allora io onestamente sono andata a dare troppi nostri anni.
+E quindi cosa ho fatto? Ho ipotizzato tre classi di casi.
+Avevamo i casi in cui le tre squadre avessero tre posizioni diverse e quindi quello è un caso.
+Il caso in cui tutte e tre squadre hanno preso lo stesso punteggio e quello è un altro caso.
+In realtà il caso singolo è quello in cui le squadre A, B e C arrivano tutte prime.
+Poi dopo invece le tre squadre potevano prendere le tre posizioni, diciamo, si poteva calcolare con una permutazione.
+Quindi io ho considerato semplicemente il fattoriale e A, C e quindi i sei sono i modi in cui le tre squadre potevano classificarsi senza avere pari merito.
+E in realtà con lo stesso modo si calcola anche...
+Ma guarda, chiaramente quella qui, usato il fattoriale, non abbiamo introdotto, però se uno deve fare le possibili, le aduatorie, le squadre, in cui non ci sono vari merito, uno se le scrive.
+A, B, C, A, C, B, I, A, C, A, C, A, B, C, A, B, C, B, A, C, B, A.
+Se vuole le scrivo, le avevo anche scritte.
+No, no, non serve.
+Cioè è importante scriverle quando uno non sa cosa fa, come uno ha riconosciuto le mutazioni che anche compreende la teoria.
+Sa che sono tre fattoriali in modo di deve mutare tre fattoriali.
+Però le scrivo per far capire come invece ho calcolato il caso in cui due squadre, in cui solamente due squadre, che magari fossero pari merito.
+Io avevo A, B, C, B, A, C, B, A, non sto neanche a scrivere tutte.
+Si si rende conto che comunque, anche scrivendole tutte, in realtà cosa cambia?
+Prima, se avessi contato i casi singoli, avrei ad esempio scritto in alto, prima posizione, seconda posizione e terza posizione.
+Però, se noi dobbiamo considerare un pari merito e quindi abbiamo in ballo non più tre posizioni ma solamente due,
+allora basterebbe solamente cambiare poi in alto le posizioni e scrivere prima posizione, quindi prima posizione e secondo classificato.
+Di conseguenza io da questo ho intuito che in realtà i casi di pari merito di due squadre si possono sempre portare come una permutazione di tre elementi,
+perché qui in tutti i casi possibili di pari merito se vedeteci a quelli a cui le squadre si sono in una possibilità di tre elementi.
+e quindi qui ho giunto sempre tre posizioni, che è sempre sei, e io mi pericolo a te.
+Cioè io l'ho trovata così, però.
+Mi sa che la**a non c'è un quadretto, cioè un quadretto sono…
+ACB
+ACB?
+5.
+Cos'è il modello?
+Via 5.
+Guarda la prima.
+Ah, ok.
+Cosa notiamo?
+Non conta l'ordine dei primi elementi.
+Esatto, perché noi abbiamo due primi in un secondo, dire ABC.
+A e B sono primi a pari merito e poi c'è C.
+Ma questo è uguale a dire BAC.
+È la stessa classifica.
+E quindi queste qui sono tre case in realtà.
+Questi sono tre.
+Ok.
+Tuttavia, ce ne sono anche le cose.
+E' un'altra possibilità.
+Vediamo quali sono.
+Perché questa è la tassa, in modo che le squadre si possono combinare.
+direttamente di un'altra.
+Quindi il 13 era giusto.
+Grazie.
+Grazie.
+Grazie.

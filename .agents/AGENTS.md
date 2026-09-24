@@ -19,6 +19,6 @@
 
 # Formattazione Formule Matematiche (Obsidian)
 - **Sintassi MathJax Obbligatoria**: Quando generi, trascrivi o modifichi file Markdown destinati a questo progetto (come note, appunti o flashcard per Obsidian), ti è **SEVERAMENTE VIETATO** usare i classici delimitatori LaTeX come `\(` e `\[`.
-- **Delimitatori Consentiti**:
-  - Per le formule **inline** (all'interno della stessa riga di testo), devi usare obbligatoriamente il singolo dollaro. Esempio: `$ x^2 + y^2 = r^2 $`.
-  - Per le formule a **blocco** (centrate su una nuova riga), devi usare obbligatoriamente il doppio dollaro. Esempio: `$$ \sum_{i=1}^n i = \frac{n(n+1)}{2} $$`.
+- **Delimitatori Consentiti e Regola Spazi**:
+  - Per le formule **inline** (all'interno della stessa riga di testo), usa obbligatoriamente il singolo dollaro. **CRITICO:** Non lasciare MAI spazi tra il dollaro e la formula, altrimenti Obsidian si rompe. Esempio corretto: `$x^2+y^2=r^2$`. Esempio errato: `$ x^2 $`.
+  - Per le formule a **blocco** (centrate su una nuova riga), usa il doppio dollaro. Esempio: `$$\sum_{i=1}^n i = \frac{n(n+1)}{2}$$`.

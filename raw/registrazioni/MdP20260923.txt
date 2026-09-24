@@ -1,0 +1,886 @@
+Abbiamo iniziato il nostro percorso di nuova, abbiamo imparato i primi concetti di base,
+in particolare, abbiamo imparato le sequenze, quando parliamo di sequenze di lunghezza,
+in particolare, abbiamo imparato le sequenze, in particolare, abbiamo imparato le sequenze,
+con gas iPadx3, di 100t ondo, quindi dobbiamo imparare le sequenze,
+sono come dei vettori, si stanno insieme con i vettori, ogni coordinata,
+è passato verso la puntezza N, questi elementi atto lì, appartiene ad A, perfetto, abbiamo
+visto che le sequenze di puntezza N insieme a sono, quante sono, la risposta è la caratteristica
+in un altro livello, ovviamente uno può pensare scelte per la prima coordinata, questo
+non è la caratteristica di A scelte per la prima coordinata, la caratteristica di A scelte
+per la seconda, questo B è il nuovo, tutti sono la caratteristica di A, poi abbiamo parlato
+anche di insieme delle parti, ora, qui c'è un po' di, siete tanti, sono un po' stretti
+per lo sposto sul caratteristico, noi stiamo insieme delle parti, vediamo, stanno a tutti
+insieme di almeno da 1 a 1, ma questo è un po' stretto, lo stanno semplicemente qui sotto
+e insieme, quando i grammi sono insieme, ovviamente non contano le ripetizioni, non conta loro,
+conta solo cosa c'è e cosa non c'è, e abbiamo visto che questo, insieme delle parti, insieme
+con le sequenze qq, inolissime, allora la sequenza viene 2 uguale a 0… 1 e come funzionava
+la sequenza di n è 20 uguale a 0,1
+e come funzionava questa corrispondenza di uniloga
+mettevamo un 1 con le corrispondenze di uniloghe che stavano insieme
+n uguale a 6
+consideriamo tutti insieme 1,4
+e la sequenza binaria stessata sarà
+1,0,0,1,0,0
+mettiamo 1,0,0,0,0
+1,0,0,0,0,0
+quali regenti prendiamo e quali
+quindi qua la risposta è la domanda a quante sono
+1,0,0
+la risposta è più la linea
+oggi riprenderemo questa corrispondenza di uniloga in un contesto un po' diverso
+e poi riusciremo ancora nella prossima lezione
+domani tutti i due concetti fondamentali di sequenza insieme alle parti
+sono quali i nuovi tecniche che ho iniziato a imparare
+dopo di che abbiamo parlato di prodotti condizionati
+senza ripetere tutta la lezione
+cos'è un prodotto condizionato?
+un prodotto condizionato
+un prodotto condizionato
+era un prodotto insieme
+diciamo
+di un prodotto cartesiano
+con la probabilità che il numero di scelte che possiamo fare per ogni coordinata
+è sempre lo stesso numero di scelte
+una volta che abbiamo fissato le coordinate precedenti
+per esempio
+il numero di scelte
+il numero di scelte
+il numero di scelte
+il numero di scelte
+il numero di scelte
+è sempre lo stesso
+una volta
+e
+è sempre lo stesso
+una volta
+abbiamo fatto un po' di esempi
+alcuni un po' più naturali
+altri un po' più forzati
+adesso
+iniziamo la reazione
+con l'esempio
+fondazionale di prodotte condizionate
+che sono le cosiddette
+disposizioni
+disposizioni sono
+un concetto molto semplice
+sono particolari
+vediamo subito la definizione
+una posizione
+che cos'è?
+è una sequenza
+intanto per iniziare
+stiamo considerando
+alcune particolari sequenze
+è
+una sequenza
+ovviamente
+di non presa K
+m
+poi però
+tutte le coordinate
+sono diverse
+da loro
+non voglio
+che ci siano
+ripetizioni
+tutte
+tutte
+in ordinate
+sono
+identiche
+allora
+questo concetto è di disposizione
+per
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Qui partiamo da n e poi scendiamo di 1 a 2, fino ad arrivare a n-k2, qui sono complessivamente
+K numeri e quindi siccome questi qui sono questo prodotto condizionato e quindi sono n per
+n1 usiamo come sempre la nostra domanda quanti sono?
+Qui la dimostrazione non c'è molto da dire, è poco più l'ostervazione.
+Ovviamente a n1 vanno a disposizione, la prima coordinata è un numero qualunque,
+la prima coordinata è una volta che abbiamo fissato la prima coordinata, se dobbiamo scegliere la seconda, questa deve essere diversa dalla prima,
+la punta regola mettiamoci, non può essere la prima, poi abbiamo anche ognuno scelto dalla seconda, quanto deve essere diversa dalla prima.
+Scegliere la seconda, questa deve essere diversa dalla prima, la punta regola mettiamoci, non può essere la prima, poi abbiamo anche ognuno scelto dalla seconda, quanto deve essere diversa dalla prima.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+3
+3
+3
+4
+3
+4
+5
+5
+6
+6
+7
+7
+8
+8
+9
+9
+10
+10
+10
+11
+12
+12
+12
+13
+13
+14
+14
+15
+15
+15
+15
+16
+16
+15
+16
+16
+16
+16
+16
+16
+16
+16
+16
+16
+16
+17
+16
+16
+17
+17
+18
+17
+18
+18
+18
+18
+19
+19
+19
+19
+20
+20
+21
+21
+a fattoriali scendenti
+scendenti
+scendenti
+scendenti
+scendenti
+scendenti
+scendenti
+scendenti
+cosa vuol dire?
+mentre che non ho fattoriali scendenti
+scendenti scendenti
+ma come sapete
+come vedremo avanti
+sono dei prodotti
+tutti noi da uno
+in un'altra parte
+da uno
+in un'altra parte
+da tutti noi
+in questo caso invece facciamo il contrario
+cioè partiamo da N
+e poi scendiamo
+moltiplicando i numeri
+fino ad avere
+completamente K
+fattori
+dobbiamo fare
+N
+dice niente 3
+dobbiamo N
+n1
+uguale di numeria
+dobbiamo tre fattori
+dobbiamo fare N
+dice niente 4
+dobbiamo
+n1
+uguale di numeria
+abbiamo il prodotto
+il prodotto
+di K
+di N
+che poi sia grande
+del prodotto
+abbiamo il prodotto
+Grazie a tutti.
+Grazie a tutti.
+Grazie a tutti.
+Grazie a tutti.
+Grazie a tutti.
+Grazie a tutti.
+Grazie.
+
+Grazie.
+
+
+Grazie a tutti.
+Grazie.
+
+
+Grazie a tutti.
+Grazie a tutti.
+Grazie a tutti.
+
+Grazie a tutti.
+Allora,
+grazie a tutti.
+La prima...
+la seconda cosa...
+la seconda cosa...
+la seconda cosa...
+la seconda cosa...
+la seconda cosa...
+la seconda cosa...
+la seconda cosa...
+la seconda cosa...
+Grazie a tutti.
+Con sequenze binarie, di lunghezza eni, poi a volte uno, di volte zero.
+Ok? Ma perché ho voluto mettervi sulla lavagna questi tre concetti?
+Il motivo è che una combinazione si può vedere sia in questo modo, che in questo modo, che in questo modo.
+In altre parole, questi tre insiemi, l'insieme di sotto insieme nel primo caso, l'insieme di sotto insieme nel secondo, l'insieme di sequenze binarie del terzo, sono sempre in corrispondenza più lì.
+E quindi questi qua li chiameremo, di a questi e di a questi, e quindi combinazioni di tipo AB.
+Però perché sono in corrispondenza?
+Sì.
+Sì.
+Sì.
+Sì.
+Sì.
+Sì.
+Sì.
+Sì.
+Sì.
+Sì.
+Sì.
+Sì.
+Sì.
+Sì.
+Sì.
+Sì.
+Sì.
+Sì.
+Sì.
+Sì.
+Sì.
+Sì.
+Sì.
+Sì.
+Sì.
+E poi, le questioni A, B ed E, vediamo perché.
+perché? Abbiamo sostanzialmente già tutti gli strumenti per dimostrare questa cosa,
+dobbiamo solo rendercene sotto. Cominciamo dai primi due. Perché i sottinsiemi con A
+elementi sono tanti quando i sottinsiemi con B elementi? Come possiamo ottenere una
+collezionanza di unico qua, tra questi. Pensate un po', N uguale a 8, A uguale a 3, B uguale
+a 5. Qui stiamo dicendo che i sottinsiemi venuti da 1 a 8 con tre elementi sono tanti quanti
+quelli con 5 elementi. Perfetto.
+Questa è un'idea? Allora facciamo un esempio, magari un esempio e ci fa vedere un'idea.
+che è un'idea. Allora facciamo N uguale a 5, A uguale a 2, B uguale a 2. Quindi con A uguale a 2,
+ad insieme dei sottinsiemi con due elementi. Vi scrivo qui, qui ne metto un po'.
+Allora, questo lo serve insieme con due elementi, possiamo mettere 1 e 2, 1 e 3, 1 e 4, 1 e 5, 2 e 3, 2 e 4,
+2 e 5, 3 e 5, 2 e 4, 2 e 4, 3 e 5, 2 e 4 e 5, questi sono tutti insieme con due elementi,
+ma lo elencate diciamo in ordine vesicografico, come se lo avessimo di mettere su un vocabolario.
+Qui mettiamo tutti insieme con tre elementi.
+1, 2 e 3, 2 e 4, lo fate vedere il parminare parentesi, virgole,
+1, 2 e 5, poi abbiamo 1, 3 e 4, 1, 3 e 5, 1, 4 e 5, poi iniziamo con 2, 2 e 3 e 4,
+e abbiamo 10 di qua e 10 di qua, quindi effettivamente sono 10 e 10.
+Com'è una corrispondenza di univola tra questo?
+Chi è che vede una corrispondenza di univola tra la prima colonna e la seconda colonna?
+Beh, la corrispondenza di univola più semplice che uno può considerare in questo caso
+è il passaggio al complementare.
+Ogni sottinsieme ha un suo complementare, dato che vedete i numeri che non ci stanno.
+1, 2 va a corrispondere a un 3, 4 e 5, che ha il suo complementare.
+1, 2, 3 corrisponde a un 2, 4 e 5, che sono su un'unità.
+E' stato cattivo, non l'avevamo messo in fila.
+1, 4 corrisponde a un 2, 3 e 5.
+1, 2, 3 e 5 corrisponde a un 2, 4 e 4.
+Ecco, 2, 3, 1, 4 e 5.
+2, 4, 1, 3 e 5.
+10, 2, 2 e 4.
+3, 4, 1, 2 e 5.
+4, 5 corrisponde a un 2, 3 e 5.
+E' chiaro che il complementare di un sottinsieme con due lumi,
+elementi a tre elementi e viceversa.
+Il complementare di un sottinsieme con tre elementi a tre elementi.
+Quindi questa ci dà la corrispondenza di un minuto.
+Questo esempio l'abbiamo fatto con A uguale a 2 e P uguale a 3, però per esempio,
+se io lo scrivo lo sottinsieme a N uguale a 10,
+se il sottinsieme con tre elementi, insieme con 7 elementi,
+uno può fare lo stesso identico.
+poi c'è vezzo novo.
+Un sottinsieme con tre elementi,
+6, 7,
+6, 8,
+quindi ci sono tanti qua.
+Più inamo.
+passaggio
+sono
+per tutti
+E cos'è il complementare? Il complementare risotto insieme è il risotto insieme che ha
+gli elementi che non stavano da essere insieme. Il complementare è la stessa cosa.
+Avrò A elementi da 1M e il complementare è il complementare con D elementi da 1M.
+Stiamo a streggio questo elemento qua.
+E' chiaro?
+E' chiaro?
+E' chiaro?
+E' chiaro?
+E' chiaro?
+E' chiaro?
+E' chiaro?
+E' chiaro?
+E' chiaro?
+E' chiaro?
+Esatto, esatto.
+Lui ha risposto alla domanda che ancora non l'avevo fatta.
+E' chiaro?
+E' chiaro?
+Adesso abbiamo fatto la questione 2M1 tra questi e 3M1.
+Adesso dobbiamo fare la rispondazione di nota da 1 e delle 2, diciamo il primo e quello
+lassù.
+Le sequenze binari di 1M1N con A4P1 e B4P1.
+E' chiaro?
+Ma questa è la stessa questione del seminario che abbiamo fatto nella versione scorsa e che
+abbiamo richiamato nei primi cinque numeri del signore.
+Se la possiamo fare...
+E' un po' di spazio ma c'è la questione di attività.
+In questo esempio allora cosa dobbiamo fare?
+Dobbiamo portare le sequenze binarie di lunghezza 5, 2 volte 1 e 3 volte 0.
+A che parla del senso?
+No, è la questione.
+1 1 0 0 0 0.
+1 0 1 0 0.
+1 0 0 1 0.
+1 0 0 1.
+Poi 0 1 1 0 0.
+0 1 0.
+0 1 0 0.
+0 1 0 0 1.
+0 1 0 0 1.
+Poi 0 0.
+1 1 0.
+le faccio perchè è bene rendersi conto perchè sono essenzialmente tante qua
+non solo dal punto di vista teorico ma anche dal punto di vista pratica
+1, 0, 1 e infine 0, 0, 0, 1
+quante sono? 1, 2, 3, 4, 5, 6, 7, 8, 9, 10
+anche qui ci sono 10
+e com'è fatta la corrispondenza più evoca?
+la corrispondenza più evoca come dicevamo è la stessa che abbiamo già considerato su tutti i soffizi
+se consideriamo tutti i soffizi insieme otteniamo tutte le sequenze più evoca
+e consideriamo i soffizi insieme che hanno solo due elementi
+se noi mettiamo un 1 per ogni elemento otteniamo tutte le sequenze varie che hanno 2 1
+e chiaramente siccome
+la corrispondenza tra questi due era il complementare
+allora possiamo anche scrivere la corrispondenza più evoca tra queste e queste
+e come si fa? è semplicemente mettere degli 0 nei posti indicati
+diciamo 3, 4, 5 corrisponde alla sequenza
+1, 1, 0, 0, 0, 0
+lo dovremmo complementare e quindi si fa mettere degli 0 nei posti indicati
+il 4, 5 corrisponderà a questa prima sequenza
+1, 3, 4 corrisponde alla sequenza che ha 0 nei posti di 1, 3, 4
+quindi abbiamo 3 modi diversi di vedere la stessa cosa
+dal punto di vista combinatorico
+dal punto di vista combinatorico
+sul tensione con elementi
+i tensioni con elementi
+sequenze con A1 e B0
+sono la stessa cosa
+sono la stessa cosa grazie a queste direzioni che abbiamo appena raccontato
+quindi
+completiamo con la rispondenza
+la
+corrispondenza
+grazie
+grazie
+grazie
+il terzo insieme
+fraottimiamo
+fraottimiamo
+come nel caso
+tutti i sottili insieme
+tutte le sequenze finalie
+tutte le sequenze finalie
+cioè
+come
+mettendo
+1
+i posti
+indicati
+dal sottili insieme
+dal sottili insieme
+dal sottili insieme
+ok
+benissimo
+allora a questo punto cosa vogliamo fare?
+beh
+in questo caso
+A uguale a 2,3
+queste combinazioni
+di uguale 2,3
+sono 10
+le possiamo vedere così
+le possiamo vedere così
+ma
+quante sono in generale
+per ogni A e per ogni B?
+beh
+come sempre
+questo scopo è la domanda
+quante sono
+i
+due
+non
+non
+c'era
+ma
+ma
+non
+decombinazioni
+per esempio abbiamo visto
+decombinazioni
+in generale per ogni ID come facciamo a tirare fuori una formula?
+per tirare fuori una formula in questo caso si usa un altro principio diciamo elementare
+che adesso vi spiego
+supponiamo di avere due insieme
+supponiamo
+e si vuole avere una funzione da S a P
+e ha questa proprietà
+a nonno di questo punto
+cioè che su ogni elemento del codominio
+ad ogni elemento del codominio
+corrisponde lo stesso numero di elementi del codominio
+questo numero lo chiamiamo M
+questo è una funzione F
+da S a P
+qui è P
+qui appartenente al codominio
+esistono
+esattamente
+M
+elementi di S
+di S
+di S
+e P
+di S
+uguale a P
+in questo disegno
+diciamo M è uguale a 3
+3 elementi
+che vanno a fine allo stesso elemento di T
+3 elementi che vanno a fine allo stesso elemento di T
+e questo per ogni altro elemento di T
+che c'è la stessa
+ok
+quando abbiamo una funzione di questo tipo
+la funzione si dice che è una funzione M a U
+ovviamente il caso della corrispondenza binivoga è quando M è uguale a 1
+ovviamente il caso della corrispondenza binivoga è quando M è uguale a 1
+se io ho un elemento di qua
+e io ho un elemento di T
+e questo è un P
+ovviamente la funzione è un corrispondente binivoga
+e in quel caso si dice che è una funzione 1 o 2
+non voglio più dire che la funzione è
+ecco
+va bene
+quando abbiamo questa funzione M1
+cosa possiamo dire della cargionalità di S
+rispetto alla cargionalità di T
+quant'è la cargionalità di S rispetto alla cargionalità di T?
+è M1
+è M1
+è un principio molto elementare
+insomma se ogni elemento di T
+rispondono M elementi di S
+gli elementi di S
+saranno M1
+ora facciamo pausa
+ma dopo la pausa sconteremo questo fatto qui
+per per indicare quante sono le combinazioni
+non ci sono le domande
+vediamo una cosa
+in preguità
+in via
+in via
+in via
+in via
+in via
+in via
+in via
+in via
+in via
+in via
+in via
+in via
+in via
+in via
+in via
+in via
+Grazie a tutti.
+Grazie a tutti.
+Grazie a tutti.
+Grazie a tutti.
+Grazie a tutti.
+Grazie a tutti.
+Grazie a tutti.
+Allora, io prendo come S insieme delle disposizioni.
+Abbiamo introdotto nella prima ora e sappiamo che sono N discendenti A.
+E prendo come P invece, mettiamo i sottinsieme.
+Quindi qua le disposizioni e i sottinsieme.
+Quindi qua le disposizioni e i sottinsieme.
+Quindi qua le disposizioni e i sottinsieme.
+è una funzione che è una funzione che va ad associare ad associare a una disposizione a una disposizione.
+C'è un modo, direi, ovvio, che è quello che dice, dimenticati dell'ordine della disposizione e prendi il numero di sottinsieme.
+facciamo un'ordine della disposizioni.
+noi lo facciamo con N uguale a 7.
+N uguale a 7 uguale a 3.
+Cioè, N uguale a 7 uguale a 3 più ho la disposizione di lunghezza 3 nel numero di valenza.
+Quindi io ho una cosa di questo.
+4, 1, 7.
+Questa è una disposizione di lunghezza 3 nel numero di valenza.
+A questa disposizione vi associo il sottinsieme con tre elementi che ottengo cambiando le parentesi.
+Cioè, la disposizione 4, 1, 6 vi associo al sottinsieme 4, 1, 6, che è uguale a 1, 4, 6.
+Per esempio, un sottinsieme.
+Ok?
+Ora, questa funzione è chiaramente assurrettiva.
+Ogni sottinsieme lo posso ottenere dentro.
+Però non è iniettivo.
+Non è 1, 1.
+Ok?
+Se qui, anziché partire da 4, 1, 6, parto da 1, 4, 6.
+Ok?
+Potendo sempre questo punto di schiena.
+O se parto da, insomma, 6, 1, 4,
+sempre vi arrivo.
+D'accordo?
+All'inizio dell'ordine, se parto da 4, 1, 6 e da 6, 1, 4, è la stessa cosa.
+Il risultato è sempre lo stesso.
+Ok?
+Ma quante sono le disposizioni che mi danno lo sottinsieme?
+In questo esempio qui, no?
+Sono 6.
+Come lo ottengo 6?
+Beh, lo ottengo facendo tutte le 3 mutazioni di questi per il numero 1.
+E sono 3 fattoriali di questa cosa.
+Se anziché avere questo esempio con aula 3, abbiamo un caso generico con lunghezza A,
+che avremo la definizione di questa A,
+è un modo in cui...
+...questa funzione qui è una disposizione...
+...è una funzione appartoriale audio.
+Quindi cosa vuol dire?
+Che il numero di disposizioni è uguale ad A fattoriale,
+su cui il numero di disposizioni è uguale ad A fattoriale,
+per la nostra definizione numero di disposizioni,
+che è il numero di disposizioni,
+...quindi ad ogni combinazione corrispondono al materiale di disposizione.
+E qui ne abbiamo così appunto la nostra moda.
+...quindi, il numero di disposizioni è uguale ad A fattoriale di disposizionare.
+Quindi numero di disposizioni.
+Cominazioni...
+Cominazioni...
+Il tipo di amico è uguale a n vicendiente a, quando la fattoriale è di n, n, a, a, a, a, a, a, a.
+Abbiamo il rapporto e qui abbiamo a numero di sopra e a numero di sopra.
+E la porta è la porta.
+Bene?
+Siccome è una combinazione di tipo AB, uno può cambiare A e B, uno può scrivere B e B,
+e poi abbiamo un po' di amico.
+Poi questo povero può osservare, insomma, un po' di complicato.
+Si può fare B e B e B.
+Per esempio, uno vuole rendere più complicato una cosa semplice, può fare,
+se uno vuole rendere più complicata una cosa semplice, lo può fare, con il vantaggio
+che alla fine abbiamo una cosa più facile da ricordare, perché se qua lo moltipliamo
+e lo otteniamo, sopra vedete abbiamo il prodotto più di meno da n fino a n meno a più 1, e poi
+qua riprendiamo n meno a che è il primo che non abbiamo considerato fino a 1, quindi
+tutto questo numeratore qui è n fattoriale, quindi abbiamo n fattoriale e sopra abbiamo
+a fattoriale, o se preferiamo n fattoriale faccio a fattoriale per b, vediamoci che a più b
+a n, quindi n meno a è b, in questo modo è più simmetrico, è più elegante perché
+si vede la simmetria che c'è tra a e b, però quando uno lo scrive in questo modo alla fine
+si sta scrivendo un sacco di numeri che si semplificano sempre, quindi si deve fare il calcolo di una
+diciamo, ma questa forma che è già sentita. Vi do all'altro modo, ci ha suggerito uno di voi,
+in cui si arriva direttamente a questa forma. Facciamo brevemente.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+In questo caso è conveniente pensarle come sequenze binarie, per tornare al caso di
+una permutazione uguale a 7, A uguale a 3, A uguale a 4, A uguale a 7.
+Scegliamo una permutazione uguale a un termine potente.
+5, 1, 4, 3, 6, 7, 2, 2.
+Cominiamo questa permutazione e vogliamo associare una sequenza binaria che abbia 4 x 1 e 3 x 0.
+Come si può fare?
+Nel modo più semplice di mettere 1 dove ci sono numeri 1, 2, 3, 4 e 0 dove ci sono numeri 5, 6.
+In questo modo otteniamo questa permutazione.
+0, 1, 3, 2, 1, 1, 0, 2, 1.
+Abbiamo messo 1 dove ci sono numeri 1, 2, 3, 4 e 0 il numero 5, 6.
+In questo modo ottenuto 8.
+Ecco, reggevi.
+Ho fatto un'espressione di questi due.
+Ho messo i numeri 1, 2, 3, 4 ho messo 1.
+Ho messo i numeri 5, 6, 7 ho messo 2.
+Chiaramente ho una combinazione tipo 4 x 3.
+Allora, vorremmo 3 1 e 4, 0.
+3 1 e 4, 0.
+3 1 e 4, 0.
+3 1 e 4, 0.
+E mettiamo 1 dove ci sono numeri 1, 2, 3.
+1, 2, 3, 0, 2, 3, 0, 2, 4, 1, 2, 3.
+Questa è la funzione.
+Adesso cosa facciamo?
+Andiamo a capire quante sono le permutazioni limitando per il 4.
+E quante sono?
+Chiaramente i numeri 1, 2, 3,
+li possono utilizzare come mi pare.
+se io permuto 1, 3, 2,
+perché fa 2 e fa 3,
+il risultato è stesso.
+3 1, 2, è stessa.
+La stessa cosa se permuto i numeri 4, 5, 6, 7.
+Cosa abbiamo?
+In questo modo se permuto i numeri 1, 2, 3
+o 3 materiali che hanno utilizzato,
+i numeri 4, 5, 6, 7,
+Quindi, nel caso generale, questa funzione è una funzione
+a fattoriale, i fattoriale, a 1.
+Quindi il numero che mi assente qua di,
+dato da n fattoriale, tratto a fattoriale per il vattoriale.
+siamo qui, abbiamo preso un insieme più grande
+ma abbiamo dovuto sentire di più
+ma da prima
+l'abbiamo dimostrato
+l'operato
+domande?
+non ti piace un uomo? c'è anche 1, 4, 5
+no no, è la stessa cosa
+è la stessa cosa
+va bene?
+allora
+allora questi
+fattoriale
+fattoriale
+si, dica
+fattoriale
+fattoriale
+fattoriale
+fattoriale
+oppure più semplicemente
+fattoriale
+a pari
+aumenterà
+diventerà utile quando
+massimo delle regarde
+fattoriale
+questa forma
+avrà vantaggio
+corattoriale
+Vabbè, non credo di dire niente di nuovo,
+per esempio queste sono quelle che sono,
+con i coefficienti coloniali che sono otravenuti
+lintercame con le tuporzioni bucane nostre.
+Nuce, se potrete recidere,
+va perciò mettere gli earth.
+La m.
+Quanto fate?
+Vedemo che,
+diversi' e' somma
+a rara che era m
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Perché abbiamo visto tutti quelli che contengono i sembroni qui sono questi due blocchi che
+abbiamo diviso insieme con i remi di una parte li mettiamo anche i che contengono i registrati
+e dall'altra quelli che non contengono.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Semplice ragionamento.
+Dire che non contiene N vuol dire che non sotto insieme 1.000, 1.000 e 2.000.
+E poi dovrebbe avere A elementi tra 1.000 e 2.000.
+Quindi effettivamente questo secondo bloso qua è dato il secondo.
+Adesso dobbiamo dire quanti sono questi qua nella risposta del tipo B.
+Ma cosa facciamo a contare i sottinsieme di 1.000 con A elementi che contengono M?
+Cosa vuol dire?
+Se ci dobbiamo mettere A elementi di cui 1.000 vuol dire che M è meno.
+E dopo di che che devo fare?
+Devo prendere tanti altri elementi.
+Devo prendere altri a meno uno.
+1.000.
+E poi abbiamo altri a meno uno.
+Per scegliere e tagliate gli elementi.
+Quindi questi qua sono a meno uno.
+Quindi possiamo scegliere a meno uno numeri.
+Qui è tornare più fortemente stata unaパima William?
+E'ipperato.
+Qui è tornare più fortemente.
+Qui è tornare più fortemente.
+Questa poi finirà.
+E' diğerissime giù.
+EFe
+Vale, lo tiene, lo tiene, lo tiene, lo viene.
+Gracias.
+Gracias.
+Gracias.
+Gracias.
+Gracias.
+Gracias.
+Gracias.
+Gracias.
+Gracias.
+Gracias.
+Gracias.
+La forma è importante, non dico di no, però in questo caso la forma serve per esempio di un po' altro. Dobbiamo capirci perché. Quello che mi interessa è che noi capiamo il concetto.
+Quindi a volte uno viene, mi raccomando questa cosa, poi la parola è giusto, è un po' no, però capisco che ha finito l'interazione.
+Vabbè, questa è la 30, questa è la 30 allora, ma la risposta è corretta.
+Voi dovete incriminare di capire se l'avete capito.
+Vabbè, ok, ok.
+Prendiamo di capire quanto si può estendere un concetto al caso di combinazioni come tri variante o quadri variante.
+Facciamo il caso tri variato.
+Grazie a tutti.
+Allora in questo caso abbiamo anziché due punti di A e B che sono sette, mettiamo A, B, C.
+Allora in questo caso abbiamo anziché due punti di A e B.
+Allora in questo caso abbiamo anziché due punti di A e B.
+Allora in questo caso abbiamo anziché due punti di A e B e B.
+Allora in questo caso abbiamo anziché due punti di A e B.
+Allora in questo caso abbiamo anziché due punti di A e B.
+Allora in questo caso abbiamo anziché due punti di A e B.
+Allora in questo caso abbiamo anziché due punti di A e B.
+Allora in questo caso abbiamo anziché due punti di A e B.
+abbiamo anziché due punti di A e B.
+Allora in questo caso abbiamo anziché due punti di A e B.
+abbiamo anziché due punti di A e B e B.
+Allora in questo caso abbiamo anziché due punti di A e B.
+avevamo anziché due punti di A e B che erano due punti di A e B.
+Allora in questo caso abbiamo anziché due punti di A.
+Adesso invece per dividere insieme in due punti e seguendo progettare
+lo dividiamo in tre.
+Allora facciamo l' Didnzio
+un po'
+andiamo a...
+1, 2, 3, 4
+2, 6
+5, 7
+5, 7
+e salerno tutti insieme
+1, 2, 3, 4, 5, 7
+e...
+e...
+e...
+e...
+è chiaro che
+l'ultimo sotto insieme
+è sempre un invocamente determinato
+dei primi due
+l'ultimo è sempre
+un invocamente determinato
+così come nel caso precedente
+l'ultimo che era il secondo
+l'ultimo
+e...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+sono
+in questo modo
+N su A, B, C
+che è uguale a che cosa?
+La cosa più semplice e più naturale
+che ci può vedere in mente
+per generizzare
+la N materiale
+è così semplice che riusciamo a dimostrare
+3 minuti che ci rende
+è così semplice
+Grazie.
+Dobbiamo più o meno scegliere il sottinsieme a grande.
+Il sottinsieme a grande è un sottinsieme che si ha una piccola.
+Quasi voglio poterlo scegliere.
+Quasi voglio poterlo scegliere.
+Quasi voglio poterlo scegliere.
+Quasi voglio poterlo scegliere tutti insieme con A e B.
+Sei d'accordo?
+Una volta che abbiamo scelto A, possiamo scegliere anche B.
+Quasi voglio poterlo scegliere B.
+Abbiamo scelto A.
+Quindi l'abbiamo tolto a nuve.
+Siamo che io gli avevo messo una disegnata.
+Quindi rimangono N-A.
+E tra questi N-A dobbiamo fare la disegnata B che ha B tipo 1.
+Quindi scelto A.
+B lo possiamo scegliere.
+A questo punto C è un luogamente terminato come abbiamo detto.
+perché...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+
+...
+...
+...
+
+
+
+
+
+...
+...
+
