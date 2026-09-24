@@ -1,7 +1,7 @@
 ---
 title: Esercizi Densità congiunta
 stato_esercitazione: 🔴 Da Svolgere
-file_sorgente: "EserciziMDPnew.pdf"
+file_sorgente: "[[EserciziMDPnew.pdf]]"
 ---
 # Esercizi: Densità congiunta e indipendenza
 

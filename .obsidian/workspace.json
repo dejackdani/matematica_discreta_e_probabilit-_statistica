@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "wiki/Esercitazione_01_18-Settembre.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Esercitazione_01_18-Settembre"
             }
           }
         ]
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "wiki/Esercitazione_01_18-Settembre.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "wiki/Esercitazione_01_18-Settembre.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md",
+                "file": "wiki/Esercitazione_01_18-Settembre.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -190,6 +190,8 @@
   },
   "active": "9e94dbb79cea65dc",
   "lastOpenFiles": [
+    "make_clickable.py",
+    "index.md",
     "fix_frontmatter.py",
     "wiki/Esercitazione_11_27-Novembre.md",
     "wiki/Esercitazione_10_20-Novembre.md",
@@ -216,7 +218,6 @@
     "wiki/Esercitazione_01_2026-09-18_Combinatoria_Intuitiva.md",
     "rename.py",
     "wiki/Esercizi_02_Combinatoria_di_base.md",
-    "index.md",
     "wiki/Esercizi_01_Combinatoria_Intuitiva.md",
     "create_wiki.py",
     "raw/EserciziMDPnew.pdf",
@@ -224,7 +225,6 @@
     "raw/registrazioni/MdP20260918.m4a",
     "raw/registrazioni/trascrizioni-whisper/MdP20260923.txt",
     "raw/registrazioni/trascrizioni-whisper/MdP20260918.txt",
-    "raw/registrazioni/MdP20260916.txt",
-    "raw/registrazioni/drive-download-20260924T094611Z-1-001/MdP20260923.txt"
+    "raw/registrazioni/MdP20260916.txt"
   ]
 }

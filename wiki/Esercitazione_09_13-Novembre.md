@@ -1,7 +1,7 @@
 ---
 title: Esercizi 09 - Valore atteso e varianza
 stato_esercitazione: 🔴 Da Svolgere
-file_sorgente: "EserciziMDPnew.pdf"
+file_sorgente: "[[EserciziMDPnew.pdf]]"
 ---
 
 - [ ] **Es. 9.1.** Avendo a disposizione 10 Euro vogliamo fare 6 scommesse da 5 euro ciascuna. Ad ogni puntata abbiamo probabilità 60% di perdere i 5 Euro puntati e 40% di vincere 5 Euro. Poniamo $Y_i =$ numero di vittorie nelle prime $i$ scommesse e $X_i =$ soldi rimasti dopo le prime $i$ scommesse (con $i = 1, 2, 3, 4, 5, 6$).

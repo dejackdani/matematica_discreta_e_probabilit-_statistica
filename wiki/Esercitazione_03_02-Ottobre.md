@@ -1,7 +1,7 @@
 ---
 titolo: Esercizi di Combinatoria Avanzata
 stato_esercitazione: 🔴 Da Svolgere
-file_sorgente: "EserciziMDPnew.pdf"
+file_sorgente: "[[EserciziMDPnew.pdf]]"
 ---
 
 - [ ] **Es. 3.1.** Consideriamo un mazzo di carte da poker contenente le carte numerate 7, 8, 9, 10, J, Q, K, A e contenente quindi 32 carte. Quante sono le mani in cui si ha un punteggio pari o superiore alla scala (cioè o scala, o colore, o full, o poker o scala reale)?

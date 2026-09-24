@@ -1,7 +1,7 @@
 ---
 titolo: Esercizi di Combinatoria di Base
 stato_esercitazione: 🔴 Da Svolgere
-file_sorgente: "EserciziMDPnew.pdf"
+file_sorgente: "[[EserciziMDPnew.pdf]]"
 ---
 
 - [ ] **Es. 2.1.** Quanti sono i numeri tra 0 e 700 che non sono divisibili né per 2 né per 5, né per 7?

@@ -1,7 +1,7 @@
 ---
 title: Esercizi Probabilità base
 stato_esercitazione: 🔴 Da Svolgere
-file_sorgente: "EserciziMDPnew.pdf"
+file_sorgente: "[[EserciziMDPnew.pdf]]"
 ---
 # Esercizi: Probabilità di base e uniforme
 

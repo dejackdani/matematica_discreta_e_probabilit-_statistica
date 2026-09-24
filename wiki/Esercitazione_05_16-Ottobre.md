@@ -1,7 +1,7 @@
 ---
 title: Esercizi Statistica descrittiva
 stato_esercitazione: 🔴 Da Svolgere
-file_sorgente: "EserciziMDPnew.pdf"
+file_sorgente: "[[EserciziMDPnew.pdf]]"
 ---
 # Esercizi: Statistica descrittiva
 

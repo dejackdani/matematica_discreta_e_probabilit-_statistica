@@ -1,7 +1,7 @@
 ---
 titolo: Esercizi sulle Partizioni
 stato_esercitazione: 🔴 Da Svolgere
-file_sorgente: "EserciziMDPnew.pdf"
+file_sorgente: "[[EserciziMDPnew.pdf]]"
 ---
 
 - [ ] **Es. 4.1.** Scrivere una partizione di $\{1, 2, 3, 4, 5, 6, 7, 8, 9, 10\}$ con un blocco di 3 elementi, una costituita da 3 blocchi, una in cui 3 forma un blocco da solo, una in cui non ci sono blocchi con 3 elementi e una in cui 10 appartiene ad un blocco di 3 elementi.

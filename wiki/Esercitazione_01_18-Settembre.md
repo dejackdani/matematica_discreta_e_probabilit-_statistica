@@ -1,7 +1,7 @@
 ---
 titolo: Esercizi di Combinatoria Intuitiva
 stato_esercitazione: 🔴 Da Svolgere
-file_sorgente: "EserciziMDPnew.pdf"
+file_sorgente: "[[EserciziMDPnew.pdf]]"
 ---
 
 - [ ] **Es. 1.1.** Devo regalare due biglietti per uno spettacolo a due tra dieci miei amici. In quanti modi posso fare questa scelta?

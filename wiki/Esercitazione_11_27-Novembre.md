@@ -1,7 +1,7 @@
 ---
 title: Esercizi 11 - Variabili normali e limite centrale
 stato_esercitazione: 🔴 Da Svolgere
-file_sorgente: "EserciziMDPnew.pdf"
+file_sorgente: "[[EserciziMDPnew.pdf]]"
 ---
 
 - [ ] **Es. 11.1.** [Vedi esercizio 10.2] Ubaldo prende il tram tutte le mattine per andare al lavoro. Arriva alla fermata in un orario casuale e sappiamo che passa un autobus ogni dieci minuti. Siano $T_i, i = 1, \dots, 30$ i tempi di attesa in 30 giorni di lavoro. Qual è la probabilità che aspetti mediamente più di 6 minuti?

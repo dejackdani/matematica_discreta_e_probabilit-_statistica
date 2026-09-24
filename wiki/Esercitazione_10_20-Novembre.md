@@ -1,7 +1,7 @@
 ---
 title: Esercizi 10 - Variabili aleatorie continue
 stato_esercitazione: 🔴 Da Svolgere
-file_sorgente: "EserciziMDPnew.pdf"
+file_sorgente: "[[EserciziMDPnew.pdf]]"
 ---
 
 - [ ] **Es. 10.1.** Sia $X$ una variabile continua uniforme nell'intervallo $[0, 2]$. Si consideri la variabile $Y = \frac{1}{X+1}$.

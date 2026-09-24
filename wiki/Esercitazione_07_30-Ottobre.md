@@ -1,7 +1,7 @@
 ---
 title: Esercizi Variabili discrete
 stato_esercitazione: 🔴 Da Svolgere
-file_sorgente: "EserciziMDPnew.pdf"
+file_sorgente: "[[EserciziMDPnew.pdf]]"
 ---
 # Esercizi: Variabili aleatorie discrete
 
