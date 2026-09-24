@@ -21,6 +21,7 @@ Quando l'utente ti chiede di processare o inserire una nuova fonte (generalmente
 Ogni nuova pagina concettuale generata DEVE includere, alla fine del documento, una sezione dedicata al ripasso veloce per l'esame:
 
 *   **Intestazione:** Crea una sezione `## 📝 Domande di Verifica`.
-*   **Contenuto:** Estrapola o formula le 2 o 3 domande più frequenti, importanti o "a trabocchetto" relative all'argomento trattato.
+*   **Supporto Ufficiale dell'Esame:** Per formulare le domande, **consulta obbligatoriamente** il file `raw/MDP Domande orale.pdf`. Ricerca le vere domande d'esame inerenti all'argomento specifico della pagina.
+*   **Vincolo Anti-Spoiler:** Estrai SOLO ed ESCLUSIVAMENTE le domande d'esame che possono essere risposte usando i concetti spiegati fino a questo punto nel corso (inclusa la lezione appena ingerita). È severamente vietato anticipare argomenti, teoremi o definizioni non ancora affrontati dal professore.
 *   **Formato Callout:** Usa SEMPRE i callout a scomparsa di Obsidian (`> [!question]-`) per permettere allo studente di nascondere la risposta e testarsi (Active Recall).
 *   **Template di Riferimento:** Prima di creare una nuova pagina, consulta SEMPRE il file `examples/template_pagina_wiki.md` contenuto nella directory di questa skill per replicarne l'esatta impalcatura e i metadati.

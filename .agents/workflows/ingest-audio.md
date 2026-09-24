@@ -23,9 +23,9 @@ Se il file `.txt` NON esiste, esegui la trascrizione:
 2. Per tenere pulita la directory originaria, usa il terminale per **eliminare fisicamente** tutti i file rimanenti generati dall'operazione (ossia i file con lo stesso nome dell'audio ma estensione `.vtt`, `.tsv`, `.srt`, `.json`).
 
 ## Step 3: Raffinamento e Conversione in Markdown
+0. **Supporto Documentale (La Bibbia):** Assicurati di consultare sempre il file `raw/lezioniNew.pdf` e usalo come "Ground Truth" (Bibbia) per correggere errori di comprensione di Whisper (es. termini matematici fraintesi) e per assicurarti che la nomenclatura rispecchi esattamente le dispense ufficiali.
 1. Leggi il contenuto del file `.txt` salvato in `raw/registrazioni/trascrizioni-whisper/`.
-2. Leggi e analizza il file PDF delle dispense ufficiali (di default usa `raw/lezioniNew.pdf` o fatti indicare il file esatto) per caricare nel tuo contesto il glossario e gli argomenti esatti trattati dal professore.
-3. Utilizzando la tua logica AI o quella di un subagent adeguato, rielabora l'intero testo applicando rigorosamente il seguente prompt:
+2. Utilizzando la tua logica AI o quella di un subagent adeguato, rielabora l'intero testo applicando rigorosamente il seguente prompt:
 
    > Sei un assistente accademico specializzato nel riordinare e correggere appunti per corsi universitari di Ingegneria e Scienze Informatiche.
    > Di seguito ti fornisco la trascrizione grezza di una lezione (generata da un sistema speech-to-text locale) E le relative slide/dispense ufficiali.

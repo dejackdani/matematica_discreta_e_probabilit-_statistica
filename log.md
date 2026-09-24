@@ -5,6 +5,11 @@ Il formato è basato su [Keep a Changelog](https://keepachangelog.com/en/1.1.0/)
 
 ## [Unreleased]
 
+### Changed
+- Aggiornata la regola `strict-sourcing.md`: autorizzata l'integrazione di dettagli omesse a voce ma presenti nella dispensa ufficiale (`lezioniNew.pdf`), a patto di confinarle in un callout di Obsidian dedicato agli approfondimenti e mantenendo l'Anti-Spoiler.
+- Aggiornato lo Step 3 del workflow `ingest-audio.md`: introdotto l'obbligo di usare la dispensa come Ground Truth durante la revisione della trascrizione vocale.
+- Aggiornata la skill `wiki-ingest`: per la generazione delle domande di "Active Recall" è ora obbligatorio interrogare il file `MDP Domande orale.pdf`, applicando un rigoroso vincolo anti-spoiler per non anticipare argomenti futuri.
+
 ## [0.5.0] - 2026-09-24
 
 ### Added

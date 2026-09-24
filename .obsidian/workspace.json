@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/index.md",
+                "file": "index.md",
                 "mode": "preview",
                 "source": false
               },
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "wiki/index.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "wiki/index.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "wiki/index.md",
+                "file": "index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -190,9 +190,11 @@
   },
   "active": "9e94dbb79cea65dc",
   "lastOpenFiles": [
-    "raw/registrazioni/trascrizioni-sistemate/MdP20260918.md",
     "wiki/Disposizioni_e_Combinazioni.md",
     "wiki/Basi_del_Calcolo_Combinatorio.md",
+    "raw/registrazioni/trascrizioni-sistemate/MdP20260918.md",
+    "wiki/index.md",
+    "index.md",
     "raw/registrazioni/trascrizioni-sistemate/MdP20260923.md",
     "raw/registrazioni/trascrizioni-sistemate/MdP20260916.md",
     "raw/registrazioni/MdP20260918.m4a",
@@ -211,7 +213,6 @@
     "raw/registrazioni/Non confermato 11138.crdownload",
     "wiki/Regole_Esame.md",
     "raw/trascrizioni-sistemate/MdP20260916.md",
-    "wiki/index.md",
     "wiki/Insiemi_e_Cardinalità.md",
     "raw/Gemini-MdP20260916.md",
     "log.md",
