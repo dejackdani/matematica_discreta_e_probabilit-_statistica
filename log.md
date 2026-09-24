@@ -5,6 +5,19 @@ Il formato è basato su [Keep a Changelog](https://keepachangelog.com/en/1.1.0/)
 
 ## [Unreleased]
 
+## [0.5.0] - 2026-09-24
+
+### Added
+- Ingestite in automatico le registrazioni rielaborate del 18 e 23 Settembre.
+- Create le nuove pagine wiki `Basi_del_Calcolo_Combinatorio.md` e `Disposizioni_e_Combinazioni.md` (complete di template Active Recall e metadati).
+- Aggiornata la sezione "Calcolo Combinatorio" nel file `index.md`.
+
+### Changed
+- Affinato il prompt nello Step 3 del workflow `ingest-audio.md`: introdotto l'obbligo di un flusso narrativo pulito dai balbettii, ma con divieto assoluto di tagliare concetti o allucinare informazioni non dette a voce.
+- Aggiunta la chiave `file_sorgente` nel blocco YAML generato dal workflow.
+- Inserita una condizione di Fast-Path nello Step 1 del workflow `ingest-audio.md`: Whisper viene saltato in automatico se un file testuale con lo stesso nome è già presente.
+- Spostato il file `index.md` dalla directory `wiki/` alla root del progetto per una maggiore accessibilità.
+
 ## [0.4.0] - 2026-09-24
 
 ### Added

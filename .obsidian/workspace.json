@@ -11,12 +11,14 @@
             "id": "9e94dbb79cea65dc",
             "type": "leaf",
             "state": {
-              "type": "audio",
+              "type": "markdown",
               "state": {
-                "file": "raw/registrazioni/MdP20260918.m4a"
+                "file": "wiki/index.md",
+                "mode": "preview",
+                "source": false
               },
-              "icon": "lucide-file-audio",
-              "title": "MdP20260918"
+              "icon": "lucide-file",
+              "title": "index"
             }
           }
         ]
@@ -97,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "raw/registrazioni/MdP20260918.m4a",
+                "file": "wiki/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "raw/registrazioni/MdP20260918.m4a",
+                "file": "wiki/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -159,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "raw/registrazioni/MdP20260918.m4a",
+                "file": "wiki/index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -186,11 +188,17 @@
       "bases:Crea nuova Base": false
     }
   },
-  "active": "48a3f27df1dc7008",
+  "active": "9e94dbb79cea65dc",
   "lastOpenFiles": [
-    "raw/registrazioni/MdP20260923.txt",
+    "raw/registrazioni/trascrizioni-sistemate/MdP20260918.md",
+    "wiki/Disposizioni_e_Combinazioni.md",
+    "wiki/Basi_del_Calcolo_Combinatorio.md",
+    "raw/registrazioni/trascrizioni-sistemate/MdP20260923.md",
+    "raw/registrazioni/trascrizioni-sistemate/MdP20260916.md",
+    "raw/registrazioni/MdP20260918.m4a",
+    "raw/registrazioni/trascrizioni-whisper/MdP20260923.txt",
     "raw/registrazioni/MdP20260923.md",
-    "raw/registrazioni/MdP20260918.txt",
+    "raw/registrazioni/trascrizioni-whisper/MdP20260918.txt",
     "raw/registrazioni/MdP20260918.md",
     "raw/registrazioni/MdP20260916.txt",
     "raw/registrazioni/drive-download-20260924T094611Z-1-001/MdP20260923.txt",
@@ -199,13 +207,10 @@
     "raw/registrazioni/drive-download-20260924T094611Z-1-001/MdP20260918.md",
     "raw/registrazioni/drive-download-20260924T094611Z-1-001/MdP20260916.txt",
     "raw/registrazioni/drive-download-20260924T094611Z-1-001",
-    "raw/registrazioni/trascrizioni-sistemate/MdP20260916.md",
     "raw/registrazioni/drive-download-20260924T094611Z-1-001.zip",
     "raw/registrazioni/Non confermato 11138.crdownload",
     "wiki/Regole_Esame.md",
     "raw/trascrizioni-sistemate/MdP20260916.md",
-    "raw/registrazioni/trascrizioni-whisper/MdP20260916.txt",
-    "raw/registrazioni/trascrizioni-whisper",
     "wiki/index.md",
     "wiki/Insiemi_e_Cardinalità.md",
     "raw/Gemini-MdP20260916.md",

@@ -7,6 +7,9 @@ description: Workflow per la trascrizione e la digestione di file audio delle le
 Quando l'utente invoca `/ingest-audio` o ti chiede esplicitamente di processare/ingerire un file audio o una registrazione della lezione, esegui RIGOROSAMENTE questi passaggi in ordine:
 
 ## Step 1: Trascrizione Audio
+**SCORCIATOIA (Fast-Path):** Prima di avviare qualsiasi operazione, controlla se nella directory (sia in `raw/registrazioni/` che in `raw/registrazioni/trascrizioni-whisper/`) esiste già un file `.txt` con lo stesso nome dell'audio (es. `MdP20260923.txt`). Se il file testuale esiste già, significa che la trascrizione è già stata effettuata: **salta interamente lo Step 1 e lo Step 2**, e procedi direttamente allo Step 3 leggendo quel file `.txt`.
+
+Se il file `.txt` NON esiste, esegui la trascrizione:
 1. Verifica la presenza del file audio indicato dall'utente e assicurati che sia collocato all'interno di `raw/registrazioni/`. Se non esiste la cartella, creala.
 2. Spostati come `Cwd` (Current Working Directory) all'interno della directory `raw/registrazioni/` in cui si trova il file audio.
 3. Esegui il comando locale di trascrizione forzando il numero di thread a 24.
@@ -28,14 +31,16 @@ Quando l'utente invoca `/ingest-audio` o ti chiede esplicitamente di processare/
    > Di seguito ti fornisco la trascrizione grezza di una lezione (generata da un sistema speech-to-text locale) E le relative slide/dispense ufficiali.
    > 
    > Il tuo compito è:
-   > 1. Correggere eventuali errori di battitura o parole travisate dal software. **FONDAMENTALE:** Usa il file `lezioniNew.pdf` fornito come riferimento assoluto per disambiguare termini tecnici, acronimi o nomi di teoremi storpiati, ponendo massima attenzione a preservare accuratamente il lessico tecnico matematico e rimanendo aderente al 100% all'argomento.
-   > 2. Identificare i cambi di interlocutore intuendoli dal contesto e assegnare le etichette corrette (es. **Professore:**, **Studente:**).
-   > 3. Formattare il risultato finale in Markdown pulito. Laddove la tua intelligenza te lo permetta, cerca di dedurre in maniera efficace la formula matematica corrispettiva di cui si parla nel testo scrivendola in LaTeX. **IMPORTANTE per le formule:** usa SEMPRE la sintassi MathJax compatibile con Obsidian (simbolo del dollaro singolo `$` per formule inline, e doppio dollaro `$$` per formule a blocco). NON usare MAI `\(` o `\[`. Assicurati inoltre di NON inventare o realizzare formule che devino totalmente dall'argomento contestuale.
+   > 1. Adottare uno stile narrativo fluido ed elegante, eliminando i balbettii e i difetti del parlato, ma restando **il più fedele possibile** a ciò che dice il professore. Devi riportare *tutto* ciò che riesci a comprendere, senza tagliare concetti, senza fuorviare e **senza mai aggiungere informazioni o deduzioni che lui non ha esplicitamente pronunciato nell'audio**.
+   > 2. Correggere eventuali errori di battitura o parole travisate dal software. **FONDAMENTALE:** Usa il file `lezioniNew.pdf` fornito come riferimento assoluto per disambiguare termini tecnici, acronimi o nomi di teoremi storpiati, ponendo massima attenzione a preservare accuratamente il lessico tecnico matematico e rimanendo aderente al 100% all'argomento.
+   > 3. Identificare i cambi di interlocutore intuendoli dal contesto e assegnare le etichette corrette (es. **Professore:**, **Studente:**).
+   > 4. Formattare il risultato finale in Markdown pulito. Laddove la tua intelligenza te lo permetta, cerca di dedurre in maniera efficace la formula matematica corrispettiva di cui si parla nel testo scrivendola in LaTeX. **IMPORTANTE per le formule:** usa SEMPRE la sintassi MathJax compatibile con Obsidian (simbolo del dollaro singolo `$` per formule inline, e doppio dollaro `$$` per formule a blocco). NON usare MAI `\(` o `\[`. Assicurati inoltre di NON inventare o realizzare formule che devino totalmente dall'argomento contestuale.
    > 
    > All'inizio del documento, inserisci un blocco YAML Front Matter con i seguenti metadati ricavati dal contesto:
    > ---
    > titolo: "[Titolo sintetico e descrittivo della lezione]"
    > data_lezione: "[YYYY-MM-DD se menzionata, altrimenti 'Non specificata']"
+   > file_sorgente: "[nome_file.txt originale]"
    > ---
    > 
    > Ecco la trascrizione grezza: [testo]
