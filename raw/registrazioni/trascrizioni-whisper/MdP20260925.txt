@@ -1,0 +1,1523 @@
+Andiamo a controllare questa ricostata
+Per un'altra lezione vorrei mantenere su qualsiasi mani
+Voi arrivate in ritardo
+Se dovete uscire
+Se sapete in anticipo che uscirete prima della prima lezione
+Sedetevi in fondo e uscirete dal retro
+Siedetevi davanti o in mezzo
+E poi vedete l'altra lezione
+E poi vedete il rispetto
+A tutti i miei
+E soprattutto le vostre montagne
+E' un problema
+Stavo dicendo
+Di entrare dal retro
+Quando la porta è chiusa
+Lo ripeterò altre volte
+Allora riprendiamo il filo del nostro discorso
+Stiamo molto dentro la parte di combinatoria
+Di base
+Passare a fare qualcosa di
+Più avanzato
+Tra virgolette
+Comunque stiamo parlando
+Ne combinazioni
+Tipo ABC
+Dobbiamo aggiungere ancora qualcosa
+Un richiamo
+E aggiungiamo ancora due
+Allora cos'è
+Il suo condivisione di ABC
+Passiamo alla definizione
+A ABC sono due numeri
+Interi, positivi
+Ma insomma
+Lo rinocchiamo con N
+Per questa è tutta
+Se lo scopo è che uno parla di combinazioni tipo ABC
+E dividere i numeri da 1 a N
+In tre sotto insiemi ordinati
+Il primo con A elementi
+Il secondo con B elementi
+Il terzo
+Vediamo una combinazione
+Tipo ABC
+Materna
+ABC
+Grande
+Coordinata
+Quindi mettiamo le parlementi di ponte
+Per la risolta insieme
+Insieme
+Del numero 1 a N
+Con queste condizioni
+Quelle che abbiamo detto prima
+Cioè che
+A grande
+A piccoli elementi
+Di grande
+A di piccoli elementi
+Con le grande
+A piccoli elementi
+E questi sono giusti
+O
+Equivalentemente
+La loro unione
+Un pochino
+Come da 1 a N
+Ok
+Ora nella lezione scorsa
+Quando abbiamo fatto
+Le combinazioni più semplici
+Diamo quindi
+Di tipo AB
+Abbiamo visto questa formula
+Di Schiffer
+Ricorsiva
+Calcolare
+La formula che è la base
+Poi del triangolo di cartaglio
+Questa formula si può
+Generalizzare
+In questo caso
+Un'occasione
+Un'occasione
+In più
+Per capire
+Quella
+Quell'idea
+Di dimostrazione
+La formula
+Per calcolare
+E la lezione scorsa
+Abbiamo dimostrato
+Che le combinazioni
+Tipo ABC
+Comune
+Tipo ABC
+N su ABC
+A
+Con senza
+Senza
+Con senza
+L'idea
+Con
+N fattoriale
+Fatto
+A fattoriale
+B fattoriale
+C fattoriale
+La formula
+Ricorsiva
+Per calcolarli
+E la seguente
+Si ha
+M su ABC
+La schiena
+La schiena
+La schiena
+La schiena
+Ine
+Grazie
+Grazie
+Grazie
+Grazie
+allora dicevo
+questa forma ricorsiva
+ricorda quella che abbiamo visto
+l'altra volta
+e come è fatta
+abbiamo un meno
+e sotto
+diciamo di volta in volta
+togliamo 1
+ai tre numeri abc
+abbiamo a meno 1 b c
+più
+n meno 1
+a meno 1 c
+abbiamo n meno 1
+a
+in caso dei due
+avevamo due agenti soli
+che erano a meno 1 b
+e a meno 1
+la generalizzazione
+più semplice
+che uno possa immaginare
+di quella forma
+e anche per questo
+l'ho scritta
+con due parole
+anziché uno solo
+perché insomma
+si generalizza meglio
+questa è una forma
+questa è l'avamo già vista
+la lezione scorsa
+facciamo questo
+è l'inizio della lezione scorsa
+adesso
+formola ricorsiva
+quindi
+spingiamo questi
+coefficienti
+crinomiali
+che si chiamano
+e funzionano
+e funzionano
+e funzionano
+e funzionano
+e funzionano
+e funzionano
+e funzionano
+e funzionano
+e funzionano
+e funzionano
+e l'idea
+è sempre la stessa
+l'altra volta
+cosa abbiamo fatto
+con i coefficienti crinomiali
+abbiamo contato
+i sottinsiemi
+che hanno
+k elementi
+lo ripeto anche per te
+chi arriva in ritardo
+per favore
+entri dal re
+non la l'ho
+l'altra volta
+quando contavamo
+i sottinsiemi
+con k elementi
+diciamo
+li dividiamo in due parti
+due blocchi
+quelli che hanno n
+di quelli che non hanno n
+vogliamo estendere
+questa idea
+sicuramente
+anziché dividerli in due
+li dividiamo in tre
+noi qua
+una partizione
+da parte di un punto
+che è un'attiva
+oa di c
+diciamo questi tre
+insieme
+una grande
+c grande
+e c grande
+e colmano appunto
+una suddivisione
+dei numeri da una n
+quindi il numero n
+finirà
+o in a
+o in b
+o in c
+e contiamo
+e contiamo
+il punto
+secondo me
+dove sta
+il numero n
+e oggi
+contiamo
+le combinazioni
+a bc
+tali che
+il numero n
+appartiene
+a
+a
+contiamo
+le combinazioni
+chiaramente
+una volta
+che ho fatto
+il ragionamento
+per quelle con a
+come facciamo
+a ottenere
+una combinazione
+di questo tipo
+allora
+per determinare
+l'insieme a
+cosa devo fare
+io ho preso
+una combinazione
+di tipo
+a-1
+e poi ho aggiunto
+il numero n
+alla
+quindi
+si ottengono
+scegliendo
+la combinazione
+di tipo
+a-1
+bc
+per poi
+aggiungere
+n
+al primo
+insieme
+da un esempio
+così
+magari si capisce
+sempre meglio
+a-1
+quindi vogliamo fare
+una combinazione
+di tipo
+3
+2
+4
+in cui
+il numero
+è
+9
+e poi
+vogliamo fare
+questa combinazione
+di tipo
+3
+2
+4
+più il 9
+sta nel primo
+insieme
+qua
+c'è
+a-1
+in a
+ci deve stare
+il 9
+che è
+il 6
+e poi
+devono stare
+altri 2
+in v
+ci devono stare
+2
+e ci devono stare
+questo 9
+è una cosa in più
+che sta lì
+che non si muove
+quello che rimane da fare
+è di scegliere
+di mettere
+gli altri 8 numeri
+in questi 8 ponti
+ma
+questa è una combinazione
+tipo
+2
+2
+4
+è come se
+questo 9
+fosse
+frizzato
+non contribuisce
+in alcun modo
+la composta
+mabbiamo scelere
+è una combinazione
+tipo
+2
+e due
+e quindi
+chiaramente
+queste
+combinazioni
+sono
+queste
+combinazioni
+sono
+su
+su
+1
+1
+Grazie a tutti.
+Considerando le combinazioni N a parte B, otteniamo 1A e similmente
+N a parte B, otteniamo 1A e similmente 1A e similmente 1A e similmente 1A e similmente 1A.
+Quindi, insomma, va bene questa idea?
+Io rivelo, queste formule che facciamo sono utili per calcolare, però la cosa più importante è che questi piccoli ragionamenti come una torcia,
+e quindi poi concediamo.
+Riparare la forma, non serve...
+Non serve di imparare e ragionare un problema, spezzarlo in cose più piccole e se fosse passare,
+o che si può fare un po' a ritorno.
+Allora...
+Allora...
+Allora...
+Allora, questa formula chiaramente ha senso quando A, B e C sono numeri positivi.
+Quindi, se B è uguale a 0, è un caso che non comprendiamo.
+O se vogliamo, se B è uguale a 0, cosa abbiamo?
+Un primo insieme ha elementi, un secondo insieme vuoto, e un terzo insieme con C e D.
+Allora, questa è una combinazione che può A, C,
+come se non ci fosse, ma stiamo degenerando al caso precedente.
+Se abbiamo detto che il primo è 0,
+è una cosa che può capitare, magari, ecco, quando facciamo questa forma,
+a R uguale a 1, quando facciamo questa formula, qui diventa 0.
+Se C è 0, è comunque un minuto semplice, e abbiamo un po' di 200 miliardi.
+E per il coefficiente miliardi abbiamo la forma di 2 miliardi.
+Grazie per l'osservazione.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Ok.
+Grazie.
+0.
+Mi pare l'avvolta.
+Un po' pare.
+Di volte.
+si chiama anagramma
+perché è il senso comune dell'anagramma
+abbiamo un certo numero di lettere
+che compa in un certo numero di lettere
+che è stato
+per mutare tra di loro in tutti i modi
+e qui insomma come nel caso
+chiaramente le combinazioni di tipo B
+abbiamo
+il senso comune di tipo B
+e una volta che esiste
+iniezione
+la corrispondenza di tipo B
+combinazione di tipo C
+iniziamo
+la corrispondenza di tipo B
+Facciamo questa dimostrazione vedendola su un esempio e poi prendendoci conto che va l'esempio.
+Allora, facciamo un esempio.
+Vediamo...
+Allora, non vediamo che scriviamo tutte, praticamente le combinazioni di tipo 3, 2, 4 sono una marea.
+Siamo scritte, le calcoliamo, le combinazioni di tipo 3, 2, 4 sono 1.
+Vediamo una formuletta.
+Prendendo il materiale, fratto.
+3 materiali, 2 materiali, 4 materiali.
+Quanto, quanto? Quanto.
+Tratto, diamo 9...
+5, poi 4 materiali.
+Questo rimane...
+6, 2, 2, 3, 4.
+quindi abbiamo 4 per 5
+20 per 7
+140
+140 per 9
+1260
+comunque è un numero grande
+quindi chiaramente non stiamo a scrivere tutte
+scriviamo alcune
+e cerchiamo di capire perché
+queste combinazioni sono in corrispondenza
+tenivola
+quindi abbiamo 1260
+allora scriviamo una combinazione
+3, 2, 4
+1, 2, 3
+2, 4
+3, 4, 6
+e questa è una combinazione tipo 3, 2, 4
+a questa combinazione
+voglio far corrispondere
+un anagramma
+tipo 3, 2, 4
+voglio
+una parola
+in cui
+lo 0 compare 3 volte
+l'1 compare 2 volte
+l'1 compare 2 volte
+l'2 compare 4 volte
+qual è la cosa
+che può venire in mente?
+come faccio ad associare
+una parola di questo tipo
+a questa combinazione?
+allora siccome lo 0 lo voglio 3 volte
+e ho qui un insieme
+mettiamo lo 0 in 3 posizioni
+1, 2, 3, 4, 5, 6, 7, 8
+diciamo che 1, 5, 7
+mi prescrive dove mette lo 0
+posizione 1
+posizione 5
+poi abbiamo il secondo insieme
+2, 9
+questo mi prescrive dove mette il 1
+posizione 2
+posizione 1
+e infine 3, 4, 6, 8
+questo mi prescrive dove mette il numero 2
+questo non è un punto di parte
+2, 2, 2
+sicuramente
+io posso anche tornare indietro
+questa operazione è invertibile
+perché io ho una sequenza
+con un anagramma di tipo
+3, 2, 4
+1, 2, 3, 2, 0
+2, 2, 0
+3, 2, 1, 2, 1
+3, 0, 2, 1
+e 4, 2
+in un attimo
+ma qui posso tornare indietro
+e scrivermi la combinazione
+tipo 3, 2, 4 corrispondente
+come faccio?
+guardo le posizioni che stanno in 0
+il 0 è stato al posto 2
+6, 8
+e quindi il 2 colore insieme
+e qui sarà 2, 6
+poi guardo le posizioni che stanno in 1
+gli ui stanno in 3
+e quindi guardo le posizioni che stanno in 2
+che sono al posto 4, 5, 7
+ok?
+è chiaro come otteniamo questa costruzione
+è chiaro come interveniva
+ma abbiamo proprio l'inversa
+siamo resi conto che invertibile
+siamo andati da sinistra a destra
+o da destra a sinistra
+abbiamo un'inversa
+quindi non starei ad aggiungere altro
+ma credo che questo esempio
+con 3, 2, 4 sia
+sicuramente chiaro
+devo capire di quale sono
+le posizioni che stanno in 1
+e quindi diciamo che se uno vuole valcolare
+piano grande in una certa parola
+può votare
+oppure la forma ricottiva
+che è anche lato
+buon esempio con più di tre lecce
+che è che non vedeva la calzone
+se li prendete
+non so
+ma fa farlo
+non so
+è che non è un home
+ma faccio
+non è un poteco
+non è un poteco
+ma capo
+e quindi
+mi viene
+come avuto
+e quindi
+con la sotto
+Prendiamo la parola
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+e
+abbiamo delle leenere
+a
+0
+c
+Qui sono gli anagrammi, la A compare 3 volte, poi c'è la P che compare anche 3 volte.
+Poi c'è la R che compare 2 volte e 1.
+L'ordine non è rilevante, abbiamo visto la formula, è invariante se vuoi scambiare il C.
+E' sempre la P che ha fatto la R, è sempre la P che ha fatto la R, è sempre la P che ha fatto la R.
+E' sempre la P che ha fatto la R, è sempre la P che ha fatto la R.
+C'è una preferenza, si fa lo spiegelare 2, 3, 2, 3...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+
+...
+...
+
+
+
+...
+...
+
+
+
+
+
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+
+
+...
+...
+...
+...
+...
+...
+
+
+
+
+
+
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+
+
+
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+n uguale a 3k uguale a 2
+n uguale a 3
+n uguale a 2 abbiamo
+3 più 2
+5 meno 1 è 4
+7
+giustante
+6
+è una formula
+direi che facciamo
+pausa e poi
+vediamo
+grazie
+grazie
+grazie
+grazie
+grazie
+Allora, dobbiamo contare queste combinazioni con riflessioni.
+Allora, dobbiamo contare questi soldi insieme con K elementi, dove ci possono essere anche i metodi di questo tipo.
+Tutte volte, tutte volte.
+Il problema ci dice quante sono, quindi dobbiamo adesso dimontrare un coefficiente minimale.
+L più K più 1 su N meno 1.
+L più K più 1.
+N meno 1.
+Allora, dobbiamo vedere A, N meno 1, B e K.
+Adesso faceva la somma del B.
+E cosa vuol dire, insomma, che qui, quello che abbiamo imparato in queste due lezioni, stiamo contando le sequenze binarie, ad esempio, in cui abbiamo N meno 1, Ui e K0.
+Ora, dobbiamo cercare di capire perché queste sequenze binarie,
+le sequenze binarie sono in corrispondenza sincola con le nostre combinazioni.
+A priori, sembrano cose completamente diverse, no?
+Allora, come sempre, non sono mai abitudine, diciamo così, provo a fare un esempio abbastanza diverso.
+E cerchiamo di capire una regola che permette di passare da questi agenti a quelli altri.
+all'esempio, come sempre,
+ad esempio,
+diciamo, non lo so, N uguale
+8
+trappa uguale
+100.
+allora qui devo prendere
+n-1 passente
+devo prendere una sequenza binaria lunga 12
+7
+1
+e 5
+e ripeto
+vediamo 7 volte 1 e 9 volte 0
+andiamo in
+1
+0, 0, 1
+8 stommi sono 5, 0
+1, 2, 3, 4, 5, 6, 7
+0, 1, 2, 3, 4, 5, 6, 7
+questa è una sequenza binaria
+che ha n-1 puri e k-0
+e io voglio associare questa sequenza
+una combinazione
+o ripetizione di k-9 ricette
+1 e 8
+e vi dico che la combinazione che associo a questa è la seconda
+vediamo
+1, 2, 3, 4, 4, 5, 6, 7, 8
+noi vogliamo una combinazione
+con le condizioni
+noi vogliamo 9 elementi
+1, 2, 3, 4, 5, 6
+chi è che vede la regola
+che permette di passare da sinistra a destra?
+come lo spinto?
+l'idea qui è la seguente
+noi abbiamo 8 muri a disposizione
+e abbiamo messo 7 uni
+quindi uno in meno
+questi uni
+io li penso come delle sbarre
+di tutto lungo un po' più
+di separatori
+quindi queste 7 sbarre
+ci dividono agli zeri
+in 8 gruppi
+che possono essere anche vuoti
+il numero di zeri che sta in ogni gruppo
+ma qui non ci sono zeri
+il primo gruppo è vuoto
+il numero di zeri che sta in ogni gruppo
+mi dice il numero di zeri
+vedete il primo gruppo questo qua
+non c'è niente
+e quindi l'1 non lo metto
+il secondo gruppo ci sono due zeri
+e quindi metto il 2 volte il 2
+il terzo gruppo c'è 1, 0
+metto il 3
+2, 0, 4, 4
+il 5 non lo metto perché il quinto gruppo è buono
+il 6 è 2, 0, 2, 0, 7
+ma è una
+questa
+è molto furba
+insomma c'è il più difficile
+il più sottile da capire
+e anche da scoprire
+è l'idea che ci ha dovuto mettere una situazione
+chiaramente uno può anche
+tornare indietro
+cerchiamo di fare un'inversa
+mettiamo 1, 2, 2, 2, 4, 6, 7, 8
+e dopo 1, 8, 9, 8, 8, 9, 8
+e ci sono 9 numeri
+fra 1 e 8
+qual è la successione
+da cui devo partire
+abbiamo un 1
+quindi il primo gruppo
+si deve avere uno 0
+poi metto la sbarra
+quindi il primo gruppo
+poi ho 3 2
+poi se mi c'è nel secondo gruppo
+allora ho 3 0
+viene dal secondo gruppo
+il terzo gruppo
+vuoto
+quindi metto una sbarra
+che è un 1
+faccio il 4
+5 non c'è
+6 c'è nel 1
+7 non c'è
+e poi ho 3
+a questa combinazione con ripetizione qua
+corrisponde questa sequenza binaria
+con
+9 0
+e 7
+o 7 sbarra
+ovviamente questa costruzione
+possiamo andare da sinistra verso destra
+da destra verso sinistra
+da destra verso sinistra
+diciamo che questo
+n-1 che c'è qua
+sono proprio
+i separatori
+noi vogliamo
+costruire n-1
+quindi non c'è n-1 separato
+quindi non c'è n-1
+io vado ad inserire
+perché ormai
+è un'altra cosa
+se non c'è n-1
+quante volte trovi
+il numero corrisponde
+non c'è n-1
+domande?
+io noto che scritto
+è un po' diverso
+è equivalente
+così potete reagire
+in un'altra cosa
+potete reagire
+in tutti e due modi
+così non lo capisce ancora
+bene
+bene
+bene
+c'è una domanda
+inizierei il capitolo successivo
+perché possiamo cercare
+una cosa
+veramente molto simile a questa
+piccola variazione sul tema
+come si dice
+grazie
+grazie
+grazie
+grazie
+grazie
+grazie
+grazie
+grazie
+grazie
+grazie
+grazie
+grazie
+grazie
+facciamo un esempio
+un esempio
+e le sequenze binarie
+due decine che hanno due uni
+e quindi tre zeri
+e questi due uni non devono stare in posizione
+possiamo fare
+1, 0, 1, 2, 2, 1, 0
+1, 0, 1, 0
+1, 0, 0, 0, 1
+queste sono tutte quelle in cui
+al primo posto c'è uno
+poi passiamo al secondo posto
+al terzo posto non ci può stare
+al quarto
+e passiamo
+al terzo posto
+6
+sequenze
+non sarà una coincidenza
+è chiaro qual è l'oggetto che stiamo utilizzando
+insieme
+chiamiamo
+è l'oggetto che stiamo utilizzando
+è l'oggetto che stiamo utilizzando
+e non è l'oggetto che stiamo utilizzando
+e non è l'oggetto che stiamo utilizzando
+due punti
+andiamo
+domanda
+quante sono?
+quanto vale fmk?
+quanto vale fmk?
+quanto vale fmk?
+bene però abbiamo imparato
+che prendiamo la 5k uguale 2
+e fa 6
+in generale
+proposizione
+fmk
+uguale a 40%
+non è l'oggetto che stiamo utilizzando
+mi chiede
+questo è l'oggetto mondiale
+è l'oggetto mondiale
+che è l'oggetto mondiale
+che è l'oggetto mondiale
+Grazie.
+Grazie.
+Grazie.
+Io farei sempre un esempio per cercare di capire come funzionano le cose.
+Spendiamo un esempio, un po' più grande di questo.
+Spendiamo M uguale a 12, K uguale a 4.
+Allora, M uguale a 12, K uguale a 4.
+Quindi noi abbiamo le sequenze in un po' 12, 4 volte 1,
+messe separati l'uno dall'altro.
+Vi facciamo un esempio.
+0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0.
+Di spendiamo un esempio.
+Già di una sequenza, come 12, 4, 1,
+che non stanno mai vicino.
+io qua
+vorrei ottenere
+N di una calda lunga
+quando va
+per questo esempio
+12, 4, 8, 9
+quindi diciamo
+vogliamo dimostrare che queste sequenze
+sono tante quante
+le sequenze binarie lunghe 9
+con quattro volte
+e trovo a soltare
+allora quello che io
+che questa qui corrisponde
+a questa sequenza
+qui voglio
+ripeto le sequenze binarie
+lunghe 9
+con quattro volte
+qual è la regola
+che vi permette di passare
+però
+Date un'occhiata e vedete cosa ho fatto per passare da sinistra a destra.
+Aliminare gli zeri.
+Quali?
+Allora, ho fatto uno zero di vestire, uno zero di vestire e uno zero di vestire.
+E sono all'interno degli uomini.
+Ne ho scolto uno.
+In effetti, fra due uomini c'è sempre uno zero, almeno uno zero.
+Quindi se fra due uomini c'è sempre almeno uno zero,
+posso toglierlo.
+Facendo questa operazione,
+attenzione questa, qui.
+Fra questi due uni ci sono tre zeri.
+Fra questi due uni c'erano tre zeri,
+fra questi due uni c'era uno zero,
+e rimane destino.
+Ovviamente facendo questa operazione si perde la posizione
+che non ci sono due minuti,
+ma proprio quello che vuoi.
+Io voglio ottenere qua tutte le operenze binarie
+di un'interessatore
+con 4.1.
+Questa operazione è invertita.
+che come faccio a tornare indietro?
+Semplicemente fra ogni coppia di uno,
+aggiungo uno zero.
+Quindi qua ce ne sono due,
+diventano tre.
+Quindi non ce ne sarà neanche uno,
+e ce ne sarà due.
+In questo modo,
+chiaramente ottengo una sequenza
+quindi i buoni non stanno mai un po'
+più due minuti,
+e poi ce ne sono i tirati zeri.
+Quindi abbiamo fatto proprio questa operazione.
+Da sinistra a destra.
+Abbiamo
+Chiaramente, siccome
+gli uni sono k,
+le corte di uno con sei codini
+sono
+1k-1.
+Ad esempio,
+l'abbiamo fatto,
+abbiamo 4 uni,
+abbiamo il primo e il secondo,
+il secondo e il terzo,
+il terzo e il quarto,
+abbiamo 3 corpi.
+Quindi togliamo
+3 zero.
+In generale togliamo
+k-1 zero.
+Quindi
+dall'inglese della sequenza,
+diminuisce
+il k-1.
+L'abbiamo in direzione
+della sequenza,
+diminuisce
+k-1.
+Quindi sarà
+n-k-1,
+cioè n-k-1,
+perché
+il numero di uri invece non cambia,
+è sempre k,
+perché io ho solo cancellato il k-6.
+Il numero di uri,
+che è un'altra.
+Quindi possiamo
+sbarazzarci
+per questa condizione
+che gli uni non possono stare
+in un'intervista
+di un'intervista
+di là
+e
+una semplice operazione.
+è un'intervista
+di un'intervista
+di un intervista
+che è un'intervista
+che è il l'intervista,
+dove comunque
+elsi di un intervista
+che non sono
+come essere
+che non è
+comeWORARRY,
+e anche
+il 관련i
+che non stanno in posizione
+non stiamo verso destra
+cosa facciamo
+per ogni coppia di 1
+cancelliamo lo 0
+quanti 0 cancelliamo
+in questo caso è 3
+perché K è 4
+la stessa 1K
+K è 1
+quindi diciamo la lunghezza di questa sequenza
+quindi invece di K
+quindi se il mio adivizio era N
+metterà N-K1
+che è N-K2
+il numero di 1
+rimane K
+quindi diciamo
+quello che ho detto qui
+a destra sono tutte le sequenze
+che hanno lunghezza N-K1
+e hanno K2
+e quindi sono
+N-K1
+e quindi
+che è N-K1
+che è N-K1
+e questa è
+nella data di tutta
+queste sono appunto
+le sequenze binarie
+le sequenze binarie
+e quindi
+la sequenze binarie
+è N-K1
+con K2
+questa è
+questa è
+questa è
+questa è
+questa è
+questa è
+questa è
+questa è
+questa è
+questa è
+ok
+abbiamo fatto questa cosa
+posso
+tranquillamente
+guardare
+questa
+idea
+di
+la
+dimensione
+quindi
+è per questo
+che non viene
+di fibonacci
+questo
+è
+la sequenze binarie
+la sequenze binarie
+a cui
+togliamo
+una condizione
+di quelle tre
+cioè
+che abbia
+carta
+a volte
+e poi
+vogliamo
+che non abbia
+una conseguenza
+questo
+non è
+quello
+che è
+FN
+si dice
+che non è
+di fibonacci
+va bene
+facciamo un esempio
+F3
+quanto vale
+F3
+dobbiamo
+calcolare
+le sequenze
+binarie
+lunghe 3
+0 0 0
+va bene
+1 0 0
+0 1 0
+0 0 1
+e 1 0
+non abbiamo
+più fissato
+il numero
+di 1
+il numero
+0 0
+1 0
+3
+e di f3
+è uguale
+a 5
+bene
+a fare
+attenzione
+di fibonacci
+e adesso
+vogliamo
+fare
+ora
+i frigonacci
+è la somma
+con K
+se sommiamo su K
+abbiamo
+un po'
+un po'
+un po'
+un po'
+un po'
+un po'
+un po'
+un po'
+un po'
+una formula
+esplicitata
+tuttavia
+dal punto di vista computazionale
+come già per i coefficienti
+un po'
+un po'
+un po'
+un po'
+un po'
+un po'
+un po'
+un po'
+un po'
+un po'
+un po'
+un po'
+un po'
+un po'
+un po'
+un po'
+un po'
+un po'
+un po'
+un po'
+un po'
+un po'
+un po'
+un po'
+un po'
+un po'
+un po'
+un po'
+un po'
+un po'
+un po'
+un po'
+un po'
+un po'
+un po'
+un po'
+un po'
+un po'
+un po'
+come si dimostra
+questa
+proposizione
+un po'
+un po'
+un po'
+un po'
+un po'
+un po'
+un po'
+un po'
+un po'
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie a tutti.
+Allora S.
+Iniziamo da C, piuttosto che è facile.
+Quante sono le sequenze lunghe n che finiscono con 0?
+Non andate a considerare t.
+Allora ho queste sequenze.
+In cui all'ultimo posto c'è uno 0.
+Frizzato.
+Allora cosa mi rimane qua?
+Mi rimangono n-1 slot liberi,
+in cui posso inserire cosa?
+Posso inserire una quadruca sequenza in aria lunga n-1,
+entrando in un posto.
+E chiaramente quando uno 0 in fondo non è che creo più.
+Anche se metto un 1 qua, non creo più.
+E quindi la cardiometà di P è Fn.
+Qualunque sequenza lunghe n-1,
+la schiaffo qua.
+Ok?
+In questo caso, all'ultimo posto c'è un 1.
+Allora adesso io non posso più inserire quello che mi pare,
+perché se ci metto un 1,
+perché se qua ci metto un 1,
+è un 3 o 2,
+è un 2.
+Allora adesso io non posso più inserire quello che mi pare,
+perché se qua ci metto un 1,
+è un 3 o 2,
+è un 2.
+D'altra parte, però se qua c'è un 1,
+qui c'è per forza un 0.
+Le sequenze che stanno in S,
+non quelle che finiscono con 1,
+in realtà sappiamo già che finiscono con un 0.
+e una volta che qui ho messo 0,1,
+mi rimangono questi n-2 liberi,
+in cui posso inserire una qualunque sequenza,
+quindi la cardiometà di S è una cosa qualsiasi.
+è una cosa qualsiasi.
+N-1 sono le sequenze che fissero,
+è un 1.
+Crea una riconosione che permette di cappare
+velocissimamente,
+ma...
+...
+...
+...
+...
+...
+...
+Ok.
+Allora...
+...
+...
+...
+...
+...
+10
+10
+10
+11
+11
+12
+13
+13
+14
+14
+15
+15
+15
+15
+15
+15
+15
+15
+16
+16
+16
+16
+16
+16
+17
+17
+17
+18
+19
+19
+19
+19
+19
+19
+19
+20
+20
+20
+20
+20
+21
+21
+22
+22
+21
+22
+22
+22
+22
+22
+22
+23
+23
+23
+24
+25
+25
+25
+22
+23
+23
+24
+25
+25
+25
+25
+25
+25
+25
+25
+25
+25
+25
+25
+25
+25
+25
+25
+25
+metto tra parentesi
+nello stesso tempo
+U2
+4 piazze
+1
+3
+4
+3
+4
+4 con D1
+D2
+D3
+Ora
+andiamo per esempio che
+1
+coppia con D2
+2
+con D1
+3
+4
+4 con D3
+già abbiamo fatto il primo scambio
+la prima serata
+grazie
+il problema è che
+c'è una dipendenza
+diciamo che
+se 1
+1 va a torno
+di 2
+e sempre 3
+non può andare allo stesso tempo
+non può essere un prodotto condizionato
+perché il prodotto condizionato
+introdurrebbe delle ripetizioni
+in questo caso
+un ordine
+che
+facciamo un ordine
+rilevante
+in quanto
+se
+nella stessa serata
+ad esempio
+si calza
+di 1
+e di 1
+e di 2
+e poi
+potrebbe
+introdurmi
+il 1
+e di 2
+per chiedere
+l'ordine
+delle coppie
+in questo caso
+avrei contato
+due volte
+e
+qui
+Grazie a tutti.
+Grazie a tutti.
+Grazie a tutti.
+Grazie a tutti.
+Grazie a tutti.
+Grazie a tutti.
+Grazie a tutti.
+Grazie a tutti.
+Grazie a tutti.
+Grazie a tutti.
+Grazie a tutti.
+Grazie a tutti.
+Grazie a tutti.
+Grazie a tutti.
+Grazie a tutti.
+Grazie a tutti.
+Grazie.
+Grazie a tutti.
+Grazie a tutti.
+Grazie a tutti.
+Grazie a tutti.
+Grazie a tutti.
+Grazie.
+Grazie.
+Grazie.
+Grazie a tutti.
+Grazie a tutti.
+Grazie a tutti.
+Grazie a tutti.
+Grazie.
+a tutti.
+la...
+la...
+la...
+la...
+la...
+la...
+la...
+la...
+la...
+la...
+la...
+la...
+la...
+la...
+la...
+la...
+la...
+la...
+la...
+la...
+la...
+la...
+la...
+la...
+la...
+la...
+la...
+la...
+la...
+la...
+la...
+la...
+la...
+la...
+la...
+la...
+la...
+la...
+la...
+la...
+la...
+la...
+la...
+la...
+la...
+la...
+la...
+la...
+la...
+la...
+la...
+la...
+la...
+la...

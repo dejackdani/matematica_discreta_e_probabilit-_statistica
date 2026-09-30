@@ -4,19 +4,19 @@ stato_esercitazione: 🔴 Da Svolgere
 file_sorgente: "[[EserciziMDPnew.pdf]]"
 ---
 
-- [ ] **Es. 1.1.** Devo regalare due biglietti per uno spettacolo a due tra dieci miei amici. In quanti modi posso fare questa scelta?
+- [x] **Es. 1.1.** Devo regalare due biglietti per uno spettacolo a due tra dieci miei amici. In quanti modi posso fare questa scelta?
 > [!info]- Soluzione
 > In questo esercizio l'ordine con cui scelgo i miei due amici non è importante. Se li regalo a Luca e Aldo oppure a Aldo e Luca è chiaramente la stessa cosa. Possiamo rispondere in questo modo: chiamiamo 1,2,3,...,10 i miei amici. Conto quante sono le scelte in cui 1 riceve il biglietto: sono 9. Conto ora quelle in cui 1 non riceve il biglietto e procedo similmente a prima: inizio contando quelle in cui 2 riceve il biglietto (e 1 no): sono 8 e poi conto quelle in cui né 1, né 2 ricevono il biglietto. Proseguendo in questo modo le possibili scelte sono: $9+8+7+6+5+4+3+2=45$.
 
-- [ ] **Es. 1.2.** Quante sono le possibili classifiche finali in un torneo a tre squadre (considerando anche possibili parimerito)?
+- [x] **Es. 1.2.** Quante sono le possibili classifiche finali in un torneo a tre squadre (considerando anche possibili parimerito)?
 > [!info]- Soluzione
 > Chiamiamo A,B,C le tre squadre. Abbiamo una possibile classifica in cui le 3 squadre finiscono a parimerito. Contiamo le classifiche in cui due squadre finiscono a parimerito e la terza no. Abbiamo 3 possibili scelte per le due squadre a parimerito: AB, AC, BC. Contiamo quelle in cui AB sono a parimerito. Abbiamo AB prime e C terza, oppure C prima e AB seconde, quindi due possibilità. In tutto abbiamo quindi 6 classifiche con due squadre a parimerito. Infine le classifiche in cui non ci sono parimerito sono 6. In tutto abbiamo quindi 13 classifiche.
 
-- [ ] **Es. 1.3.** Quanti sono i possibili lanci di tre dadi in cui il risultato più grande è almeno 5, il secondo è almeno 4, il terzo almeno 3?
+- [x] **Es. 1.3.** Quanti sono i possibili lanci di tre dadi in cui il risultato più grande è almeno 5, il secondo è almeno 4, il terzo almeno 3?
 > [!info]- Soluzione
 > Bisogna contare con ordine tutte le possibilità. Se i dadi danno risultati distinti i valori possibili sono 345, 346, 356, 456. Se ho due valori uguali questi devono essere almeno 4: abbiamo quindi 445, 446, 553, 554, 556, 663, 664, 665. Se ho tre valori uguali ho solo 555 e 666. In tutto 14 possibilità. Si osservi come in questo caso l'ordine non sia importante.
 
-- [ ] **Es. 1.4.** Mostrare che i sottoinsiemi di cardinalità pari di un insieme con 11 elementi sono tanti quanti quelli di cardinalità dispari.
+- [x] **Es. 1.4.** Mostrare che i sottoinsiemi di cardinalità pari di un insieme con 11 elementi sono tanti quanti quelli di cardinalità dispari.
 > [!info]- Soluzione
 > La funzione che associa ad ogni sottoinsieme il suo complementare è una corrispondenza biunivoca tra i sottoinsiemi di cardinalità pari e quelli di cardinalità dispari.
 

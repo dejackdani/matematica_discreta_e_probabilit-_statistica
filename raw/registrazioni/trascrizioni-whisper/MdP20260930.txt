@@ -1,0 +1,2162 @@
+Oggi è una lezione molto impegnativa, ma speriamo di rendere anche piacere,
+ma speriamo di rendere un po' più avanzato, perché non è stata abbastanza, ma questo è un corto universitario,
+se non è un secondo anno, l'informatico deve sapersi muovere.
+Intanto ripeto, sono cose che ti racconto oggi, sono cose che mi vengono a chiedere ai colleghi informatici.
+Tutto come pare, sono esclusione, ho studiato dagli studenti, insomma è una cosa che potrebbe essere utile
+e quindi anche uno, un po' più importante, in poco, un po' così.
+A me ha detto «And oh io qui, ecco forgetlì, lag focus legalmente,
+mi piace per armi la recena scena INFORTIare alle strumenti di Bocquiao».
+lo scopo
+come sempre è quello che risponde
+a quanti sono
+riferita a che cosa?
+riferita a un'unione
+di due o più insieme
+diciamo nella versione più semplice
+quando abbiamo solo due insieme
+ci vediamo quanti elementi ci sono nell'unione
+sicuramente quando abbiamo insieme
+ci possono essere delle sovrapposizioni
+e questo è che rende il problema
+difficile e interessante
+vediamo
+il problema
+di ricordare
+quando cominci
+cominciamo dal caso di due insieme
+è quello più semplice
+sembra che non si presenta qualche modo di difficoltà
+diciamo questo
+questo esempio
+stiamo ad avere due insiemi
+A e B
+e tipicamente appunto
+hanno una certa sovrapposizione
+quindi
+l'unione sta nel
+portare in modo giusto
+gli elementi che stanno
+per la posizione
+chiaramente
+se io
+voglio collaborare
+la caratteristica
+di uno
+uno fa
+la caratteristica di A
+e lì la caratteristica di B
+cosa sta facendo?
+stiamo considerando
+tutti gli elementi di A
+il numero degli elementi di A
+e poi
+il numero degli elementi di B
+facciamo la forma
+e che correga è che
+in questo modo
+se ne stanno qua in mezzo
+l'abbiamo portato di due volte
+è un errore con un sole pari
+quindi questa formula qui
+non vale
+se abbiamo intersezione
+questa formula
+gli elementi
+che sono
+i caratteristica di B
+sono contati due volte
+e quindi va corretto
+e poi la corregiamo
+basta
+soffrarle
+il numero degli elementi di intersezione
+così che
+ci contiamo
+due volte
+soffra
+a
+la caratteristica di B
+ma
+meno
+la caratteristica
+e
+facciamo un passo in più
+vediamo il caso di tre
+tre insieme sono leggermente più complicate ma ancora le possiamo
+sfruttare così invisibamente
+abbiamo tre insieme
+in generale
+arriviamo a uno, a due, a tre
+e ancora vogliamo puntare quanti elementi ci sono nell'unione
+beh, come prima uno comincia
+portiamo le elementi lì e lì insieme
+portiamo le elementi nel secondo
+e portiamo le elementi nel terzo
+quindi otteniamo
+ora però cosa succede?
+poi lo stesso fenomeno che eravamo con due
+ma ancora più complicato
+perché diciamo
+gli elementi che stanno in questa zona qui
+ad esempio
+in questa formula qua
+sono stati puntati due volte
+una volta come elementi a uno
+una volta come elementi a tre
+analogamente questi che stanno qui
+sono puntati due volte
+una volta come elementi a due
+una volta come elementi a tre
+e anche questi qua
+questi invece che stanno in mezzo addirittura
+li abbiamo puntati tre volte
+e gli elementi a tre
+nella zona rossa
+sono stati tre volte
+allora e quindi bisogna trovare un modo per sistemare
+questo contesto
+perché se no il risultato è sbagliato
+e apparentemente è un pochino più complicato
+però a fine conti non riesce a sistemare la forma
+allora vediamo un pochino
+proviamo a fare una cosa simile prima
+che è un pochino più complicato
+che è un pochino più complicato
+siamo comunque interrogativi
+una cosa simile che si chiama
+ma è un pochino più complicato
+ma è un pochino più complicato
+ma è un pochino più complicato
+quella lì non vale perché abbiamo spiegato
+allora proviamo
+a sottrarre le intersezioni
+e poi sottraiamo
+i elementi dell'intersezione tra 1 e a 2
+e poi sottraiamo
+i elementi dell'intersezione tra 1 e a 3
+e i elementi dell'intersezione tra 1 e a 2
+questa forma funziona o non funziona
+vediamo un po'
+gli elementi che stanno qui
+quante volte li abbiamo montati?
+una volta
+questi elementi stanno in a 3
+e basta
+quindi li puntiamo qua
+e poi tutti gli altri
+li puntiamo
+quindi tutti qua sono puntati
+in modo corretto
+gli elementi delle zone
+e similmente che stanno qui
+gli elementi delle zone bianche
+gli elementi che stanno qui
+tra
+l'intersezione tra
+a 1 e a 2
+ma non
+tra a 1 e a 3
+scusate ma non in natura
+quante volte li puntiamo?
+un elemento che sta qui
+lo puntiamo qua
+quando lo puntiamo gli elementi di a 1
+tra gli elementi di a 2
+no
+lo puntiamo qui
+quando lo puntiamo gli elementi di a 3
+quindi li mettiamo due volte
+e qui lo facciamo prima
+e poi
+allora
+l'intersezione tra 1 e a 2
+non ci sta
+quindi qua non lo puntiamo
+qui
+facciamo l'intersezione tra 1 e a 3
+quindi lo puntiamo una volta
+col meno
+2 meno 1
+e poi l'intersezione tra 2 e a 3
+lo puntiamo
+e quindi
+gli elementi nelle zone bianche
+adesso li abbiamo sistemati
+lo puntiamo una volta sola
+questa qua
+gli elementi
+le zone bianche
+sono puntate in una volta
+e gli elementi della zona rossa?
+0
+0
+questo qui si fa
+non li puntiamo più
+prima li puntavamo tre volte
+ma adesso
+l'elemento che c'è nella zona rossa
+lo puntiamo qui
+qui
+ma lo puntiamo anche qui
+anche qui
+anche qui
+quindi lo puntiamo tre volte
+per sistemare la formula
+lo dobbiamo
+aggiungere
+e questo deve
+così che anche l'utilizzato
+lo puntiamo
+con l'elementi
+nella zona rossa
+e quindi la formula
+si aggiusta
+si è giusta
+aggiungendo
+aggiungendo
+l'intersezione
+ad esempio
+d'accordo?
+questo è il senso di
+inclusione-esclusione
+l'elemento prima
+li includiamo
+con i singoli insieme
+con i piedi
+e rimangiamo
+nelle percezioni
+a due a due
+e poi lo
+riaggiungiamo
+nell'impasto
+ok
+chiara questa
+spiegazione
+con tre insieme
+cosa succede
+quando
+non si crea
+tre insieme
+e abbiamo
+quattro
+cinque
+la formula corretta
+è uguale a questa
+la formula corretta
+con tre insieme
+però adesso
+magari facciamo
+è uguale a questa
+è uguale a questa
+tutta
+la formula corretta
+significa
+che
+utilizzare
+da
+questa
+protesta
+come
+Grazie.
+Grazie.
+Come ci aiuta questa formula?
+Questa formula chiamiamo con A, B, C, i multipli di 2, 3, 5.
+Chiamiamo A, i multipli di 2, B, mettiamo 1, 2, 3, se non ci confondiamo, chiamiamo A, B, C, i sono i multipli di 3, e C sono i multipli di 3.
+Ora, i nuovi direzionali divisibili del 2 per 3 o 5 sono proprio l'unione di queste stesse.
+A sono i nostri direzionali di 2, B, i multipli di 3, e C, quindi dobbiamo calcolare proprio la carta del taglio di un nome di A, B, C.
+La formula del percine, questa descrizione, che abbiamo scritto lassù, ci dà la risposta.
+Dobbiamo fare la cardinalità di A più la cardinalità di B, meno la cardinalità di A intersezione B, meno la cardinalità di A intersezione C, meno la cardinalità di B intersezione C.
+e a questa vi aggiungiamo
+la caldarità
+dell'intersezione investita
+probabilmente insomma
+uno usa il principio di inclusione e esposione
+se calcolare queste intersezioni
+è più facile
+è più difficile
+ma in questo caso è più semplice
+più facile
+vediamo perché
+quant'è la caldarità lì ha?
+quanti sono i numeri multipli di 2
+tra 1 e 240?
+ovviamente 120
+ma no
+240 è 2
+quanti sono invece i elementi di B
+i multipli di 3 tra 1 e 240?
+sono tante
+240
+e i multiplici di 100 sono
+48
+240
+più 5
+10 per 2
+e che è 5
+adesso passiamo
+all'intersezione tra i B
+ci sono i multipli di A
+che sono i multipli di 2
+che sono anche i multipli di 3
+ma sono i multipli di 7
+quindi
+dobbiamo fare i punti di 240
+di 16
+140 di 16
+ma
+40
+40
+e poi andiamo avanti
+A e C
+abbiamo 2 e 5
+i punti di 2 e di 5
+sono i punti di 10
+che sono 24
+e poi dobbiamo fare i punti di 3 e di 5
+sono i punti di 15
+quanti sono i punti di 15?
+40
+16
+se sbaglio
+infine
+in questa nuova
+dobbiamo riaggiungere
+il terzo e se ne sono i punti di 3
+le lezioni
+i punti di
+le lezioni di 2
+le lezioni di 3
+lezioni di 5
+2 per 3
+6
+5
+30
+quindi
+allora
+qui non sono i punti di 30
+e per la 1
+240
+sono
+8
+ok
+il risultato
+di questa operazione
+ci dà
+una risposta
+a un altro
+tesito
+un altro interessante
+non è la prossima
+che non
+guarda
+questa domanda
+per il modo
+calcolare
+100
+reti
+di 80
+fa
+200
+40
+160
+di 48
+208
+216
+di 200
+e 24
+166
+forse
+per calcolare
+questo
+non è veramente
+quello che ti piace
+ho un esempio
+per illustrare
+per il modo
+per i primi
+sempre
+più
+di
+per i primi
+non è una riflessione
+per 110
+non è una riflessione
+per nominare
+lì
+riliempirang万
+seguiti
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Allora, dicevo, se dobbiamo fare l'unione di Engels, cosa facciamo?
+L'idea è la stessa.
+Allora, uno comincia facendo una somma di tutte le cardinalità, degli insiemi presi 1 a 1, poi sottrae le intersezioni a 2 a 2.
+Facciamo meno, a 1 in intersezione a 2, meno, a 1 in intersezione a 3, meno, meno, in tutti i modi possibili le intersezioni a 2 a 2.
+Poi risuoniamo tutte le intersezioni a 3 a 3.
+Si trova 1, intersezioni a 2, intersezioni a 4, eccetera.
+Poi risuoniamo tutte le intersezioni a 4 a 4.
+Eccetera.
+Scriverla così, chiaramente, è brutto, cioè uno non riesce neanche a scriverla.
+Noi dobbiamo trovare un modo di scriverla decente, che possa essere poi sfruttato quando abbiamo delle situazioni.
+Allora, per scrivere questa cosa molto decente, dobbiamo fare uno sforzo di innovazione, per cui vi chiedo...
+Allora, domanda, prima domanda che vi faccio.
+In questa formula, quanti addendici sono?
+Cosa da pensare a questa cosa?
+Quanti addendici sono in questa formula che ho accennato lì?
+Quanti addendici sono?
+L'unica eccezione, c'è un solo insieme che non c'è e che l'insieme vuole.
+Ricorda, se pensiamo...
+No.
+Pensiamo un solo insieme con l'1, lo pensiamo come al numero 1.
+Questo è insieme 1, questo è insieme 2, questo è insieme 1, 3, questo è insieme 1, 2, 4, e così via.
+Se vogliamo sott'insieme degli indici, noi abbiamo una N, abbiamo una N.
+con l'unica eccezione che non c'è il vuoto.
+E quindi sono proprio 2 alla N, meno 1.
+Perché insieme sono 2 alla N, togliamo il vuoto.
+Infatti, con la N uguale a 2, ne avevamo 3, 2 alla seconda, ne avevamo 1, no?
+Con la N uguale a 3 ne abbiamo 7, che è pure la terza.
+E' turno.
+E asmenti.
+P
+E' attrazione.
+E' a ralento.
+se c'è qualcosa che mi chiede
+grazie
+allora
+e quindi sono
+non che sia importante
+solo per avere un'idea
+sono 2 alla n
+meno 2 alla n
+tutti insieme in grande ruota
+però poi ci dà un'idea
+su come parametrizzare
+questa sommatoria
+noi abbiamo una sommatoria
+sui soppensieri diversi dal ruoto
+venuti da un metro
+per scrivere una sommatoria
+su un indice che varia da 1 a 10
+abbiamo una sommatoria
+su tutti i soppensieri
+venuti da un metro
+quindi ecco questo
+ci suggerisce
+di scrivere questa carbonità
+come una sommatoria
+sui soppensieri
+e insieme
+i numeri da 1 a 1
+con i diversi dati
+così che ci aspettiamo
+questi 2 alla n
+meno 1
+a 10
+benissimo
+ora a questo punto
+cosa dobbiamo fare?
+dobbiamo dire
+chi è là dentro
+corrispondente
+ad ogni soppensieme
+abbiamo detto
+se il soppensieme
+è fatto al numero 1
+ci vuole mettere
+la carbonità di a 1
+l'ultima cosa
+che dobbiamo fare
+è il segno
+perché vedete
+alcuni hanno un segno in più
+altri hanno un segno in meno
+quando è che ci va
+il segno in più
+e quando è che ci va
+il segno in meno?
+ci mettiamo il più
+quando
+i soppensieri
+che stiamo intersecando
+sono risparmi
+ci mettiamo il meno
+quando sono paio
+vedete
+la prima riga
+ci mettiamo 1
+ci mettiamo il più
+nella seconda riga
+ci sono 2
+ci mettiamo il più
+poi nella terza
+ci mettiamo il più
+nella quarta
+ci mettiamo il meno
+nella quinta
+ci mettiamo il più
+e poi
+gli alterni
+di segno
+in seconda
+di quanti
+che stiamo
+intersecando
+quindi qui
+in questa sommatoria
+ci va
+meno 1
+elevato
+la carbonità di
+se è pari
+deve essere meno
+se è visto
+deve essere meno
+se è pari
+2
+20
+diviene
+1
+alla terza
+e 1
+adesso poi
+dobbiamo dire
+invece
+qual è
+proprio
+il numero
+che stiamo sommando
+al di là di segno
+quello che dobbiamo
+sommare
+che cos'è?
+è una cardinalità
+di un'intersezione
+tra questi insiemi
+quali insiemi
+dobbiamo intersecare?
+dobbiamo intersecare
+i suoi insiemi
+che hanno l'indice
+in questo
+insieme di grazie
+quindi qua
+ad esempio
+scrivere
+l'intersecatoria
+la chiamiamo
+un indice
+in piccola
+che stanno
+in grande
+ecco
+questa
+diciamo
+è la formula
+scritta in modo
+decente
+come vi ho anticipato
+diciamo
+fare uno sforzo
+per capire
+la nostra azione
+allora
+riusciamo a scrivere
+in modo
+compatto
+ora
+poi rifacciamo
+un piccolo
+che è di moda
+facciamo
+6
+1
+3
+7
+cosa vuol dire
+6
+è
+fatto una
+due volte
+questo quanto
+è
+da lì
+quant'è
+3
+meno 1
+alla 3 più 1
+3
+nel pdf
+ha più elevazione a meno 1
+non più 1
+secondo te?
+sono contento che notate
+queste distanze
+però diciamo
+se io qui al bolso di più 1
+metto meno 1
+non cambia nulla
+perché se io faccio
+se io è pari
+se faccio più 1
+non è dispari
+ma anche se faccio meno 1
+siccome c'è un meno 1 elevato al numero
+se io faccio meno 1 alla terza
+o meno 1 alla quinta
+è la stessa cosa
+quello che mi interessa
+è solo
+la parità di questo
+non è che abbia scritto meno 1
+posso scrivere anche più 3
+è la stessa cosa
+qua viene 3 meno 1
+quindi almeno si viene meno 1 alla quarta
+e almeno meno 1 alla seconda
+dopo di che
+qua lo dobbiamo fare
+dobbiamo fare
+l'intersegatore
+tutti i primi
+che appartengono
+a questi insieme
+di a con i
+quindi dobbiamo dire
+fare una 1
+una sezione
+una 3
+questo è il senso
+questo simbolo
+va bene
+chiaro?
+tutti?
+si
+si
+non ho capito
+che è la parte
+dell'intersegatore
+allora
+qui abbiamo
+questa intersegatoria
+stiamo dicendo
+dobbiamo intersegare
+al variare
+dell'indice
+i
+nell'insieme
+i grandi
+i grandi
+questo esempio
+è questo qua
+è 1
+3
+7
+però potrebbe essere
+un colore
+che insieme
+di
+ecco
+vuol dire
+che dobbiamo
+intersegare
+al variare
+di qui
+questo insieme
+siccome insieme
+qua è 1
+3
+7
+dobbiamo fare
+a 1
+e 2
+iscrizioni
+a 3
+iscrizioni
+a 7
+ah quindi
+il piccolo
+sono gli elementi
+dell'insieme
+stessi
+beh
+il piccolo
+sono gli elementi
+dell'insieme
+il piccolo
+è la variabile
+insomma
+che stiamo
+uscendo variare
+in questo
+insieme
+qua
+ok
+grazie
+voglio dire
+for i
+piccolo
+in questo
+di grande
+intersegiamo
+questo insieme
+ok
+se vuole
+una sommatoria
+un po'
+vale
+di più
+anziché
+in un sommatorio
+cerchiamo
+un intersegatorio
+e facciamo
+un intersegatorio
+un modo
+di scrivere
+questa cosa
+in modo
+compagno
+ok
+bene
+bene
+allora
+l'altra volta
+vogliamo fare
+le nostre
+indicazioni
+che
+voglio scherzo
+una formulazione
+leggermente
+diversa
+ma
+allora spesso
+come vedremo
+anziché
+l'unione
+siamo interessati
+al complementare
+dell'unione
+rispetto a un certo
+ambiente
+in vera
+possiamo voler considerare
+non tanto l'unione
+ma il complementare
+di questa cosa
+allora
+questa c in alto
+è il complementare
+ci sono gli elementi
+che non stanno
+nel complementare
+il complementare
+non sono pensi
+abbiamo già fatto
+più volte
+che non è molto
+più
+l'unione
+allora
+chiaramente
+io voglio
+raccolare
+quanti elementi
+stanno nel complementare
+possiamo fare
+il numero di elementi
+che stanno nel
+diverso
+meno
+il numero di elementi
+di unione
+questa è una
+giocola
+aspettazione
+ma fare
+per ogni insieme
+per attacolare
+quanti elementi
+sono insieme
+posso fare
+il numero di elementi
+totali
+meno
+quelli che non c'è
+va bene
+questo
+è questo vantaggio
+e c'è che
+l'universo
+uno lo può scrivere
+se volete
+per condizione
+come
+intersezione
+qui appartenente
+all'insieme
+a vuoto
+di attacolare
+questa
+che sto scrivendo
+è una notazione
+se volete
+stiamo dicendo
+che se non
+intersechiamo nulla
+c'è ogni volta
+che uno interseca
+sto facendo qualcosa
+di tutti
+questa formula
+ci dice
+questa prima parte
+se non interseco nulla
+faccio variare
+il suo insieme
+vuoto
+sto mettendo
+tutti
+l'universo
+lo spiro
+l'intersecatoria
+sull'insieme
+vuoto
+e qua
+adesso possiamo
+usare
+questa formula
+qui
+con un meno davanti
+e questo
+più davanti
+chiaramente
+ci fa cambiare
+il segno
+a tutti
+interi
+più
+la formatoria
+di
+più
+da
+una
+n
+i
+diverso dal vuoto
+allora
+dobbiamo
+cambiare
+il segno
+quindi scriviamo
+meno
+1
+alla cardina
+di
+i
+possiamo mettere
+più 2
+se vogliamo
+ma abbiamo già osservato
+i lunghi
+scriviti 2
+per
+lasciare
+meno
+1
+per
+questa
+cardinalità
+ok
+qual è
+perché
+sto dicendo
+questa cosa
+perché adesso
+qui in questa
+sommatoria
+abbiamo tutti
+i termini
+tranne il vuoto
+e qui
+stiamo aggiungendo
+quello che
+ma
+stiamo aggiungendo
+l'insieme
+vuoto
+e questo
+è un coefficiente
+più che è proprio
+meno
+1
+alla 0
+se vogliamo
+poi ci possiamo
+aggiungere
+meno 1
+alla 0
+che è uguale a 1
+e quindi
+complessivamente
+diventa
+la sommatoria
+su tutti
+i topi
+insieme
+anche il vuoto
+di
+meno 1
+elevato
+a cardinali
+e così
+siamo liberati
+del più
+o meno
+1
+per
+la nostra
+infezione
+quindi
+sul complementare
+la formula
+si semplifica
+anche
+in questo
+non abbiamo
+più
+il trovare
+del vuoto
+e l'esponente
+si deve avere
+più o meno
+1
+ora questa formula
+la mettiamo
+da parte
+e
+questa seconda
+ora
+concluderemo
+due esempi
+esattamente
+normali
+diciamo
+in cui
+l'applicheremo
+uno dei due esempi
+riguarda
+queste rate
+di scambio
+un altro esempio
+invece
+riguarda
+una quota
+molto semplice
+molto semplice
+molto semplice
+molto semplice
+molto semplice
+grazie
+una
+sequenza
+con sufficienti
+1k
+con una proprietà
+e vogliamo
+che tutti
+i numeri
+non è k
+compagiano
+a meno
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+una
+sequenza
+con queste proprietà
+si dice
+una sequenza
+kb
+kb
+un concetto
+abbastanza naturale
+noi vediamo
+in qualche modo
+facciamo le presentative
+e vogliamo
+beccare
+tutti
+ma
+da una
+carta
+per
+quindi a caso
+lo dobbiamo
+ottenere
+un
+piccolo esempio
+la sequenza
+2
+1
+2
+3
+3
+2
+1
+0
+2
+2
+meno
+1
+non è
+diciamo tutti i numeri
+da quattro e quanti sono
+bene?
+in questo modo il comune scopere
+si permetterà di rispondere alla domanda
+quante sono
+e non c'è una scoperta
+se uno vuole sapere
+quante sono le sequenze
+tre piene
+di un'unità a quattro
+un canta pieno, un benza enorme
+da qua devi passare
+sono altre forme, le torsie
+non ce l'ho messa
+è una cosa più naturale
+dopo l'intervallo vediamo perché
+se non c'è una sequenza
+è una cappa piena
+se ci sono tutti
+non c'è una cappa
+nessuno escuto
+un esempio
+senza poter usare
+se noi vogliamo
+quante sono
+speriamo
+quanto
+sono
+tre piene
+tre piene
+tre piene
+tre piene
+come si potrebbe affrontare
+così uno non usa
+perché non c'è un'unità a uno a tre
+e
+non c'è un tutto
+cosa può accadere
+può accadere
+che c'è un numero
+non so
+ripetuto tre volte
+come se si grazie
+per esempio questo
+uno, uno, uno, due, tre
+e poi posso fare
+tutti gli anagrami
+probabilmente al posto di uno
+ci posso mettere il due
+ci posso mettere il tre
+fare due, due, due, uno, tre
+tre, tre, tre, uno, due
+è una grande
+è una grande
+è una grande
+che dobbiamo fare
+però questo è il caso
+in cui c'è un numero
+ripetuto tre volte
+oppure ci stanno
+due numeri ripetuti due volte
+e un numero ripetuto
+una volta sola
+dobbiamo poter avere
+uno, uno
+uno, due, tre
+oppure
+uno, uno
+dentro
+due
+oppure
+due, due
+dentro
+è una grande
+in questo caso
+da non male
+uno
+può cavare
+con uno studio
+di questo tipo
+però è chiaro
+che qui
+siamo stati avvantaggiati
+dal fatto
+da numeri piccoli
+3 piene
+5
+comunque
+c'è da fare
+allora adesso
+noi vogliamo appunto
+trovare una formula
+che valga per ogni
+carta
+che lo vede
+un po' adesso
+trovare
+la risposta è questa
+la risposta è questa
+la formula
+la scriviamo
+poi
+vediamo
+di dimostrarla
+questa formula
+è una somma
+di i che va
+da zero
+a k
+meno uno
+alla i
+per il continente
+binuniale k su i
+per
+k
+meno i
+alla i
+è una formula
+non banale
+non è anche facile
+da ricordare
+non è anche
+più difficile
+quello che invece
+dobbiamo cercare
+di capire
+è come si avviva
+questa formula
+si si avviva
+usando
+il continente
+se uno si ricorda
+come si arriva
+si ricorda anche la formula
+allora
+noi vogliamo usare
+il principio
+di giusto
+quindi vorremmo
+scrivere
+le sequenze k-tene
+con un'unione
+di insieme
+o meglio ancora
+come il complementare
+di un'unione
+quindi vogliamo
+se vogliamo fare
+il complementare
+dobbiamo dire
+quali non sono
+campatelle
+ad esempio
+non sono
+campatelle
+quelle
+che non
+contengono l'uomo
+ma anche
+quelle in cui
+non c'è il 2
+ma anche
+quelle in cui
+non c'è il 3
+cose così dire
+fino ad arrivare
+a casa
+in questo modo
+non sono
+campatelle
+va bene
+allora
+facciamo le cose
+con noi
+noi chiamiamo
+con A1
+queste sono le sequenze
+senza
+sequenze lunghe M
+la lunghezza è fissata
+sempre M
+senza
+poi abbiamo A2
+sequenze lunghe M
+senza il numero 2
+quindi
+bisogna arrivare
+ad A2
+sono le sequenze
+lunghe M
+senza
+quindi qual'è che è una sequenza
+che è K piena
+quando non sta
+né in A1
+né in A2
+né in A3
+né in A2
+se non sta in nessuno
+di questi
+è K
+prima
+e poi
+ci sta
+in
+allora
+continuiamo
+magari chiamiamo
+S
+insieme
+delle sequenze
+K
+che è
+che sa
+è
+proprio dato
+dal complementare
+di unione
+di queste
+questi
+K
+pensando
+come un riverso
+insieme
+di tutte le sequenze
+di M
+o coefficienti
+di 1K
+dove
+U
+sono
+tutte le sequenze
+lunghezza
+N
+con coefficienti
+quindi
+si dà
+una K
+ecco
+beh
+allora
+grazie al principio
+di cos'è
+l'esclusione
+allora
+l'esclusione
+l'esclusione
+l'esclusione
+dice che
+lo S
+è
+una cosa
+che ho detto
+prima
+che ho cancellato
+non sono
+adesso
+lo richiamiamo
+cosa si dice
+dobbiamo fare
+la sommatoria
+tutti i sottensiemi
+di 1K
+prima
+c'erano
+N
+era
+il numero
+di sottensiemi
+poi in questo caso
+sono K
+ripartiamo
+la somma
+su tutti i sottensiemi
+dell'indice
+di 1K
+meno 1
+per la carnalità
+di questa
+intensionaria
+i appartenenti
+questa era
+la formula
+che avevamo
+adesso
+dobbiamo capire
+nel nostro caso
+quanto
+lo agono
+tutti questi
+addendi
+beh ma questo
+lo sappiamo
+fare
+cominciamo
+dal caso
+in cui
+i
+ha un solo elemento
+quanto vale
+questo
+il tempo
+è semplicemente
+A con 1
+stiamo intersecando
+A1
+e basta
+quindi rimane
+A1
+quando ci diamo
+un solo indice
+quindi
+vediamo
+una volta
+il contenziale
+per il mini termine
+diciamo
+del nostro
+concilio
+e quanti sono
+qual è la carnalità
+di A1
+vediamoci
+A1
+sono le sequenze
+lunghe n
+senza
+il numero 1
+quante sono
+per esempio
+non hanno
+il numero 1
+qua sono lunghe n
+possiamo metterci
+il numero da 1 a K
+fa 1
+quante sono
+quante sono
+n
+se
+sono K
+meno 1
+alla n
+in ogni coefficiente
+può essere
+un numero
+comunque
+diverso da 1
+quindi ho
+K
+meno 1
+scelte
+per ogni coefficiente
+K
+meno 1
+per il primo
+K
+meno 1
+per il secondo
+K
+meno 1
+scelte
+per l'ennesimo
+quindi complessivamente
+ho K
+meno 1
+alla n
+chiaro il motivo
+se faccio
+gli altri
+casi
+in cui ho un solo elemento
+se si prenda
+si prende
+si prende
+a 2
+quante sono
+le sequenze
+di 2
+a 2
+sono quelle che non hanno
+il 2
+quante sono
+sempre
+meno 1
+sto imponendo
+che non ci sia
+il 2
+sto imponendo
+solo il 2
+quindi ci può essere
+l'1
+3
+4
+1
+K
+meno 1
+1
+sempre
+e quindi
+sono sempre
+K
+meno 1
+alla n
+quindi
+se scelgo
+se faccio l'intersezione
+con un solo
+sotto insieme
+ho sempre
+K
+meno 1
+alla n
+se ne prendo
+due
+invece
+a 1
+e a 2
+cosa vuol dire?
+sono sequenze
+che stanno
+senza 1
+e senza 2
+cioè che
+sono senza 1
+e senza 2
+stanno
+dell'1
+e dell'1
+e quante sono
+esperienze
+K
+è una 2
+alla n
+le risposte
+non fissime
+alla domanda
+della n
+veramente
+a questo punto
+non possiamo mettere
+le 1
+e le 2
+abbiamo
+K
+meno 2
+numeri
+disponibili
+e quindi
+a 1
+e le stessezioni
+a 2
+va
+K
+meno 2
+alla n
+ma se faccio
+a 3
+intersezioni
+a 7
+quanto va?
+sempre K
+non è importante
+quali elementi
+di quest'ultima
+cosa mi interessa
+è quanti
+sicuramente
+se ne anziché 2
+ne tolgo
+4
+quindi
+se faccio
+a 1
+intersezione
+a 3
+intersezione
+a 5
+intersezione
+a 6
+6
+sia meno
+uguale a K
+quante sono queste?
+K
+meno 4
+ok?
+perché ho
+K
+meno 4
+e 7
+non posso mettere
+in questo caso
+né 1
+né 3
+né 5
+né 6
+posso mettere
+uno qualunque
+degli altri
+K
+meno 4
+va bene
+allora adesso
+prendiamo
+questa quadrola qua
+dobbiamo cercare
+di farla diventare
+quella là
+vedete
+questa K
+meno io
+la n
+è uscita fuori
+va bene
+allora vediamo
+di parte
+la prima
+è uscita fuori
+non è uscita
+Allora, prendiamo la formula che conosciamo, che è quella da su.
+Allora, prendiamo la carta.
+Perché se io qui ho due addendi che hanno lo stesso numero di elementi, questo è dato lo stesso contributo.
+Cioè, se io prendo due servizioni con tre elementi, qual è il contributo di questi due servizioni con tre elementi?
+Qui avrò meno uno alla terza, meno.
+E poi qui, questo quanto fa?
+Non è la stessa.
+Qua?
+K2,3,3.
+Quindi, tutti i soldi insieme con tre elementi, danno il contributo, meno uno per K2,3,3.
+Quindi, tutti i soldi insieme con tre elementi, diciamo, con tre elementi, danno lo stesso contributo,
+meno K2,3,3.
+E quindi quant'è il contributo totale di tutti i soldi insieme con tre elementi?
+Siccome danno tutti questo contributo, dobbiamo solo contare quanti sono.
+Quanti sono questi contributi?
+Quanti sono i soldi insieme con tre elementi?
+Quanti sono i soldi insieme con tre elementi?
+Soltà?
+Soltà?
+K2,3.
+Sono le combinazioni.
+Dobbiamo prendere tre elementi fra K2 disponibili, lo possiamo fare a K2.
+E quindi, oggi adesso è importante i soldi insieme con tre elementi fra K2.
+E quindi anche il contributo confessivo,
+il contributo
+risolto insieme
+3 elementi
+è meno
+k2,3
+k-3
+ognuno da un contributo meno
+k2,3
+il contributo complessivo
+è meno
+k2,3
+per k2,3
+chiaramente questo ragionamento
+l'abbiamo fatto per 3
+insieme che hanno 2 elementi
+4 elementi, 5 elementi
+otteneremo sempre la stessa volta
+che ci porta
+a questa formula qui
+questa formula qui
+m corrispondente a i uguali a 3
+è quella che abbiamo ottenuto
+meno 1 alla terza
+che è meno
+k su 3 per k-3
+a i
+se vogliamo fare il contributo
+dei potenzioni con 4 elementi
+stessa cosa, quanti sono?
+sono k su 4
+con uno dei quali
+mi dà un contributo
+più
+k-4
+a i
+d'accordo?
+più perché qua c'è
+meno 1 alla 4
+e quindi questa è la finalità
+di un'altra
+però
+in questa
+formula qua
+nella formula
+trae
+termina
+corrispondente
+si
+ecco il contributo
+il contributo
+5
+di un'altra
+con
+verionale
+ciIN pegaria
+la
+dimine
+lei
+è
+ciIN
+l'abbiamo fatto esplicitamente con l'isola 3
+rispondiamo
+alla domanda
+quante sono le sequenze 3,5?
+sono la sommatoria
+che fa da 0 a 3
+1
+3
+ora qui non vediamo che il termine per i uguale a 3
+è uguale a k
+in realtà che farà sempre 0
+questa sommatoria la può andare a k
+perché fa sempre 0?
+perché il termine per i uguali a k
+confonda l'intersezione
+di tutti gli arcolini
+bisogna fare a 1
+che se ne ha 2
+che se ne ha 3
+che se ne ha k
+però questa intersezione è vuota
+perché se in questa sequenza non c'è 1
+non c'è 2
+non c'è 3
+non c'è 4
+non c'è 5
+non c'è k
+non c'è niente
+non esiste
+quindi insomma
+l'ultimo addendo di questa sommatoria
+sarà sempre 0
+quindi non può scrivere
+k-1
+ma non è importante
+sviluppiamo questa forma
+per i uguali a 0
+facciamo meno 1
+alla 0
+che fa più
+3 sul 0
+che è 1
+facciamo 3
+alla 5
+che è il nostro universo
+è il numero di sequenze
+di sequenza 5
+con coefficienti 1,2,3
+crescendo
+vuol dire che facciamo meno
+meno 1
+alla 1
+fa meno 1
+3 su 1
+che è 3
+e 2 alla 5
+cosa stiamo facendo qui?
+stiamo sul trenzo
+2 alla 5
+3 e 8
+2 alla 5
+cos'è?
+sono le sequenze
+che non hanno il numero 1
+le sequenze che non hanno il numero 2
+le sequenze che non hanno il numero 3
+per questo
+e poi risolviamo
+n con uguale a 2
+perché meno 1
+al quadrato
+3 su 2
+per 1 alla 5
+e chi sono questi
+1 alla 5?
+sono le intersezioni a 2 a 2
+ad esempio
+a 1
+intersezioni a 2
+sono le sequenze che non hanno
+né 1 né 2
+se abbiamo né 1 né 2
+la prima possibilità è 3
+3
+3
+3
+3
+3
+abbiamo una scelta
+per 5
+se abbiamo né 1 né 3
+abbiamo una sola soluzione
+che è 2
+2
+2
+2
+2
+3
+3
+2
+3
+3
+2
+4
+4
+5
+6
+5
+7
+6
+6
+6
+6
+7
+6
+6
+6
+se sono rimasti dei dubbi
+anche adesso facciamo un altro esempio
+molto simile ma un po' più semplice
+quindi possiamo
+avere una seconda chance di capire
+questo tipo di dimostrazione
+chiaramente proprio qualcosa
+che è il genito
+nella lezione
+se vuole venire a parlare di un mese o di altro
+io vi aspetto sempre
+allora l'altra
+cosa di cui voglio parlare
+ma tutto che riguarda le grade di scambisti
+che dicevamo
+allora
+vediamo questa definizione
+uno
+con bussolamento
+è una permutazione
+e poi questo numero
+i sta al posto
+qui
+si sta al posto
+ok
+farei anche qua un esempio
+un po' di gente
+uno considera
+5
+1
+4
+3
+2
+questo è uno
+sponso
+il numero
+i sta al posto
+i
+5 sta al posto
+1
+1 sta al posto
+2
+3 sta al posto
+4
+4 sta al posto
+3
+5
+2
+5
+6
+6
+6
+6
+6
+7
+7
+7
+7
+8
+8
+8
+9
+9
+9
+10
+10
+10
+10
+11
+12
+11
+11
+12
+12
+12
+13
+12
+13
+12
+14
+15
+13
+15
+15
+16
+16
+17
+19
+20
+20
+21
+21
+22
+21
+22
+23
+23
+22
+23
+ma
+diciamo
+sicuramente
+sicuramente
+sicuramente
+sicuramente
+sicuramente
+sicuramente
+sicuramente
+sicuramente
+sicuramente
+sicuramente
+come vedete ancora una volta
+abbiamo
+questa somma
+in consegno
+che viene proprio
+dai principi
+c'è un blocco matabile che è stata prima
+che abbiamo solo parametro che è
+prima aveva una tappa
+ecco no?
+questo è un po' più
+unico parametro che è
+allora proviamo a dimontarlo
+riesce da dietro
+scusate
+scusate
+scusate
+scusate
+va bene
+se sapete
+ascoltare quello che dico
+se sapete
+dove è uscire
+insiedete in fondo
+e uscite a cercare
+scusate
+scusate
+scusate
+scusate
+scusate
+non si entra
+e non si esce
+davanti
+vabbè
+scusate
+scusate
+scusate
+scusate
+scusate
+scusate
+scusate
+scusate
+allora vediamo questa formula
+vediamo anche qua
+insomma
+rimetterci nella
+situazione
+dei principi
+scusate
+scusate
+il nostro universo
+U
+sono tutte le
+mutazioni
+U
+sono tutte le
+mutazioni
+scusate
+e ancora una volta
+vogliamo descrivere
+gli sconfussolamenti
+dicendo
+chi
+non è
+un posto
+prima
+seguenti che non è
+una kd diciamo
+non c'è l'1
+non c'è il 2
+non c'è il 3
+adesso quelle che non sono
+sconfussolamenti
+sono quelle che hanno
+1 al primo posto
+quelle che hanno
+2 al secondo posto
+quelle che hanno
+3 al terzo posto
+quelle che hanno
+n al primo posto
+quindi definiamo
+in questo modo
+insieme a 1 a n
+diciamo a 1
+sono le permutazioni
+con 1
+tutto bene
+voi due che siete entrati adesso?
+ma come mai
+entrate davanti
+venite
+passeggiate
+scusate
+scusate
+scusate
+scusate
+scusate
+Scusate, scusate, scusate.
+Scusate, scusate.
+Scusate, scusate.
+Scusate, scusate.
+Scusate, scusate.
+Scusate, scusate.
+Scusate, scusate.
+Adesso dobbiamo capire se, con un po' di cultura come prima,
+diciamo che queste intersezioni hanno sempre la stessa generalità,
+cioè dipende solo da quanti elementi stiamo, quanti sostanziali stiamo intersezionando.
+Vediamo.
+Io considero A1.
+Quanti elementi ha A1?
+A1 sono le complementazioni che hanno numero 1 al porto 2.
+Quante sono?
+Quante elementi ha?
+Quante elementi ha?
+Tutto quante sono le elementi?
+il nostro universo, insieme a tutte le permutazioni, sono?
+C'è un altro che sa quante sono le permutazioni, sono i miei numeri?
+N fattori.
+Benissimo.
+Se io voglio che uno stia al posto 1, quante permutazioni ha?
+N-1 fattoriato.
+Devo permutare gli altri N-1-1.
+Io devo stare fissolietto, perché non ci posso, ma è utilizzato.
+E gli altri N-1 li posso permutare come rimane.
+N-1 fattoriato.
+Quindi A1 a N-1 fattoriale.
+Se guardo A2.
+E poi gli altri numeri, 1, 3, 4, di una N, è riposto per costare come un pari.
+Sono sempre N-1 fattoriale.
+E' cambiato il numero di strattivi.
+E anche A2.
+Quando cominciamo a intersecarne 2,
+se faccio A1
+intersezione A2.
+A1 intersezione A2 vuol dire che 1 sta al posto 1
+e 2 sta al posto 2, per due le condizioni.
+Quindi ci rimangono N-2, non pari da permutare.
+E quindi sono N-2 fattoriale.
+Se faccio A5, intersezione A8,
+esempio, sono N-2 fattoriale.
+Perché c'è il 5 al posto 5, 8 al posto 8,
+e gli altri N-2 numeri,
+che è un po' di scelta.
+N-2 fattoriale.
+Allora, a questo punto ci siamo.
+Noi dobbiamo guardare questa formula qui.
+io andrò a parte sottinsieme con 3 N.
+Adesso facciamo 2 N-4.
+Per fare una cosa diversa.
+Se prendo un sottinsieme di 4 N,
+per esempio 2, 3, 7, 9,
+che contributo da?
+meno 1 alla quarta,
+che diventa un po' di più 2,
+più 1,
+e poi dobbiamo fare l'intersezione di 4,
+e H per il ritardo N-4,
+che è un po' di più 2 N.
+Per il terzo,
+ho 4 diversi ottenzioni,
+dove sto fissando 4 numeri,
+e gli altri li per il numero 2.
+Quindi lo spieghiamo.
+Grazie.
+Grazie.
+1 alla quarta,
+più 1,
+per N-4.
+Fattoriale.
+Quanti sono?
+Di sottinsieme con 4 elementi.
+Poi scegliamo che lui da 1 N, no?
+Quanti sono?
+N su 4.
+Dari sottinsieme.
+4.
+Dari sottinsieme con 4 elementi.
+Quindi,
+il contenuto
+diversivo
+risulti insieme da 4,
+è N-4,
+per N-4.
+Fattoriale.
+E poi ecco il contributo
+dei sottinsiemi con 3 elementi.
+Chiaramente ci avremo un segno meno,
+che abbiamo meno 1 alla terza,
+però poi è uguale.
+Questi sottinsiemi saranno N su 3,
+e ognuno da contributo N-3.
+Sottinsieme con 4 elementi.
+Sottinsieme con 4 elementi.
+Quindi,
+la nostra formula
+otterremo la sommatoria
+che va da 0
+a N
+1 alla I
+e contributo
+dei sottinsiemi con 4 elementi.
+N
+U
+per N-I
+fattoriale.
+E questa
+è la forma
+che volevamo
+non proprio,
+adesso
+è un pochino
+manipolare
+per farla diventare
+un po'
+ma
+va bene,
+e come si va a manipolarla?
+Intanto qua,
+vedete,
+vediamo
+questa coefficiente
+binomiale
+N
+fattoriale
+frasco
+fattoriale
+per N-I fattoriale.
+Per N-I fattoriale.
+Quindi,
+l'altro iniziale
+è questo.
+E quindi rimane
+interessante,
+questa va bene
+in una manipolazione.
+che va da 0
+a N
+1 alla I
+qui c'ho
+N fattoriale fratto
+I fattoriale
+N fattoriale fratto
+N
+N-I fattoriale fratto
+N-I
+Fattoriale fratto
+che esemplifico
+tutti i numeri
+N fattoriale fratto
+N fattoriale fratto
+N fattoriale fratto
+quindi rimangono
+N-I
+N fattoriale fratto
+N fattoriale fratto
+R
+S?'
+In questo
+I
+E
+N-I
+Fattoriale fratto
+N fattoriale fratto
+Anche
+si è uguale a 1
+cioè in parte perché
+n riscendente
+da n
+a scendere
+per n meno 1
+quindi arriva fino al 2
+in questa sommatoria
+i termini per i uguali a 0
+e i termini per i uguali a 1
+sono uguali e opposti
+e quindi uno
+in questa sommatoria
+si è uguale a 2
+a n
+e dopodiché facendo un cambio di variante
+non va a diventare
+così dalla
+j è uguale
+j è uguale a n
+meno i
+alla seriva da 2 a n
+j va da 0 a n 2
+abbiamo meno 1
+alla i
+vabbè ma questa è una manipolazione
+ciao per timer
+mi ringrazio
+per la vostra attenzione
+questa stessa
+grazie a tutti
+Grazie.
+Grazie.
+Grazie.

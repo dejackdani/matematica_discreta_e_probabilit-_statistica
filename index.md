@@ -5,6 +5,7 @@ Qui troverai un catalogo strutturato di tutti i concetti, regole, ed entità est
 
 ## 1. Informazioni Generali sul Corso
 * [[Regole_Esame]]: Informazioni pratiche, calcolo del voto, punti bonus e struttura delle prove d'esame.
+* [[Indice_Teoremi_Definizioni]]: Il catalogo centrale di tutte le definizioni, i teoremi, le proposizioni e le dimostrazioni affrontate nel corso.
 
 ## 2. Fondamenti di Matematica
 * [[Insiemi_e_Cardinalità]]: Insiemi finiti, numerabili e definizione matematica del discreto e del continuo. Costruzione diagonale per le sequenze binarie.
@@ -12,6 +13,8 @@ Qui troverai un catalogo strutturato di tutti i concetti, regole, ed entità est
 ## 3. Calcolo Combinatorio
 * [[Basi_del_Calcolo_Combinatorio]]: L'obiettivo della combinatoria, Prodotto Cartesiano, Insieme delle Parti $\mathcal{P}(A)$ e come evitare gli errori del doppio conteggio.
 * [[Disposizioni_e_Combinazioni]]: Formule di base, il concetto di Fattoriale discendente, la Funzione $m$-a-$1$, Coefficiente Binomiale e combinazioni multinomiali.
+* [[Combinazioni_con_Ripetizione_e_Fibonacci]]: Combinazioni multinomiali, corrispondenza con gli anagrammi, metodo stars and bars (combinazioni con ripetizione) e sequenze binarie senza uni consecutivi (Fibonacci).
+* [[Principio_di_Inclusione_Esclusione]]: Formula generale, calcolo dell'unione di più insiemi, sequenze k-piene e scombussolamenti (derangements).
 
 ## 4. Statistica Descrittiva
 *(Sezione da popolare)*

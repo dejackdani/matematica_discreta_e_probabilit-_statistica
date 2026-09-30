@@ -5,11 +5,25 @@ Il formato è basato su [Keep a Changelog](https://keepachangelog.com/en/1.1.0/)
 
 ## [Unreleased]
 
+## [0.6.0] - 2026-09-30
+
 ### Added
+- Refactoring massivo completato tramite team di sub-agenti: applicato Color Coding e Callout a tutte le pagine di teoria della Wiki. Tutte le definizioni e teoremi sono stati centralizzati nell'Indice Matematico.
+- Integrata in `.agents/rules/math-entities.md` la regola del "Color Coding Strutturale" per imporre l'uso logico e consistente di `\textcolor{}` nelle formule MathJax.
+- Creata la nuova regola `.agents/rules/math-entities.md` per imporre l'uso dei callout di Obsidian su definizioni e teoremi.
+- Creato il file `wiki/Indice_Teoremi_Definizioni.md` per centralizzare l'indicizzazione dei concetti matematici formali.
+- Ingestita in automatico la registrazione rielaborata del 30 Settembre.
+- Creata la nuova pagina wiki `Principio_di_Inclusione_Esclusione.md` (completa di template Active Recall estratti da `MDP Domande orale.pdf`).
+- Ingestita in automatico la registrazione rielaborata del 25 Settembre.
+- Creata la nuova pagina wiki `Combinazioni_con_Ripetizione_e_Fibonacci.md` (completa di template Active Recall estratti da `MDP Domande orale.pdf`).
 - **Esercitazioni Settimanali**: Ingerito il file `EserciziMDPnew.pdf`. Creati 11 file Markdown distinti contenenti esercizi e soluzioni a scomparsa. Ogni file è stato formattato e rinominato in modo da tracciare la deadline del venerdì (dal 18 Settembre al 27 Novembre).
 - Inserite in ogni file le checkbox interattive per monitorare lo svolgimento dei singoli esercizi e il meta-tag `stato_esercitazione: 🔴 Da Svolgere` all'interno del frontmatter YAML.
 
 ### Changed
+- Aggiornata la skill `wiki-ingest` per includere il censimento obbligatorio dei nuovi concetti matematici all'interno dell'Indice Centrale.
+
+### Changed
+- Aggiornata la sezione "Calcolo Combinatorio" nel file `index.md` con i nuovi collegamenti.
 - Aggiornata la regola `strict-sourcing.md`: autorizzata l'integrazione di dettagli omesse a voce ma presenti nella dispensa ufficiale (`lezioniNew.pdf`), a patto di confinarle in un callout di Obsidian dedicato agli approfondimenti e mantenendo l'Anti-Spoiler.
 - Aggiornato lo Step 3 del workflow `ingest-audio.md`: introdotto l'obbligo di usare la dispensa come Ground Truth durante la revisione della trascrizione vocale.
 - Aggiornata la skill `wiki-ingest`: per la generazione delle domande di "Active Recall" è ora obbligatorio interrogare il file `MDP Domande orale.pdf`, applicando un rigoroso vincolo anti-spoiler per non anticipare argomenti futuri.

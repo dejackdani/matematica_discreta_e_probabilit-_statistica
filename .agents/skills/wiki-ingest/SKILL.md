@@ -15,7 +15,8 @@ Quando l'utente ti chiede di processare o inserire una nuova fonte (generalmente
 4. **Frontmatter:** Inserisci il blocco YAML corretto con tag, data e `fonti_usate`. Usa le proprietà avanzate per Dataview, se il workspace le prevede (es. `stato_studio`). Ricorda la regola dello **Strict Sourcing**.
 5. **Cross-Reference Massiva:** La forza della wiki sono i collegamenti. Inserisci ovunque pertinente link interni `[[nome_pagina]]` verso concetti esistenti affinché la graph view di Obsidian possa mostrare un ecosistema denso.
 6. **Catalogo (Index):** Aggiorna `index.md`, che è orientato ai contenuti. Inserisci il link alla nuova pagina, un riassunto di una riga ed eventuali metadati, inserendolo nella categoria esatta.
-7. **Logging Cronologico:** Aggiungi una voce in `log.md`. Il log è una timeline "append-only". Segui le regole semantiche (`### Added` o `### Changed`) per tracciare con precisione l'evoluzione cronologica del sistema.
+7. **Aggiornamento Indice Matematico:** Se la fonte ingerita contiene definizioni, teoremi o proposizioni, devi obbligatoriamente censirli e aggiungere i link (con eventuale breve riassunto) nel file `wiki/Indice_Teoremi_Definizioni.md`, categorizzandoli in ordine alfabetico o per argomento.
+8. **Logging Cronologico:** Aggiungi una voce in `log.md`. Il log è una timeline "append-only". Segui le regole semantiche (`### Added` o `### Changed`) per tracciare con precisione l'evoluzione cronologica del sistema.
 
 ## Template e Formattazione Obbligatoria (Active Recall)
 Ogni nuova pagina concettuale generata DEVE includere, alla fine del documento, una sezione dedicata al ripasso veloce per l'esame:
