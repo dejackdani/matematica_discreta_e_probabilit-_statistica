@@ -1,0 +1,479 @@
+Ok, allora oggi, oggi, direi che non comprendiamo una parte di teoria di combinatoria, ora un po' con teoria, cominciamo gli esercizi,
+poi da come vi dico che iniziamo a fare un po' di statistica rispettiva, ma poi venerdì a posto,
+l'ultimo argomento di cui voglio parlarvi, sono un po' di risparmizioni,
+questo è l'ultimo termine tecnico che dobbiamo imparare in questa fase,
+in questo senso a rissequenze, costruzioni, rispettizioni, presentazioni, combinazioni,
+con gli archivi, i prodotti condizionati, non li sto a ripetere,
+inzalto è che questi quanti è presente nella vostra testa,
+l'ultimo concetto è abbastanza inquilino, quello di partizione,
+un termine che si usa nel linguaggio comune e anche nel linguaggio informatico,
+quando si parla di una partizione, ad esempio,
+ho visto che ho già una partizione, ho visto che ho diviso,
+ho diviso, ho diviso, infatti, ecco, la partizione è proprio questa,
+dal punto di vista il mondo, qui, privamente,
+una partizione,
+una suddivisione,
+un sinonimo,
+Grazie.
+Quindi da un punto di vista intuitivo è questa, una divisione in sotto insieme.
+Ora dobbiamo anche la definizione formale, cioè cosa vuol dire suddividere in sotto insieme?
+Vuol dire individuare alcuni sotto insieme, che abbiano delle proprietà.
+Quali sono le proprietà che vogliamo da questa figura?
+Sicuramente che questi sottotitemi non abbiano elementi in comune.
+Non è una partizione, vogliamo che a uno abbia qualsiasi elementi in comune.
+Ma cosa vogliamo? Ci piace l'idea che l'unione di tutti quanti sia l'unione insieme,
+e l'ultima condizione chiaramente per una delle cose dei generi è che questi insiemi non siano vuoti.
+Non mi stanno fare una parte, una partizione vuota, ma non si è.
+Allora diamo questa definizione in modo formale.
+Una partizione, una partizione, una partizione,
+che può essere finita o infinita.
+In questo esempio qua, abbiamo una collezione infinita.
+Abbiamo 5 sottitemi, un numero finito.
+Allora in realtà su uno può considerare anche delle partizioni,
+un numero infinito, diciamo, di sottitemi.
+Una collezione di sottitemi può essere finita o infinita.
+Allora, chiamiamo questi sottitemi a uno, a due, eccetera,
+tali che...
+Allora, scriviamo le proprietà che abbiamo detto.
+La prima che abbiamo detto è che questi sottitemi devono essere disgiunti a due o due.
+Non vogliamo elementi incompatibili, come si scrive, eh?
+Proviamo che AI, intersezione AJ,
+devono essere uguale insieme a voi.
+Per ogni...
+Grazie a tutti.
+La seconda condizione che abbiamo detto è che l'unione di questi fatti resta di tutti.
+Non è una partezione bianca.
+E la terza cosa che abbiamo detto è che gli acquamini non sono mai vuoti.
+Allora, quando parliamo di partizione,
+l'ordine che compaiono i sottitemi non è...
+Allora, l'ordine insieme...
+Scriviamo sicuramente l'ordine...
+Allora, lo pensiamo proprio come una suddivisione.
+Non voglio dire che questo è il primo, questo è il secondo, questo è il terzo.
+Non è qui, non è numerato in questo modo.
+Ma se li avessi numerati come questo con la 2 e questo con la 1, sarebbe la stessa partezione.
+Questi sottinsiemi,
+che formano la partezione,
+vediamo il nome, eh?
+E chiamiamo il bloccio.
+I sottinsiemi
+si vengono
+blocchi.
+Qualcuno si può anche dire parti,
+insomma...
+La termine parti è troppo simile a partizione,
+però non si sono preso,
+che non abbiamo preso.
+Vengono blocchi,
+qual è qui l'errore più comune,
+essendo agitati.
+L'errore più comune è sempre chiamare i blocchi
+le partizioni.
+I blocchi non sono le partizioni,
+la partizione è la suddivisione.
+È la suddivisione in blocchi.
+Queste qui non sono le partizioni,
+la partizione è tutto,
+che è fatta da tanti blocchi.
+Lo spiega, non chiamiamo
+i blocchi.
+No, no, non ci si capisce.
+Poi lo vuoi chiamare
+e a partizione.
+Quello si chiama i blocchi e questa la partizione.
+Ok?
+Vabbè, facciamo qualche esempio.
+Facciamo insieme, non so, a 1, 2 e 3.
+1, 2 e 3.
+Quante sono le partizioni?
+Quante sono le partizioni di A?
+Quanti modi posso smelidire A?
+Vabbè, perché ci abbiamo 2 e 3?
+Il modo più semplice per rappresentare la partizione
+è proprio quello di fare la suddivisione del diagramma
+del diagramma di Euleto V.
+No, no.
+Possiamo pensare,
+quando la partizione è fatta da un unico blocco,
+esiste sempre,
+la partizione è fatta da un unico blocco grande,
+così come esiste sempre la partizione
+in cui ogni elemento forma un blocco.
+Queste due ci stanno sempre in ogni insieme.
+Poi possiamo fare quelle non banali, no?
+In questo caso fare una partizione non banale
+cosa vuol dire?
+Quindi faccio un blocco da 1 e un blocco da 2.
+Posso fare così,
+un blocco che contiene 2,
+un blocco che contiene 3.
+Posso fare così,
+o posso fare così.
+Quindi se un se ne ha 3 elementi,
+trovo qualche esempio non banale,
+insomma magari su insiemi infiniti,
+per ampliare
+un po' più l'orizzonte
+del concetto di partizione
+se prendiamo
+as insieme
+come in te
+come li possiamo
+partizionare
+stanno
+tanti modi
+questo deve fare qualche esempio
+in modo semplice
+è quello di fare i due blocchi
+in cui da una parte mettiamo i vari
+la parte mettiamo i dispari
+ma questa è una partizione
+in due blocchi
+qui chiaramente
+ogni blocco ha un numero infinito
+di elementi
+dei vari
+però uno può pensare anche a una partizione
+qui abbiamo
+infiniti blocchi
+ognuno dei quali ha un numero finito di elementi
+che cosa possiamo fare
+qua i numeri
+minore di 100
+qua si mette i numeri
+tra 100
+minore uguali di 100
+ma minore di 200
+e poi facciamo i numeri
+e poi facciamo i numeri
+minore uguali di 200
+ma minore di 300
+in questo modo faccio
+infiniti blocchi
+ognuno dei quali ha 100 elementi
+ma l'accezione è legittima
+ma uno può anche fare
+infiniti blocchi
+con infinite elementi
+si possono
+si possono
+anche
+avere
+infiniti blocchi
+ciascuno dei quali
+come si fa
+non so
+infiniti blocchi
+vi faccio un esempio
+facciamo il primo blocco
+e mettiamo le potenze di due
+poi facciamo un altro
+con le potenze di tre
+non per tendere
+a avere sovrapposito
+non posso
+e poi ci possono mettere
+potenze di cinque
+questi sono infiniti
+questi sono infiniti
+questi sono infiniti
+diciamo
+posso fare questo lavoro
+su ogni numero primo
+no?
+nel numero primo
+faccio un blocco
+quindi quelle potenze
+di questo numero primo
+alla fine faccio
+un ultimo blocco
+con i numeri
+che non sono potenze di primo
+numeri
+non potenza di un primo
+in questo primo blocco
+c'entra
+sei
+c'entra dieci
+dodici
+un esempio
+che
+lascia un po' il tempo
+che trova
+giusto per dimostrare
+se questi blocchi
+possono essere
+tantissimi
+il numero finito
+di elementi
+non possono essere
+anche infiniti
+ovviamente
+in combinatoria
+noi
+che diciamo
+che sono
+quanti
+uno
+quince
+l'insieme
+è infinito
+come in questo caso
+è un numero di
+motivi
+le partizioni
+sono anche
+infinite
+nulla da dire
+e quindi
+concentriamo
+per esempio
+come questo qua
+questo aveva tre elementi
+adesso
+qua
+qualunque arbitrario
+finito
+però viene
+abbiamo
+questa
+riflessione
+è
+questa
+è
+
+è
+Nel numero di partizioni dell'insieme di numero 1N
+Nel numero di partizioni dell'insieme di numero 1N
+Nel numero di partizioni dell'insieme di numero 1N
+Nel numero 1N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N
+Nel numero 2N

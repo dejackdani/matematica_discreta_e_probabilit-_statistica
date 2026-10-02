@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/Esercitazione_01_18-Settembre.md",
+                "file": "wiki/Basi_del_Calcolo_Combinatorio.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Esercitazione_01_18-Settembre"
+              "title": "Basi_del_Calcolo_Combinatorio"
             }
           }
         ]
@@ -179,6 +179,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "callout-manager:Insert Callout": false,
       "switcher:Apri selettore rapido": false,
       "graph:Apri vista grafo": false,
       "canvas:Crea nuova lavagna": false,
@@ -190,19 +191,19 @@
   },
   "active": "9e94dbb79cea65dc",
   "lastOpenFiles": [
+    "wiki/Combinazioni_con_Ripetizione_e_Fibonacci.md",
+    "wiki/Basi_del_Calcolo_Combinatorio.md",
+    "wiki/Esercitazione_01_18-Settembre.md",
     "index.md",
     "wiki/Regole_Esame.md",
     "wiki/Principio_di_Inclusione_Esclusione.md",
     "wiki/Insiemi_e_Cardinalità.md",
     "wiki/Indice_Teoremi_Definizioni.md",
-    "wiki/Combinazioni_con_Ripetizione_e_Fibonacci.md",
     "wiki/Disposizioni_e_Combinazioni.md",
     "scratch/fix_colors.py",
     "scratch",
-    "wiki/Basi_del_Calcolo_Combinatorio.md",
     "raw/assets/venn_2_insiemi.png",
     "raw/assets/venn_3_insiemi.png",
-    "wiki/Esercitazione_01_18-Settembre.md",
     "raw/assets/venv/lib/python3.14/site-packages/matplotlib_venn-1.1.2.dist-info/REQUESTED",
     "raw/assets/venv/lib/python3.14/site-packages/matplotlib_venn-1.1.2.dist-info/INSTALLER",
     "raw/assets/venv/lib/python3.14/site-packages/matplotlib_venn/layout/venn3/__pycache__/pairwise.cpython-314.pyc",

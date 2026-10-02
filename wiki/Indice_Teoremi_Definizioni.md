@@ -32,3 +32,7 @@ Questo è il catalogo globale di tutte le definizioni formali, dei teoremi e del
 **Pagina:** [[Principio_di_Inclusione_Esclusione]]
 - **Definizioni:** Sequenza $k$-piena, Scombussolamento (Derangement).
 - **Teoremi/Proposizioni:** Principio di Inclusione-Esclusione per $n$ insiemi.
+
+## Partizioni
+**Pagina:** [[Partizioni_di_un_Insieme]]
+- **Definizioni:** Partizione di un Insieme, Blocchi.

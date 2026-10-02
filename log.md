@@ -5,6 +5,17 @@ Il formato è basato su [Keep a Changelog](https://keepachangelog.com/en/1.1.0/)
 
 ## [Unreleased]
 
+## [0.7.0] - 2026-10-02
+
+### Added
+- Ingestita in automatico la registrazione rielaborata del 02 Ottobre.
+- Creata la nuova pagina wiki `Partizioni_di_un_Insieme.md` (completa di template Active Recall estratti da `MDP Domande orale.pdf`).
+- Creato il mazzo di flashcard AOSR per il ripasso spaziale (`01-Partizioni_di_un_Insieme.md`).
+
+### Changed
+- Aggiornato il file `wiki/Indice_Teoremi_Definizioni.md` includendo il concetto di Partizione di un Insieme e la relativa definizione.
+
+
 ## [0.6.0] - 2026-09-30
 
 ### Added
