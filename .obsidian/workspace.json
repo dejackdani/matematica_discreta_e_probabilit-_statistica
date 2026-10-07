@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/Basi_del_Calcolo_Combinatorio.md",
+                "file": "wiki/Partizioni_di_un_Insieme.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Basi_del_Calcolo_Combinatorio"
+              "title": "Partizioni_di_un_Insieme"
             }
           }
         ]
@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "stirling",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -189,17 +189,31 @@
       "bases:Crea nuova Base": false
     }
   },
-  "active": "9e94dbb79cea65dc",
+  "active": "48a3f27df1dc7008",
   "lastOpenFiles": [
+    "wiki/Statistica_Descrittiva_di_Base.md",
+    "appunti_dani/04_Statistica_Inferenziale.md",
+    "appunti_dani/03_Probabilità.md",
+    "appunti_dani/02_Statistica_Descrittiva.md",
+    "appunti_dani/01_Calcolo Combinatorio.md",
+    "appunti_dani/00_appunti_dani.md",
+    "appunti_dani",
+    "raw/registrazioni/trascrizioni-sistemate/MdP20261007.md",
+    "index.md",
+    "wiki/Principio_di_Inclusione_Esclusione.md",
+    "raw/registrazioni/trascrizioni-sistemate/MdP20261002.md",
+    "raw/registrazioni/trascrizioni-whisper/MdP20261002_g.txt",
+    "raw/registrazioni/trascrizioni-whisper/Non confermato 643441.crdownload",
+    "wiki/Esercitazione_08_06-Novembre.md",
+    "wiki/Esercitazione_05_16-Ottobre.md",
+    "wiki/Disposizioni_e_Combinazioni.md",
     "wiki/Combinazioni_con_Ripetizione_e_Fibonacci.md",
     "wiki/Basi_del_Calcolo_Combinatorio.md",
-    "wiki/Esercitazione_01_18-Settembre.md",
-    "index.md",
-    "wiki/Regole_Esame.md",
-    "wiki/Principio_di_Inclusione_Esclusione.md",
     "wiki/Insiemi_e_Cardinalità.md",
+    "wiki/Esercitazione_04_09-Ottobre.md",
+    "wiki/Esercitazione_01_18-Settembre.md",
+    "wiki/Regole_Esame.md",
     "wiki/Indice_Teoremi_Definizioni.md",
-    "wiki/Disposizioni_e_Combinazioni.md",
     "scratch/fix_colors.py",
     "scratch",
     "raw/assets/venn_2_insiemi.png",
@@ -209,9 +223,6 @@
     "raw/assets/venv/lib/python3.14/site-packages/matplotlib_venn/layout/venn3/__pycache__/pairwise.cpython-314.pyc",
     "raw/assets/venv/lib/python3.14/site-packages/matplotlib_venn/layout/venn3/__pycache__/cost_based.cpython-314.pyc",
     "raw/assets/venv/lib/python3.14/site-packages/matplotlib_venn/layout/venn3/__pycache__/__init__.cpython-314.pyc",
-    "raw/assets/venv/lib/python3.14/site-packages/matplotlib_venn/layout/venn3/__pycache__",
-    "raw/assets/venv/lib/python3.14/site-packages/matplotlib_venn/layout/venn2/__pycache__/exact.cpython-314.pyc",
-    "raw/assets/venv/lib/python3.14/site-packages/matplotlib_venn/layout/venn2/__pycache__/__init__.cpython-314.pyc",
     "raw/assets/venv/lib/python3.14/site-packages/matplotlib/mpl-data/images/zoom_to_rect_large.png",
     "raw/assets/venv/lib/python3.14/site-packages/matplotlib/mpl-data/images/zoom_to_rect.svg",
     "raw/assets/venv/lib/python3.14/site-packages/matplotlib/mpl-data/images/zoom_to_rect.png",
@@ -225,16 +236,6 @@
     "raw/assets/venv/lib/python3.14/site-packages/numpy-2.5.3.dist-info/licenses/numpy/random/src/splitmix64/LICENSE.md",
     "raw/assets/venv/lib/python3.14/site-packages/numpy-2.5.3.dist-info/licenses/numpy/random/src/sfc64/LICENSE.md",
     "raw/assets/venv/lib/python3.14/site-packages/numpy-2.5.3.dist-info/licenses/numpy/random/src/philox/LICENSE.md",
-    "raw/assets/venv/lib/python3.14/site-packages/numpy-2.5.3.dist-info/licenses/numpy/random/src/pcg64/LICENSE.md",
-    "raw/assets/venv/lib/python3.14/site-packages/numpy-2.5.3.dist-info/licenses/numpy/random/src/mt19937/LICENSE.md",
-    "raw/assets/venv/lib/python3.14/site-packages/numpy-2.5.3.dist-info/licenses/numpy/random/src/distributions/LICENSE.md",
-    "raw/assets/venv/lib/python3.14/site-packages/numpy-2.5.3.dist-info/licenses/numpy/fft/pocketfft/LICENSE.md",
-    "raw/assets/venv/lib/python3.14/site-packages/numpy-2.5.3.dist-info/licenses/numpy/random/LICENSE.md",
-    "raw/assets/venv/lib/python3.14/site-packages/numpy/random/LICENSE.md",
-    "raw/assets/venv/lib/python3.14/site-packages/pyparsing/ai/best_practices.md",
-    "raw/registrazioni/trascrizioni-sistemate/MdP20260930.md",
-    "wiki/Esercitazione_03_02-Ottobre.md",
-    "wiki/Esercitazione_02_25-Settembre.md",
-    "raw/registrazioni/trascrizioni-sistemate/MdP20260925.md"
+    "raw/assets/venv/lib/python3.14/site-packages/numpy-2.5.3.dist-info/licenses/numpy/random/src/pcg64/LICENSE.md"
   ]
 }

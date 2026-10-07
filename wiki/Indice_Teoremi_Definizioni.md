@@ -36,3 +36,8 @@ Questo è il catalogo globale di tutte le definizioni formali, dei teoremi e del
 ## Partizioni
 **Pagina:** [[Partizioni_di_un_Insieme]]
 - **Definizioni:** Partizione di un Insieme, Blocchi.
+
+## Statistica Descrittiva di Base
+**Pagina:** [[Statistica_Descrittiva_di_Base]]
+- **Definizioni:** Carattere, Popolazione, Campione, Modalità, Frequenza, Classe, Istogramma, Moda, Media Campionaria, Varianza, Deviazione Standard.
+- **Teoremi/Proposizioni:** Linearità della Media, Formula Operativa per la Varianza, Proprietà della Varianza (Riscalamento).

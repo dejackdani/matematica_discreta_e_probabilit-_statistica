@@ -5,6 +5,16 @@ Il formato è basato su [Keep a Changelog](https://keepachangelog.com/en/1.1.0/)
 
 ## [Unreleased]
 
+## [0.8.0] - 2026-10-07
+
+### Added
+- Creata la nuova pagina wiki `Statistica_Descrittiva_di_Base.md` (completa di template Active Recall estratti da `MDP Domande orale.pdf`).
+- Aggiornato `index.md` e `wiki/Indice_Teoremi_Definizioni.md` con i concetti di Statistica Descrittiva introdotti nella registrazione.
+
+### Changed
+- Aggiornato il workflow `ingest-audio.md` per supportare il merge di due fonti testuali (Whisper e Google Pixel).
+- Aggiunta eccezione in `git-guide.md` per tracciare silenziosamente le modifiche in `appunti_dani/` salvaguardando il Pre-Flight Protocol.
+
 ## [0.7.0] - 2026-10-02
 
 ### Added

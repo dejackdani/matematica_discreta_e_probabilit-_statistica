@@ -1,0 +1,2115 @@
+il rumore
+qui sta al massimo
+prova prova
+ha creato la poca
+si comincia a parlare così
+allora oggi iniziamo
+il nostro corso
+con due o tre lezioni
+vedremo un po' di nozioni di base
+di statistica
+descrittiva
+cerchiamo di fare silenzio
+proprio di che iniziamo invece la parte
+che ci fa nella nostra prima lezione
+che è la più sostanziosa del corso
+che sarà la probabilità
+che ci accompagnerà sostanzialmente
+quasi fino alla fine del corso
+la statistica iscrittiva serve
+così un po' per
+cultura generale
+ma conoscere un po' di concetti
+di statistica
+e un po' perché insomma
+è un modo
+gentile di introdurre alcuni concetti
+che saranno più astratti
+poi in probabilità
+quindi magari se uno
+ripigerisce bene
+vedendole una parte di statistica
+poi è avvantaggiato
+diciamo quando
+li vediamo in probabilità
+allora c'è una differenza sostanziale
+diciamo tra statistica e probabilità
+però
+che è nella
+nella nomenclatura
+insomma
+ad esempio
+in statistica
+si parla di
+popolazione
+va bene
+che poi
+in probabilità
+sarà sostituita
+da quello che si chiama
+uno spazio di probabilità
+cos'è una popolazione?
+per noi è semplicemente
+un insieme
+una popolazione
+è un insieme
+può essere finito
+sul quale vogliamo effettuare
+la nostra indagine
+sul quale
+vogliamo effettuare un'indagine
+allora cosa vuol dire
+effettuare un'indagine?
+dal punto di vista
+matematico
+fare un'indagine
+vuol dire
+semplicemente
+considerare
+una funzione
+definita
+sulla popolazione
+questa funzione
+che è l'oggetto
+dell'indagine
+si chiama
+il carattere
+il carattere
+sarà quello
+che sarà sostituito
+in probabilità
+dalle cosiddette
+variabili
+aeratorie
+la popolazione
+ha un altro spazio
+di probabilità
+il carattere
+si chiamerà
+variabili
+aeratoria
+ma adesso
+non lo scrivo neanche
+perché non voglio
+confondere
+l'indagine
+però con noi
+il carattere
+è l'oggetto
+dell'indagine
+e quindi diciamo
+che è una funzione
+la popolazione
+la popolazione
+allora
+un'altra definizione
+facciamo gli esempi
+popolazione
+e carattere
+non possono nominare
+anche il campione
+il campione
+è sicuramente
+un sotto insieme
+della popolazione
+un sotto insieme
+finito
+della popolazione
+sul quale
+riusciamo a determinare
+il valore
+del carattere
+il quale
+e terminiamo
+il valore
+ok
+allora facciamo anche
+l'esempio
+come abbiamo anticipato
+per chiamare
+come popolazione
+si potrebbero
+prendere
+non so
+tutti gli studenti
+percorsi
+di er hour
+o
+la popolazione
+venti
+tutti
+tutti
+quindi della storia
+carattere
+cosa possiamo considerare
+come esempio di carattere in questo caso
+possiamo ad esempio considerare il sesso
+maschi e fenti
+oppure il volto di naturità
+il volto di naturità
+materia preferita
+esempio di carattere
+poi media e gli esami
+tutti caratteri che ho senso considerare
+che danno origine a una cellulare
+indagini
+ora come abbiamo anticipato
+chiaramente la popolazione spesso è troppo grande
+non sempre è possibile poter effettuare l'indaglio
+a tutta la popolazione
+anche nel nostro esempio
+è bello di pescare tutti
+magari non riusciamo a trovare
+magari a me degli esami
+non finiscono a costruire
+ma la materia preferita no
+va bene
+allora quello che si fa
+è si determina un campione
+diciamo che
+si sostenziona la popolazione
+e chiaramente deve essere
+certo in modo che sia
+il rappresentativo possibile
+sul quale uno ha effetto
+attivo
+la pappellazione
+quindi
+un valuta
+il carattere
+voi siete un campione
+chiaramente siete solo parzialmente rappresentativi
+perché siete divanti nella stessa classe
+quindi
+non vedete
+rappresentativi di tutti gli studenti
+non sono parzialmente rappresentativi
+perché poi gli studenti scegono
+ma
+siamo capiti
+va bene
+ora quando uno parla di caratteri
+la prima
+classificazione che fa
+di caratteri
+è tra caratteri quantitativi
+e caratteri qualitativi
+quali sono i caratteri quantitativi
+e quali sono i caratteri qualitativi
+allora
+quelli quantitativi
+sono quelli che esprimono
+un numero
+che carattere
+da un valore numerico
+che quantifica qualcosa
+non deve essere solo un numero
+come una quantichetta
+per esempio
+sesso
+io potrei fare
+uno maschio
+due femmine
+uno per i maschi
+due per le femmine
+questo non è un carattere quantitativi
+quello chiamato con dei numeri
+è un carattere qualitativi
+così come la materia preferita
+è un carattere qualitativi
+anche se magari le materie
+io ho
+sono codificate con dei codici numerici
+non esprimo con un numero
+ma non è un carattere quantitativi
+mentre nel mondo di maturità
+o la materia di esami
+sì che sono
+quattro
+perché
+il loro valore
+esprime una quantità
+che più è grande
+e più è un'informazione
+su
+il valore
+e
+diciamo
+il voto
+di maturità
+per esempio
+i caratteri
+quantitativi
+va bene?
+chiaro no?
+ovviamente ci interesseremo
+particolarmente caratteri quantitativi
+caratteri quantitativi
+non c'è molto da lavorare
+ok?
+allora
+trate queste prime tre definizioni
+le aggiungiamo ancora un po'
+il mettere
+il numero di volte
+in cui una modalità si presenta
+non è come si dice
+frequenza della modalità
+frequenza
+quindi se ad esempio
+io faccio un'indagine
+per voi vi chiedo
+il numero di esami
+quanti esami avete fatto?
+il numero di esami
+allora che rende magari
+se questo è l'esito della mia indagine
+questi numeri qua
+sono le modalità
+e queste qui sono le rispettive
+frequenze
+c'è la modalità 0
+una frequenza shift
+una modalità 1
+una frequenza 15
+quindi questo uno può
+altrimenti
+se ne pare
+una tabellina di questo tipo
+in cui ti riporto
+una modalità
+non posso scrivere
+la scritta
+però
+ora ovviamente
+come
+l'abitudine
+ci ha insegnato
+ci sono delle situazioni
+in cui le modalità
+sono molto numerose
+diciamo qua
+il numero di esami
+comunque se è che resta sempre
+o
+sono anche secondari
+non mi importa
+se facessi
+la stessa indagine
+sui studenti
+al terz'anno
+o
+io al terz'anno
+avrei
+insomma
+la modalità
+molto più numerose
+o anche
+se io facessi
+come prima
+il quadro di maturità
+poi la modalità
+la modalità
+è una modalità
+che la loro
+uscita
+tra 60
+e 90
+parecchie
+parecchie modalità
+in questi casi
+però
+si fa
+chiaramente
+di
+dividere
+le modalità
+in classi
+le modalità
+va bene
+classiche
+sono solitamente
+determinate
+dal loro
+confine inferiore
+al confine
+inferiore
+inferiore
+infini
+inferiore
+in te
+mettiamole i denti
+anche qua
+una lezione
+una lezione
+di relazio
+piuttosto semplice
+di relazio
+è da qua
+è quasi semplice
+un mod recruit
+di relazio
+non
+adesso
+mi
+fку
+una lezione
+per
+l'op Cadillac
+diesel
+ho preso da qua
+ho preso da qua
+una seconda classe
+tra 70.000 e 100.000
+una terza classe
+tra 50.000
+e 70.000
+poi una tra 30
+e 50
+10
+e 30
+e 15
+decidiamo di dividere così
+quindi queste sono
+diciamo le nostre classi
+che chiaramente
+possono essere viste
+come delle nuove modalità
+la prima modalità
+era il reddito
+però possiamo anche dire
+la classe di reddito
+che è la domanda
+e quindi
+diciamo in questa tabella
+adesso possiamo mettere
+diciamo
+le frequenze
+che risultano
+in realtà
+statistica
+vediamo queste 200 persone
+tra 70 e 103
+tra 50 e 75
+tra 30 e 50
+26
+tra 10 e 30
+sono 100
+e sotto a 10
+e sotto a 10
+ora
+una volta che abbiamo fatto
+questa
+indaglia
+abbiamo questi indagli
+qual è
+una riflessione
+che uno può fare
+la prima cosa
+che uno pensa
+è la suddivisione in classi
+che era stata fatta male
+vedete che ci sono
+alla fine delle classi
+in cui non c'è
+quasi nessuno
+e poi delle classi
+in cui invece
+ci stanno tantissime
+diciamo
+questa suddivisione
+non è molto significativa
+diciamo
+vuol dire
+che
+potremmo scegliere
+mantenendo un numero
+di classi costanti
+diciamo
+6
+in questo caso
+per poter distribuire
+in modo diverso
+e avere
+diciamo
+un'informazione
+un po' più precisa
+ad esempio
+in questi 100
+come si distribuiscono
+tra i 10 e i 30
+a tutti
+e i 10 mila
+oppure
+i 90
+nessuno vuole dare
+un'informazione
+più significativa
+perché vorrà fare
+sarà
+per esempio
+di suddividere
+questa classe in due
+ma anche questa classe in due
+mentre queste tre classi qua
+è importante
+che non dare
+troppe
+troppi
+perché se no
+si perdono
+allora prima di fare
+questa
+diversa
+vorrei
+introdurre
+un concetto
+di
+istogramma
+e poi
+questo programma che cos'è?
+sono quei grafici
+che si trovano
+spesso in giro
+in cui
+le nostre modalità
+sono cercate
+da
+rettangoli
+e poi
+i rettangoli
+tanto più grandi
+quanto
+è
+maggiore
+la modalità
+c'è però
+una
+distinzione particolare
+a cui uno
+non fa
+questo caso
+che è più grande
+non va inteso
+come il tuo altro
+ma va inteso
+come più esteso
+vediamo cosa intendiamo
+in questo caso
+nell'istogramma
+ogni classe
+è rappresentata
+da
+un rettangolo
+base
+proporzionale
+all'ampiezza
+della classica
+allora
+l'ampiezza della classica
+come ho detto
+è
+specificamente
+è la differenza
+tra i due consigli
+e
+vogliamo
+area
+proporzionale
+alla frequenza
+allora
+proviamo a fare
+un'istogramma
+così a mano
+sulla lavagna
+di questi dati
+due assi carteggiani
+allora
+i due asi carteggiani
+sono
+entrati
+questi dati
+sono
+i due
+e la terza classe è maggiore
+adesso cerchiamo di eseguire
+le indicazioni che sono scritte qua
+diciamo per la classe
+minore di 10.000
+dobbiamo fare un diagramma
+cui la base chiaramente
+è proporzionale a 10
+e la superficie deve essere
+proporzionale a 64
+vabbè quindi diciamo
+quando passiamo alla classe 10.30
+vedete questa è la frequenza 100
+però ha una base
+che è il golpe di più
+quindi se vogliamo che questo abbia area 100
+il rettangolo corrispondente
+sarà un pochino più basso
+non è l'altezza quello che è importante
+diciamo quello che conta è l'altezza
+se le superfici sono tutte uguali
+se le basi sono tutte uguali
+ma in generale quello che conta
+è proprio appunto l'area
+in modo che il disegno che andiamo a fare
+nel suo programma ci dà un'idea
+diciamo della distribuzione
+cioè vedete qui
+fra 0 e 10.000 ci sono 64 persone
+che è rappresentato da questo rettangolo
+ora se questa è la seconda classe
+è posto diciamo
+adicuamente distribuite
+uno se ne immagina
+50 tra 10 e 20.000
+e 50 tra 20.000
+e quindi diciamo
+se questo è l'altezza 64
+questo è l'altezza 50
+diciamo questi 50 tra 10 e 20
+e altri 50 tra 10 e 30
+se non lo facessimo più alto
+se mi vedete che c'è una maggiore distribuzione
+cosa che è pazzo
+è più alta la distribuzione di questa cosa
+va bene e poi così via
+questa è la classe 30-50
+da 26
+poi abbiamo questa 50-75
+sarà minuscola
+questa tra 70 e 100
+ancora più piccola
+e poi maggiore di 100
+qui l'ampiezza diciamo che è infinita
+diciamo che quindi
+questo diagramma qua
+uno lo deve un po' vedere
+come se fosse
+una costituzione
+di quello che è il dato reale
+della distribuzione
+diciamo che quando
+se andiamo a fare delle classi più piccole
+cosa può succedere
+che magari questo qua
+diventa un po' più alto
+e questo diventa un po' più basso
+però
+la superficie totale
+deve essere la stessa
+se facciamo diciamo
+un processo di linea
+di fare classi piccole piccole piccole
+piccole avremo
+una distribuzione continua
+di cui questa
+è una prima approssimazione
+infatti facciamo
+diciamo
+dobbiamo di
+sistemare un pochino
+questi dati
+che vogliono dare
+informazioni
+di crescita
+e come la sistema
+quindi andiamo
+chiudiamo meglio
+i primi
+le prime tre classi
+possiamo
+mettere una classi
+solo
+da lì
+poi magari
+30-50 mila
+lasciamo
+come è
+60-60-60
+va bene
+poi
+questa è una
+di 30-30
+di 2
+facciamo 20k
+20k
+nell'invalgine
+ho
+qui 44
+k
+20k
+e ancora
+anche quella
+sotto i 10
+la possiamo
+dividere in 2
+abbiamo 5k
+10k
+30
+e meno
+di 5
+e meno
+di 30
+4
+ok
+se
+prendiamo
+questi dati
+come cambia
+il diagramma
+allora
+la classi
+da 10
+prima
+era
+costante
+64
+adesso
+se la divise
+in 2
+ma insomma
+erano tutto sommato
+abbastanza
+equamente
+distribuiti
+abbiamo
+30 e 34
+quindi avremo
+qualcosina
+in più
+di una 5
+e qualcosina
+in meno
+diciamo così
+tra 5 e 10
+chiaramente
+l'area
+che è aggiunto qua
+deve essere uguale
+all'area
+che è un 8 e 4
+che è la somma
+della prima
+così ancora
+la classe
+diciamo
+che era
+prima
+la prima
+10 e 30
+che era da 100
+adesso è divisa in 2
+56 e 44
+forse fanno
+perché 56
+10 mila
+resta
+di come un po'
+e più pasta
+poi tra 30 e 50 mila
+rimane uguale
+prima
+e poi
+insomma abbiamo fatto
+un'unica classe
+50 mila
+ok
+era un po'
+l'idea
+di questo
+e del più
+quasi facciamo
+e più abbiamo
+il diagramma
+che diventa
+chissà vicino
+a una funzione
+e questo è il passaggio
+che faremo poi
+in tua vita
+da
+la vita
+di scena
+con la continua
+cosa che non faremo
+chiaramente
+in statistica
+statistica
+ci accontentiamo
+per ora
+di disegni
+di scritto
+vabbè
+ottimo
+ottimo
+allora
+a parlare di
+indici
+di posizione
+vabbè
+gli indici
+di posizione
+cosa sono?
+sono degli indici
+associati
+ad un carattere
+che vogliono
+fanno sensibilizzare
+in un unico valore
+un qualche aspetto
+del carattere
+che sintetizza
+un valore
+del carattere
+un esempio
+l'indice
+di posizione
+più semplice
+in assoluto
+è la
+cosiddetta
+moda
+una moda
+che cos'è
+la moda?
+è una modalità
+quindi il valore
+del carattere
+che occorre
+risposto
+cioè quello
+con la frequenza
+massima
+è la modalità
+con freddenza massima
+io faccio
+ad esempio
+l'indice
+tra di voi
+che disegno
+il colore
+della vostra maglia
+ho grigli
+c'è il fungolo nero
+c'è il fungolo bianco
+pochissimi
+rossi
+o blu
+o giardie
+o uno
+o due
+e basta
+il colore
+che compare
+più spesso
+quello con la frequenza
+massima
+è la moda
+il colore
+il termine
+che viene
+anche dal linguaggio
+comune
+ma chiaramente
+la moda
+ci interessa
+la partita
+quello che
+ha il vantaggio
+diciamo
+la moda
+appunto
+uno lo può definire
+sempre
+sia per caratteri
+quantitativi
+che qualitativi
+come il colore
+quindi
+se vuoi iniziare
+è veramente
+il più importante
+di tutti
+è la pubblicità
+media
+la media
+la media
+la chiamiamo
+media campionaria
+mettiamo tra parenti
+campionaria
+un carattere
+x
+però
+quindi
+questo
+x
+solitamente
+in questo contesto
+ha un carattere
+può essere
+il foro
+di una autorità
+può essere
+la media
+di un design
+abbiamo
+caratteri
+x
+in questo caso
+chiamiamo
+su 1
+fino a xn
+i valori
+assunti
+da carattere
+i valori
+assunti
+da carattere
+x
+il carattere
+x
+il carattere
+x
+allora
+ma vedete
+che ha entrato
+il carattere
+x
+allora
+chiamiamo
+x1 xn
+i valori
+i valori
+assunti
+da carattere
+x
+sugli elementi
+per caso
+allora
+la media
+campionaria
+mi chiamo
+con x
+o anche con x
+n
+se vogliamo
+stressare
+infatti
+dobbiamo
+n
+questo è
+un po'
+m
+la media
+è la media
+di valori
+chiaramente
+si può definire
+solo
+quando il carattere
+è quantitativo
+cosa che assumeremo
+in questo esempio
+ok
+allora
+chiaramente
+questo qui
+chiederemo
+anche
+questo foro
+e forse
+ne ha approvito
+per
+fare due
+o tre
+proprietà
+sui sommatori
+che usiamo
+spesso
+cose
+elementari
+facciamo
+riscriviamo
+una volta
+per tutte
+pizza
+la prima è
+che se noi
+abbiamo
+un fattore
+che vado
+uno è
+di
+altro
+di
+di
+di
+di
+di
+di
+di
+di
+di
+di
+di
+di
+di
+di
+di
+di
+di
+di
+di
+di
+di
+di
+di
+parte
+questa
+può spezzare
+giù
+ma
+tor MA
+il
+l'
+il
+l'altra
+av
+io ho
+una sfumatoria
+che vale un'altra
+sia con il
+quindi per la proprietà distributiva
+si chiama
+per raccogliere questo fattore
+per forzare anche la sfumatoria
+e in particolare diciamo
+il sottocaso di questo
+se noi abbiamo
+il sommandone
+che va da un m
+c
+quanto fa?
+questo fa c per n
+dobbiamo sommare n volte c
+questo fa mc
+non classificare
+va bene
+l'ultima proprietà
+è il caso in cui abbiamo
+una sfumatoria
+qui abbiamo una sfumatoria
+2i
+i che va da 1 a n
+i temi li andiamo
+a sommare
+un pezzo che dipende da i
+e un pezzo che dipende da j
+allora questo lo posso
+scrivere come il prodotto
+di due sfumatorie
+quindi va da 1 a n
+di a 1 i
+fa tutto questo
+lo possiamo moltiplicare
+per la sfumatoria
+e che va da 1 a n
+e che va da 1 a n
+e che va da 2 a somma
+di lì con gente
+ancora una volta qua
+si dice
+sostanzialmente
+la proprietà distributiva
+è poco più
+tutta la proprietà
+siamo elementari
+però ecco
+se uno
+si scrive
+si ricorda
+quando
+otteniamo una cosa
+di questo tipo
+la possiamo sviluppare così
+e si mette in tutel'altro
+la mette in atto
+quindi forse la poteniamo
+bene
+ma vediamo qua
+di mettere in atto
+è una proprietà
+fondamentale della media
+quali in realtà
+quali in realtà
+cosa ci dice
+questa proprietà
+diciamo
+in modo di semplice
+supponiamo
+che aveva
+due caratteri
+la linea
+di simboli
+caratteri
+della media
+che sono legati
+ad una certa
+relazione lineare
+legati
+a x
+però è visto
+con un numero
+di costanti
+allora c'è
+un legame analogo
+tra le rispettive medie
+questo è quello che è
+verificato
+questa posizione
+si dice che in questa situazione
+allora
+la media di x
+se io conosco la media di x
+se io conosco la media di x
+faccio
+voglio provare
+che la media di x
+usando questa formula
+così c'è
+come si fa
+come un po'
+piccino
+vogliamo fare
+la media di x
+la media di y
+andiamo lì
+la definizione
+andiamo a fare
+1 su m
+per la sommatoria
+degli x
+ok
+ora
+il fatto che la y
+non è legata all'x
+a questa forma
+ci dice che su ogni elemento
+del campione
+vale questa forma
+quindi
+y
+e
+sarà uguale
+a
+x
+e
+b
+quindi qua
+in questa forma
+diventiamo
+1 su m
+immuctoria
+in
+1
+m
+a
+allora qui usiamo
+prima
+la prima
+la propietà
+che avevamo là
+abbiamo una somma
+e la possiamo spezzare
+anche se questa b qua
+non dipenda
+io
+non è una costante
+è un caso particolare
+diventa
+1 su n
+sommatoria
+i che vada a 1n
+di a
+si
+più 1 su n
+sommatoria
+i che vada a 1n
+di b
+va bene
+va bene
+allora adesso qui
+questa a
+la possiamo portare fuori
+grazie
+alla qualità 2
+c'è una costante
+la possiamo portare fuori
+e quindi
+qua
+quello che rimane
+faccio questa
+sommatoria qua
+1 su n
+sommatoria di x
+è proprio
+la media di x
+e qua niente
+la costante a
+e poi le faccio
+un costante a
+e poi le faccio un costante a
+e poi le faccio un costante a
+e qui cosa abbiamo
+1 su n
+e poi sommiamo
+n volte mi
+e n è mi
+e la probabilità
+è proprio
+tutto qua
+è sempre una costante
+ok adesso
+questo qui
+e questo qua
+non c'è
+nessuna idea brillante
+però
+questo topo
+direi facciamo
+un intervallo
+che sono le due
+e poi vediamo
+un esempio
+un pari di
+applicazioni
+del topo
+la prima
+lezioni
+della linearità
+della media
+due carate
+che legate
+da questa
+della visione
+e anche
+questo
+ventino
+che vedo
+tutto
+tutto
+e poi
+vorremmo fare un esempio
+o anche
+lì
+un pari
+che temperature
+risultate a New York
+in una settimana
+queste temperature
+lezioni
+su
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Ok.
+Bene, effettivamente, notiamoci come l'ho scritta, ma che siamo nella situazione che abbiamo scritto, come vedete, fa questa y,
+grazie a voi.
+Grazie.
+Grazie.
+quindi abbiamo la nostra situazione
+in cui A è 5,9
+e B è meno 100
+allora cosa ci dice questo problema?
+che non serve fare prima
+il canne di variabili
+di questi sette numeri
+troviamo x barra
+e poi possiamo
+catturarci se non parla
+anche delle sapone
+calcoliamo
+si sparra
+e poi
+usiamo
+un gesto un po' più lungo
+e poi
+lo vediamo
+allora calcoliamoci x barra
+x barra può fare una media
+tra questi sette numeri
+se uno usa la definizione
+abbiamo questa
+50 più
+poi
+possiamo calcato
+oppure
+possiamo usare anche un trucchetto
+se non è una calcolatrice
+possiamo
+usare ancora
+questa forma
+non è una forma diversa
+perché
+questo carattere x
+vedete
+sono tutti numeri vicini a 50
+allora
+possiamo pensare
+per fare
+un'altra
+stagione
+possiamo anche fare così
+pensiamo a z
+come a x
+meno 50
+sottraghiamo 50
+e ci calcoliamo
+a z barra
+una volta che abbiamo
+z barra
+e poi
+x barra
+sarà uguale a
+z barra
+più
+50
+abbiamo
+x
+uguale
+a
+z
+50
+quindi
+x barra
+è uguale a
+z barra
+allora
+chi è a z barra?
+i valori di z
+come dicevo
+sono quelli di x
+a cui sottraghiamo
+50
+quindi abbiamo
+un settimo per
+0
+più
+5
+meno
+6
+meno
+7
+meno
+meno
+meno
+meno
+meno
+1
+sono
+gli stessi
+di x
+però
+traslati
+di 50
+e finalmente
+facciamo
+5
+3
+8
+6
+2
+e che è la causa della barra
+per cui
+x barra
+uguale a meno 1
+è 50
+x barra
+vediamo calcolato da qui
+oppure
+facciamo un po' questo
+trucchettino che va a arrivare a calcolare di 49
+e abbiamo x barra
+e noi se abbiamo x barra
+possiamo calcolarci anche x barra
+con 59
+59
+per
+x barra
+per 49
+questo invece è una calcola di 17
+ma io l'ho già fatto
+che sta 9.44
+ok
+un po' come si può usare
+ma al di là
+dei trucchetti
+come mi interessa
+questa teoria
+come vedremo
+non sarà vera
+c'è la teoria
+vale per la meglia
+ma non va a parlare
+c'è una lezione
+generale di questa
+che la minorità vera e propria
+qui in generale
+questa è la prova
+la proprietà
+vedremo
+almeno un po'
+semplificare
+senza che avere due caratteri
+abbiamo anche
+z
+x
+z
+caratteri
+z
+uguale
+a x
+di x
+e abbiamo una
+combinazione di
+caratteristiche
+la lealtità ci dice che
+la media di z
+sarà uguale a la volta
+di x
+per questa situazione
+la possiamo fare
+diciamo che
+è identica
+la precedente
+rifacciamo questo
+pacco lì
+noi
+possiamo fare
+la meglia di z
+c'è un po'
+c'è un po'
+n
+per la somma
+le valori di z
+i
+per questo
+z
+i
+sono uguali
+ad a
+x
+i
+per ogni
+i
+nel campione
+abbiamo
+il valore
+caratteri z
+uguale a
+i
+uguale a
+x
+più
+y
+adesso spezziamo
+questo
+assumatorio in due
+e raccoliamo
+a e b
+due passaggi
+in uno
+questo primo
+pezzo diventa
+a
+1 su n
+solo
+di x
+più b
+1 su n
+questo qui chiaramente
+e x
+barra
+c'è
+d'accordo?
+va bene
+vedremo poi
+anche altri indici di posizioni
+adesso invece volevo
+parlarvi anche di un indice di dispersione
+gli indici di dispersione
+servono
+anche questi sono degli indici
+che sono dei singoli valori
+come la moda
+che però vogliono
+in qualche modo comunicare
+la dispersione dei dati
+sono lontani tra più loro
+maggiore
+l'indice di dispersione
+e più lontani
+sono gli dati tra più
+cioè ci sono gli indici
+che mesurano
+la dispersione dei dati
+e abbiamo un carattere X
+che assume valori
+2,2,3
+è un carattere X
+che assume valori 0,5,5,5
+per esempio
+chiaramente
+il primo carattere
+è una dispersione
+molto minore
+rispetto al carattere X
+guidati
+più lontani
+per il mio carattere X
+funziona
+a
+mangiare
+disperse
+per l'indice di dispersione
+più semplice
+può considerare
+per il suo range
+che è
+intanto
+semplicemente
+da un valore più alto
+o meno
+il valore più basso
+per il range
+di dispersione
+per il range
+e la efficienza
+tra
+il massimo
+questi due sentienti
+per X
+è 2
+X è un carattere
+che ha range 2
+3,2
+e
+per
+200
+questo ci dà
+una prima misura
+molto semplicistica
+ma chiaramente
+non tiene conto
+di valori
+di misurazione
+e quindi
+insomma
+non è qualcosa
+interessante
+che poi
+c'è
+la nota
+di
+quello che invece
+sarà l'indice di dispersione
+è vero
+per noi
+è stata una testita
+di varianza
+allora
+la varianza
+quella definita
+la varianza
+diciamo
+procede
+negli diversi modi
+però vorrei farlo
+in modo
+un po' più
+interessante
+per noi
+allora cosa si fa
+si chiama
+questo carattere
+X
+chi assume
+cioè i valori
+1
+2
+6
+allora
+prima
+con il range
+ha detto
+che conferiamo
+solo il massimo
+invece noi
+guardiamo
+per il punto
+di tutto
+allora cosa facciamo
+riportiamo
+questi valori
+sulla retta
+la retta reale
+dovremo
+in qualche parte
+saranno
+questi valori
+vediamo
+per capire
+quanto sono
+lontani
+tra lì
+allora
+come si fa
+il modo
+diciamo
+più efficace
+è il seguente
+e siamo
+sulla retta
+un punto
+arbitrario
+che chiamiamo
+T
+non sappiamo
+chi è T
+lo possiamo
+determinare
+con un certo
+proprietario
+adesso
+e noi
+andiamo a
+calcolare
+le distanze
+di tutti i
+punti
+ma non usiamo
+le distanze
+semplici
+perché le distanze
+semplici
+sono antipatiche
+perché sono antipatiche
+perché se uno
+fa la distanza
+di x
+3
+da 2
+uno
+deve fare
+x 3
+meno t
+e invece
+fa la distanza
+di 2
+non lo fare
+t
+meno x
+un segno
+che fa fastidio
+uno deve prendere
+il valore assoluto
+e il valore assoluto
+è il valore assoluto
+è il valore assoluto
+un modo per evitare
+di usare
+il valore assoluto
+è il valore assoluto
+di fare i quadrati
+la distanza
+al quadrato
+dei vari punti
+da t
+è il valore
+x
+meno t
+al quadrato
+in questo modo
+se il c
+è maggiore
+o meno di t
+non mi interessa
+perché quando faccio
+un quadrato
+il segno
+sparisce
+il valore assoluto
+la media
+dei quadrati
+meno
+quadrati
+delle distanze
+è il valore assoluto
+è il valore assoluto
+è il valore assoluto
+è il valore assoluto
+quello è il valore assoluto
+cosa vuol dire?
+facciamo
+fare una media
+o uno su n
+o una toria
+di che cosa?
+devo fare una media
+dei quadrati
+delle distanze da t
+quindi x
+meno t
+x
+meno t
+al quadrato
+è il quadrato
+della distanza
+di x
+e poi faccio la media
+quindi risuomo
+e meno t
+questo è chiaramente
+fissato
+che incita
+ha un po' una misura
+di distrazione
+no?
+siamo quanti
+sono fortemente
+lontani da t
+però chiaramente
+questo qui è fortemente
+influenzato da t
+allora bisogna fare
+una scelta
+che scelta facciamo?
+la scelta che si fa?
+è quella che rende
+questa quantità
+in piccola possibile
+vediamo t
+in modo che
+sia
+minima
+minima
+e come si fa?
+questa
+la variabile è t
+se la vedete
+nel corso
+è una funzione
+reale
+della variabile
+reale
+in piccola
+vediamo
+trovare il minimo
+come si fa a trovare
+il minimo
+una funzione
+reale per la vera
+come può fare
+la derivata
+oppure
+questa è una funzione
+in secondo grado
+questo può fare
+anche a meno
+in secondo grado
+è una parabola
+che è il minimo
+allora facciamo
+vedendo come
+è la parabola
+finiamola
+in una forma
+canonica
+del secondo grado
+sviluppiamo
+questo quadrato
+se vale il quadrato
+è un piatto
+c'è un si
+al quadrato
+adesso
+raccogliamo
+i termini
+di secondo grado
+i termini
+di primo grado
+e il termini
+di nuovo
+allora
+il termini
+di secondo grado
+è questa
+partita
+la seconda
+che viene
+sommato
+m
+che viene
+diventato
+con una m
+di t
+al quadrato
+quindi viene
+1 su m
+per m
+di al quadrato
+che è t
+al quadrato
+sto usando
+la probabilità
+di sommatoria
+che è la
+somma di t
+al quadrato
+fa mt al quadrato
+riso mt al quadrato
+poi prendiamo
+quelle
+termini
+di primo grado
+che è questo qua
+quindi abbiamo
+meno
+la struttura
+costante
+1
+su m
+mt al quadrato
+e poi c'è i termini
+coefficiente di t
+è questa roba qua
+meno
+2
+1 su m
+somma di t
+e poi c'è i termini
+senza t
+che sono questi qua
+ma
+più un coefficiente per t
+come si trova
+la
+la
+vertice, se lo ricorda?
+una parabola
+meno B fratto 2A
+ecco, dove B è il coefficiente del primo grado
+e A è il coefficiente del secondo grado
+quindi in questo caso B
+è questo
+e A è
+il vertice
+A scissa
+meno B fratto 2A
+in questa fase cosa diventa?
+meno B è questo
+meno è meno semplice
+1 su N
+somma di S
+2
+2
+in questo caso è in tutto questo
+questo se ne va
+è quello che c'è rimasto
+cioè
+la nostra quantità qui che vogliamo minimizzare
+è minima proprio perché
+diciamo
+spiegata
+la spalla
+è
+proprio
+P
+uguale
+P
+uguale
+X
+questa quantità qui
+per P uguale X
+la chiamiamo
+la variante
+è
+6
+la
+non è
+un po' è
+insomma
+io che vado a una è
+x più
+e non lo va
+lo va
+si dice
+varianza di x
+e si indica
+perché si dice una x al quadrato?
+questo quadrato sta a ricordarci il fatto che questa è una quantità
+che è sempre non negativa
+perché è una somma di quadrati
+e quindi la varianza si indica
+la sua radici quadrata
+è sigma x
+si chiama
+sigma x
+si dice
+mediazione
+o
+scatto quadrato
+ok
+ok
+grazie a tutti
+la chiamiamo
+questa è una variante
+grazie a tutti
+Allora, in questa formula qua,
+sotto la stelletta, se noi lì ci mettiamo x barra al costo di un punto.
+E la forma l'abbiamo ricavata prima.
+Cosa otteniamo?
+E la varianza, se prima x al quadrato, è uguale a...
+E se qui mettiamo x barra, quindi x barra al quadrato,
+poi abbiamo meno 2.
+Un po' di scherzo.
+Uno su N, sormatoria.
+Per x barra.
+Più.
+Uno su N, sormatoria.
+Ok.
+Allora, questo, dentro il quadrato,
+si è una x barra, ma è uno su N, sormatoria.
+Quindi qua abbiamo x barra per x barra, mentre x barra al quadrato.
+x barra al quadrato, meno 2x barra al quadrato.
+Più.
+Uno su N, sormatoria.
+Un po' di scherzo.
+Aspettata.
+Sormatoria.
+Ok.
+Allora, x barra al quadrato, meno 2x barra al quadrato non si va.
+Fa meno x barra al quadrato.
+Fa meno x barra al quadrato.
+Ma fate da un minuto?
+Meno.
+E questo oggetto qua, vedete cos'è?
+a meno x bar al quadrato
+una quantità al minuto
+meno
+e questo oggetto qua
+vedete cos'è
+qui sto facendo
+la media dei quadrati di x
+come la possiamo chiamare questa roba?
+vediamo semplicemente la media
+di x al quadrato
+prendo il dolore di x al quadrato
+e faccio la media
+di x al quadrato
+e quindi qua ci viene
+meno x bar al quadrato
+più x al quadrato
+meno
+ma questo è un gioco di parole
+la varianza
+in me conti è
+la media dei quadrati
+meno il quadrato di una mezza
+lo annunciamo
+ci la riscaldiamo
+vuol dire dimostrato
+la media dei quadrati di una mezza
+la media dei quadrati di una mezza
+è
+quindi abbiamo sostanzialmente due modi diversi
+la prima è la definizione
+abbiamo dato prima
+andiamo là
+in questo modo abbiamo fatto la media dei quadrati
+delle distanze rispetto allo spazio
+e quella è una definizione significativa
+perché è proprio giustare a presentare
+la differenzione dei nostri dati
+perché rispetto all'X bar
+vediamo immediatamente quanto sono lontani
+questa altra formula invece
+dal punto di vista teorico non dice nulla
+è un gioco di parole
+le quadrati non le quadrati
+però è molto utile
+poi è il metodo del pari conti
+se non lo farei conti
+ma però
+la varianza di carattere
+è un'acensuale
+questa formula
+che è molto più semplice
+inizia una immediata
+come si fa uno a ricordare
+se ci va prima questo o prima questo?
+se uno scambia
+il risultato è negativo
+la varianza non è mai
+quindi se uno trova una varianza negativa
+poi in ogni caso
+se una varianza negativa
+qualcosa non va
+c'è
+la varianza non può essere
+va bene
+va bene
+vediamo se riusciamo a fare un esempio
+senza troppo penale
+per fare un esempio
+per fare un po' più di tempo
+li facciamo vedere lì
+grazie
+grazie
+grazie
+grazie
+grazie
+grazie
+grazie
+grazie
+grazie
+grazie
+grazie
+grazie
+grazie
+grazie
+grazie
+grazie
+grazie
+grazie
+grazie
+grazie
+grazie
+grazie
+grazie
+grazie
+grazie
+divisione
+Allora, per avere un'idea, uno deve calcolarsi la dediazione standard, che è la radice di
+in questo caso, ecco, questo 2, diciamo, ci dice che i nostri dati,
+all'interno di un intervallo di ampiezza 5-6 volte, questo 2, non è una cosa, è molto da
+comuni, perché qui sono, diciamo, vicino al centro e il miglior è questa informazione.
+Poi in ogni caso qua abbiamo questo 2, se faccio 5-2, diciamo 10, in effetti sono, in questo
+caso, i dati sono in una finestra, anche 6, e non c'è di grandezza, ci stanno, 6-10,
+se qui avessimo ottenuto, non so, 50, quindi la radice degli aspetti standard, la radice
+è stata 7, quindi se faccio 7 per 6, circa 40, abbiamo una finestra di 40, 40 non va bene
+quindi come ordine di grandezza, diciamo, uno deve fare 5-6 volte la radicezione standard,
+un intervallo di garantiesa, trovare la maggior parte, diciamo, una cosa molto divata, qualitativa,
+ma insomma, vada, che però, insomma, ci dice, quando un dato è inaccettabile, diciamo,
+chiaramente uno potrebbe usare anche la definizione, no, anziché questa formula, la unita alternativa,
+con la definizione,
+la cima in salvatrano,
+adesso guardiamo un quarto,
+la media nei quadrati,
+le distanze,
+perché cosa, guarda, la media abbiamo detto che è 2,
+1-2 al quadrato,
+1-2 al quadrato,
+più 3-2 al quadrato,
+quindi,
+quando vedete qua,
+stiamo facendo le distanze al quadrato,
+e i vari punti del campione,
+rispetto alla media,
+la media di che sostanza al quadrato,
+scegliamo,
+prima,
+abbiamo,
+abbiamo 3 al quadrato,
+abbiamo 3 al quadrato,
+a 9,
+io abbiamo 1 al quadrato,
+o 1,
+ma,
+io abbiamo 3 al quadrato,
+o 3 al quadrato,
+e per di 9,
+9,18,
+più 2,20,
+direi qua.
+Un quadrato,
+nell'alto,
+ecco,
+रggio.
+Vanno,
+abbiamo 5 minuti,
+Grazie.
+Grazie.
+Grazie.
+Se invece facciamo, dicevo, x uguale a per x, qualcuno dice a sigla per x, non è esattamente
+così, però quello che uno si aspetta, insomma, noi ci aspettiamo, se a è 2, cosa vuol dire
+che i valori di y sono quelli di x ma raddoppiamo, allora se noi raddoppiamo i valori delle riprese
+rischiamo allontanare, siccome poi faremo quadrati delle distanze, non diventano 4 volte
+da, se noi vediamo a uguale, so, 0,5, stiamo davanti da questo, non ci aspettiamo che magari
+la varianza di x maggiore, la varianza di x se ha un maggiore di 1, quindi in effetti
+abbiamo questa proposizione.
+ci dice appunto che se non è la varianza di x maggiore di 1, quindi la varianza di x maggiore
+e la varianza di x maggiore di 2, quindi la dimensione di 1 è uguale alla seconda, quindi la
+quindi la b la traslazione non ci interessa
+e invece questo coefficiente ha
+il quadrato
+è un motivo che ho detto prima
+noi facciamo il quadrato
+la dimostrazione
+lo possiamo fare facilmente usando la nostra formula della varianza
+vediamo un po'
+dobbiamo fare
+però quella è la varianza di y
+la varianza di y abbiamo detto che è
+la media dei quadrati di y
+meno la media dei quadrati della media di y
+allora qua y al quadrato
+risponde x è uguale a questo
+va bene adesso cosa facciamo
+facciamo quello che c'è scritto
+non dobbiamo inventarci nulla
+qui dobbiamo fare prima al quadrato
+quindi viene
+a al quadrato
+x al quadrato
+più
+2a
+x al quadrato
+un momento
+guardiamo
+qui dobbiamo fare prima la media
+qui dobbiamo
+la linearità della media che abbiamo fatto prima
+qui dobbiamo fare la media di y
+di y
+questo è uguale a
+a
+e
+adesso invece facciamo la operazione opposta
+qui dobbiamo gespannt
+qua
+ora la seconda
+e
+Logic
+mi
+il quadrato del primo
+il doppio prodotto
+il quadrato
+la seconda
+due lati
+perché rimane
+il quadrato
+il quadrato
+il quadrato
+il quadrato
+Grazie.
+Grazie.
+Grazie.

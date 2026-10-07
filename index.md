@@ -17,7 +17,7 @@ Qui troverai un catalogo strutturato di tutti i concetti, regole, ed entità est
 * [[Principio_di_Inclusione_Esclusione]]: Formula generale, calcolo dell'unione di più insiemi, sequenze k-piene e scombussolamenti (derangements).
 
 ## 4. Statistica Descrittiva
-*(Sezione da popolare)*
+* [[Statistica_Descrittiva_di_Base]]: Popolazione, campione, caratteri, modalità, frequenze, istogrammi e indici di posizione e dispersione (media e varianza).
 
 ## 5. Teoria della Probabilità
 *(Sezione da popolare)*

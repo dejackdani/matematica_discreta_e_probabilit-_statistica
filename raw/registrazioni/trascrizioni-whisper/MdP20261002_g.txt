@@ -1,0 +1,780 @@
+
+Allora oggi oggi Direi che. Completiamo.
+
+Esercizi.
+
+L'ultimo argomento di cui voglio.
+
+Questa parte? Un senso a sequenze tieni le spedizioni per prenotazioni combinazioni con i vari tipi prodotti artigianali.
+
+Abbastanza intuitivo, quello di partizione è un termine che si usa una serie di quadri comune e anche nel linguaggio informatico perché quando si parla di. Una partizione ad esempio.
+
+Dal punto di vista inquilino. Intuitivamente. Una partizione.
+
+Suddivisione.
+
+Un insieme di elementi come sempre.
+
+Dal punto di vista Ecco intuitivo è questa.
+
+Anche la definizione formale, cioè Cosa vuol dire suddividono e sotto insieme come dire individuare? Alcuni sottoinsiemi.
+
+Questo esempio che abbiano delle proprietà. Quali sono le proprietà che vogliamo? Da questa figura. Sicuramente che questi sotto i temi non abbiano elementi in comune. Una partizione. Vogliamo che a 1 abbia qualche elemento in comune con?
+
+Poi cosa vogliamo? Ci piace l'idea che l'unione di tutti quanti sia i nostri pensieri. Rimangono cose fuori.
+
+Non siano vuoti. Una parte un vetro che partizione vuota non.
+
+Insieme?
+
+Collezione.
+
+Che può essere finita o infinito?
+
+Però in realtà no uno. Informazioni anche delle partizioni il numero infinito. C'è una collezione sottoinsieme? Può essere definita?
+
+Chiamiamo questi sottoinsiemi. A uno a due.
+
+Le proprietà che abbiamo detto la prima avevamo detto è che questi sottoinsiemi devono essere disgiunti a. Quindi non vogliamo elementi in comune Come si scrive?
+
+Questo per ogni.
+
+La seconda condizione che abbiamo detto è che l'unione di questi qua deve essere. No, non è una partizione di.
+
+Ora quando? Parliamo di partizione, l'ordine in cui compaiono di tutti insieme non è. Un insieme.
+
+Non è importante.
+
+Questi sottoinsiemi?
+
+E chiamiamo il blocco. I sottoinsiemi.
+
+Blocchi.
+
+Qual è qui l'errore più comune che sento agli esami? Per ogni tumore descend chiamare i blocchi, le partizioni, i blocchi non sono la partizione e la suddivisione.
+
+Questi qui non sono le partizioni Ma la partizione è tutto.
+
+Non chiamiamo.
+
+I blocchi.
+
+Voglio chiamare.
+
+Prendiamo?
+
+Quante sono le tue partizioni?
+
+Quante sono? Le partizioni di a.
+
+Possiamo pensare a una partizione fatta da un unico blocco? Esiste sempre la partizione fatta da un unico blocco grande? Così come esiste sempre la partizione?
+
+In cui ogni elemento forma un blocco. Queste due ci stanno sempre in ogni. Poi possiamo fare quelle non banali. No, in questo caso fare una parte. Sì non banale. Cosa vuol dire?
+
+Posso fare così?
+
+Posso fare? Così? Lo posso fare?
+
+Abbiamo.
+
+Non banale, insomma, magari su insieme infiniti, giusto per. Ampliare un pochino l'orizzonte del concetto di partizione. Qui prendiamo.
+
+Come li possiamo far funzionare?
+
+Anzi no.
+
+In due blocchi. Poi chiaramente. Ogni blocco. Numero infinito di elementi.
+
+Però uno può pensare anche una partizione. Di cui abbiamo infiniti blocchi ognuno dei quali ha un numero finito di elementi.
+
+Qua ci mette i numeri.
+
+E poi faccio i numeri?
+
+Positivi. In questo modo faccio. Infiniti blocchi. Ognuno dei quali ha 100? Legi. Ma uno può anche fare infiniti blocchi con infiniti elementi.
+
+Si possono?
+
+Sostituire? Infiniti blocchi.
+
+Ciascuno dei quali?
+
+Come si fa? Non lo so, ci sono stati infiniti modi anche. Ti faccio un esempio. Primo blocco. Ci mettiamo le potenze di 2?
+
+Poi facciamo un altro con le potenze di 3.
+
+E poi ci possono mettere?
+
+Sono infiniti, questi sono infiniti. Questi sono infiniti. Non posso fare questo lavoro su ogni numero primo No perché il numero primo. Faccio un blocco così con le potenze con il numero primo. Alla fine faccio l'ultimo blocco.
+
+Numeri. Non potenza quindi.
+
+Un esempio che lascia un po' il tempo che trova, però giusto per mostrare.
+
+Chiaramente il combinatore noi. Che occupiamo direttamente Quanti sono quindi? L'insieme è infinito come in questo caso i numeri. Profili. Le partizioni sono anche infini. Nulla da dire. E quindi ci concentriamo, ovviamente ad esempio come questo qua Questo aveva tre elementi quando qualunque arbitrario finito Però ovviamente.
+
+Numero.
+
+Dell'insieme.
+
+Si chiama numero di livello. Si dice? L'ennesimo numero di pelle.
+
+Bello è quello che ha inventato il telefono.
+
+Va bene, onore di bella.
+
+Abbiamo calcolato b3.
+
+Tre elementi. Cinque partizioni e quindi b3 è uguale a 5. Il problema?
+
+Praticamente possiamo fare anche esempi più piccoli però B2.
+
+Insieme con due elementi In quanti modi li posso partizionare due elementi?
+
+Queste due partite. B1.
+
+Un elemento che mi posso fare granché?
+
+Di Zero.
+
+Per.
+
+Vigoroso insomma, l'unica partizione dell'insieme vuoto è la partizione vuota. Però noi lo vediamo per definizione così non ci po.
+
+Come si fa andare avanti? B4 b5.
+
+Lo possiamo fare anche tu solo l'Inter Per capire meglio. Chiaramente abbiamo. La partizione fatta così. E la partizione fatta cosa?
+
+Poi quante altre partizioni abbiamo? Ci sono quelle parrucche?
+
+Che hanno un blocco da due e due blocchi da. Quante sono queste?
+
+Sono?
+
+I due elementi da mettere in questo blocco da due.
+
+E poi basta? Inoltre abbiamo scelto questi due. Gli altri due formeranno un blocco da uno non sono ordinati.
+
+Quindi le partizioni fatte in questo modo sono sei.
+
+Questo è un esercizio a cui possiamo già rispondere. Facciamo il blocco da due. Che possiamo fare? Sei modi?
+
+Bene, poi cos'altro possiamo fare. Possiamo fare?
+
+Due blocchi da due. Quanti sono questi?
+
+Quanti modi posso fare una partizione?
+
+Il cancello ci penserebbero.
+
+Come si può pensare questo?
+
+Il blocco che contiene il numero 1.
+
+Devo scegliere l'altro elemento che sta insieme a?
+
+E dopodiché l'altro blocco è determinato dai due numeri.
+
+Altri modi?
+
+Posso fare un blocco da 3 e un blocco da uno?
+
+Quanti sono 20?
+
+Ok, Direi che non ci sono altre possibilità e quindi di quattro.
+
+Però Appunto. Sempre più evidente che andare avanti in questo modo.
+
+Abbiamo bisogno di questa.
+
+Di calcolare i numeri di bella.
+
+Sto rapidamente.
+
+Manca che va da 0.
+
+In funzione dei numeri di bel precedente vedete qui H va da 0 m - 1 quindi questo agrumi sono in 0 di 1 fino a 10 minuti.
+
+Ora come sempre quello che ci interessa sono le idee. Dietro a queste forme. Anche questa qui è un'idea. Utile. È interessante.
+
+Allora vogliamo contare. Queste partizioni.
+
+Tra i numeri da 1 a n.
+
+Come abbiamo già visto, anche se uno c'è una sommatoria, vuol dire che dobbiamo suddividere il nostro problema di conteggio in sottofondo. Quindi uno dei quali?
+
+Allora facciamo così. Noi vogliamo contare le partizioni. Sorridendo il problema? Dato dal numero di elementi che stanno insieme al numero. Nel blocco. Quindi facciamo così chiamiamo?
+
+Ripartizioni.
+
+In cui n. Sta. In un blocco?
+
+Io guardo la mia partizione blocco che contiene. Quanti elementi vuoi avere un elemento che c'è anche da solo?
+
+Chiaramente bn.
+
+La sommatoria.
+
+È pronto prima le partizioni in cui n. Sta da solo. Poi conto quello del vn è stato un blocco da due. Fai conto quello in cui anche se nel blocco da tre le sommo e ho tutte le partizioni.
+
+Allora? Come si fa a contare sui capelli?
+
+Vogliamo fare un blocco? In cui oltre a n. Devono stare altri K - 1 perché in questo blocco Voglio il calcolo.
+
+Quindi questa è la prima scelta che vogliamo fare? Quanti modi posso fare questa scelta dei numeri su un'azienda?
+
+Chi sono questi numeri qua? Ti possono essere?
+
+Ci posso mettere? K. Sono numeri qualunque? Scelti da 1.
+
+Numeri qua. I numeri.
+
+Alfa-1.
+
+Del gioco con n.
+
+Vi posso scegliere?
+
+Torna.
+
+Così abbiamo fatto il blocco di n. Adesso cosa ci rimane da fare? Quanti numeri sono rimasti fuori?
+
+Quindi dobbiamo partizionare in qualche modo? Non mi interessa. In quanti modi possiamo partizionare? Numeri
+
+La definizione del numero di.
+
+Mi rimanenti. Anche nella carta neri.
+
+In questo modo Abbiamo costruito tutte le partizioni fanno.
+
+E quindi abbiamo proprio che pkm è un prodotto condizionato?
+
+Condizionato.
+
+Ho fatto due scelte la prima.
+
+Questa dimostrazione come notate. La sto facendo con nk generici. Sto chiedendo un piccolo salto di qualità anche Perché solitamente queste mutazioni finora l'abbiamo fatte. Prendiamo n. 48 e vediamo quello che facciamo. La potete ripetere con n. Uguale a 12 K uguale a 4 per capirlo meglio, però poi uno deve essere anche in grado di rapportare qualcosa.
+
+In un caso specifico se uno.
+
+Non amiamo del tutto finito. Ma insomma ci siamo No, perché abbiamo detto a questo punto PN. È uguale la somma?
+
+Basta fare un cambio di variabile? Ponendo.
+
+Cosa diventa Allora se CAP è uguale a 1 H diventa n-1 se il K = n ha 3-0. Quindi la sommatoria?
+
+E qui poi abbiamo n-1. Qui sotto abbiamo K -1 per quindi kn - a.
+
+H meno.
+
+A questo punto abbiamo finito perché chiaramente questo qui.
+
+Sotto ci possiamo mettere questo numero o il suo complementare? Uno meno H meno usare questo meno questo no.
+
+La forma che volevamo? Va bene, direi che la possiamo verificare con b4 e poi calcoliamo anche il wc piuttosto così per.
+
+Vediamo!
+
+Che fa?
+
+Più H. Uguale a 3.
+
+Il 6 10 + 5.
+
+A questo punto.
+
+A4. Quanto riguarda?
+
+4. Per le ore fa 1.
+
+H. = 3.
+
+Per b3 che era 5.
+
+Per b4 che è 15 per lo meno.
+
+Più 12 17 più 20.
+
+Abbiamo 52 modi di ripartizione. La formula è molto più rapida, devono stare. Tutto quanto ma c'è un modo? Ancora più radio di questa formula.
+
+Che vi racconto in questi cinque mesi.
+
+Non lo dimostro. Però vi dico che è basato su questa formula della.
+
+Per dimostrare che funziona questa cosa che sto per raccontare perché è un giochino. La base del triangolo di Berk.
+
+Che cos'è il triangolo di berre? Triangolo di numeri come il triangolo. Di battaglia invece.
+
+Dopodiché qui a fianco a quest'oro che vogliamo fare un triangolo. Dobbiamo riempire di numeri che otteniamo? La regola la seguente diciamo ogni numero. Che vado ad aggiungere.
+
+E quindi ci metto qua due? Quando arriva alla fine di una riga? Il numero che ha scritto nella vita lo riporto all'inizio della riga successiva. Ancora due? Dopodiché riprendo la regola di prima Adesso, faccio 1+2.
+
+Due più tre fa cinque e.
+
+E ricomincio? 5. + 2 7.
+
+10 + 5.
+
+5 + 15 20.
+
+27 su 10. 37. 37 + 15.
+
+Cosa notiamo? Che compaiono sulla prima colonna. O se vogliamo in fondo che sono gli stessi? Sono proprio numeri. Almeno quelli che abbiamo calcolato fino ad ora no.
+
+87. 114.
+
+114 su 37.
+
+È un modo, diciamo pratico di. Sfruttare la formula.
+
+Variante deve scendere.
+
+Veniamo una variazione, diciamo sulle partizioni.
+
+Di cui tratteremo ci diamo i numeri di stirling di seconda, specie però quelle di prima specie non ne facciamo quindi.
+
+Facciamo cose dopo. Allora cosa sono diciamo adesso. Prima volta abbiamo calcolato i numeri di bella. Per dimostrare la forma ricottina abbiamo fissato K che era la cardinalità del blocco per cui generico. Adesso invece vogliamo montare le partizioni in un altro modo. Vogliamo portare quanti blocchi ci sono in questa?
+
+Dobbiamo contare quanti blocchi Quante partizioni ci sono un K2?
+
+Questo è il numero di screening.
+
+E vediamo se. E abbiamo due parametri che erano i pezzi che uno come prima del DM viene tutte le partizioni. Ci sono tutte le partizioni insieme allenamenti con tanto all'a.
+
+Esempio se vogliamo fare S. 52. Abbiamo già fatto prima. Quindi vogliamo partizionare numeri da 1 a 5 però con due blo.
+
+Come si può far funzionare? Possiamo fare mix?
+
+Oppure possiamo fare un blocco da due? Blocco da 3.
+
+Posso accedere in questo modo? Ad esempio questi quanti sono? Per cui ci basta scegliere x e gli altri quattro mettiamo qui quindi questi sono. 5. Qui dobbiamo scegliere due numeri.
+
+E quindi s52 tra 15?
+
+Allora Qui abbiamo cinque numeri.
+
+Due possibilità o faccio un blocco da uno e uno da 4 oppure un blocco da lungo con le tre?
+
+Quindi abbiamo montato quelli fatti così che sono 5 perché devo scegliere questo elemento qua?
+
+Si può fare un blocco da due un blocco? Da 4. Ma anche due blocchi da tre?
+
+Può portare anche in questo caso? Queste sono 6. Queste sono 6s 2.
+
+Vuole contare in questo modo?
+
+Cioè se scelgo 123. Oppure scelgo 456? Contengono la stessa partizione. 1. 2. 3. Qui e 4. 5 6. Qui o viceversa 4. 5. 6 1. 2 3.
+
+Quindi questo?
+
+Nuovi blocchi fattoriali
+
+Vogliamo imparare? Perché ha due modi?
+
+La formula? Esplicita. La possiamo? Dimostrare. Osservando che c'è una stretta relazione tra questi numeri stirling e le sequenze KTM che abbiamo studiato. Vediamo vediamo perché allora la formula è questa.
+
+Cosa si dice che?
+
+E un po' complicato, ma in realtà quello che mi interessa Voglio vedere un po' piano perché me la ricordo.
+
+Quello che ci interessa come vi ho anticipato. Il fatto che questa forma viene da uno stretto legame. Con le sequenze kd.
+
+E la dimostrazione come sempre, insomma viene. È una funzione? Che mettere in relazione questi due insieme. Ora riprendiamo magari facciamo.
+
+K. Uguale qua
+
+Consideriamo una sequenza KTM? Consideriamo?
+
+In una sequenza.
+
+2 4. 1 4. 3. 2. 1.
+
+Una sequenza.
+
+Adesso voglio associare a un totale sequenza. Una partizione dei numeri da 1 a 9 in 4 blo.
+
+Qual è un modo naturale di fare questa operazione? Devo fare quattro blocchi?
+
+Guardando a questa sequenza K. Per esempio guardiamo i numeri uno qua.
+
+Ognuno lo troviamo da qualche parte. In quali posti lo troviamo? Numero? Uno lo troviamo nei posti 3 e 7? Allora io faccio un primo blocco con i numeri 3 e.
+
+Questi qua sono i posti? Dove trovo il numero 1?
+
+E poi faccio la stessa cosa con gli altri. Numero 2. Il numero 2 lo trova al posto numero 1, 6 e 9.
+
+Poi guardo il numero 3. Numero 3. Sta solo al posto 5.
+
+E poi guarda numero 4. Il numero di 4 sono al porto 2, 4 e 8. E ci faccio.
+
+Sono andato da sinistra a destra. Per ogni numero guarda i posti dove stanno. In questo modo chiaramente. È una transizione?
+
+Ora Secondo voi questa funzione? È una corrispondenza di univoca?
+
+Se io considero quest'altra.
+
+Attenzione di associo. Facciamo la stessa operazione prima no. I numeri 1. Stanno 1. Costo 1.
+
+Il numero 2. Stai Boschi in tre?
+
+Numero 3. Sta al posto 5. Numero 4 si è vostri 24.
+
+Ho ottenuto la stessa partizione. È la stessa partizione, quindi non è una. Questa funzione non è.
+
+Tuttavia possiamo dire quante sono? Le sequenze KTM che mi danno la stessa partizione cioè cosa ho fatto da qui a qui.
+
+Semplicemente scambiatevi in uno con i due.
+
+L'importante è che un blocco già individuato.
+
+Però in realtà la partizione è la stessa perché le partizioni i blocchi non sono ordi.
+
+Quindi quello che uno può fare qui è permutare. I numeri da 1 a 4 in tutti i modi possibili e ottiene una stessa partizione. Quindi? Una volta che è chiaro Come funziona questa funzione? Conserviamo.
+
+E questa? È una? Produzione.
+
+Quattro fattoriale.
+
+Quattro fattoriali per 24. Sequenze KTM che ci danno la stessa partizione.
+
+Potrei scriverne 24?
+
+Per votazione numero da 1 a 4 che sono 24 e ottengo sempre la stessa. Quindi cosa ci dice questa? Questa funzione? Dice che. Il numero di. Sterling snk. Allora numero di frequenze che appartiene. In questo caso diviso 4 fattoriale cerchiamo quattro blocchi o in qualche? In generale?
+
+Tramite. Questa funzione?
+
+Sono?
+
+Diviso?
+
+Ed uno riprende la formula che avevamo ottenuto delle funzioni per poter.
+
+Com'era la formula andiamo a riprenderla la formula delle sequenze kd.
+
+Frequenze kdn erano date da questa formula. Sommatoria. Va da 0 a k.
+
+K6.
+
+Questa era la forma del ramo diviso K.
+
+Lo sviluppa questo coefficiente penomiale
+
+Che riguarda anche l'altro? Va bene. Dal punto di vista computazionale c'è un modo più semplice di calcolare tutti? In evidenza questo legame con le conseguenze KTM. E vediamo invece come si fa a calcolare in modo più semplice o più semplice è una forma di polsino.
+
+C'è una? Formula?
+
+Molto più semplice.
+
+Per calcolare.
+
+L'ultima cosa.
+
+A cosa è uguale?
+
+O la copia?
+
+K - 1.
+
+Attivare per ogni.
+
+Come sempre, insomma. Ormai siamo abituati, quando abbiamo quando vediamo una somma. Cosa vuol dire? Dobbiamo dividere il problema in due casi? Contare un caso? Sperare che siano contati da questo numero e l'altro caso.
+
+Le partizioni in cui ci sono K blo.
+
+Io qua faccio due casi. Un caso sono quelle P. È stata solo.
+
+E le altre sono quelle in cui è meglio sta in compagnia di appunto ricetta in un blocco con anche.
+
+Le partizioni.
+
+La partizione è fatta così. Abbiamo un blocchetto fatto da solo in.
+
+Se n. Forma un blocco da solo. Quante sono queste partizioni? Quanti altri blocchi devo fare? Con gli altri? Te ne voglio K in.
+
+Questo è uno. E poi ne voglio altri K - 1 perché in tutto devono collega. Quindi gli altri numeri? Vedevo partizionare in un k-13. I numeri. Da 1 a n. - Essere?
+
+Con due scelte successi. La prima scelta che facciamo è ripartizionare i numeri?
+
+Finiamo una parte del fiore.
+
+I numeri.
+
+1am - 1.
+
+Chiaramente questa scelta la posso fare?
+
+A questo punto cosa mi rimane da fare? Mi rimane da inserire.
+
+Senza scelta. Inserire?
+
+Quindi queste partizioni in cui viene estratto in Sabina sono?
+
+Questa è la fine della nostra dimostrazione. Quello in cui è anno è stata solo. Sono K.
+
+Formiamo e abbiamo tutte le partizioni.
+
+In un triangolino.
+
+Quindi un pochino diversa?
+
+Allora cosa facciamo qua? Consideriamo Questo triangolo con triangolo di Steve?
+
+Poi mettiamo la seconda riga S.
+
+A calcolare questi numeri.
+
+S11 quanto vale?
+
+In quanti modi posso farcesionare insieme da un elemento dicendo un blocco solo?
+
+S21. In un blocco Cioè se devo fare un blocco? C'è stato un solo modo di fare un blocco, quindi tutti i numeri che stanno qua. All'inizio del mio riga sono tutti uguali.
+
+Ma anche gli ultimi? Due numeri in due blo.
+
+Invece si calcolano usando.
+
+Vediamo cosa vuol dire. Ad esempio vogliamo calcolare questo s32.
+
+Ed è il numero?
+
+Quando otteniamo 3?
+
+Come si ottiene guardiamo la formuletta?
+
+Dei numeri che stanno qua sulla seconda diagonale.
+
+Questo qua sarà uno più 67. S52. Sarà uno più? 14. Uno va avanti. Si calcola tutti i numeri su questa. Quando passiamo alla terza diagonale. Cosa succede Eh? Perché qui K diventa 3. Non è più blu. Quindi dobbiamo fare il numero in alto a sinistra quindi tre?
+
+Devo fare 7 più 3x618, si sente questo.
+
+Sottraendo un triangolo.
+
+Mettiamo a fare esercizi con uno scambio anticipato.
+
+Da fare?
+
+Ad esempio l'esercizio 2.5.
+
+Che può dormire?
+
+Teoricamente quindi usando. Almeno uno tra il 5 e 6.
+
+Come possiamo risolverlo?
+
+Su questa collezione di potenze quali sono quelli che noi vogliamo almeno? Erano quelli che non hanno le cinque inserti. Sottoinsiemi. Che non vogliamo?
+
+E non hanno?
+
+Quanti sono quelli che non vogliamo?
+
+Non vogliamo.
+
+Sono?
+
+1, 2. 3 4.
+
+E Quanti sono i sottoinsiemi A4? 2. Alla quarta 16.
+
+Che dobbiamo escludere Ma quanti ne abbiamo in tutto?
+
+C'erano grosse difficoltà però insomma. Fare? Indicare qualche minuto? Ecco a provare a risolvere questi. Se non li fate.
+
+E non basta guardare la soluzione.
+
+Qual è? Se io voglio. Lo posso costruire in questo modo?
+
+Voglio almeno tre cinque e sei.
+
+Ne ho tre scelte che riguardano il numero 5 del numero.
+
+Le scelte. Che riguarda?
+
+Solo 6.
+
+Qualche parola?
+
+Sempre di spiegare un po'. Lo faccio io per spiegarlo. Potete fare con tutti voi? Questo era il mio colore. Abbiamo sistemato il 5 e 6 a 3 modi. Possiamo scegliere quali numeri avranno 14?
+
+Scelte. Sempre 2 alla quarta.
+
+1, 2. 3 4.
+
+Sulle scelte per l'uno ovviamente non lo metto 2002, al momento non lamenti di scelta del treno. Quindi tutto il 16x3? Sempre 48. Diciamo la prima soluzione. Negativo guardando al complementare a seconda evoluzione che ha il positivo costruendo.
+
+Risultato.
+
+Chi è che aveva provato a farlo? Ma non c'era riuscito.
+
+Quanti hanno provato a farlo e Chernobyl?
+
+7 8 persone timide che l'hanno fatto l'esercizio.
+
+Non ci hanno neanche provato.
+
+Se vogliamo che se contengono un numero Allora non contengono il numero complementare, Cioè se contiene uno non deve contenere 10 e viceversa se questa energia deve contenere più noioso.
+
+Non devono contenere?
+
+Di complementare che è 11 - 20. Esempio.
+
+Per plantare che 2 è 9 che non c'è complementare di 5 e 6 che non c'è bisogno. Invece io prendo 22 59. Questa non va bene. Perché contiene due numeri, 2 e 9 che sono meno. Questa è la condizione che vogliamo.
+
+Quanti sono? Dobbiamo volontari per questo?
+
+Allora noi abbiamo. E avendo numeri solo da 1 a 10 si possono già includere coppie per questo 11 per esempio?
+
+Abbiamo cinque coppie. A me piace usare patatine. La corrispondenza di un idrica con le frequenze binaria perché? Quindi Cos'è che devo evitare che per ogni coppia?
+
+Entrambe presenti. Una presente porto in frigo per almeno questo io la seconda ad esempio. Eppure non ne ho presenti. A me mi chiedeva che non contengono. Che non devono contenere 11 minuti? Quindi quella che a me interessa 4. Utilizzare questa? Tre combinazioni di Master avendo cinque coppie o crea la quinta?
+
+Chiaro che tutti sono Fabio YouTube.
+
+Per ogni coppia. Dobbiamo decidere? Cosa mettere nel nostro percorso?
+
+Tre scelte possibili possiamo mettere il primo?
+
+La coppia 29 posso mettere due, posso mettere il 9 ma nessuno dei due tre. Per ogni costo è cresciuto.
+
+Questo è un prodotto condizionale perché abbiamo fatto cinque scelte.
+
+Il numero di scelta è sempre 3 insomma.
+
+In questo caso la foto emozionato speciale perché non solo il numero di scelte. Non dipende dalle scelte precedenti, ma anche i pomodorini effettivi. Anche qua se scelgo uno la prima coppia Allora mi cambia le possibilità sempre? Non solo lo stesso numero facciamo le stesse scelte?
+
+Ok.
+
+Povero va di moda fra di voi se fate le foto.
+
+Un normale mazzo di carte da poker. Le carte?
+
+Chiaramente legate ce l'abbiamo lì fuori quasi fiori Fi. Quindi questi sono otto numeri e quattro semi sono 32.
+
+5 carte a caso?
+
+Vediamo una mano, sono cinque. Quante sono le mani in cui si ha un punteggio? Pari o superiore alla Scala. Ci danno la scala? Poi spiego cosa vuol dire che non lo sa colore full?
+
+Scala. Sulla scala di colore. Scala vuol dire che? Le mie cinque carte. Sono i numeri conservativi sono. 7 al Jack anche se di semi diversi non mi interessa il segno. Mi interessa solo il valore della.
+
+Colore vuol dire che sono comunque dello stesso seme?
+
+Vuol dire? Che ho un Tris e una coppia. Tre carte del valore delle carte rimangono.
+
+Scala reale all'intersezione tra scale e colore. E tutte le lo stesso?
+
+C'è qualcuno che vuole venire?
+
+Per chi non lo sa il full semplicemente è un acquario cinese.
+
+Se io voglio un Pool.
+
+Quindi devo pescare una tipologia?
+
+2008 sono risultati, però in questo set ovviamente posso prendere altri trofei, quindi ci sono tantissimi diversi, quindi devo prendere? Altre tre carte che sono molto diverse. Allora cerca di scrivere. Qualcosa che scrivi quello che? Come dicevo prima no non può scrivere su.
+
+Scelta valore numerico.
+
+Per questo devo aggiungerci anche?
+
+Posso prendere 7 carte su?
+
+Quel colore? Il colore l'ho calcolata lo stesso perché?
+
+Quindi io dovrei riuscire in realtà dovrei scegliere cioè devo scegliere tante.
+
+Chiaramente.
+
+Non abbiamo escluso la possibilità di.
+
+Mi ha battuto da tutte le altre scale. Ma non dalla?
+
+Quindi se arrivano due canalini che la massa di? La certezza di vincere a chi ha una scala massima.
+
+Magari vediamo. La scala è quella data di difficoltà. Andiamo a farle insieme. Questa è la scala.
+
+Una scala diciamo per costruire la prima scelta che farei è quella dei valori. Quanti modi? Possiamo scegliere i valori di una?
+
+Si può partire dall'otto arriva al Q? Sono partita a 9 arriva al campo. Per partire dal 10 e arriva all'altro? Quattro possibili valori.
+
+Quattro scelte.
+
+Posso spostando le sue funzioni? È la possibilità 8 9 10 jackpo? La seconda.
+
+Io guardo solo i numeri. Ho queste quattro. Una volta che ho scelto i valori devono scegliere anche i.
+
+Dopodiché.
+
+Che ogni tanto. Poi magari. Le carte sono 5 Quindi complessivamente abbiamo quattro. Per 4 alla quinta cioè qua a 45?
+
+Ancora una volta però dobbiamo sottrarre. In quelle che sono state reali. Quelle che hanno molto più valori. Tutte le carte dello stesso seme.
+
+Come prima abbiamo quattro scelte per i valori.
+
+Dopodiché però insieme non è che ogni carta può avere un insieme di oggi. Deve essere lo stesso per tutto, quindi abbiamo. Poi abbiamo scelte.
+
+Quindi restare? Semplice non reali. Sono 4. Alla sesta sono 16. Il colore che non è una squadra reale sono?
+
+Francesco.
+
+Se uno aggiunge una minima sono 20.
+
+Va bene, Abbiamo fatto tutto, manca solo il poker.
+
+E poi 4 alla quinta per esempio.
+
+Quante sono Allora intanto dobbiamo scegliere il valore del poker.
+
+Valore del poker.
+
+È una qualunque delle altre 28. Quindi andiamo? Quinta carta.
+
+Che danno botte sono Confronto per.
+
+Che se non ricordo male è uguale al numero francese. Con otto carte la probabilità di avere. Il poker è uguale.
+
+Uno gioca con più carte.
+
+Va bene. Va bene. Che non sia incentivo a giocare d'azza È un esercizio molto interessante invece da fare che è 3.3.
+
+Che contiene 30 palline?
+
+Cosa viene chiesto? In quanti modi? Si possono pescare 8. Palline in modo che queste siano esattamente. I tre colori diversi. La domanda detta così potrebbe essere un po' ambigua. Infatti un esercizio chiede di risolvere l'esercizio supponendo sia che le palline siano indistinguibili. Immaginando che siano numerati dal fatto 1234565 pescare.
+
+La 2.
+
+Considerare le palline come dischetto? Siamo Nel primo caso per stare a due ruote una quattro volte la stessa cosa, nel secondo caso che quello più. Interessato.
+
+Partendo dal caso che ho preso piede? Possibilità per le terminazioni le i diversi colori sono 5.
+
+Le palline e una pallina.
+
+Nel caso a e nel caso di alla crisi tratta una scelta del primo colore che tenderà 6 e 4 perline. Gli altri sono distribuiti uno ad uno e due numeri.
+
+Si può scegliere quello che?
+
+Abbiamo la scelta dei tre colori su 5.
+
+E poi la scelta di? Vi auguro.
+
+Vedete i colori e poi la scelta di quello che si prende 6, forse 7 euro 4 e quello che saranno due quindi. Negli altri due casi. Quindi questa è la scelta dei tre colori su cinque. Questa è la scelta del colore. Di cui prendiamo diciamo. Il numero più particolare cioè il 6 nel caso a.
+
+4. Nel caso di e due nel caso E perché gli altri due poi si tranne uno è uno due e due e tre e tre e come non è importante. E tre perché dopo aver Questa è praticamente la scelta del colore i tuoi prendiamo per esempio, l'età classica e palline nel caso C4 galline e nel caso e due palline, perché poi automaticamente degli altri due colori teniamo una pallina a ciascuna due palline e palline cinesi.
+
+Sarai l'ultimo rosso verde oppure sei Verdi? Non lo? In questo caso?
+
+Invece nel caso di B e C dopo aver fatto sempre la scelta dei tre colori a 5. Abbiamo invece la scelta dell'ordine diciamo in cui disporre i colori, Cioè a quale insegnare 5 fare segnali due fareste nere, uno e quindi vuole insegnare 4. Fai 3 4 e qui quindi abbiamo le marceale.
+
+Andiamo Quindi se per 30 quindi sono tre case io per 60?
+
+Impeccabile.
+
+Quindi questa era il cambio disponibile nel caso in cui siano distinguibile le cose simili ancora. Il primo amore in cui l'ho fatto è stato quello di. E analizzare ogni caso e poi trasformarlo e chiaramente escono tanto in questo modo, Quindi per esempio, nel caso a.
+
+Abbiamo la scienza nel colore con 6 palline sempre poi. La scelta.
+
+Per le apro due colori.
+
+Abbiamo l'assenza dei tre colori, poi la scelta dell'ordine Comunque sartoriale per la scelta di.
+
+In un altro modo? Pensando al nostro modo.
+
+Suggerimento.

@@ -1,10 +1,14 @@
 ---
-description: Workflow per la trascrizione e la digestione di file audio delle lezioni (usa whisper-turbo locale a 24 thread). Esegue pulizia dei formati extra e riadatta il testo in Markdown pulito.
+description: Workflow per la trascrizione e la digestione di file audio delle lezioni (usa whisper-turbo locale a 24 thread e confronta l'output con la trascrizione Pixel). Esegue pulizia dei formati extra e riadatta il testo in Markdown pulito.
 ---
 
 # Workflow: Ingest Audio
 
 Quando l'utente invoca `/ingest-audio` o ti chiede esplicitamente di processare/ingerire un file audio o una registrazione della lezione, esegui RIGOROSAMENTE questi passaggi in ordine:
+
+## Step 0: Organizzazione della Trascrizione Pixel
+1. L'utente fornisce un file audio e un file testuale generato dall'app del suo Google Pixel. Assicurati che entrambi si trovino in `raw/registrazioni/`.
+2. Sposta il file testuale del Google Pixel all'interno della directory dedicata `raw/registrazioni/trascrizioni-pixel/` (creala se non esiste). Questo file servirà per il confronto successivo.
 
 ## Step 1: Trascrizione Audio
 **SCORCIATOIA (Fast-Path):** Prima di avviare qualsiasi operazione, controlla se nella directory (sia in `raw/registrazioni/` che in `raw/registrazioni/trascrizioni-whisper/`) esiste già un file `.txt` con lo stesso nome dell'audio (es. `MdP20260923.txt`). Se il file testuale esiste già, significa che la trascrizione è già stata effettuata: **salta interamente lo Step 1 e lo Step 2**, e procedi direttamente allo Step 3 leggendo quel file `.txt`.
@@ -24,17 +28,18 @@ Se il file `.txt` NON esiste, esegui la trascrizione:
 
 ## Step 3: Raffinamento e Conversione in Markdown
 0. **Supporto Documentale (La Bibbia):** Assicurati di consultare sempre il file `raw/lezioniNew.pdf` e usalo come "Ground Truth" (Bibbia) per correggere errori di comprensione di Whisper (es. termini matematici fraintesi) e per assicurarti che la nomenclatura rispecchi esattamente le dispense ufficiali.
-1. Leggi il contenuto del file `.txt` salvato in `raw/registrazioni/trascrizioni-whisper/`.
-2. Utilizzando la tua logica AI o quella di un subagent adeguato, rielabora l'intero testo applicando rigorosamente il seguente prompt:
+1. Leggi il contenuto di **ENTRAMBI** i file: la trascrizione generata in `raw/registrazioni/trascrizioni-whisper/` e la trascrizione del Pixel salvata in `raw/registrazioni/trascrizioni-pixel/`.
+2. Utilizzando la tua logica AI o quella di un subagent adeguato, confronta le due trascrizioni e rielabora l'intero testo applicando rigorosamente il seguente prompt:
 
    > Sei un assistente accademico specializzato nel riordinare e correggere appunti per corsi universitari di Ingegneria e Scienze Informatiche.
-   > Di seguito ti fornisco la trascrizione grezza di una lezione (generata da un sistema speech-to-text locale) E le relative slide/dispense ufficiali.
+   > Di seguito ti fornisco **due versioni** della trascrizione di una lezione (una generata da Whisper, l'altra dall'app Google Pixel) E le relative slide/dispense ufficiali.
    > 
    > Il tuo compito è:
-   > 1. Adottare uno stile narrativo fluido ed elegante, eliminando i balbettii e i difetti del parlato, ma restando **il più fedele possibile** a ciò che dice il professore. Devi riportare *tutto* ciò che riesci a comprendere, senza tagliare concetti, senza fuorviare e **senza mai aggiungere informazioni o deduzioni che lui non ha esplicitamente pronunciato nell'audio**.
-   > 2. Correggere eventuali errori di battitura o parole travisate dal software. **FONDAMENTALE:** Usa il file `lezioniNew.pdf` fornito come riferimento assoluto per disambiguare termini tecnici, acronimi o nomi di teoremi storpiati, ponendo massima attenzione a preservare accuratamente il lessico tecnico matematico e rimanendo aderente al 100% all'argomento.
-   > 3. Identificare i cambi di interlocutore intuendoli dal contesto e assegnare le etichette corrette (es. **Professore:**, **Studente:**).
-   > 4. Formattare il risultato finale in Markdown pulito. Laddove la tua intelligenza te lo permetta, cerca di dedurre in maniera efficace la formula matematica corrispettiva di cui si parla nel testo scrivendola in LaTeX. **IMPORTANTE per le formule:** usa SEMPRE la sintassi MathJax compatibile con Obsidian (simbolo del dollaro singolo `$` per formule inline, e doppio dollaro `$$` per formule a blocco). NON usare MAI `\(` o `\[`. Assicurati inoltre di NON inventare o realizzare formule che devino totalmente dall'argomento contestuale.
+   > 1. **Confrontare ed unire (Merge):** Effettua un'analisi di consistenza tra la trascrizione Whisper e quella Pixel. La trascrizione Whisper potrebbe essere stata interrotta o tagliata; in tali casi, recupera e integra l'audio mancante affidandoti alla trascrizione Pixel, assicurandoti che non ci siano omissioni di contenuto.
+   > 2. Adottare uno stile narrativo fluido ed elegante, eliminando i balbettii e i difetti del parlato, ma restando **il più fedele possibile** a ciò che dice il professore. Devi riportare *tutto* ciò che riesci a comprendere, senza tagliare concetti, senza fuorviare e **senza mai aggiungere informazioni o deduzioni che lui non ha esplicitamente pronunciato nell'audio**.
+   > 3. Correggere eventuali errori di battitura o parole travisate dal software. **FONDAMENTALE:** Usa il file `lezioniNew.pdf` fornito come riferimento assoluto per disambiguare termini tecnici, acronimi o nomi di teoremi storpiati, ponendo massima attenzione a preservare accuratamente il lessico tecnico matematico e rimanendo aderente al 100% all'argomento.
+   > 4. Identificare i cambi di interlocutore intuendoli dal contesto e assegnare le etichette corrette (es. **Professore:**, **Studente:**).
+   > 5. Formattare il risultato finale in Markdown pulito. Laddove la tua intelligenza te lo permetta, cerca di dedurre in maniera efficace la formula matematica corrispettiva di cui si parla nel testo scrivendola in LaTeX. **IMPORTANTE per le formule:** usa SEMPRE la sintassi MathJax compatibile con Obsidian (simbolo del dollaro singolo `$` per formule inline, e doppio dollaro `$$` per formule a blocco). NON usare MAI `\(` o `\[`. Assicurati inoltre di NON inventare o realizzare formule che devino totalmente dall'argomento contestuale.
    > 
    > All'inizio del documento, inserisci un blocco YAML Front Matter con i seguenti metadati ricavati dal contesto:
    > ---
@@ -43,7 +48,8 @@ Se il file `.txt` NON esiste, esegui la trascrizione:
    > file_sorgente: "[nome_file.txt originale]"
    > ---
    > 
-   > Ecco la trascrizione grezza: [testo]
+   > Ecco la trascrizione Whisper: [testo Whisper]
+   > Ecco la trascrizione Pixel: [testo Pixel]
 
 4. Salva l'output generato come nuovo file, chiamandolo con lo stesso nome di partenza ma con estensione `.md`, all'interno della directory `raw/registrazioni/trascrizioni-sistemate/`.
 
