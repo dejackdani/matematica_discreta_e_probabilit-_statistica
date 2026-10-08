@@ -1,6 +1,7 @@
 ---
+indice: "5.10"
 title: Esercizi 10 - Variabili aleatorie continue
-stato_esercitazione: 🔴 Da Svolgere
+stato: "🔴 Da Iniziare"
 file_sorgente: "[[EserciziMDPnew.pdf]]"
 ---
 

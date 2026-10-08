@@ -1,6 +1,7 @@
 ---
+indice: "5.3"
 titolo: Esercizi di Combinatoria Avanzata
-stato_esercitazione: 🔴 Da Svolgere
+stato: "🔴 Da Iniziare"
 file_sorgente: "[[EserciziMDPnew.pdf]]"
 ---
 

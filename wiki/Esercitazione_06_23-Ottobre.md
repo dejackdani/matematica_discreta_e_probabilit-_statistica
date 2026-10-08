@@ -1,6 +1,7 @@
 ---
+indice: "5.6"
 title: Esercizi Probabilità base
-stato_esercitazione: 🔴 Da Svolgere
+stato: "🔴 Da Iniziare"
 file_sorgente: "[[EserciziMDPnew.pdf]]"
 ---
 # Esercizi: Probabilità di base e uniforme

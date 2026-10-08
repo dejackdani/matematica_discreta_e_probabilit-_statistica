@@ -1,6 +1,7 @@
 ---
+indice: "5.4"
 titolo: Esercizi sulle Partizioni
-stato_esercitazione: 🔴 Da Svolgere
+stato: "🔴 Da Iniziare"
 file_sorgente: "[[EserciziMDPnew.pdf]]"
 ---
 

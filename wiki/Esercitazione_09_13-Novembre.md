@@ -1,6 +1,7 @@
 ---
+indice: "5.9"
 title: Esercizi 09 - Valore atteso e varianza
-stato_esercitazione: 🔴 Da Svolgere
+stato: "🔴 Da Iniziare"
 file_sorgente: "[[EserciziMDPnew.pdf]]"
 ---
 

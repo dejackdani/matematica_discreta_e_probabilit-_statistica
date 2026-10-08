@@ -1,6 +1,7 @@
 ---
+indice: "5.5"
 title: Esercizi Statistica descrittiva
-stato_esercitazione: 🔴 Da Svolgere
+stato: "🔴 Da Iniziare"
 file_sorgente: "[[EserciziMDPnew.pdf]]"
 ---
 # Esercizi: Statistica descrittiva

@@ -1,7 +1,12 @@
 ---
+indice: "1.2"
 tipo: indice
-tags: [matematica, definizioni, teoremi]
+tags:
+  - matematica
+  - definizioni
+  - teoremi
 data_creazione: 2026-09-30
+stato: 🟢 Completato
 ---
 
 # Indice dei Teoremi e delle Definizioni

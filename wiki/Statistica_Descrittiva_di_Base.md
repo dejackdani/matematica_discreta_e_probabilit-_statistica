@@ -1,11 +1,15 @@
 ---
+indice: "4.1"
 tipo: riassunto_fonte
-tags: [statistica_descrittiva]
+tags:
+  - statistica_descrittiva
 data_creazione: 2026-10-07
-fonti_usate: ["[[MdP20261007.md]]", "[[lezioniNew.pdf]]"]
-stato_studio: 🔴 Da Iniziare
+fonti_usate:
+  - "[[MdP20261007.md]]"
+  - "[[lezioniNew.pdf]]"
+stato: "🔴 Da Iniziare"
 difficolta: Bassa
-ultimo_ripasso: 
+ultimo_ripasso:
 tempo_stimato: 20 min
 ---
 

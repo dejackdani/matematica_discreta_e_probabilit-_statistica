@@ -1,0 +1,19 @@
+views:
+  - type: kanban
+    name: kanban
+    filters:
+      and:
+        - '!file.inFolder("appunti_dani")'
+        - '!file.inFolder("raw")'
+        - '!file.inFolder("wiki/flashcards")'
+        - '!["index", "README", "kanban.base", "log"].contains(file.name)'
+    groupBy:
+      property: stato
+      direction: ASC
+    order:
+      - file.fullname
+    sort:
+      - property: indice
+        direction: ASC
+    columnWidth: 430
+    imageAspectRatio: 0.25

@@ -1,6 +1,7 @@
 ---
+indice: "5.1"
 titolo: Esercizi di Combinatoria Intuitiva
-stato_esercitazione: 🔴 Da Svolgere
+stato: "🔴 Da Iniziare"
 file_sorgente: "[[EserciziMDPnew.pdf]]"
 ---
 

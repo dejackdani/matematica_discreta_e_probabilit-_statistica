@@ -1,6 +1,7 @@
 ---
+indice: "5.2"
 titolo: Esercizi di Combinatoria di Base
-stato_esercitazione: 🔴 Da Svolgere
+stato: "🔴 Da Iniziare"
 file_sorgente: "[[EserciziMDPnew.pdf]]"
 ---
 

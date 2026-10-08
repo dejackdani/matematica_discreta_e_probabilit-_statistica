@@ -5,6 +5,16 @@ Il formato è basato su [Keep a Changelog](https://keepachangelog.com/en/1.1.0/)
 
 ## [Unreleased]
 
+## [0.9.0] - 2026-10-08
+
+### Added
+- Aggiunta la proprietà `indice` in tutti i frontmatter della wiki per ordinare progressivamente i documenti (1-based index).
+- Creati tre file placeholder "invisibili" (utilizzando il carattere Braille Blank) per le colonne Kanban: Da Iniziare, In Corso, Completato.
+
+### Changed
+- Unificate le vecchie proprietà YAML `stato_studio` e `stato_esercitazione` in un'unica chiave `stato`.
+- Inizializzati forzatamente tutti i documenti della wiki allo stato `🔴 Da Iniziare`.
+
 ## [0.8.0] - 2026-10-07
 
 ### Added

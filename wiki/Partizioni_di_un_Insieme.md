@@ -1,9 +1,10 @@
 ---
+indice: "3.4"
 tipo: concetto
 tags: [matematica_discreta, combinatoria, partizioni]
 data_creazione: 2026-10-02
 fonti_usate: ["[[MdP20261002.md]]", "[[lezioniNew.pdf]]"]
-stato_studio: 🔴 Da Iniziare
+stato: "🔴 Da Iniziare"
 difficolta: Bassa
 ultimo_ripasso: 
 tempo_stimato: 15 min

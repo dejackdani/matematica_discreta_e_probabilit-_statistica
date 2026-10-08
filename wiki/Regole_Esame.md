@@ -1,11 +1,16 @@
 ---
-tipo: [riassunto_fonte]
-tags: [matematica_discreta, probabilità]
+indice: "1.1"
+tipo:
+  - riassunto_fonte
+tags:
+  - matematica_discreta
+  - probabilità
 data_creazione: 2026-09-24
-fonti_usate: ["[[MdP20260916.md]]"]
-stato_studio: 🔴 Da Iniziare
+fonti_usate:
+  - "[[MdP20260916.md]]"
+stato: 🟢 Completato
 difficolta: Bassa
-ultimo_ripasso: 
+ultimo_ripasso:
 tempo_stimato: 5 min
 ---
 

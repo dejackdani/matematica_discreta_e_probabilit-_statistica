@@ -1,9 +1,10 @@
 ---
+indice: "3.3"
 tipo: [concetto]
 tags: [matematica_discreta, calcolo_combinatorio, fibonacci]
 data_creazione: 2026-09-25
 fonti_usate: ["[[MdP20260925.md]]", "[[lezioniNew.pdf]]"]
-stato_studio: 🔴 Da Iniziare
+stato: "🔴 Da Iniziare"
 difficolta: Media
 ultimo_ripasso: 
 tempo_stimato: 20 min

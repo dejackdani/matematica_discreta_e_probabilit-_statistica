@@ -1,9 +1,10 @@
 ---
+indice: "3.1"
 tipo: [concetto]
 tags: [matematica_discreta, calcolo_combinatorio]
 data_creazione: 2026-09-24
 fonti_usate: ["[[MdP20260918.md]]", "[[lezioniNew.pdf]]"]
-stato_studio: 🔴 Da Iniziare
+stato: "🔴 Da Iniziare"
 difficolta: Media
 ultimo_ripasso: 
 tempo_stimato: 15 min

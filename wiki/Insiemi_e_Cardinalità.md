@@ -1,11 +1,16 @@
 ---
-tipo: [concetto]
-tags: [matematica_discreta]
+indice: "2.1"
+tipo:
+  - concetto
+tags:
+  - matematica_discreta
 data_creazione: 2026-09-24
-fonti_usate: ["[[MdP20260916.md]]", "[[lezioniNew.pdf]]"]
-stato_studio: 🔴 Da Iniziare
+fonti_usate:
+  - "[[MdP20260916.md]]"
+  - "[[lezioniNew.pdf]]"
+stato: 🟡 In Corso
 difficolta: Media
-ultimo_ripasso: 
+ultimo_ripasso:
 tempo_stimato: 10 min
 ---
 
