@@ -5,6 +5,11 @@ Il formato è basato su [Keep a Changelog](https://keepachangelog.com/en/1.1.0/)
 
 ## [Unreleased]
 
+## [0.9.1] - 2026-10-08
+
+### Changed
+- Ristrutturato e migliorato il file `README.md` aggiungendo badge descrittivi, requisiti chiari di installazione, guida all'utilizzo in Obsidian e istruzioni puntuali per la contribuzione, seguendo rigorosamente le linee guida del progetto.
+
 ## [0.9.0] - 2026-10-08
 
 ### Added
