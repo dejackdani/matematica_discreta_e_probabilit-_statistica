@@ -5,6 +5,11 @@ Il formato è basato su [Keep a Changelog](https://keepachangelog.com/en/1.1.0/)
 
 ## [Unreleased]
 
+## [0.9.2] - 2026-10-08
+
+### Fixed
+- Sostituito il placeholder generico `<url-del-repository>` nel README.md con il link esatto del repository Github del progetto.
+
 ## [0.9.1] - 2026-10-08
 
 ### Changed

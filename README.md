@@ -17,7 +17,7 @@ Non è necessaria alcuna installazione di pacchetti software o dipendenze comple
 ### Passaggi
 ```bash
 # 1. Clona il repository in locale
-git clone <url-del-repository>
+git clone https://github.com/dejackdani/matematica_discreta_e_probabilit-_statistica.git
 
 # 2. Accedi alla directory
 cd matematica_discreta_e_probabilità_statistica
