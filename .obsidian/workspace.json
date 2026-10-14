@@ -8,19 +8,33 @@
         "type": "tabs",
         "children": [
           {
-            "id": "55ee3e4a19eb68bf",
+            "id": "904a890e9dab3fa8",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "pdf",
               "state": {
-                "file": "kanban.base",
-                "viewName": "kanban"
+                "file": "raw/EserciziMDPnew.pdf"
               },
-              "icon": "lucide-kanban-square",
-              "title": "kanban"
+              "icon": "lucide-file-text",
+              "title": "EserciziMDPnew"
+            }
+          },
+          {
+            "id": "0790c75bca17e48e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "appunti_dani/EsercitazioneNumero01.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "EsercitazioneNumero01"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -34,27 +48,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "48a3f27df1dc7008",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Esplora file"
-            }
-          },
-          {
             "id": "2b77bd91114af462",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "stirling",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,8 +76,24 @@
               "icon": "lucide-bookmark",
               "title": "Segnalibri"
             }
+          },
+          {
+            "id": "c0776969ef9594ca",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Esplora file"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -98,8 +113,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
-                "collapseAll": false,
+                "file": "kanban.base",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -117,27 +132,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "kanban.base",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
               "title": "Collegamenti in uscita"
-            }
-          },
-          {
-            "id": "e72338e19880b323",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-tags",
-              "title": "Etichette"
             }
           },
           {
@@ -155,12 +155,12 @@
             }
           },
           {
-            "id": "1f75c247d1f64c75",
+            "id": "2d76c3c23a938749",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md",
+                "file": "appunti_dani/EsercitazioneNumero01.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -168,13 +168,40 @@
               "icon": "lucide-list",
               "title": "Struttura"
             }
+          },
+          {
+            "id": "0549613d7a465f64",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etichette"
+            }
+          },
+          {
+            "id": "ce9270d8abb5bf8b",
+            "type": "leaf",
+            "state": {
+              "type": "footnotes",
+              "state": {
+                "file": "appunti_dani/EsercitazioneNumero01.md"
+              },
+              "icon": "lucide-file-signature",
+              "title": "Note a piè di pagina"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -185,48 +212,52 @@
       "daily-notes:Apri nota giornaliera": false,
       "templates:Inserisci modello": false,
       "command-palette:Apri riquadro comandi": false,
-      "bases:Crea nuova Base": false
+      "bases:Crea nuova Base": false,
+      "workspaces:Gestisci layout delle aree di lavoro": false,
+      "random-note:Apri nota casuale": false,
+      "zk-prefixer:Nuova nota univoca": false
     }
   },
-  "active": "55ee3e4a19eb68bf",
+  "active": "0790c75bca17e48e",
   "lastOpenFiles": [
+    "appunti_dani/01_Calcolo Combinatorio.md",
+    "appunti_dani/EsercitazioneNumero01.md",
+    "raw/EserciziMDPnew.pdf",
+    "EsercitazioneNumero1.md",
+    "appunti_dani/Insieme Discreto.md",
+    "appunti_dani/insieme B delle successioni binarie.md",
+    "appunti_dani/Corrispondenza Biunivoca tra insiemi.md",
+    "appunti_dani/Cardinalità.md",
+    "appunti_dani/00_appunti_dani.md",
+    "Senza nome.canvas",
+    "appunti_dani/Insieme Numerabile.md",
+    "appunti_dani/02_Statistica_Descrittiva.md",
+    "appunti_dani/03_Probabilità.md",
+    "appunti_dani/04_Statistica_Inferenziale.md",
+    "raw/assets/venn_3_insiemi.png",
+    "raw/assets/venn_2_insiemi.png",
+    "raw/registrazioni/MdP20261007.m4a",
+    "raw/registrazioni/MdP20261009_g.txt",
+    "raw/registrazioni/Non confermato 177355.crdownload",
+    "raw/registrazioni/MdP20261009.m4a",
+    "raw/registrazioni/Non confermato 943162.crdownload",
+    "raw/registrazioni/trascrizioni-sistemate/MdP20261007.md",
+    "log.md",
+    "raw/registrazioni/MdP20261007_g.txt",
+    "raw/registrazioni/Non confermato 589501.crdownload",
+    "README.md",
+    "kanban.base",
+    "index.md",
+    "wiki/Basi_del_Calcolo_Combinatorio.md",
     "⠀⠀.md",
     "⠀.md",
-    "kanban.base",
     "wiki/Insiemi_e_Cardinalità.md",
     "wiki/Indice_Teoremi_Definizioni.md",
     "⠀⠀⠀.md",
     "wiki/Placeholder_DaIniziare.md",
     "wiki/Placeholder_Completato.md",
     "wiki/Placeholder_InCorso.md",
-    "wiki/Statistica_Descrittiva_di_Base.md",
-    "README.md",
-    "Senza nome.md",
-    "wiki/Regole_Esame.md",
-    "wiki/Disposizioni_e_Combinazioni.md",
-    "wiki/Esercitazione_05_16-Ottobre.md",
-    "index.md",
-    "test.md",
-    "appunti_dani/00_appunti_dani.md",
-    "wiki/Partizioni_di_un_Insieme.md",
-    "raw/registrazioni/trascrizioni-sistemate/MdP20261007.md",
-    "wiki/flashcards/02-Statistica_Descrittiva.md",
-    "appunti_dani/04_Statistica_Inferenziale.md",
-    "appunti_dani/03_Probabilità.md",
-    "appunti_dani/02_Statistica_Descrittiva.md",
-    "appunti_dani/01_Calcolo Combinatorio.md",
     "appunti_dani",
-    "wiki/Principio_di_Inclusione_Esclusione.md",
-    "raw/registrazioni/trascrizioni-whisper/MdP20261002_g.txt",
-    "raw/registrazioni/trascrizioni-whisper/Non confermato 643441.crdownload",
-    "scratch/fix_colors.py",
-    "scratch",
-    "raw/assets/venn_2_insiemi.png",
-    "raw/assets/venn_3_insiemi.png",
-    "raw/assets/venv/lib/python3.14/site-packages/matplotlib_venn-1.1.2.dist-info/REQUESTED",
-    "raw/assets/venv/lib/python3.14/site-packages/matplotlib_venn-1.1.2.dist-info/INSTALLER",
-    "raw/assets/venv/lib/python3.14/site-packages/matplotlib_venn/layout/venn3/__pycache__/pairwise.cpython-314.pyc",
-    "raw/assets/venv/lib/python3.14/site-packages/matplotlib_venn/layout/venn3/__pycache__/cost_based.cpython-314.pyc",
     "raw/assets/venv/lib/python3.14/site-packages/matplotlib/mpl-data/images/zoom_to_rect_large.png",
     "raw/assets/venv/lib/python3.14/site-packages/matplotlib/mpl-data/images/zoom_to_rect.svg",
     "raw/assets/venv/lib/python3.14/site-packages/matplotlib/mpl-data/images/zoom_to_rect.png",

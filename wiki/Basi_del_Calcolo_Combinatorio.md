@@ -1,12 +1,17 @@
 ---
 indice: "3.1"
-tipo: [concetto]
-tags: [matematica_discreta, calcolo_combinatorio]
+tipo:
+  - concetto
+tags:
+  - matematica_discreta
+  - calcolo_combinatorio
 data_creazione: 2026-09-24
-fonti_usate: ["[[MdP20260918.md]]", "[[lezioniNew.pdf]]"]
-stato: "🔴 Da Iniziare"
+fonti_usate:
+  - "[[MdP20260918.md]]"
+  - "[[lezioniNew.pdf]]"
+stato: 🔴 Da Iniziare
 difficolta: Media
-ultimo_ripasso: 
+ultimo_ripasso:
 tempo_stimato: 15 min
 ---
 

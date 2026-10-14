@@ -1,0 +1,762 @@
+
+È la frizione che vogliamo studiare. In particolare sul campione quindi?
+
+Che sia valutabile?
+
+Alessandro bartolucci.
+
+Dunque voi cosa abbiamo fatto? Abbiamo studiato i primi indici di esposizione. Andiamo a chiamare in particolare. La media? Importante. Definito come. 1 2n Dei valori che assume.
+
+E poi abbiamo studiato. L'indice di disperazione e in particolare abbiamo introdotto e studiato per società anticipare.
+
+Che abbiamo definito come?
+
+Quadrato. La media dei quadrati degli scatti si tenne la differenza dei valori rispetto. E poi abbiamo anche Imparato.
+
+Allora oggi facciamo.
+
+Ma veramente? Calcolare questi valori?
+
+Tanti applicativi che non possono fare.
+
+Oggi adesso parliamo invece di. Correlazione.
+
+Quando siamo in presenza di due caratteri sull'accesso campione?
+
+Ad esempio potrebbero essere?
+
+Potrebbero essere? Oppure altezza e.
+
+E aspettativa di vita. Due caratteri si possono?
+
+Ad esempio.
+
+Peso e altezza.
+
+Offeso.
+
+Oppure Diciamo un peso diciamo? E aspettative.
+
+Ammesso che l'aspettativa di vita si possa in qualche modo.
+
+Cosa ci potrà interessare? Diciamo Quando andiamo a considerare. E ci interessa con l'appunto che si chiama la correlazione tra i due caratteri, se in qualche modo uno dei due caratteri influenza l'altro oppure no. Dobbiamo capire questo aspetto qui. Vogliamo! Capire.
+
+Tra.
+
+Come si dice positivamente o negativamente? La correlazione si dice positiva. Quando crescere di uno dei due ci Aspettiamo che finisca anche l'altro. La correlazione si dice inversa o negativa quando crescere di uno?
+
+Diciamo incorrelati invece Una relazione?
+
+Parliamo di correlazione?
+
+Si dice? Diretta.
+
+Positiva.
+
+Per crescere. Ed è un carattere.
+
+Al contrario.
+
+Diciamo. Che la correlazione?
+
+Ok.
+
+Intenso quantitativo ben preciso. Come facciamo a capire? Caricati Se due caratteri sono positivamente sono negativamente.
+
+Della correlazione Cosa possiamo fare?
+
+Una correlazione. Mi raccomando. Se la x ha un dato positivo.
+
+Allora anche la Y.
+
+Ora questo fatto qui positivo positivo negativo negativo. Se te lo dice bene il prodotto. Qualche prodotto degli scatti? Perché questo gli scarti Giustino ci vuol dire che sono tutte e due bottiglie.
+
+Abbiamo. Correlazione.
+
+Della X.
+
+Per lo stato della Y e Y. Sia mediamente positivo.
+
+Ora prima non l'ho detto, l'ho dato quasi per scontato. Insomma nel caso di. Peso e altezza.
+
+Peso il conto in banca. Direi che sono due caratteri. Ci aspettiamo siano passati un pochino di stare in una persona più pesante e quindi l'occhio.
+
+Relazione in inverno quindi una persona. Che soffre di obesità? Probabilmente.
+
+Questa chiaramente su un singolo elemento del campione.
+
+Definiamo.
+
+E nella media di questi?
+
+Saranno negativamente correlati. Negativa. Potranno incorrerà tutti la co.
+
+Effettivamente correlati.
+
+Maggiore di Zero sono. Negativamente correlati.
+
+Correlati se
+
+Sono incorrelati.
+
+Salutiamo a questo punto che. Andiamo a valutare.
+
+Che cos'è?
+
+È proprio la varianza che abbiamo.
+
+Questo senso? Diciamo che.
+
+Divariata per due caratteri.
+
+Ora però.
+
+È difficile da dire da qua. Però sicuramente uno può osservare. Che se uno non so raddoppia. La x Allora anche la tua varianza. Raddo. L'indice che è sensibile ai cambiamenti di mercato.
+
+La tua varianza?
+
+Ai cambiamenti di Stato.
+
+Di correlazione. Usa quello che si chiama l'indice di correlazione.
+
+Ai cambiamenti di Scala.
+
+Inoltre vedremo a breve.
+
+Questa condizione?
+
+Che dispongono lungo esattamente su una retta?
+
+Successo che la y è uguale a 2x + 3. Una cosa di questo tipo stanno proprio perfettamente su una retta orientata positivamente.
+
+Esattamente su una retta ma con pendenza negativa. Dopodiché.
+
+In qualche modo ha una retta via?
+
+Un esempio di calcolo.
+
+Che richiama questa sono legatura ragazzi?
+
+Se vogliamo anche.
+
+Di quello che abbiamo.
+
+La media del prodotto?
+
+In questo caso però non vale il 300 del giorno per ricordarci che aspetta.
+
+La dimostrazione è molto semplice. Ed è come quella che abbiamo visto.
+
+L'aspetto direttamente.
+
+Uno su. Sommatoria su. X /. E.
+
+Adesso guardiamo uno per uno. Questi qua di queste quattro sfumature vediamo che contributo ci.
+
+Questo stiamo facendo la media dei prodotti.
+
+E quindi abbiamo questo primo contesto.
+
+Allora in questo prima sommatoria. Che succede che Y bar è una? E poi rimane Uno su n. Insomma?
+
+Questa è la costante e questo rimane meno con un peso. Si arrabbia perché si deve. Qui cosa succede? E come prima ma con X e Y scambiate quindi sbarra è una costante. La porta davanti.
+
+Il signore che decide.
+
+Settimane.
+
+E quindi?
+
+Supponiamo di avere questi?
+
+Valutati su tre elementi di un piccolo.
+
+Ancora due?
+
+Allora guardandolo così. Sono direttamente correlati diversamente correlati piccoli numeri No però qualcosa possiamo dire.
+
+È vero che crescendo la x mediamente c'è anche la Y? Ci aspettiamo una nuova varianza. Andiamo a calcolare.
+
+Allora cominciamo la x bar.
+
+Quindi la tua varianza?
+
+Meno prodotto delle medie. In questo caso qua 1. Questa è la poveraccio, non è raggiungi.
+
+Se uno vuole calcolare l'indice di correlazione. Per calcolare l'indice dotazione abbiamo bisogno anche della variante. La calcoliamo. Che abbiamo bisogno ancora anche di X quadro e ci sono un quadro. In squadra fa 1.
+
+Qualcuno più 4. 5, 9, 14 03.
+
+Un quadro.
+
+Più 25 33.
+
+E quindi possiamo calcolarci la varianza di X?
+
+2014 terzi. Meno la media al quadrato. Che al centro? Bene, 14 terzi meno 44. Sono 12 terzi, quindi fa 2.
+
+Al quadrato. FIFA 11.
+
+E quindi?
+
+Va bene e infine, quindi possiamo calcolare anche questo.
+
+Due terzi.
+
+Un numero come questo sì, ci aspettavamo compreso tra meno 1 e 1.
+
+Un paio di centimetri a mano funziona
+
+Ok. Però adesso sono in debito, insomma di un foglio A3 affermazioni no. Quindi forse veramente succede antiche più ramate di sapere, ma perché questo libro però.
+
+Parliamo di?
+
+Se vogliamo capire appunto in modo un pochino più preciso come se uno dipende da. Lo facciamo partendo da un esempio.
+
+Sono qui abbiamo. Un campione.
+
+In cui valutiamo questi due.
+
+Ore dedicate alla preparazione.
+
+Studio.
+
+La cosa interessante capire se c'è una correlazione tra X.
+
+Per avere un voto più alto bisogna cambiare?
+
+Allora abbiamo 10. Il primo. Un secondo a cui al 60 ore?
+
+40 25. 40 ore 20.
+
+Allora? Cosa ci facciamo con questi dati? Praticamente Qui abbiamo chiamati X e Y.
+
+Ottimale. Un carattere.
+
+Il carattere che vogliamo chiamare. Però ovviamente uno può. Scambiare due. Di caratteri. Quindi diciamo se noi vogliamo stimare la y funzione la x cioè? Che voto prendo sapendo quanto studiato, Voglio stimare il vuoto in base alle vostre esigenze. Se vogliamo fare il contrario della. Quanto devo studiare per avere un certo voto?
+
+Procedimento in? Quindi in questo caso vogliamo?
+
+Stimare.
+
+Allora procediamo in questo modo prendiamo? Un bel piano cartesiano. Lo mettiamo in ascissa.
+
+E ricordiamo siamo per ogni elemento del campione il punto dove rispondente alle coordinate del.
+
+Diciamo primo punto.
+
+E adesso vuole fare stima del dietro a questo video sulla stima.
+
+E andiamo un po' di punti, non è immediato.
+
+Crescere della X che c'è anche da soli. Cosa vogliamo fare? Questa retta è minore di cosa vuole essere una retta? Che al prossimo nel modo migliore possibile.
+
+E poi ci ritiriamo Cosa vuol dire un significato?
+
+La retta?
+
+Profumare.
+
+Cosa può voler dire?
+
+Una possibilità?
+
+Più piccoli gesti. Mediamente veramente non posso fare, cioè questa distanza qui la posso fare Zero.
+
+Non voglio trovare il giusto equilibrio. Però in realtà non è tanto la distanza. Che ci interessa?
+
+E quindi cioè se io considero qua la x? 50. Stimo con la retta. Ottengo questo valore?
+
+Su tengo questo valore inizio l'errore che commetto rispetto al dato reale che ho e la lunghezza.
+
+Quindi è questo quello che io voglio?
+
+L'errore che commetto usando la retta. Quindi noi consideriamo tutti questi errori puntino. Andiamo un errore.
+
+Come suggerisce il nome? Non consideriamo. La media degli errori. Media dei quadrati. Quindi questo?
+
+Vuol dire cioè? Minimizzando. Utilizzando? La media? I quadrati.
+
+Delle lunghezze.
+
+Vabbè adesso. Impostiamo il problema e dopodiché arriviamo. Direttamente o quasi ad adulto. Adesso vogliamo scrivere la quantità. Che vogliamo appunto minimizzare questa media dei quadrati degli errori.
+
+La retta? Essendo una retta ha un'equazione del tipo X uguale a xlb? Noi vogliamo trovare i parametri delle.
+
+Speriamo che questa media.
+
+La media dei vantaggi e gli errori.
+
+SDA B ovviamente funziona, è una funzione di questi due parametri. Dobbiamo? Dobbiamo fare una media?
+
+Usando le persone.
+
+È il punto reale.
+
+L'originale da questo punto qua è Y.
+
+Calcolata inizi. Della sua asce. Meno.
+
+Questo è l'errore, è la differenza tra le ordinate di questi due punti qua per ogni.
+
+Quindi noi vogliamo trovare A e B in moto.
+
+Abbiamo disegnato i punti corrispondenti agli elementi del camper abilitati reali che sono.
+
+In modo che gli errori commessi, cioè le lunghezze dei puntini gialli siano più piccole mediamente al quadrato. Quindi qua insomma Questo significa. Il campione il punto sopra al contrario 6 Y. Il punto sotto ha coordinate X. Quindi la lunghezza di questo segmento è la differenza tra le coordinate tra Y e tale che è quello che abbiamo fatto.
+
+In questo modo.
+
+No.
+
+È uguale? Con forma regolare?
+
+Adesso possiamo arrivare.
+
+Quindi quanto fa nel nostro esempio?
+
+Una pagina virtuale.
+
+Fa la x.
+
+Ok allora quindi vedete qua.
+
+La colonna delle X la colonna delle Y. Il programma guidato in automatico. La colonna dei quadrati della X. I quadrati della Y e i prodotti. Dopodiché per calcolare.
+
+Un quadro e la media di XY.
+
+La media di squadra non conta i valori della colonna c e i valori della colonna Alfa mi mette degli zeri non. Ok, Dopodiché chiaramente la varianza.
+
+H2. E la media del feturing h22 al quadrato. La varianza di Y la stessa cosa? Lato varianza. La media dei prodotti?
+
+E infine, calcolando
+
+M2 fratto K2 c'è una covaganza Tra l'altro la varianza di X. E viene?
+
+Come abbiamo detto facendo meno a X /. E quindi? Diventa solo un calcolo, insomma c'era.
+
+Per stimare. Il voto in funzione delle ore di studio Quindi sarà la Y.
+
+Seguito il corso ma non sono niente. Dopodiché ogni ora di studio mi porta un aumento del territorio.
+
+Chiaramente dicevamo Se invece vogliamo. Fare la foto se vogliamo sfumare le ore di studi in funzione del voto. Uno fa lo stesso identica cosa? Trova una retta in cui veramente non dobbiamo scambiare i ruoli X e Y. Succede che qui il coefficiente avremo l'arco varianza sopra della stessa tolleranza di rifiuti perché?
+
+Osservazione.
+
+Vuol dire che la rete wiredrà di passa? Per il punto che ha coordinate di fare?
+
+È la stessa cosa vale per la torre?
+
+Due rette mini quadrate.
+
+Questo lo riprendiamo.
+
+Andiamo a vedere Quant'è questa media di corra degli errori nella retta mini quad, quindi ci mettiamo sostituiamo questi valori.
+
+La media agosto?
+
+Cioè?
+
+Sono al quadrato. Al quadrato.
+
+Al quadrato al quadrato.
+
+Abbiamo Meno due.
+
+Ok, Quindi qua abbiamo questa quantità Meno due volte la stessa cosa.
+
+Bene. E questo è uguale? A che cosa? Siamo raccogliamo questo tipo Y al quadrato.
+
+Rimane 1.
+
+Bene, allora abbiamo.
+
+L'utilizzo di correlazione era stato firmato.
+
+Ciao a tutti, Sono.
+
+Che commette la retta minima tragica, la media dei quadrati di errori e commenti. Ovviamente migliorati è proprio da questa piccola espressione finale per uno meno Rock 4X ora questa quantità. Ultimamente Maggiore uguale a zero il quadrato degli errori e quindi avrò al quadrato. Deve essere un agevola Zero, cioè il rolf.
+
+Il documento a qualcuno non mi ricordo chi è una persona mi.
+
+Almeno una volta.
+
+Come questa quantità?
+
+Abbiamo.
+
+E non solo perché non mi sembra che abbia non è che fa. Cosa vuol dire che fa Zero la media dei quadrati degli errori? Direi che fa Zero. Vuol dire che gli errori sono tutti Ze. Vedere media Zero tra numeri negativi sono. E quindi abbiamo che l'errore è Zero proprio quando?
+
+Una media.
+
+Qua che troviamo che dobbiamo anticipato. Quando ero dixit con la 1 è quello.
+
+Va bene, poi potete anche calcolare. No, non ho voglia di farlo.
+
+Volevo fare una cosa più leggera.
+
+Parlare di soldi.
+
+I quartieri. E la mettiamo? In qualche? E lo facciamo tramite esempi? Supponiamo di avere?
+
+In un certo titolo insomma quello che volete quello che sappiamo è che non lo teniamo al Lidl quattro anni.
+
+In questi quattro anni ha subito queste.
+
+Il secondo anno ha fatto meno 20%.
+
+Più 24%. Ultimo anno meno 14.
+
+Domanda.
+
+Qual è la variazione percentuale media di qualcosa?
+
+Domanda naturale. La prima cosa. E ti chiedo il secondo voi. L'ordine. Con cui abbiamo fatto le separazioni percentuali che è importante.
+
+Degli scaglie diverse. Detto questo tanto non è uguale meno 20 questi 10.000.
+
+Allora se voi dovete fare più il 10%.
+
+Fai per 1,1.
+
+Meno 20% vuol dire che la quantità finale è 0,80 della pagina.
+
+Più 10% diciamo così lo fate con 1,10.
+
+Adesso abbiamo già capito che effettivamente.
+
+Ogni percentuale.
+
+Dopodiché. A fare la somma algebrica delle. Più 10 meno 20. Più 24 meno 14 non
+
+Abbastanza fuorviante. Tanti errori matematici si sentono.
+
+Sempre?
+
+Partiamo da 100 faccio più il 50% arriva a 150.
+
+Ho perso 25.
+
+Ovviamente l'ordine non è importante.
+
+Quindi qua abbiamo già capito la sua opera.
+
+Praticamente.
+
+La variazione percentuale media in modo più naturale. La variazione percentuale di mantenerla compare 4 anni. Mi dà lo stesso risultato finale? Qual è questa variazione percentuale? Che mantengono da costante per quattro anni dallo stesso risultato di queste quattro.
+
+Allora se quando avete poi? Più complicato.
+
+Voglio quattro fattori uguali. Il cui prodotto siamo alla salute di tutti quanti. Quindi se voglio la variazione del sotto la.
+
+Il fattore.
+
+La differenza della media campionaria in cui facciamo la somma e lo dividiamo perenne.
+
+Si chiama la media geometrica. Nella media?
+
+Vediamo quanto fa. Questo?
+
+0,984.
+
+Fattore.
+
+La moltiplicare per 0,98.
+
+E quindi?
+
+Percentuali? Media.
+
+Quindi ogni anno per 1,58%. Quindi alla fine abbiamo perso.
+
+C'è un'altra cosa carina che volevo? Condividere.
+
+Un altro tipo di media?
+
+Facciamo la nostra bella passeggiata.
+
+Era andata veramente uno.
+
+Tornare indietro un po' di polvere. Quindi al ritorno.
+
+Qual è la velocità media quindi?
+
+Dipende anche dal tempo in un certo senso, sì. Per cercare di arrivare in una mano. Diciamo che lo spazio che abbiamo percorso da avi.
+
+Quindi abbiamo?
+
+Va? La velocità veramente non sappiamo bene.
+
+La velocità media come la calcoliamo Che cos'è la velocità?
+
+Da questa formula è uguale a S. Fratto 3.
+
+Ci accorgiamo?
+
+Attendiamo che questa velocità media non dipende dalla distanza.
+
+Questa la voglio scrivere queste due. Lo porto sotto.
+
+Cioè Cosa vuol dire?
+
+Armonica è l'inverso della media degli.
+
+Il?
+
+E la media?
+
+Si può fare anche con tre quattro?
+
+Sono date da un rapporto con in questo caso chilometri all'orario.
+
+Il cui diciamo i dati sono registrati. Quantità uguali rispetto all'unità di misura che sta numeratore. Che abbiamo fatto una media? Su questi qui che mantenevano costante la distanza.
+
+Tempo. Io vado a tre chilometri all'ora per un'ora. Poi vado a senti quando ancora per un'altra ora prima.
+
+Va bene.
+
+La ragazza.
+
+Considerando.
+
+Scegliere quali colori? Sono sempre.
+
+E poi alla fine molti.
+
+È un esempio. In questo caso diciamo se sentite da un po'. Però comunque uno lo può. Diciamo impostare per un problema in questo.
+
+Puntiamo con le rotture diverse oppure a tutti i modi per stare 8 palline a 2018. Tutti.
+
+Dopodiché.
+
+Ma uno?
+
+In questo modo.
+
+Fondamentale di questa. Noi vogliamo in modo di pescare 8 palline In modo che mi stiano né in A1 - 2. Perché vogliamo sia Rossa che sviluppi. Quindi vogliamo calcolare.
+
+Del complementare.
+
+8 palline in modo che.
+
+Impostato come per esempio anche kd.
+
+Esclusione no, Quindi dobbiamo calcolare.
+
+Quattro anni possiamo pescare 8 palline tra questi 18 nel modo che non ci siano capitali. Se non voglio palline rosse ne ho 12.
+
+A 1.
+
+Prendere 8 palline
+
+Hanno anche la stessa gradualità.
+
+In modo che non ci siano rosse e non ci sono più.
+
+8. Palline
+
+Soprattutto.
+
+Finisce subito.
+
+E quindi qua?
+
+Il comando di.
+
+Volendo che ci siano nuove palline per coloni. Qual è la differenza? 9. Per coloro anziché 6.
+
+Intersezione.
+
+In questo caso?
+
+Ho dimenticato.
+
+Abbiamo un insieme a di 16 palline.
+
+Ce ne sono?
+
+Determinare In quanti modi possiamo? Scegliere 10 palline
+
+In modo che ci sia almeno una pallina.
+
+Che ci sia? Almeno?
+
+Per. Valore.
+
+Questa è la prima cosa.
+
+Terminare invece In quanti modi le posso pescare 10 in modo che compaiono tutti tranne
+
+10 palline
+
+La parte importante di questo esercizio.
+
+Si contano più volte gli stessi.
+
+E quindi quello che facciamo? Prima di tutto. Scelgo due coppie di palline che hanno e lo stesso valore ok? Queste coppie le fanno queste due coppie. Le posso scegliere in otto su due modi?
+
+Questi sono in tanti modi. Posso scegliere i primi due coppie? In seguito? Le altre sei palline? Posso sceglierle in? Ogni volta in due modi perché devo scegliere per esempio se prendo. Ok, il resto delle palline posso scegliere? Oltre rosso e tre blu e all4 blu o il 4 rosso e così via.
+
+Quindi posso scegliere in due modi e i due moduli quindi?
+
+Per esempio all'inizio ho sbagliato, Ho fatto il contrario e ho scelto prima. Otto palline e. E poi ho scelto a caso. Diciamo altri due palline e il problema di questo approccio è che. Si contano. Quattro volte in più le stesse le stesse copie, ovviamente. Quindi?
+
+Quindi noi sappiamo che almeno due palline e sapevo che due palline hanno lo stesso valore. Due coppie di palline hanno lo stesso valore quindi partiamo da. 10 palline in tutto.
+
+Esattamente due valori che compaiono due. In questa è la prima scelta che fa.
+
+Quindi?
+
+Invece per? La seconda parte.
+
+Quindi?
+
+Quindi sostanzialmente ogni volta che?
+
+Per ogni valore ho tre scelte possibili che sono. O prendo solo la pallina blu? Lo prendo solo la pallina Rossa poi li prendo entrambe, quindi sono tre scelte. Queste scelte le posso fare per. Per ogni valore. E quindi? Se io le combinazioni, insomma. Contando.
+
+Però Questi sono i modi in cui scelgo le dieci palline.
+
+Determinare Quanti sono i sottoinsiemi qui compaiono tutti i valori da 1 a 8, tranne tranne il più un valore.
+
+Il secondo esercizio. Il testo dice. Quindi sostanzialmente ci possono essere insieme da 7 Firenze 2016?
+
+In cui devono pompare comparire tutti i valori tranne il vino ok? Quindi ripeto. Tre scelte possibili per ogni valore ho preso solo al blu. Ho preso solo la rossa o le prendo entrambe?
+
+E in questo modo Quindi in questo modo? Questa è la prima parte, Cioè io ho contato quando escono. Ok, però devo sommargli e la parte in cui?
+
+Un valore dello scooter, quindi Questi sono i valori in cui ci sono tutti 8. Adesso conto soltanto quelli Qui ce ne sono 7. Quindi prima di tutto scelgo un valore da escludere. E 8 modi per scegliere un valore da escludere. Li scelgo o rosso blu o da entrambe e quindi entriamo.
+
+Viene?
+
+Un chiarimento.
+
+Chiesto quello che avevo scritto. Bisognerebbe.
+
+Una volta dobbiamo cercare di fare delle scelte univoche se possibile.
+
+Un valore che sarà da escludere?
+
+Quanti sono i valori che compaiono?
+
+Mi interessa adesso contare quanto. Un valore?
+
+Tre valori che sono ripetuti più volte.
+
+Il valore?
+
+Come vedete che io dico sempre.
+
+Io mi raccomando sempre di sicuro.
+
+Fatta questa scelta. I valori? Da ripetere due volte.
+
+Questi vanno da ripetere due volte. Devono essere tre?
+
+Devo scegliere tre?
+
+Poi i valori?
+
+Non devo fare questa scelta? Cosa devo scegliere però? Rimane da scendere il colore di quelli che si ripetono dalla. Colore.
+
+Dei.
+
+Quindi una risposta alla domanda i modi in cui posso scegliere 10 palline. Non registrando tutti i valori 1. È 8 x 35 x 4.
+
+Velocità. Delle scelte che dobbiamo fare?
+
+Quindi l'errore tipico è quello di? La prendo prima. Valori diversi.
+
+Una cosa perché?
+
+Dobbiamo scegliere tre numeri da ripetere. Cosa vuol dire? Mettiamo 4 rosso e 4 punti 7. Non si sente giù 8 rosso. Rimangono quattro valori. 256. Devo scegliere? Quale colore?
+
+Portarti avanti un esempio.
+
+E poi dobbiamo mettere insieme riga di Mantova adesso a 2.78, quindi devo scegliere un colore.
+
+In questo modo ottenuto la mia soluzione. In tutti i modi così.
+
+Il valore da escludere lo possiamo scegliere. Ai valori sono?
+
+Cioè se io voglio un numero che non puoi fare. Che comporta che non c'è né burro rosso nella maggior parte.
+
+La prima scelta poi abbiamo scelto i valori che compaiono sia Rossi che.
+
+Benissimo.
+
+Vivere una partizione. Con il blocco di tre elementi.
+
+Una partizione vuole un grosso da 3 minuti. Ci mette un flop altrimenti?
+
+Non è importante. Una partizione in cui non ci sono blocchi contro elementi.
+
+Con una partizione dove non ci sono grossi.
+
+Appartiene ad un blocco da tre elementi.
+
+Va bene, va bene.
+
+Allora qui cosa abbiamo? Da 1 a 10. Vogliamo! Montare le partizioni.
+
+In cui non ci sono blocchi che sono fatti da un numero pari.
+
+Così come sono fatte le partizioni che vanno bene?
+
+Il primo dove abbiamo? La partizione divisa in quattro blocchi.
+
+L'altro caso è se abbiamo?
+
+Dove abbiamo? Tre blocchi. Formati.
+
+Quindi io ho calcolato in generale. Quante sono le partizioni? 10 numeri divisi in quattro blocchi. E questo qua l'avevo calcolato dall'esercizio precedente che è.
+
+Poi dovrò andarli a togliere. Questo questo e questo però quando io vado a calcolare quanto sono le partizioni in uno sperling di. Dato che il numero pari è soltanto uno, Cioè in questo caso voglio fissare congelare soltanto questo blocco, quindi devo sistemare gli altri nove numeri in tre blocchi perché uno è sempre bloccato quindi.
+
+9. Quindi abbiamo praticamente. Quello che viene.
+
+Ovviamente i numeri pari sono 5, Quindi abbiamo cinque diverse configurazioni tutte uguali, quindi andrò a moltiplicarci.
+
+Però il problema è che mentre calcolo questo. Inesorabilmente. Arriverà comunque un momento in cui qua ho due e qua magari c'è questa qui. Praticamente sto contando anche questa perché Arriverà il momento dove si formerà il posto blocco. Quindi nel momento Vabbè dopo quando andrò a calcolare alcuni li toglierò e alcuni li aggiungerò per il principio di infusione.
+
+E mentre calcolo questo arriverà anche un momento dove arriverà questa configurazione qua?
+
+Ora facciamo questo qua che è il numero di stavolta. Togliamo due numeri quindi diventa 8 numeri in due blocchi. Per ovviamente gli altri che sono certo può 5 numeri da mettere in due posizioni. Quindi?
+
+Però?
+
+Dopodiché lo prendiamo lo meno per cento però.
+
+Ok, quindi magari potevo farlo.
+
+Importare tutto per bene, Magari ti crei troppo però cerchiamo anche fare un minimo.
+
+E poi l'ultimo è oggi.
+
+Cinque numeri. Da scegliere il glutine.
+
+Ok Quindi.
+
+Quindi noi andiamo a prendere adesso. Tanto sale. E andiamo a togliere? Però togliendo questo Noi stiamo anche già contando questo qui, quindi per pareggiarlo dopo lo andremo ad aggiungere.
+
+Quindi questo è? Il numero di. Il numero singolo. Però avevamo tolto anche questo qui, quindi adesso per pareggiare dobbiamo aggiungere?
+
+E poi ne dovremmo andare a togliere. Anche questo qua perché avevamo pareggiato, cioè togliendo questo qui avevamo anche tolto questa conformazione qui e quando avevamo aggiunto questo qui l'avevamo riassunto. Quindi manca da togliere definitivamente questo. Questa due?
+
+E due volte è partita.
+
+Ci sono una due tre?
+
+Adesso non.
+
+Quindi primavera il progetto di.
+
+Questa soluzione?
+
+Di spiegare.
+
+È importante saper. È importante.
+
+Però voi dovete cercare di spiegarvi sempre a vostro fratello di 8 anni.
+
+Buon fine settimana.

@@ -1,0 +1,129 @@
+## Esercizio 1.1
+**Devo regalare due biglietti per uno spettacolo a due tra dieci miei amici. In quanti modi posso fare questa scelta?** [[EserciziMDPnew.pdf#page=2&selection=10,0,17,38|EserciziMDPnew, pagina 2]]
+
+è un prodotto condizionato di tipo (10, 9) in quanto scelto il primo amico su 10, ne restano nove! per cui, secondo il criterio di [[01_Calcolo Combinatorio#osservazione Cardinalità di un prodotto condizionato|Cardinalità di un prodotto condizionato]], le scelte possibili sono 
+$$
+10 \cdot 9 = 90
+$$
+**C'è un però:** Siccome però, potremmo scegliere due volte la stessa coppia di persona ma con posti invertiti $(2,1) \equiv (1,2)$, una volta in prima posizione ed una seconda volta in seconda posizione, dobbiamo dividere per due il risultato finale in modo da scongiurare questa possibilità ottenendo $90/2=45$ possibilità
+
+> Soluzione = $\set{(a,b)\in\set{1,\dots, 10}^2: a < b}$
+
+---
+## Esercizio 1.2
+**Quante sono le possibili classifiche finali in un torneo a tre squadre (considerando anche possibili parimerito)?** [[EserciziMDPnew.pdf#page=2&selection=19,0,22,29|EserciziMDPnew, pagina 2]]
+
+abbiamo diversi casi che possiamo considerare casi diversi
+
+1. in caso di nessun pari merito abbiamo un prodotto condizionato di tipo (3,2,1), ossia una delle 3 squadre arriva prima, poi c'è una seconda ed infine la terza. e di casi ce ne saranno $$3\cdot 2 \cdot 1 = 6$$
+2. avremo il caso in cui tutte e 3 arrivano prime e qui ci sarà un unico caso
+3. poi avremo il caso in cui due squadre arrivano pari merito (ed una sola in seconda posizione) in prima posizione e possono essere 6
+4. ed infine avremo il caso in cui due squadre arrivano in seconda posizione ed una in prima, anche qui possiamo avere 6 casistiche diverse.
+
+il conto finale viene svolto sommando tutte le casistiche sopra elencate $$ 6 + 1 + 6 + 6 = 19$$
+
+| indice | 1° posizione | 2° posizione | 3° posizione |
+| ------ | ------------ | ------------ | ------------ |
+| 1      | 1, 2, 3      |              |              |
+| 2      | 1, 2         | 3            |              |
+| 3      | 1, 3         | 2            |              |
+| 4      | 2, 1         | 3            |              |
+| 5      | 2, 3         | 1            |              |
+| 6      | 3, 1         | 2            |              |
+| 7      | 3, 2         | 1            |              |
+| 8      | 3            | 1,2          |              |
+| 9      | 2            | 1,3          |              |
+| 10     | 3            | 2,1          |              |
+| 11     | 1            | 2,3          |              |
+| 12     | 2            | 3,1          |              |
+| 13     | 1            | 3,2          |              |
+| 14     | 1            | 2            | 3            |
+| 15     | 1            | 3            | 2            |
+| 16     | 2            | 1            | 3            |
+| 17     | 2            | 3            | 1            |
+| 18     | 3            | 1            | 2            |
+| 19     | 3            | 2            | 1            |
+
+--- 
+## Esercizio 1.3
+**Quanti sono i possibili lanci di tre dadi in cui il risultato più grande è almeno 5, il secondo è almeno 4, il terzo almeno 3?** [[EserciziMDPnew.pdf#page=2&selection=24,0,30,31|EserciziMDPnew, pagina 2]]
+
+è importante fare alcune assunzioni iniziali:
+-  i dadi sono a 6 facce
+- l'ordine in cui escono i valori non è uguale per tutti
+
+proviamo a pensarla cosi:
+- $S_1=\{$"il risultato più grande è almeno 5" $\}=\{5, 6\}\Rightarrow |S_1| = 2$
+- $S_2=\{$"il secondo risultato è almeno 4"$\} = \set{4,5,6}\Rightarrow |S_2| = 3$
+- $S_3=\{$"il terzo risultato è almeno 3"$\} = \set{3,4,5,6}\Rightarrow |S_3| = 4$
+
+l'insieme $S_1$ può avvenire anche durante il secondo o il terzo risultato, i quali invece sono vincolati alla sequenza del tiro e quindi mi viene da pensare 3 casi:
+
+- **CASO-1:** $S_1$ avviene nel primo caso, se così fosse potremmo avere una cardinalità del tipo:
+	- |$S_1$| = 2 possibilità per il primo
+	- |$S_2$| = 3 possibilità per il secondo
+	- |$S_3$| = 4 possibilità per terzo
+
+- **CASO-2:** $S_1$ avviene nel secondo caso
+	- 6 possibilità per il primo
+	- |$S_1$| = 2 possibilità per il secondo, implicitamente si avvera anche la 2° condizione
+	- |$S_3$| = 4 possibilità per il terzo
+	  
+- **CASO-3:** $S_1$ avviene nel terzo caso
+	- 6 possibilità per il primo
+	- |$S_2$| = 3 possibilità per il secondo
+	- |$S_1$| = 2 possibilità per il terzo, implicitamente si avvera anche la 3° condizione
+
+**La domanda è come identifico le sovrapposizioni?**
+
+se moltiplichiamo tra loro gli insiemi in base alle cardinalità degli $S_i$...? allora:
+- **CASO-1**:  $2\cdot 3\cdot 4= 24$
+- **CASO-2:**  $6\cdot 2 \cdot 4 = 48$
+- **CASO-3:**  $6\cdot 3 \cdot 2 = 36$
+
+
+---
+## Esercizio 1.4
+**Mostrare che i sottoinsiemi di cardinalità pari di un insieme con 11 elementi sono tanti quanti quelli di cardinalità dispari. [[EserciziMDPnew.pdf#page=2&selection=32,0,37,10|EserciziMDPnew, pagina 2]]**
+
+partiamo dal fatto di avere un insieme
+$$
+	S = \set{1,2,3,4,5,6,7,8,9,10,11}
+$$
+tutti i possibili insiemi sono identificati dal [[01_Calcolo Combinatorio#definizione Insieme delle Parti (o dei sotto insiemi)|insieme delle Parti]]
+$$
+	|S| = 11 \rightarrow \mathbb{P}(S) = 2^{|S|} = 2^{11} = 2048 
+$$
+direi un po troppe da poter verificare, considererei dunque un insieme più piccolo. Magari un insieme $K\subset S, K=\set{1,2,3}, |K| = 3\longrightarrow \mathbb{P}(A) = 2^3 = 8$. estendendo questo ragionamento voglio osservare nella pratica se il numero di insiemi pari = al numero di insiemi dispari
+$$
+	\begin{array}{c}
+	i & \text{sotto-insieme } B_i\subseteq K & \text{Sequenza binaria corrispondente}\\
+	\hline
+	1 & \emptyset & 000\\
+	2 & \set{1} & 001\\
+	3 & \set{2} & 010\\
+	4 & \set{1,2} & 011\\
+	5 & \set{3} & 100\\
+	6 & \set{1,3} & 101\\
+	7 & \set{2,3} & 110\\
+	8 & \set{1,2,3} & 111\\
+	\end{array}
+$$
+Osservando la sequenza binaria, notiamo che
+- il numero di insiemi con 1 elemento (dispari) sono: 3
+- il numero di insiemi con 2 elementi (pari) sono: 3
+- il numero di insiemi con tutti gli elementi (dispari) sono: 1
+- il numero di insiemi con nessun elemento (pari) sono: 1
+
+per sicurezza potremmo verificare anche con $|K| = 2$ ma il conto ritorna sempre e quindi possiamo concludere che: **Si**! 
+$$
+	|\set{K_i | K_i \in \mathbb{P}(S) \land |K_i|/2 = 0}| = |\set{K_i | K_i \in \mathbb{P}(S) \land |K_i|/2 \ne 0}| 
+$$
+
+
+
+
+
+
+
+
