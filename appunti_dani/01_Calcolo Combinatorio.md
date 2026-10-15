@@ -14,13 +14,70 @@ $$
 \end{array}
 $$
 
+### #definizione Corrispondenza Biunivoca tra insiemi
+ Dati $A, B$ due insiemi generici: $|A| = |B| \iff$ esiste una corrispondenza biunivoca tra essi
 
+### #definizione Insieme Numerabile
+Un insieme si dice Numerabile se riusciamo a scrivere i suoi elementi in una fila infinita. 
 
-![[Corrispondenza Biunivoca tra insiemi]]
+> [!example] Esempi di insiemi numerabili
+> - l'insieme $\mathbb{N} =\{0,1,2,3,4,5,\dots\}$ è numerabile
+> - l'insieme $\mathbb{Z} =\{0,-1,1,-2,2,\dots\}$ è numerabile
+> - l'insieme $\mathbb{Q} =\{0,\frac{1}{1},\frac{1}{2},\frac{2}{1},\frac{1}{3},\frac{2}{3},\frac{3}{2},\frac{3}{1},\dots\}$ è numerabile
 
-![[appunti_dani/Insieme Numerabile]]
+#### insieme B delle successioni binarie
 
-![[appunti_dani/Insieme Discreto]]
+$B=\{$*insieme delle successioni binarie di lunghezza infinita*$\}$ è numerabile?
+ 
+#Proposizione 
+ Fingiamo di aver elencato tutte le possibili sequenze di binarie di lunghezza infinita, ci ritroveremo in una situazione simile a questa
+ 
+ $$
+  \begin{matrix}
+ 	b_1 & = & \color{red}{b_{1,1}} & b_{1,2} & \dots \\
+ 	b_2 & = & b_{2,1} & \color{red}{b_{2,2}} & \dots \\
+ 	\vdots & = & \vdots & \vdots & \ddots \\
+ \end{matrix}
+ $$
+ 
+ *Dove ovviamene te ogni valore di $b_{i,j} \in \{0,1\}, \forall i,j$*
+ 
+ a questo punto volessimo però realizzare un nuovo elemento $a$ da inserire nell'insieme $B$, *della stessa lunghezza infinita degli altri elementi*, che però ha la seguente regola:
+ 
+ ogni elemento i-esimo di $a$ deve essere opposto all'elemento $b_{i,i}$. Ossia:
+ - se $b_{1,1} = 1 \Rightarrow a_1 = 0$
+ - se $b_{2,2} = 1 \Rightarrow a_1 = 0$
+ - *e così via...*
+   
+  ad esempio:
+  
+ $$
+ \begin{matrix}
+ 	b_1 & = & \color{red}{0} & 0 & 0 & 0 & \dots \\
+ 	b_2 & = & 1 & \color{red}{0} & 0 & 0 & \dots \\
+ 	b_2 & = & 0 & 1 & \color{red}{0} &  0 &\dots \\
+ 	b_2 & = & 1 & 1 & 0 & \color{red}{0} & \dots \\
+ 	\vdots & = & \vdots & \vdots & \vdots & \vdots & \vdots \\
+ 	a & = & \color{red}{1} & \color{red}{1}& \color{red}{1}& \color{red}{1} & \ddots
+ \end{matrix}
+ $$
+ 
+ la sequenza in questione sarà inevitabilmente diversa da qualsiasi altro elemento contenuto nell'insieme e non starà in alcuna fila.
+
+ > [!important] L'insieme $B$ ha la stessa cardinalità di $\mathbb{R}$
+
+### #definizione  Insieme Discreto
+
+Un insieme discreto è un insieme **finito** oppure è un [[Insieme Numerabile]]
+
+> [!example] Esempi di insieme discreto
+> - $A = \{1,2,3\} \Rightarrow |A| = 3$
+> - $b = \{*,\#,5, a\} \Rightarrow |B| = 4$
+
+> [!attention] Esempi di insiemi non discreti
+> - l'insieme $\mathbb{R}$
+> - l'[[insieme B delle successioni binarie]]
+
 
 ## Basi del calcolo Combinatorio
 
@@ -155,7 +212,7 @@ Sia $S\subseteq A\times B$, diciamo che $S$ è un **prodotto condizionato di tip
 
 > [!hint] nell'esempio precedente...
 > ripensando ai 3 sotto insiemi di prima possiamo dire:
-> - $S_1$ è un prodotto condizionato di tipo $(3,2)$e:
+> - $S_1$ è un prodotto condizionato di tipo $(3,2)$
 > - $S_2$ è un prodotto condizionato di tipo $(2,1)$
 
  > [!example] I seguenti Sotto insiemi sono Prodotti condizionati?

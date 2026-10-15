@@ -5,7 +5,20 @@ Il formato è basato su [Keep a Changelog](https://keepachangelog.com/en/1.1.0/)
 
 ## [Unreleased]
 
-## [0.9.2] - 2026-10-08
+## [0.10.0] - 2026-10-15
+
+### Added
+- Creata la pagina wiki `wiki/Correlazione_e_Regressione.md` con indice `4.2` (statistica bivariata, covarianza campionaria, coefficiente di correlazione di Pearson, retta ai minimi quadrati, quantili, medie geometrica e armonica, corredata dalle domande d'esame da `MDP Domande orale.pdf`).
+- Creata la pagina wiki `wiki/Spazi_di_Probabilita.md` con indice `5.1` (fenomeni deterministici e aleatori, $\sigma$-algebra di eventi, assiomi di Kolmogorov, probabilità uniforme discreta ed esempi di calcolo su dadi e lotto).
+- Integrato avviso strutturato di tracciamento fonti in `Spazi_di_Probabilita.md` per differenziare la 1ª ora del 14 Ottobre (ricostruita dalla dispensa `lezioniNew.pdf`) dalla 2ª ora (estratta dagli appunti/screenshot).
+- Completato il workflow `ingest-audio.md` per la lezione del 9 Ottobre: archiviazione trascrizione Pixel in `trascrizioni-pixel/`, trascrizione audio Whisper a 24 thread in `trascrizioni-whisper/` e merge comparativo dual-source salvato in `raw/registrazioni/trascrizioni-sistemate/MdP20261009.md`.
+- Spostati gli 8 screenshot della lezione del 14 Ottobre nella directory designata `raw/assets/`.
+
+### Changed
+- Aggiornato `index.md` con il collegamento a Correlazione e Regressione e inaugurando formalmente la Sezione 5 (Teoria della Probabilità).
+- Aggiornato `wiki/Indice_Teoremi_Definizioni.md` censendo definizioni e teoremi delle lezioni del 9 e 14 Ottobre.
+- Inclusi nel tracking del repository i file e le modifiche nella cartella `appunti_dani/` e le configurazioni dei plugin di Obsidian.
+
 
 ### Fixed
 - Sostituito il placeholder generico `<url-del-repository>` nel README.md con il link esatto del repository Github del progetto.

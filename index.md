@@ -18,9 +18,10 @@ Qui troverai un catalogo strutturato di tutti i concetti, regole, ed entità est
 
 ## 4. Statistica Descrittiva
 * [[Statistica_Descrittiva_di_Base]]: Popolazione, campione, caratteri, modalità, frequenze, istogrammi e indici di posizione e dispersione (media e varianza).
+* [[Correlazione_e_Regressione]]: Statistica bivariata, covarianza, coefficiente di correlazione di Pearson, retta ai minimi quadrati, quantili e altre medie (geometrica, armonica).
 
 ## 5. Teoria della Probabilità
-*(Sezione da popolare)*
+* [[Spazi_di_Probabilita]]: Fenomeni deterministici e aleatori, $\sigma$-algebra di eventi, assiomi di Kolmogorov, spazio di probabilità uniforme discreto ed esempi classici (dadi, lotto).
 
 ## 6. Esercitazioni (EserciziMDPnew)
 * [[Esercitazione_01_18-Settembre]]: Esercizi su combinatoria intuitiva

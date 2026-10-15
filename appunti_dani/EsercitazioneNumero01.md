@@ -120,8 +120,69 @@ $$
 	|\set{K_i | K_i \in \mathbb{P}(S) \land |K_i|/2 = 0}| = |\set{K_i | K_i \in \mathbb{P}(S) \land |K_i|/2 \ne 0}| 
 $$
 
+## Esercizio 1.5
+Es. 1.5. Quattro coppie moglie-marito di scambisti decidono di scambiarsi i propri partner per una serata. In quanti modi possono effettuare questa scelta (in modo che ogni uomo passi la serata con la moglie di un altro)?  [[EserciziMDPnew.pdf#page=2&selection=39,0,43,43|EserciziMDPnew, pagina 2]]
 
+- U1-D1
+- U2-D2
+- U3-D3
+- U4-D4
 
+se consideriamo che le donne rimangono nella loro posizione, ma a scambiarsi sono solo gli uomini, mi viene da dire che le possibili scelte per ognuno di essi è un prodotto condizionato di tipo (3,2,1), il quale porta ad una conclusione che é $3\cdot2\cdot1=6$. ma non credo vada bene...
+
+> [!hint] riproviamo
+
+proviamo a considerare tutte le possibili permutazioni degli uomini considerando le donne come posizione di indice i nell'ordine degli uomini. $$4! = (4)_4 = 4\cdot3\cdot2\cdot1 = 24$$
+a questi 24, proviamo a rimuovere tutte le permutazioni in cui l'uomo 1 rimane al suo posto, l'uomo 2 rimane al suo posto, e così via... e sono: 
+
+Considerando che il primo uomo avrà una scelta sola, il secondo ne avrà 3, il terzo ne avrà 2 e l'ultimo 1, avremo un prodotto condizionato di questo tipo:
+$$
+	\left.\begin{array}{l}
+		\text{U1: } & (1,3,2,1) & \Rightarrow & 3! = 3\cdot2\cdot1 = 6\\
+		\text{U2: } & (3,1,2,1) & \Rightarrow & 3! = 3\cdot2\cdot1 = 6\\
+		\text{U3: } & (3,2,1,1) & \Rightarrow & 3! = 3\cdot2\cdot1 = 6\\
+		\text{U4: } & (3,2,1,1) & \Rightarrow & 3! = 3\cdot2\cdot1 = 6
+	\end{array}\right\}\text{tot: } 6 + 6 + 6 + 6 = 24
+$$
+ma così facendo abbiamo un problema, le intersezioni che si possono creare... alcune di loro vengono contate 2 volte in più altre 3 volte in più ed altre 4 volte in più. intanto rimuoviamo dal conto le intersezioni a 2
+$$
+	\left.
+	\begin{array}{l}
+		U1\cap U2 & \Rightarrow & 2! = 2\cdot1 = 2\\
+		U1\cap U3 & \Rightarrow & 2! = 2\cdot1 = 2\\
+		U1\cap U4 & \Rightarrow & 2! = 2\cdot1 = 2\\
+		U2\cap U3 & \Rightarrow & 2! = 2\cdot1 = 2\\
+		U2\cap U4 & \Rightarrow & 2! = 2\cdot1 = 2\\
+		U3\cap U4 & \Rightarrow & 2! = 2\cdot1 = 2\\
+	\end{array}
+	\right\} \text{tot: } 2\cdot 6 = 12
+$$
+a questo punto dobbiamo calcolare come aggiungere nuovamente tutte coppie in cui i tre uomini restano al loro posto e sono
+
+$$
+	\left.
+	\begin{array}{l}
+		U1\cap U2 \cap U3 & \Rightarrow & 1! = 1\\
+		U4\cap U2 \cap U3 & \Rightarrow & 1! = 1\\
+		U1\cap U4 \cap U3 & \Rightarrow & 1! = 1\\
+		U1\cap U2 \cap U2 & \Rightarrow & 1! = 1\\
+	\end{array}
+	\right\} \text{tot: } 1\cdot 4 = 4
+$$
+più tutti quelli che vengono che rimangono nella stessa posizione che risultano essere soltanto uno 
+$$
+	U1\cap U2 \cap U3 \cap U4 \quad \Longrightarrow \quad 1
+$$
+a questo punto, facendo un calcolo di: *tutte le possibili permutazioni* - *tutte le permutazioni in cui almeno 1 rimane al suo posto* + *tutte le permutazioni in cui 2 rimangono al loro posto* - *tutte le permutazioni in cui 3 rimangono al loro posto* + *l'unica permutazione in cui tutti rimangono al loro posto* così facendo dovremmo ottenere il risultato che dovrebbe essere $$ 24 - 24 + 12 - 4 +1 = 9$$
+
+**RISOLTO**
+
+## Esercizio 1.6
+Sia $A=\set{1,2,3,4}$.  Quante sono le [[01_Calcolo Combinatorio#definizione Sequenze|Sequenze]] in A di lunghezza 6 in cui ogni elemento di A compare un numero pari di volte? E quante quelle in cui ogni elemento di A compare un numero dispari di volte?  [[EserciziMDPnew.pdf#page=2&selection=45,0,49,27|EserciziMDPnew, pagina 2]]
+
+Facendo un rapido calcolo ci accorgiamo che tutte le possibili sequenze di lunghezza 6 dell'insieme $A$ sono $2^6 = 64$. di queste 64 bisogna identificare quelle sequenze in cui 1, 2, 3 o 4 appaiano in numero pari nelle sequenze.
+
+prendiamo il caso in cui 
 
 
 

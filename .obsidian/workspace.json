@@ -6,21 +6,10 @@
       {
         "id": "5633730124c51bca",
         "type": "tabs",
+        "dimension": 52.62123197903015,
         "children": [
           {
             "id": "904a890e9dab3fa8",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "raw/EserciziMDPnew.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "EserciziMDPnew"
-            }
-          },
-          {
-            "id": "0790c75bca17e48e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -33,8 +22,26 @@
               "title": "EsercitazioneNumero01"
             }
           }
-        ],
-        "currentTab": 1
+        ]
+      },
+      {
+        "id": "5f94bce24ff10df6",
+        "type": "tabs",
+        "dimension": 47.37876802096986,
+        "children": [
+          {
+            "id": "49e74a28a8cf23f3",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "raw/EserciziMDPnew.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "EserciziMDPnew"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -53,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#definizione",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -97,7 +104,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 308.8203125
+    "width": 308.8203125,
+    "collapsed": true
   },
   "right": {
     "id": "a15d0158fa90769e",
@@ -205,7 +213,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "callout-manager:Insert Callout": false,
       "switcher:Apri selettore rapido": false,
       "graph:Apri vista grafo": false,
       "canvas:Crea nuova lavagna": false,
@@ -213,58 +220,56 @@
       "templates:Inserisci modello": false,
       "command-palette:Apri riquadro comandi": false,
       "bases:Crea nuova Base": false,
-      "workspaces:Gestisci layout delle aree di lavoro": false,
-      "random-note:Apri nota casuale": false,
-      "zk-prefixer:Nuova nota univoca": false
+      "workspaces:Gestisci layout delle aree di lavoro": false
     }
   },
-  "active": "0790c75bca17e48e",
+  "active": "904a890e9dab3fa8",
   "lastOpenFiles": [
     "appunti_dani/01_Calcolo Combinatorio.md",
     "appunti_dani/EsercitazioneNumero01.md",
     "raw/EserciziMDPnew.pdf",
-    "EsercitazioneNumero1.md",
+    "index.md",
+    "wiki/Spazi_di_Probabilita.md",
+    "raw/registrazioni/trascrizioni-whisper/MdP20261009.txt",
+    "raw/registrazioni/MdP20261009.json",
+    "raw/registrazioni/MdP20261009.tsv",
+    "raw/registrazioni/MdP20261009.srt",
+    "raw/registrazioni/MdP20261009.vtt",
+    "raw/registrazioni/MdP20261009.txt",
+    "raw/registrazioni/trascrizioni-pixel/MdP20261009.txt",
+    "wiki/Correlazione_e_Regressione.md",
+    "raw/registrazioni/trascrizioni-sistemate/MdP20261009.md",
     "appunti_dani/Insieme Discreto.md",
+    "appunti_dani/Insieme Numerabile.md",
     "appunti_dani/insieme B delle successioni binarie.md",
+    "raw/assets/Pasted image 20261014145129.png",
+    "raw/assets/Pasted image 20261014143721.png",
+    "raw/assets/Pasted image 20261014143005.png",
+    "appunti_dani/04_Statistica_Inferenziale.md",
     "appunti_dani/Corrispondenza Biunivoca tra insiemi.md",
+    "raw/assets/Pasted image 20261014145300.png",
+    "raw/assets/Pasted image 20261014145628.png",
+    "raw/assets/Pasted image 20261014150156.png",
+    "raw/assets/venn_3_insiemi.png",
+    "raw/assets/venn_2_insiemi.png",
+    "raw/Lezione di 2026 ottobre 14 - 2° ora.md",
+    "Pasted image 20261014150156.png",
+    "Pasted image 20261014145628.png",
+    "EsercitazioneNumero1.md",
     "appunti_dani/Cardinalità.md",
     "appunti_dani/00_appunti_dani.md",
     "Senza nome.canvas",
-    "appunti_dani/Insieme Numerabile.md",
     "appunti_dani/02_Statistica_Descrittiva.md",
     "appunti_dani/03_Probabilità.md",
-    "appunti_dani/04_Statistica_Inferenziale.md",
-    "raw/assets/venn_3_insiemi.png",
-    "raw/assets/venn_2_insiemi.png",
     "raw/registrazioni/MdP20261007.m4a",
     "raw/registrazioni/MdP20261009_g.txt",
-    "raw/registrazioni/Non confermato 177355.crdownload",
-    "raw/registrazioni/MdP20261009.m4a",
-    "raw/registrazioni/Non confermato 943162.crdownload",
     "raw/registrazioni/trascrizioni-sistemate/MdP20261007.md",
     "log.md",
-    "raw/registrazioni/MdP20261007_g.txt",
-    "raw/registrazioni/Non confermato 589501.crdownload",
     "README.md",
-    "kanban.base",
-    "index.md",
     "wiki/Basi_del_Calcolo_Combinatorio.md",
     "⠀⠀.md",
     "⠀.md",
     "wiki/Insiemi_e_Cardinalità.md",
-    "wiki/Indice_Teoremi_Definizioni.md",
-    "⠀⠀⠀.md",
-    "wiki/Placeholder_DaIniziare.md",
-    "wiki/Placeholder_Completato.md",
-    "wiki/Placeholder_InCorso.md",
-    "appunti_dani",
-    "raw/assets/venv/lib/python3.14/site-packages/matplotlib/mpl-data/images/zoom_to_rect_large.png",
-    "raw/assets/venv/lib/python3.14/site-packages/matplotlib/mpl-data/images/zoom_to_rect.svg",
-    "raw/assets/venv/lib/python3.14/site-packages/matplotlib/mpl-data/images/zoom_to_rect.png",
-    "raw/assets/venv/lib/python3.14/site-packages/matplotlib/mpl-data/images/zoom_to_rect-symbolic.svg",
-    "raw/assets/venv/lib/python3.14/site-packages/matplotlib/mpl-data/images/subplots_large.png",
-    "raw/assets/venv/lib/python3.14/site-packages/matplotlib/mpl-data/images/subplots.svg",
-    "raw/assets/venv/lib/python3.14/site-packages/matplotlib/mpl-data/images/subplots.png",
-    "raw/assets/venv/lib/python3.14/site-packages/matplotlib/mpl-data/images/subplots-symbolic.svg"
+    "wiki/Indice_Teoremi_Definizioni.md"
   ]
 }

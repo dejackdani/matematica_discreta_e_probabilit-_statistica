@@ -1,0 +1,758 @@
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie a tutti.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+No, vediamo che siamo andati a valutare
+se x è uguale a x
+vediamo
+sigma xx
+che cos'è?
+il rapporto di y
+è un aumento x
+viene 1 su n
+insomma x i meno x barra
+per x in x barra
+per x barra
+che cos'è?
+è proprio la varianza
+che abbiamo
+sigma xx
+la varianza della xx
+è proprio la varianza
+sigma x
+è la varianza
+in questo senso
+diciamo che la varianza
+è una generalizzazione
+di variato
+operabile
+ora però
+la varianza va bene
+ma c'è un dipendente
+sostanziale
+e c'è anche
+che non ci dà
+ma è proprio la misura
+della varianza
+cioè dire che
+la varianza 2
+la varianza 3
+cosa vuol dire?
+sono tante
+correlate
+perché
+la varianza 3
+è una varianza 3
+è una varianza 3
+è difficile da dire
+però sicuramente
+uno può osservare
+che
+se uno
+non so
+raddoppia
+la x
+allora anche
+la varianza
+raddoppia
+cioè
+magari
+la varianza 15
+che è sensibile
+per cambiare
+la vista
+perché
+non è una buona misura
+la varianza
+è sensibile
+ai cambiamenti
+di scala
+E allora per dare una più precisa di correlazione si usa quello che si chiama l'indice di correlazione.
+E allora per dare una normalizzazione.
+Esattamente la greca, una po', un'indice di correlazione.
+E allora la varianza, quanto prima di normalizzata, la varianza è normalizzata al rinvenimento 10.
+E' lo scatto quadrato di 1 metri di x e lo scatto quadrato di 1.
+Non c'è il quadrato, è la ragione quadrata della varianza.
+In questo modo, se uno raddoppia la x, cambia a scala la x,
+se uno raddoppia un po' altra, si attrodisce anche nel doppio posto.
+Quindi di correlazione, non è sensibile.
+Non è sensibile al cambiamento di scala.
+Inoltre vedremo a breve.
+Non solo vale questa condizione.
+Ma che rho di x e y non è uguale a 1,
+allora è un significato ben preciso.
+Cioè, ma significa che gli x e y non si rispondono lungo,
+esattamente su una retta,
+con una tendenza positiva.
+Quindi abbiamo una correlazione positiva.
+Rho maggiore di 0,
+quindi ti dice anche che la covarianza è maggiore di 0.
+Però dire che rho uguale 1 vuol dire che la correlazione è perfetta.
+Cioè, che la iniezione è uguale a 2x più 3,
+una volta di questo tipo,
+stanno proprio perfettamente su una retta orientata positivamente.
+Cioè, con tendenza positiva.
+Se dice anche che non gli x e y uguale a meno 1,
+vuol dire che i x e y stanno esattamente su una retta,
+ma con tendenza a meno 1.
+Dopodiché,
+più la rho avvicino a 1,
+e più, diciamo, i nostri dati
+tendono a disporsi su una retta positiva.
+Più la rho avvicino a meno 1,
+ma gli x e i dati,
+in qualche modo,
+ha una retta a meno 1.
+Ok?
+Questo è un po' uno spoiler
+di quello che adesso andiamo a fare.
+Ok?
+Ora, prima a fare un esempio di calcolo,
+chiamo una formuletta
+per il calcolo della tua varianza,
+che richiama,
+questa è la formuletta che chiamiamo,
+per la varianza.
+Nel senso di calcolo della varianza,
+allora ci c'è anche una formula
+che tiene la iniziativa di Stato.
+Se vogliamo,
+è anche il caso
+di quello che abbiamo visto.
+di calcolo della varianza.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+ed è come noi l'abbiamo visto
+per la variante
+la possiamo
+e guarda questa roba qui
+grazie
+la spezzo direttamente
+poi facciamo
+questo per qui
+meno
+1 su n
+sommatoria su i
+x
+questo per qui
+ancora un meno
+1 su n
+sommatoria su i
+x barra
+x barra
+e infine
+più
+1 su n
+sommatoria su i
+x barra
+x barra
+ok
+adesso noi abbiamo
+1 per 1
+queste 4
+sommatorie
+vediamo che conseguenza
+questo che cos'è
+questo
+stiamo facendo
+la media
+dei prodotti
+e quindi questo
+ora è proprio
+se non è
+nei
+dei prodotti
+e quindi abbiamo
+questo primo
+oggetto
+allora in questo
+prima sommatoria
+che succede
+y barra
+è una
+puntata
+quindi la porto
+davanti
+e poi rimane
+1 su n
+insomma
+insomma
+i
+questa è la costante
+e questo rimane
+e questo rimane
+e questo rimane
+e questo rimane
+meno
+quando lo vado a sommare
+tenere
+viene
+meno
+questa
+e questo came
+istante
+e questo
+è una
+facciamo un piccolo esempio
+poi facciamo uno un po' più interessante
+facciamo un po' più interessante
+e se no invece vale
+allora guardandolo così
+ci aspettiamo
+questi due caratteri sono direttamente correlati
+diversamente correlati
+ma però qualcosa possiamo dire
+è vero che crescendo la x mediamente
+cresce anche la x
+se faccio questo 3
+insomma le 5
+che abbia stato due valori
+in cui la x non guarda
+ma questo può cambiare
+facciamo due caratteri
+direttamente correlati
+quindi ci aspettiamo una covaria
+andiamo a calcolare
+allora cominciamo da x barra
+x barra è 1, 2, 3, 6, diviso 3, 2
+x barra 2, 2, 4, 5, 9, diviso 3, 3
+sono questi suoni
+non è che quando l'ha fatto la scena
+è tutta la macchina
+mi dicevo la cosa
+però io mi portavo qui
+dal carcere
+e poi mi pensavo
+la mia inglese
+non è la mia inglese
+la mia inglese
+ma non è la mia inglese
+non è la mia inglese
+nello parlo
+dopo laanna
+x
+grazie
+grazie
+x
+grazie
+grazie
+grazie
+grazie
+grazie
+grazie
+grazie
+grazie
+grazie
+a volte
+dici
+del
+gr
+di
+francome
+grazie
+quindi la covarianza
+la media dei prodotti
+7
+meno il prodotto della media
+questa è la covarianza
+la covarianza portano i valori
+arbitrariamente grandi
+se uno vuole calcolare
+l'indice di correlazione
+per calcolare l'indice di correlazione
+abbiamo bisogno anche
+della variante di
+la calcoliamo
+abbiamo bisogno ancora
+anche di x quadro e x quadro
+x quadro fa 1, 4, 9
+x quadro, 1, 4, 4, 5
+e quindi abbiamo
+x quadro, 1, 4, 5
+x quadro, 1, 4, 4, 8
+più 25, 33
+e quindi possiamo calcolarci la varianza di x
+e quindi è 14 terzi
+meno la media al quadrato
+che è 4
+bene, 14 terzi
+meno 4, 4 sono 12 terzi
+quindi fa 2 terzi
+sigma y al quadrato
+fa 11
+meno la media di y al quadrato
+che era 9
+e quindi fa 2
+va bene
+e infine
+quindi possiamo calcolarci anche questo
+indice di correlazione
+no
+no
+no
+no
+no
+no
+no
+no
+no
+no
+no
+no
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Allora, cosa ci facciamo con questi dati?
+ovviamente qui abbiamo chiamato
+x e y
+nuove distruzioni
+la rete a meno quadrati
+serve appunto per
+stimare
+un carattere
+di frutture
+ovviamente
+cercheremo di stimare y
+il carattere che vogliamo
+stimare
+però ovviamente uno può
+scambiare i due
+dei carattere
+quindi diciamo se noi vogliamo
+stimare la y in funzione della x
+cioè che voto prendo
+sapendo quanto studiamo
+voglio stimare il voto in base all'orto
+allora facciamo
+se vogliamo fare il contrario
+quanto devo studiare per avere
+il voto
+allora dovremmo scambiare il x
+e fare il procedimento
+quindi in questo caso
+vogliamo
+stimare
+poi
+dobbiamo farlo
+in questo senso
+per un modo
+allora procediamo in questo modo
+prendiamo
+dal piano carteggiano
+lo mettiamo in ascissa
+la x
+e in ordinata
+la y
+se vogliamo
+stimare la y
+in un senso
+e riportiamo
+diciamo che non è
+l'unico del campione
+che è il punto
+che è importante
+alle coordinate
+delle carattere
+poi
+come
+signor
+adesso
+mi
+lo mettiamo
+è il punto
+la
+guarda qua
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Ecco, vogliamo scrivere la quantità che vogliamo appunto minimizzare, questa media dei quadrati degli errori.
+Allora, cosa facciamo?
+Diciamo che la retta, essendo una retta, ha un'equazione di tipo AXB.
+Noi vogliamo trovare A e B, i parametri per le persone.
+Allora, scriviamo la media dei quadrati degli errori.
+Ecco, mettiamo SDAB, è una funzione di questi due parametri AXB.
+Allora, dobbiamo fare una media su N su N.
+Per ogni elemento di passione, dobbiamo uscire, mettiamo un sacco di passione.
+E quant'è?
+Qual è la lunghezza di questi due parametri?
+Uno è il punto reale.
+L'ordinario, l'interesse della tua ordinanza, no?
+L'ordinario a questo punto qua è XI.
+L'ordinario a questo punto sulla retta, invece, è dato dall'equazione della retta.
+L'altro lato è XI, che è la sua scissa.
+Quindi è XI, meno AXB.
+Questo è l'errore.
+È la differenza tra le ordinate di questi due punti qua.
+E poi, in questo caso, lo faremo in quadrati.
+Quindi noi vogliamo trovare A e B, in modo che ci sono più da F e B,
+e quindi si fa un lavoro minimo di una funzione più vagana.
+Noi pensi, così vale il tempo, eh, quindi, senza appena per 64, resembimasi la funzione di un muro.
+Quindi prima cosa è XI, nel pianemang cidade ho수를 segurança letta a fare con fantastici.
+Quindi Tuционale, Él è un ruotone diушки del fu fare per 50,000,
+è il ruotone di зар Dalhicanianza, e il ruotone dizwandano circa 24,000,
+wurden giudizio del ruotone dei
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Vi vediamo il quadrato.
+Vediamo la colonna dei quadrati della x.
+10.
+10.
+10.
+5.
+3.
+6.
+2.
+3.
+Dopodiché per calcolare le cose sono delle forme, la media di x nella somma dei valori della polonna A meno il numero di valori che abbiamo scritto nella polonna A più la media di y, la media di x quadro, la media di y quadro e la media di x, y.
+La media di x quadro non conta i valori della polonna C ma i valori della polonna A, qua mi metto il 10.
+Ok, dopodiché chiaramente la varianza calcola la formuletta che conosciamo, la media di quadrati meno il quadrato della media,
+la media di quadrati è h2, la media di f2 è h2 al quadrato, la varianza di y è la stessa cosa, la covarianza è la media dei prodotti,
+la media dei prodotti è la media di x, y, meno il prodotto delle medie, viene il f2 sul cd.
+E infine, tra l'altro anche A e B, i due coefficienti della rete di quadrati,
+A è m2 fratto k2, cioè la covarianza fratto la varianza di x,
+e quindi diventa solo un calcolo, insomma ce l'ha trovato e quindi abbiamo la nostra formula per stimare il voto in funzione,
+del lode oil studio, ma qui sarà l'uso da andare.
+A bicicleta
+Fino, se c'è un nehme di,
+quindi cosa vuol dire questa formula
+che se uno non studia niente
+prende sempre il prodotto
+se questo sport non ha detto niente
+di che ogni ora di studio
+il voto è un intervento
+chiaramente dicevamo
+se invece vogliamo
+fare l'apporto
+vogliamo stimare le ore di studio
+del voto
+uno fa la stessa identica cosa
+ho una retta
+in cui chiaramente
+vogliamo scambiare i ruoli di x e y
+ecco, succede che qui
+il coefficiente
+la covarianza è la stessa
+la covarianza di x
+e quindi si calcola
+si calcola
+osservazione
+una cosa che vi dico sulla retta di miei quadrati
+è che il fatto che
+d è uguale a y barra
+meno a
+vuol dire che la retta di miei quadrati
+e passa
+il punto di raccoginare
+di parra e di parra
+e la stessa cosa vale
+per l'altra retta di miei quadrati
+bene, eravamo rimasti però in debito
+di un'attivazione che avevamo fatto
+l'indice di porre la strada
+adesso lo riprendiamo
+l'indice di porre la strada
+la media di miei quadrati
+andiamo a vedere quant'è questa media di quadrati
+e qui è dove viene la retta di miei quadrati
+ci mettiamo
+sostituiamo questi valori
+la media di quadrati
+la media di quadrati
+la media di quadrati
+calcolato
+grazie
+Abbiamo al quadrato.
+Abbiamo al quadrato.
+Abbiamo al quadrato.
+Abbiamo al quadrato.
+Abbiamo al quadrato.
+Abbiamo al quadrato.
+Abbiamo al quadrato.
+Abbiamo al quadrato.
+Abbiamo al quadrato.
+Abbiamo al quadrato.
+Abbiamo al quadrato.
+Abbiamo al quadrato.
+Abbiamo al quadrato.
+Abbiamo al quadrato.
+Abbiamo al quadrato.
+Abbiamo al quadrato.
+Abbiamo al quadrato.
+Abbiamo al quadrato.
+Abbiamo al quadrato.
+Abbiamo al quadrato.
+Abbiamo al quadrato.
+Abbiamo al quadrato.
+Abbiamo al quadrato.
+un quadrato.
+un quadrato.
+Abbiamo al quadrato.
+quadrato.
+Abbiamo al quadrato.
+quadrato.
+quadrato.
+quadrato.
+quadrato.
+quadrato.
+quadrato.
+quadrato.
+quadrato.
+quadrato.
+quadrato.
+quadrato.
+quadrato.
+quadrato.
+quadrato.
+quadrato.
+quadrato.
+quadrato.
+quadrato.
+quadrato.
+quadrato.
+quadrato.
+quadrato.
+quadrato.
+quadrato.
+quadrato.
+quadrato.
+quadrato.
+quadrato.
+quadrato.
+quadrato.
+quadrato.
+quadrato.
+quadrato.
+quadrato.
+quadrato.
+quadrato.
+quadrato.
+quadrato.
+quadrato.
+quadrato.
+quadrato.
+quadrato.
+quadrato.
+quadrato.
+quadrato.
+quadrato.
+quadrato.
+quadrato.
+quadrato.
+quadrato.
+quadrato.
+quadrato.
+quadrato.
+quadrato.
+quadrato.
+quadrato.
+quadrato.
+quadrato.
+quadrato.
+quadrato.
+quadrato.
+quadrato.
+quadrato.
+quadrato.
+quadrato.
+quadrato.
+quadrato.
+quadrato.
+quadrato.
+quadrato.
+quadrato.
+quadrato.
+quadrato.
+quadrato.
+quadrato.
+quadrato.
+quadrato.
+quadrato.
+quadrato.
+quadrato.
+quadrato.
+quadrato.
+quadrato.
+quadrato.
+quadrato.
+quadrato.
+quadrato.
+quadrato.
+quadrato.
+quadrato.
+quadrato.
+quadrato.
+quadrato.
+quadrato.
+quadrato.
+quadrato.
+quadrato.
+quadrato.
+quadrato.
+quadrato.
+quadrato.
+quadrato.
+quadrato.
+quadrato.
+quadrato.
+quadrato.
+quadrato.
+quadrato.
+quadrato.
+quadrato.
+quadrato.
+quadrato.
+quadrato.
+quadrato.
+quadrato.
+quadrato.
+quadrato.
+quadrato.
