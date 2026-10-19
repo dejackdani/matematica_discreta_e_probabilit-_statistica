@@ -6,7 +6,7 @@
       {
         "id": "5633730124c51bca",
         "type": "tabs",
-        "dimension": 52.62123197903015,
+        "dimension": 55.80327868852459,
         "children": [
           {
             "id": "904a890e9dab3fa8",
@@ -25,23 +25,52 @@
         ]
       },
       {
-        "id": "5f94bce24ff10df6",
-        "type": "tabs",
-        "dimension": 47.37876802096986,
+        "id": "0ada5d1e460543fa",
+        "type": "split",
+        "dimension": 44.196721311475414,
         "children": [
           {
-            "id": "49e74a28a8cf23f3",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "raw/EserciziMDPnew.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "EserciziMDPnew"
-            }
+            "id": "701697819bbf5021",
+            "type": "tabs",
+            "dimension": 59.44656488549618,
+            "children": [
+              {
+                "id": "aff6ed310a8aeb81",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "appunti_dani/01_Calcolo Combinatorio.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "01_Calcolo Combinatorio"
+                }
+              }
+            ]
+          },
+          {
+            "id": "5f94bce24ff10df6",
+            "type": "tabs",
+            "dimension": 40.55343511450381,
+            "children": [
+              {
+                "id": "49e74a28a8cf23f3",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "raw/EserciziMDPnew.pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "EserciziMDPnew"
+                }
+              }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -209,7 +238,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -226,8 +256,10 @@
   "active": "904a890e9dab3fa8",
   "lastOpenFiles": [
     "appunti_dani/01_Calcolo Combinatorio.md",
-    "appunti_dani/EsercitazioneNumero01.md",
     "raw/EserciziMDPnew.pdf",
+    "wiki/flashcards/04-Spazi_di_Probabilita.md",
+    "wiki/flashcards/03-Correlazione_e_Regressione.md",
+    "appunti_dani/EsercitazioneNumero01.md",
     "index.md",
     "wiki/Spazi_di_Probabilita.md",
     "raw/registrazioni/trascrizioni-whisper/MdP20261009.txt",
@@ -268,8 +300,6 @@
     "README.md",
     "wiki/Basi_del_Calcolo_Combinatorio.md",
     "⠀⠀.md",
-    "⠀.md",
-    "wiki/Insiemi_e_Cardinalità.md",
-    "wiki/Indice_Teoremi_Definizioni.md"
+    "⠀.md"
   ]
 }

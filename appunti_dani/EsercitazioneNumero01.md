@@ -180,10 +180,87 @@ a questo punto, facendo un calcolo di: *tutte le possibili permutazioni* - *tutt
 ## Esercizio 1.6
 Sia $A=\set{1,2,3,4}$.  Quante sono le [[01_Calcolo Combinatorio#definizione Sequenze|Sequenze]] in A di lunghezza 6 in cui ogni elemento di A compare un numero pari di volte? E quante quelle in cui ogni elemento di A compare un numero dispari di volte?  [[EserciziMDPnew.pdf#page=2&selection=45,0,49,27|EserciziMDPnew, pagina 2]]
 
-Facendo un rapido calcolo ci accorgiamo che tutte le possibili sequenze di lunghezza 6 dell'insieme $A$ sono $2^6 = 64$. di queste 64 bisogna identificare quelle sequenze in cui 1, 2, 3 o 4 appaiano in numero pari nelle sequenze.
+Facendo un rapido calcolo ci accorgiamo che tutte le possibili sequenze di lunghezza 6 dell'insieme $A$ sono $4^6 = 4096$. di queste 4096 bisogna identificare quelle sequenze in cui 1, 2, 3 o 4 appaiano in numero pari nelle sequenze.
 
-prendiamo il caso in cui 
+mi chiedo: quante sono le vote in cui un elemento compare 2 volte in una qualsiasi sequenza di lunghezza 6? 
+$$
+	\begin{matrix}
+		(x, x, *, *, *, *)\\
+		(x, *, x, *, *, *)\\
+		(x, *, *, x, *, *)\\
+		(x, *, *, *, x, *)\\
+		(x, *, *, *, *, x)\\
+		(*, x, x, *, *, *)\\
+		(*, x, *, x, *, *)\\
+		(*, x, *, *, x, *)\\
+		(*, x, *, *, *, x)\\
+		(*, *, x, x, *, *)\\
+		(*, *, x, *, x, *)\\
+		(*, *, x, *, *, x)\\
+		(*, *, *, x, x, *)\\
+		(*, *, *, x, *, x)\\
+		(*, *, *, *, x, x)
+	\end{matrix}
+$$
+15 volte. di queste 15 dobbiamo però considerare che potrei avere una seconda coppia  di elementi di $A$ che identifico con $y\in A | y \ne x$ che potrebbe apparire così in un singolo caso dell'insieme precedente: $$
 
+	\begin{matrix}
+		(x, x, y, y, *, *)\\
+		(x, x, y, *, y, *)\\
+		(x, x, y, *, *, y)\\
+		(x, x, *, y, y, *)\\
+		(x, x, *, y, *, y)\\
+		(x, x, *, *, y, y)\\
+	\end{matrix}
+$$
+analogamente, se considerassimo una terza coppia $z\in A  | z \ne y \ne x$
+Otterrei per ogni singolo caso una cosa di questa tipo  $$
+
+	\begin{matrix}
+		(x, x, y, y, z, z)\\
+		(x, x, y, z, y, z)\\
+		(x, x, y, z, z, y)\\
+		(x, x, z, y, z, y)\\
+		(x, x, z, y, z, y)\\
+		(x, x, z, z, y, y)\\
+	\end{matrix}
+$$
+
+quante volte se devono apparire 4 volte?
+$$
+	\begin{matrix}
+		(x, x, x, x, *, *)\\
+		(x, x, x, *, x, *)\\
+		(x, x, x, *, *, x)\\
+		(x, x, *, x, *, x)\\
+		(x, x, *, *, x, x)\\
+		(x, *, x, *, x, x)\\
+		(x, *, *, x, x, x)\\
+		(*, x, x, x, x, *)\\
+		(*, x, x, x, *, x)\\
+		(*, x, x, *, x, x)\\
+		(*, x, *, x, x, x)\\
+		(*, *, x, x, x, x)\\
+	\end{matrix}
+$$
+12 volte. come per prima, qui dobbiamo considerare la possibilità in cui insieme ad $x$ potrebbe essere $y\in A | y\ne x$ che appare in una quantità pari nelle sequenze. e cio' avverrebbe in lo stesso numero di volte in cui appare $x$ e quindi ci basta fare questo caso $\times 2$
+
+
+il caso più semplice è che se devono comparire gli stessi numeri allora sono 4 possibilità in quanto ci sono 4 casi semplici
+
+$$
+	\begin{matrix}
+		(1,1,1,1,1,1)\\
+		(2,2,2,2,2,2)\\
+		(3,3,3,3,3,3)\\
+		(4,4,4,4,4,4)\\
+	\end{matrix}
+$$
+Ricapitolando abbiamo
+- **4 sequenze:** tutti i numeri sono uguali
+- **60 sequenze:** 15 sequenze ( in cui un numero appare 2 volte all'interno della sequenza) $\times 4$ numeri disponibili
+- **1440 sequenze**: 60 sequenze (per scegliere 2 numeri) $\times (6$ possibilità di porre altri 2 numeri in una singola di quelle sequenze $\times 4$ numeri disponibili)
+- **5760 sequenze** : 1440 sequenze (per scegliere 2 coppie di numeri)  $\times 4$ (le sequenze sono quelle, basta selezionare un seme da dare all'ultima coppia)
 
 
 

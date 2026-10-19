@@ -5,6 +5,16 @@ Il formato è basato su [Keep a Changelog](https://keepachangelog.com/en/1.1.0/)
 
 ## [Unreleased]
 
+## [0.11.0] - 2026-10-19
+
+### Added
+- Create le flashcard AOSR `wiki/flashcards/03-Correlazione_e_Regressione.md` per la ripetizione spaziata di statistica bivariata, covarianza e regressione lineare.
+- Create le flashcard AOSR `wiki/flashcards/04-Spazi_di_Probabilita.md` per la ripetizione spaziata sui concetti di probabilità, eventi, $\sigma$-algebree assiomi di Kolmogorov.
+
+### Changed
+- Sincronizzati gli avanzamenti nello svolgimento degli esercizi di calcolo combinatorio in `appunti_dani/EsercitazioneNumero01.md`.
+- Aggiornata la configurazione dello spazio di lavoro di Obsidian (`.obsidian/workspace.json`).
+
 ## [0.10.0] - 2026-10-15
 
 ### Added
