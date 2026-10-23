@@ -11,10 +11,11 @@ file_sorgente: "[[EserciziMDPnew.pdf]]"
   (2) Determinare la velocità media complessiva nei sette giorni;
 
 > [!info]- Soluzione
-> (a) Le velocità in grammi al minuto si ottengono dividendo 200 per i tempi registrati e quindi: 40, 20, 50, 16.66, 10, 20, 50
-> (b) Il modo più semplice per ottenere la velocità media è di fare la quantità totale di pappa fratto il tempo totale impiegato: $\frac{1400}{5+10+4+12+20+10+4} = 21.53$ g/min.
-> In alternativa si poteva fare la media armonica delle velocità ottendo equivalentemente
-> $(\frac{1}{7}(\frac{1}{40} + \frac{1}{20} + \frac{1}{50} + \frac{1}{16.66} + \frac{1}{10} + \frac{1}{20} + \frac{1}{50}))^{-1} = 21.53$ g/min.
+> (a) Le velocità in grammi al minuto si ottengono dividendo 200 per i tempi registrati e quindi: 40, 20, 50, 16.66, 10, 20, 50.
+> (b) Il modo più semplice per ottenere la velocità media è di fare la quantità totale di pappa fratto il tempo totale impiegato: $\frac{1400}{5+10+4+12+20+10+4} = \frac{1400}{65} = 21.53$ g/min.
+> In alternativa si poteva fare la [[Correlazione_e_Regressione|media armonica]] delle velocità ottenendo equivalentemente:
+> $$\left(\frac{1}{7}\left(\frac{1}{40} + \frac{1}{20} + \frac{1}{50} + \frac{1}{16.66} + \frac{1}{10} + \frac{1}{20} + \frac{1}{50}\right)\right)^{-1} = 21.53\text{ g/min}$$
+> *(Osservazione d'aula: quando una grandezza è espressa da un rapporto come $\text{grammi}/\text{minuto}$, si usa la media armonica perché a rimanere costante ogni giorno è il numeratore, ossia i $200\text{ g}$; se a rimanere costante fosse stato il denominatore, cioè i minuti, si sarebbe usata la media aritmetica).*
 
 - [ ] **Es. 5.2.** In 25 scatole di 100 viti si sono contati il numero di pezzi difettosi ottenendo i seguenti dati
   1, 4, 3, 1, 3, 2, 2, 1, 2, 5, 3, 0, 1, 4, 3, 7, 1, 3, 1, 7, 2, 1, 2, 4, 8.

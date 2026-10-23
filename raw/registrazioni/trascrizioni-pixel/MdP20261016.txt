@@ -1,0 +1,458 @@
+
+Vediamo allora in questo primo esercizio.
+
+Degli abitanti di una certa regione. È costituito da una forma.
+
+Si sa che il 25 per cento dei fumatori. E affetto da una certa malattia.
+
+Consumatori.
+
+Una certa malattia. Mentre solo il 7% che non.
+
+Allora ci proviamo due domande. Anche direttamente la seconda.
+
+La prima domanda è. Qual è la probabilità che una persona si è attaccato?
+
+Una persona sia malata.
+
+Qual è la probabilità? Che è un malato sia un fumatore.
+
+Va bene ora l'esercizio. È piuttosto semplice e uno può anche farlo così con un po' di proporzioni.
+
+Non mi stancherò mai di ripetere questa cosa, se uno.
+
+Allora come vogliamo impostare? Lo impostiamo?
+
+L'insieme dei risultati e che sono gli eventi interessanti. Per come è formulato i risultati chi sono?
+
+Si può utilizzare il cannobio?
+
+Popolazione totale. Nella popolazione totale sono tutti gli abitanti di questa regione. Il fenomeno diciamo consiste nello scegliere a caso una persona. Quindi Omega? Tutti gli abitanti?
+
+Chiaramente c'è un evento. Da tutti i malati.
+
+Del nostro spazio predicato condizioni del risultato.
+
+Adesso dobbiamo tradurre. I dati in modo matematiche. Degli eventi no dentro. Insieme l'evento dei fumatori?
+
+Possiamo arrivare anche ai vini. Insomma Allora cerchiamo delle lettere che ricordano.
+
+E poi abbiamo un altro evento rilevante m.
+
+Diciamo che l'evento è mi accade se la persona si attacca? A caso non va? Questa è la nostra modellizzazione. Adesso vediamo di tradurre. Il 40% il fumatori Cosa vuol dire? Un termine probabilità?
+
+E la probabilità?
+
+Chiaramente la probabilità di n.
+
+Dei fumatori è malato. Come lo traduciamo in forno?
+
+Vedete bene, ma ho capito è la probabilità che sei malato sapendo che senza motore. In questa affermazione stiamo dicendo consideriamo solo i fumatori, diamo questa condizione. Cancelliamo in un fumatori. Tra i fumatori il 25 per cento è mala. Imponendo la connessione fumatore e voleva che sia malato è 0.
+
+Sapendo che è un non fumatore è lo 007. Il più è fatto. Scrivere i dati in questo modo è la parte più sostanziale del servizio perché adesso? Uno applica le formulette diciamo in qualche modo risponde No prima domanda. Dobbiamo calcolare quindi m.
+
+Praticamente qua Dipende se fumatore non fumatore. Allora facciamo la foto del covi dal totali dividiamo i casi tra fumatore non funziona. Quindi questo lo scriviamo come la probabilità? Malato. Sapendo che il fumatore della tonalità di avvitatore. In questo caso non malata. Malato sapendo che non fumatore per la.
+
+E qui abbiamo tutti i dati.
+
+Risposto alla prima domanda.
+
+Di fatto. Viene 014.
+
+Ok.
+
+Cosa ci chiede due?
+
+Quindi qua guardiamo solo i malati cancelliamo tutto in un malati Pisani. E lì calcoliamo la quantità che sia un fumatore. Quindi questa è una probabilità. Pf lato è? Imponiamo la condizione malata. Questo è un tipico esempio in cui si applica la forma di basi in cui vogliamo cambiare. I due rette lavoriamo per calcolare sapendo che è malato, ma non ci attacchiamo la frega che sia malato, sapendo che.
+
+Lato f. E la qualità di F.
+
+Se io avessi chiesto direttamente da due senza chiedere la 1. Questa formula? Per questo lo so questo lo so. Per calcolare questo uno deve condurre. E in questo senso otteniamo le due formule si usano spesso insieme. Come in questo esempio? A questo punto dobbiamo solo sostituire Qui, abbiamo 0.25.
+
+14.
+
+Come sempre, prima di fare i calcoli, Ecco prima non l'ho fatto. Non come sempre, come suggerisco poi qualche volta non lo. Fare un po' di analisi qualitativa del. Cosa ci aspettiamo? Qual è la probabilità che un malato sia un fumatore? Considerando i dati del problema.
+
+Non sono pochi e la probabilità.
+
+Probabilità consistente, insomma. Di certo non il 100%. Neanche il 90.
+
+È confermata? Poi ci sono dei casi in cui le previsioni non sono confermate in quel caso magari? Cerca di stare proprio il tempo a vedere se effettivamente. Ha fatto un errore oppure si era qua la previsione?
+
+E quindi non fa neanche di controllare? Quindi?
+
+Per me. Però? Se un errore di conto vi porta un risultato sballato, quello diventa importante.
+
+Quindi tu non fai quello? La consapevolezza di quello che stai facendo.
+
+O peggio ancora viene una probabilità maggiore di 1 o negativa? Insomma, cosa è dispiaciuta? Va bene. Adesso vi faccio un indovinello.
+
+Abbiamo tre comodini.
+
+Ogni comodino due casse.
+
+Non sappiamo quali. Ora sappiamo che uno dei tre comodini. Non contiene. Una moneta d'oro in ogni cassetto. Poi c'è un comodino che contiene. Due monete.
+
+Il bronzo. Poi c'è un terzo comodino, non sappiamo quale Quindi ora bisogna in questo modo. E contiene una moneta di bronzo. È una moneta d'oro. Ma non so quale cassetto c'è Allora e quale è brutto? Io Ho disegnato. Ma potrebbe essere di? Questo è il dato del problema. Il mio fenomeno è il seguente.
+
+Supponiamo che avendo il suo cassetto. Troviamo una moneta d'oro.
+
+Che avremo un tassistito? A caso?
+
+Troviamo oro.
+
+Vediamo! Provate. Ad impostare il problema.
+
+Le opzioni rimanenti si incontrano durante il 19.
+
+Dice quello che ci adoro. Sarò Esatto per quello. Un oro l'altro cassetto può avere oro o bronzo. Sono solo due fasi Però se cambio cassetto. Ho più probabilità che sia bronzo. Se cambio comodino. Quindi non è 50%? Il problema delle tre porte anche questo e Secondo me sì.
+
+Dal totale. Quella dove stanno andando in bronzo? Dove tu sei sicuro che hai già trovato un oro? Quindi devi ricalcolare tutto togliendo loro che hai trovato.
+
+Se ho preso una moneta d'oro da un comodino. L'altro cassetto a due possibilità che c'è proprio 50 o c'è un altro oro? Non cambia niente comodino. Adesso c'ho anche di nuovo le possibilità dove si sono entrambi pronto. I cassetti potrebbero essere anche se i comodini diversi non mi cambia niente.
+
+Però col fatto che vuole due cassetti dello stesso comodino e ci ha specificato che sono in quella, cioè in quella a disposizione. Secondo me non è uguale. Dire ok, prendo tutte queste dita. Lo stesso o due cassetti qualsiasi da tutti come viene? Perché ti dice che in un cassetto Ce ne sono due d'oro di un altro uno a uno bronzo in auto due browser.
+
+Poi ti dice ok? Mi hai già preso un d'oro, quindi quello bronzo può escludere in generale. Vediamo per me. C'è una certificazione. 50%.
+
+Anche se stesso Secondo me. Secondo me è il problema quella lì dei tre delle tre porte. E soprattutto perché escludi anche il cassetto con i due? Se tu fai il tuo ragionamento che escludi anche il cassetto con i due bronzo. Vuol dire che ti aumenta ancora di più?
+
+Quando tu Apri una porta ed esce tipo la capra e tu devi ricalcolare la probabilità togliendo quella porta e quindi il 50% di brutto sull'altra porta che tu non hai scelto e ti sei abbassato sulla tua. Lui ti ha già detto, ho aperto la porta e faccio la capra in questi due.
+
+Qual è la probabilità che ci sia la Ferrari il bronzo? Lo stato oltre al tuo cassetto, quindi si alza ancora di più. Tendenzialmente c'hai no Le Tre. Se non sai per niente che monete ci sono è uguale uguale a quello della Ferrari del futuro. In questo caso tu escludi al 100% un cassetto.
+
+Quando mi hai già aperto uno e sai che c'è la moneta d'oro Esatto, sì. Ok, Quindi devi buttare la probabilità sugli altri sull'altro cassetto ancora no di più, Secondo me è uno dei due. È più probabile perché per me non è importante. Sì quello che ha oro oro che hai preso il secondo me è sempre su una o uguale, cioè quello che hai preso e l'altro quello che pesa.
+
+Intrifono raga. Che accada oro sapendo che oro pigliata Croazia.
+
+Allora? Questo esercizio. Ancora una volta dobbiamo pensare a chi sono i risultati e chi è il teno?
+
+Diciamo che il risultato del mio fenomeno.
+
+In questi tre comodi? Quindi ci abbiamo eventi interessanti. In questo esercizio sono.
+
+B sono le monete di bronzo.
+
+Poi però abbiamo anche altri eventi interessanti che sono dati dai tre comodini.
+
+E quindi? Diciamo che sono le monete. E il comodino in?
+
+Questi sono gli eventi da tenere in considerazione. Insomma, come sono divise? Le monete sono? Possono essere loro sull'imbronzo? Possono andare come uno come numero due, quindi diciamo che. Il numero in quel modo là uno è quello che riguarda loro due non è tempo.
+
+Anche se non tocco. La richiesta? La richiesta è. Sapendo che ho trovato una moneta d'oro. Diciamo sapendo che una moneta d'oro sto già dicendo che sto vedendo una qualità condizionale sapendo che ho trovato. Sapendo che ho trovato oro cosa poi tu che accade?
+
+Testiamo nel comodino 1. Quindi la richiesta tradotta in matematicasa per? Qual è la probabilità che sta nel comodino? 1. Sapendo che abbiamo trovato oro? Di prima era la parte più difficile del. Tradurre. La richiesta in una forma. Presentare gli eventi interessanti che però insomma sono indicati dall'esercizio, per esempio, quelli che sono il pomodoro di questi bronzo, diciamo tre comodini.
+
+Cos'altro vogliamo prendere?
+
+Ora una volta che abbiamo. Questo abbiamo capito che questa è la richiesta.
+
+Novità di provare oro sapendo che siamo nel Topolino. 1. Quindi sicuramente andiamo ad applicare subito subito la forma di base. Fa per base questi diventa la probabilità.
+
+Per la probabilità di una.
+
+Trovare. Questa è la forma di basing in questo caso applicate due eventi, A1 e cc. Torna.
+
+Adesso fa? Perché come abbiamo già detto la proprietà è trovare oro. Sapendo che siamo nel comodino.
+
+Qual è la probabilità di aver scelto il comune di noi?
+
+E qual è la proprietà privata?
+
+Totale due terzi. Quindi nonostante appunto l'apparenza molto per questo un indovinello, qualcuno tende a rispondere un mezzo a questa domanda. Moneta d'oro.
+
+In modo che cominci a essere può essere questo qua. Se noi sappiamo che abbiamo trovato una moneta d'oro. Una di quelle tre? Ora queste tre monete d'oro sono equivalenti, se non fosse aver trovato la prima, la seconda o la gallina.
+
+Due casi. Le due monete?
+
+Diciamo se io so che ho trovato la moneta d'oro.
+
+Attivare diciamo questa scorciato. Si può anche visualizzare questa interpretazione? Fa un disegnino di Olga.
+
+Diciamo la partizione dei tre comodini questo. Comodino.
+
+La richiesta dobbiamo fare Pini A1 datog. Quindi G. Chiaramente.
+
+Tutto quello che sta fuori dal.
+
+Questo spazio qua. Che ha due?
+
+Un fondo di mano uniforme. Abbiamo.
+
+Però insomma al di là di questa interpretazione che magari è ancora più sofisticato, a questo è una cosa che uno deve imparare. Impostare il problema modernizzato.
+
+Domande.
+
+Degli esercizi interessanti.
+
+Si chiede Quante sono le partizioni.
+
+In cui ogni blocco contiene almeno un numero pari e ogni singolo.
+
+Vale 1 2.
+
+9 10.
+
+Ogni blocco ha sia numeri pari.
+
+E Qualcuno aveva fatto?
+
+Iniziamo un secondo giro.
+
+Mi raccomando paragone.
+
+In questo caso la transizione abbiamo scritto a quattro blo. Ora se cancelliamo i numeri dispari. Come ci sono sempre numeri pari con ogni blocco rimangono la partizione dei numeri pari in quanto blocco. Rimane una partizione di automobilista sviluppato. Qui diciamo possiamo pensare a questa partizione costruita a partire da queste due trasmissioni universitarie del decreto.
+
+Queste due? Poi discendenti. Due partizioni le pari di?
+
+E poi provare In quanti modi possiamo abbinare Esatto? È importante che devono avere lo stesso numero di blog.
+
+Da questa che aveva quattro blocchi di partenza due partizioni vediamo quindi le varie pedispari hanno un oggetto. Bene, quindi?
+
+Il numero che blocchi?
+
+Il Lungolago di partizione che possiamo fare su un insieme di S. Meno uno degli elementi linea 4 mm blocchi più K per Il mio respiro.
+
+Le diagonali sono?
+
+Ok adesso dobbiamo fare.
+
+Ad esempio. Seconda diagonale, dobbiamo sommare il numero in alto a sinistra con il doppio di quello di un'altra.
+
+Devono fare la terza diagonale prende il nome dell'altra sinistra più Tri.
+
+Successivamente applichiamo un senso identica ragionamento su quelli naturali.
+
+Poi abbiamo.
+
+Va bene, va bene.
+
+Guardate qua! S43
+
+Il triangolo di schermi che. Quando uno fa la terza diagonale? Sommare quelle in alto a sinistra con il triplo di quello di non cadere.
+
+È quello che viene da qua. Alla Grazie, Samuele Volevo farvi un'osservazione sul cervello che Samuele che ringrazio Eh perché? Importante che qualcuno venga? Chiaro la soluzione. Dopodiché però. C'è un problema di comunicazione?
+
+Però c'è uno di imparare. A comunicare. Una persona che a fianco.
+
+Però l'ho capito solo io che diceva l'idea, A meno che qualcun altro l'avesse anche già risolto. Quindi insomma la comunicazione è un aspetto che bisogna un po' curare. Nella vita nella carriera. Quando spieghi un problema devi sincerarti che ti sta davanti a te. Lo capisca devi fare il possibile.
+
+Quindi insomma. Vi ringrazio nuovamente, non volevo criticare sono tutti. Un commento costruttivo. Però magari aggiungo qualcosa perché forse non è stato così chiaro. Ecco
+
+Allora qua vogliamo capire come si può costruire una partizione che soddisfa le condizioni in ogni blocco ci sono state separate. Allora facciamo così, contiamo quelle con.
+
+Anche io tre i blocchi. Se io, come dicevo prima cancello i numeri pari rimangono tre blocchi dei numeri dispari e viceversa, quindi diciamo ogni partizione.
+
+Tre blocchi.
+
+Decomporre. In due partizioni.
+
+Tre blocchi. Dei vari e dei dispari.
+
+Qua c'è un altro esempio?
+
+5 6 7 8. Adesso un altro blocco. 9 10. Questo è un altro blocco, quindi questo è un esempio, è una partizione di tre blocchi. E chiaramente qua diciamo magari.
+
+Se guardo invece gli altri.
+
+Quindi quando adesso a queste due partizioni dei vari e dispari?
+
+57. E l'altra che è 24.
+
+Ora questa partizione qua dei numeri dispari in tre blocchi. In quanti modi la posso scegliere? Quante sono quelle che mi danno questa? Questa possibilità Beh, Questa è una partizione dei numeri dispari che sono 5 entro i blocchi, quindi sono. S53. Di stirling S5. Fate attenzione di cinque numeri in 3D.
+
+Ora una volta che ho scelto questa partizione di dispari e questa partizione dei pari ne devo combinare. Tra di loro. In questo esempio qua ho combinato mettendo questa con questa questa con questa e questa con questa. Però ci sono altri modi di combinare No, perché potevo ad esempio unire questa con questa qui o con questa qui.
+
+In quanti modi li posso combinare? Beh, sono tre. Diciamo posto per ruotare. Delle dispari in tre facce da limone. Quindi scelta una permutazione in tre blocchi dei discorsi scelta una valutazione in tre blocchi dei pari.
+
+Per s53.
+
+Cosa decide di mettere questo con questo? Perché con questo dicevo questo oppure permuto questi tre blocchi in tutti i modi. Questo chiaramente partono tre blocchi. Quattro blocchi alla stessa cosa in realtà s54 354. Quattro fattoriale ci abbiamo quattro blocchi. Quindi la risposta alla domanda sarà la somma?
+
+Poi vediamo ancora dopo tanto. Torniamo alle 11:20.
+
+Abbiamo visto prima. Difficoltà molto più elevata di quello che potete trovare un esame. 4.9. Prima volevamo che ci porterò numerosi e numeri pari che il numero degli studenti blocchi.
+
+Diciamo quante sono?
+
+Detrazioni.
+
+In cui ti blocchi?
+
+Sono pari.
+
+Se uno. Ho bloccato che non sa cosa fare. Vabbè magari lo svolgo sul numero più piccolo di numeri. Ne prendiamo 6.
+
+Di programmazione di produrre.
+
+Allora sei un volontario per questo?
+
+Allora Mi sentite. Perfetto, allora io ho diviso diciamo questa questo partizione in due parti, diciamo e la conferma. Due quattro sei otto su dieci. E poi per i dispari?
+
+In questo caso ci stanno chiedendo delle partite delle partizioni in quei blocchi siano o solo pari o solo dispari. Quindi? Noi sappiamo Certamente che questi non avremo mai un numero ad esempio sulla TV. Avremo ad esempio. Per i numeri pari.
+
+Con cinque. Possiamo notare che questi due blocchi non servono non avranno più mai di fotografare il numero dispari, quindi sappiamo che diciamo l'insieme diverso, ovvero tutti i numeri da 1. A 10 saranno i blocchi devono fare? In quelli? Quindi molto semplicemente andiamo a calcolare quanti blocchi riusciamo a fare per i pari e quantispari?
+
+Quante partizioni per i pali si quanti?
+
+In questo caso non sappiamo quindi utilizziamo il numero di pelle. E nell'insieme dei fari Vale i numeri sono 5 anche quello dei dispari, quindi ci serviranno a calcolare. Il triangolo.
+
+Quindi amo perché quando ero?
+
+Quindi sappiamo che questa rosmarino secondo tempo. La quinta l'ultimo numero è 52. Noi abbiamo in questo caso.
+
+52.
+
+Benissimo, Se avessimo chiesto. Il numero di blocchi dei pali Forse è uguale a quello slot in liscia perché sono Appunto.
+
+In questo caso in cui io introdurre un K quindi siamo e fare più caldo quindi? Ad esempio due blocchi dei pali di residu.
+
+In 10.
+
+Per fare due dispari.
+
+Lei anche un altro? E il 4 10 insomma. È un po' diverso da uno. Abbiamo fatto settimana scorsa. Potrebbe essere utile anche da vedere?
+
+In cui almeno un blocco.
+
+Da un numero pari.
+
+E qua faccio un.
+
+E almeno uno?
+
+1, 2. 3 4.
+
+Questo numero lo posso scegliere in.
+
+Lo ripeto, forse un po' più alto. Nel primo caso chiaramente il numero pari, questo che facciamo tutto l'osso? Lo posso scegliere in cinque modi?
+
+In questo caso?
+
+Mi rimangono in questo caso è molto bene il 9 in questo caso tanti 8 dicembre.
+
+Però? Visto che.
+
+Quindi devo?
+
+Importante come migliorare.
+
+Benissimo impeccabile.
+
+A. Ripetere
+
+Va bene, grazie. Diciamo lo sforzo di scrivere una parola in più è sempre complicato. Però il senso è questo qua. Abbiamo usato il principio di in questione. Sono già nell'altro evento analoga a questo. È un blocco?
+
+Poi chiaramente in questo modo. Un blocco così monolocale lo costruiamo più volte per esempio.
+
+Fino alla fine. Alternante.
+
+Proprio perché il caso più in alto ci dà delle ripetizioni. Conta le stesse cose più volte, come abbiamo. Appena detto, se tu hai una partizione che ha sia un blocco con due con blocco un 4, il vetrino conteggio la portata biologica. Sia quando fissi in due e poi tutto il resto è libero.
+
+Sia quando fissi in quattro e tutto il resto è libero. Ti trovi? Ti trovi due volte una partizione che c'è assieme 2. Per 4. È una partizione che c'ha il 2, il 4 e 6 te la trovi tre volte. Quindi alcune sono state montate troppe volte. Sistema proprio chiaramente quello.
+
+Copriamo due a due e selezioniamo a tre antenne e tagliamo a quattro a quattro. E ritorniamo al 5g.
+
+L'unicità nelle?
+
+Va bene, allora veramente di esercizio combinatoria ne faremo. Ancora quando scopriremo?
+
+Possiamo magari vedere qualcosina di statistica?
+
+Rapidamente.
+
+La tua barba di 200 grammi. Il mattino degli esami. Va bene, detto prima chiaramente. A dei tempi, insomma molto diverso, insomma quello della fame del tipo di pasta. Comunque Diciamo che questa settimana ha registrato.
+
+12.
+
+La pappa non era granché, era abituata andiamo.
+
+Di determinare le velocità. Espresse in grammi al minuto.
+
+In questi giorni?
+
+2. Calcolare la velocità media.
+
+Vabbè.
+
+Allora? Qui abbiamo essenzialmente. Un bambino che sta mangiando la sua pappa. Quindi vediamo cancellare questo. Allora dobbiamo determinare la velocità complessiva nei sette giorni in grammi al minuto e quindi come facciamo? Allora noi abbiamo i tempi. E la pappa quindi E vabbè i vari giorni. Quindi semplicemente che cosa dobbiamo andare a fare prendere la nostra formuletta quindi?
+
+La velocità. E andare a prendere? Ovviamente la velocità nei vari giorni la velocità nei vari giorni. E andare a fare la pappa? Fratto il Tratto il quantitativo della velocità. Che con cui ha mangiato, quindi andremo a fare per tutti i vari giorni i grammi di pappa. Fratto i minuti che ci ha messo.
+
+Per ogni giorno quindi noi che andiamo a fare ogni singolo giorno.
+
+Quindi il primo il secondo il terzo fino ad arrivare al settimo? Fino ad arrivare al settimo e per ogni giorno andiamo a fare il nostro calcolo. Quindi andiamo a fare il nostro calcolo per il primo giorno che sarà.
+
+200 g. Fratto 5 minuti. Noi andiamo a fare la velocità per il secondo giorno, quindi sarà 200 grammi. U2 200 grammi per Il secondo giorno e ci ha messo 10 minuti è stato un po' più lento. Cattivo poi abbiamo terzo giorno. Fino ad arrivare al settimo giorno. Quindi al settimo giorno ci ha messo Questo video, è stato super veloce, non si sa come cioè veramente 200 grammi per bambini poi.
+
+Allora?
+
+Insomma poi che cosa dobbiamo andare a fare? La velocità nei sette giorni, quindi noi andiamo a calcolare, però insomma i numeri ci interessano poco. Perché? Anche scrivere però, cioè scriviamo le scriviamo, però l'importante è che noi sappiamo Quanto manca in questi sette giorni, questo dannato il bambino. E allora poi che cosa andiamo a fare?
+
+Questo bambino questo bambino che deve mangiare insomma, Chissà perché i genitori si chiedevano quanto mangiava senza tre giorni. E allora che andiamo a fare? Come la possiamo fare? Beh sicuramente ci servirà. Le varie velocità dei sette giorni Quindi? Che cosa utilizziamo per la velocità?
+
+Sicuramente ci servirà. Le velocità dei sei giorni?
+
+Quelle che non hai calcolato. I 200 grammi di cibo sono al giorno quindi? La costante e abbiamo un cambiamento sono i minuti con i maschi. Grazie La pappa totale.
+
+E la andiamo a dividere per il tempo statale? Primo risultato è la formula granuli sul minuto. Alla fine no a questo punto.
+
+È abbastanza fisica. Questo bambino ci farà spendere un po' troppo, non lo so. Però insomma dopo che abbiamo preso i nostri 200 grammi.
+
+Diviso il nostro tempo totale quanto è stato il nostro tempo totale? A questo punto dobbiamo rimontare qui. Andiamo a prendere tutti i vari cronometraggi del nostro bambino.
+
+Noi andiamo a dividere 65. Che serve il tempo totale?
+
+Ha mangiato in fretta. Il nostro bambino esattamente
+
+La media delle velocità. La media armonica Sì, ma avremmo potuto anche fare la media armonica e saremmo riusciti a andare allo stesso risultato. Io non l'ho fatto perché sono abbastanza.
+
+Sul tempo? Allora facciamo la media.
+
+Qualcosa che siamo abituati.
+
+Ok.
+
+Brevemente sulla retta mirino bagaglio. Come esempio.
+
+Allora Qui abbiamo preso altezza di 7 adulti.
+
+Questi sono i pesi o tangano 90?
+
+Tanta gente con tanta che comunque questo non è il 375. 180.
+
+Ora come abbiamo detto l'altra volta ci abbiamo questi due caratteri. E vogliamo diciamo stimare quindi chiameremo x e y9 se vogliamo. Continuare. In modo da poterti fare la y rispetto alla X. Esercizio chiede sia di stimare il peso di un nuovo Arco 177 cm. L'altezza di un uomo che pesa.
+
+Continuiamo l'altezza in funzione del tempo per fare l'albero nel sentire i vuoti.
+
+Ad ogni elemento corrisponde il punto.
+
+Ricordiamo questi punti diciamo rapidamente 80
+
+Comune e 80 17. La distribuzione dei punti corrispondenti a questo piccolo campione di.
+
+La prossima nel modo migliore? L'altezza rispetto al peso. Per calcolarla ricordiamo che. Uguale a X + B.
+
+La varianza delle caratteristiche? Tutti quanti hanno agitato non delle formulette? Non c'è molto da ragionare conforme da ricordare.
+
+È meglio del prodotto meno anteriore delle medie.
+
+La varianza analogamente guidata alla bombe la media del quadrato meno.
+
+Per calcolare il B Dobbiamo ricordarci che la retta mq. Passa per il punto sia come coordinate la media edilizia nelle? Quindi?
+
+Vogliamo applicare.
+
+L'equazione in questo caso non è che mq?
+
+Comunque lo devo tenere Y è uguale a 0,7? Cioè l'altezza di un uomo. Centimetri più 0,7 volte il pene e la formula che permette di approssimare con la retta.
+
+Chiaramente Se invece vogliamo fare l'inverso facciamo?
+
+Se invece scambiamo.
+
+Quindi in questo caso? È uguale?
+
+Meno 47. Cosa ci dice questa formula? Se io voglio stimare. In funzione dell'altezza si parte da almeno 47. E poi per ogni centimetro?
+
+Però gli basta.

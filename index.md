@@ -14,6 +14,7 @@ Qui troverai un catalogo strutturato di tutti i concetti, regole, ed entità est
 * [[Basi_del_Calcolo_Combinatorio]]: L'obiettivo della combinatoria, Prodotto Cartesiano, Insieme delle Parti $\mathcal{P}(A)$ e come evitare gli errori del doppio conteggio.
 * [[Disposizioni_e_Combinazioni]]: Formule di base, il concetto di Fattoriale discendente, la Funzione $m$-a-$1$, Coefficiente Binomiale e combinazioni multinomiali.
 * [[Combinazioni_con_Ripetizione_e_Fibonacci]]: Combinazioni multinomiali, corrispondenza con gli anagrammi, metodo stars and bars (combinazioni con ripetizione) e sequenze binarie senza uni consecutivi (Fibonacci).
+* [[Partizioni_di_un_Insieme]]: Definizione di partizione e blocchi, Numeri di Bell ($B_n$), Triangolo di Bell e Numeri di Stirling di seconda specie ($S_{n,k}$).
 * [[Principio_di_Inclusione_Esclusione]]: Formula generale, calcolo dell'unione di più insiemi, sequenze k-piene e scombussolamenti (derangements).
 
 ## 4. Statistica Descrittiva
@@ -22,6 +23,7 @@ Qui troverai un catalogo strutturato di tutti i concetti, regole, ed entità est
 
 ## 5. Teoria della Probabilità
 * [[Spazi_di_Probabilita]]: Fenomeni deterministici e aleatori, $\sigma$-algebra di eventi, assiomi di Kolmogorov, spazio di probabilità uniforme discreto ed esempi classici (dadi, lotto).
+* [[Probabilita_Condizionale_e_Bayes]]: Definizione e interpretazione geometrica della probabilità condizionale, spazio di probabilità condizionato, Formula delle Probabilità Totali, estrazioni senza rimpiazzo, Formula di Bayes e paradosso dei tre comodini.
 
 ## 6. Esercitazioni (EserciziMDPnew)
 * [[Esercitazione_01_18-Settembre]]: Esercizi su combinatoria intuitiva

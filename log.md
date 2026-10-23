@@ -5,6 +5,16 @@ Il formato è basato su [Keep a Changelog](https://keepachangelog.com/en/1.1.0/)
 
 ## [Unreleased]
 
+## [0.12.0] - 2026-10-23
+
+### Added
+- Completato il workflow `ingest-audio.md` per la lezione del 16 Ottobre (`MdP20261016.m4a`): archiviazione della trascrizione Pixel in `raw/registrazioni/trascrizioni-pixel/MdP20261016.txt`, trascrizione Whisper a 24 thread in `raw/registrazioni/trascrizioni-whisper/MdP20261016.txt` e generazione della trascrizione unificata e corretta in `raw/registrazioni/trascrizioni-sistemate/MdP20261016.md`.
+- Creata la nuova pagina wiki `wiki/Probabilita_Condizionale_e_Bayes.md` con indice `5.2` (probabilità condizionale, spazio di probabilità condizionato, Formula delle Probabilità Totali, invarianza della probabilità a priori nelle estrazioni senza rimpiazzo, Formula di Bayes, paradosso dei tre comodini e domande d'esame da `MDP Domande orale.pdf`).
+
+### Changed
+- Aggiornato `index.md` e `wiki/Indice_Teoremi_Definizioni.md` con i riferimenti a `Probabilita_Condizionale_e_Bayes.md` e `Partizioni_di_un_Insieme.md`.
+- Arricchite le soluzioni di `wiki/Esercitazione_04_09-Ottobre.md` (Es. 4.8, 4.9, 4.10), `wiki/Esercitazione_05_16-Ottobre.md` (Es. 5.1) e i riferimenti incrociati in `wiki/Spazi_di_Probabilita.md` con le spiegazioni svolte in aula dal docente.
+
 ## [0.11.0] - 2026-10-19
 
 ### Added

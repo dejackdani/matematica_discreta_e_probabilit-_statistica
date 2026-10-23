@@ -6,7 +6,6 @@
       {
         "id": "5633730124c51bca",
         "type": "tabs",
-        "dimension": 55.80327868852459,
         "children": [
           {
             "id": "904a890e9dab3fa8",
@@ -23,54 +22,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "0ada5d1e460543fa",
-        "type": "split",
-        "dimension": 44.196721311475414,
-        "children": [
-          {
-            "id": "701697819bbf5021",
-            "type": "tabs",
-            "dimension": 59.44656488549618,
-            "children": [
-              {
-                "id": "aff6ed310a8aeb81",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "appunti_dani/01_Calcolo Combinatorio.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "01_Calcolo Combinatorio"
-                }
-              }
-            ]
-          },
-          {
-            "id": "5f94bce24ff10df6",
-            "type": "tabs",
-            "dimension": 40.55343511450381,
-            "children": [
-              {
-                "id": "49e74a28a8cf23f3",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "raw/EserciziMDPnew.pdf"
-                  },
-                  "icon": "lucide-file-text",
-                  "title": "EserciziMDPnew"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -133,8 +84,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 308.8203125,
-    "collapsed": true
+    "width": 308.8203125
   },
   "right": {
     "id": "a15d0158fa90769e",
@@ -255,20 +205,23 @@
   },
   "active": "904a890e9dab3fa8",
   "lastOpenFiles": [
+    "raw/registrazioni/trascrizioni-whisper/MdP20261016.txt",
+    "raw/registrazioni/MdP20261016.json",
+    "raw/registrazioni/MdP20261016.tsv",
+    "raw/registrazioni/MdP20261016.srt",
+    "raw/registrazioni/MdP20261016.vtt",
+    "raw/registrazioni/MdP20261016.txt",
+    "raw/registrazioni/trascrizioni-pixel/MdP20261016.txt",
+    "raw/registrazioni/MdP20261016.m4a",
+    "raw/registrazioni/MdP20261016_g.txt",
+    "raw/registrazioni/drive-download-20261019T090134Z-1-001.zip",
+    "raw/registrazioni/Non confermato 896495.crdownload",
     "appunti_dani/01_Calcolo Combinatorio.md",
-    "raw/EserciziMDPnew.pdf",
     "wiki/flashcards/04-Spazi_di_Probabilita.md",
     "wiki/flashcards/03-Correlazione_e_Regressione.md",
     "appunti_dani/EsercitazioneNumero01.md",
     "index.md",
     "wiki/Spazi_di_Probabilita.md",
-    "raw/registrazioni/trascrizioni-whisper/MdP20261009.txt",
-    "raw/registrazioni/MdP20261009.json",
-    "raw/registrazioni/MdP20261009.tsv",
-    "raw/registrazioni/MdP20261009.srt",
-    "raw/registrazioni/MdP20261009.vtt",
-    "raw/registrazioni/MdP20261009.txt",
-    "raw/registrazioni/trascrizioni-pixel/MdP20261009.txt",
     "wiki/Correlazione_e_Regressione.md",
     "raw/registrazioni/trascrizioni-sistemate/MdP20261009.md",
     "appunti_dani/Insieme Discreto.md",
@@ -293,8 +246,6 @@
     "Senza nome.canvas",
     "appunti_dani/02_Statistica_Descrittiva.md",
     "appunti_dani/03_Probabilità.md",
-    "raw/registrazioni/MdP20261007.m4a",
-    "raw/registrazioni/MdP20261009_g.txt",
     "raw/registrazioni/trascrizioni-sistemate/MdP20261007.md",
     "log.md",
     "README.md",

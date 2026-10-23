@@ -74,8 +74,9 @@ Dagli assiomi discendono immediatamente:
 - **Monotonia:** se $A \subseteq B$, allora $P(A) \le P(B)$.
 - **Decomposizione su partizione:** se $A$ e $B$ sono due eventi qualsiasi, allora:
   $$P(B) = P(B \cap A) + P(B \cap A^c)$$
-  e più in generale, se $\{A_1, A_2, \dots\}$ è una partizione in eventi di $\Omega$, per ogni evento $B$ si ha:
+  e più in generale, se $\{A_1, A_2, \dots\}$ è una [[Partizioni_di_un_Insieme|partizione]] in eventi di $\Omega$, per ogni evento $B$ si ha:
   $$P(B) = \sum_{i=1}^\infty P(B \cap A_i)$$
+  *(Questa proprietà costituisce la base per la [[Probabilita_Condizionale_e_Bayes|Formula delle Probabilità Totali]]).*
 - **Unione di due eventi qualsiasi:**
   $$P(A \cup B) = P(A) + P(B) - P(A \cap B)$$
 

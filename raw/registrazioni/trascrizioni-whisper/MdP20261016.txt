@@ -1,0 +1,2303 @@
+Allora, oggi siamo un po' antispato, siamo bassinati chiaramente nella probabilità,
+e poi diciamo quella che è la probabilità condizionale, cioè quella probabilità che
+ci siamo un po' scordiato in caso della seconda situazione all'olio, e diciamo anche di fare
+chiarezza di capire come e quando si deve. E' la probabilità che si evolve quando si aggiungono
+delle informazioni, e poi la probabilità che ha la base anche dell'intelligenza artificiale,
+più informazioni si aggiungono e più si modifica la probabilità che qualcosa possa essere
+vero. Allora, iniziamo direi da un esempio proprio terra-terra e poi lo formalizziamo.
+Oggi ho portato il gesto bellico, no?
+Allora, il Presidente è proprio terra-terra e se vengono, si può avere due urne,
+un po' di palline rosse, le palline rosse, le palline rosse, le palline rosse, le palline
+rosse, le palline rosse, le palline rosse, le palline rosse, le palline rosse, le palline rosse,
+e il nostro fenomeno consiste nell'estrazione di una pallina scelta a caso da uno.
+da uno.
+Una pallina.
+Una pallina.
+quindi prima cosa
+così facciamo anche un ripassino
+di quello che abbiamo imparato la questione scorsa
+quali e quanti sono i risultati
+di questo fenomeno
+ovviamente la scelta dei risultati
+è sempre soggettiva
+però dobbiamo cercare
+di fare una scelta
+che possa rappresentare
+nel modo migliore possibile
+il fenomeno
+in questo caso
+dire semplicemente il risultato
+è bianco e rosso
+forse è un po' troppo povero
+come descrizione del risultato
+qui abbiamo sette palline coinvolte
+e possiamo pensare
+al risultato come le sette palline
+come se fossero distinguiti
+possiamo immaginare
+anche numerate
+1, 2, 3, 4, 5
+sono sette palline
+sono distinte
+proprio fisicamente
+e i risultati sono
+le sette palline
+quindi omega
+in questo caso
+sono le sette palline
+una domanda naturale
+potrebbe essere quella
+di dire qual è la probabilità
+che la palline straccia
+sta bianca
+qual è la probabilità
+allora in questa situazione
+è una cosa che viene naturale rispondere
+la prima cosa che vuole
+dipende
+se l'ho estratta dalla prima
+o dalla seconda volta
+allora quando uno
+viene in qualche modo naturale
+di dire dipende
+ovviamente esattamente
+bisogna considerare
+una partizione
+diciamo
+dei risultati
+di obbligare
+in eventi
+che corrispondono
+ai casi
+che abbiamo in mente
+il caso
+che dà le palline
+la prima volta
+è un caso
+dà le palline
+la seconda volta
+queste formano
+una partizione
+di obbligare
+secondo la legisla
+che abbiamo da qui
+e consideriamo
+la partizione
+d'omega
+data da
+a 1
+prima 1
+a 2
+seconda
+a 2
+seconda
+a 2
+seconda
+a 2
+seconda
+a 2
+seconda
+a 2
+seconda
+a 2
+seconda
+a 2
+seconda
+a 2
+seconda
+seconda
+seconda
+ok
+poi magari
+una partizione
+in più
+di due blocchi
+in questa casa
+abbiamo solo
+2
+a questo punto
+il nostro
+evento
+di riferimento
+quello che vogliamo
+studiare
+nella farina bianca
+è questo qui
+e c'ha
+un pezzo
+in A1
+e un pezzo
+in A2
+allora
+quello che
+uno fa
+è questa prima
+divisione di B
+e diciamo
+che la probabilità
+dell'evento B
+lo spezziamo in 2
+è uguale
+alla probabilità
+di estrarre
+una ballina bianca
+dalla prima urna
+più la probabilità
+di estrarre
+una ballina bianca
+dalla seconda urna
+B
+in intersezione 1
+vuol dire
+che è bianca
+dalla prima urna
+quindi vuol dire
+che c'è anche questa
+B in intersezione 2
+vuol dire
+che è bianca
+dalla seconda urna
+quindi restriamo
+in questi due casi
+adesso appunto
+succede
+quello che abbiamo
+detto prima
+cioè
+in questa
+probabilità
+vogliamo
+aggiungere
+questa condizione
+di stare
+solo
+nell'urna 1
+allora
+viene in qualche modo
+naturale
+introdurre
+quella che appunto
+sarà la nostra
+probabilità
+condizionale
+vogliamo
+introdurre
+una
+probabilità
+che
+tenga conto
+condizioni
+note
+o imposte
+insomma
+a seconda
+della terra
+situazione
+allora
+come si fa?
+diciamo
+questa probabilità
+la vogliamo
+indicare
+la grazie
+indichiamo
+in questo modo
+diciamo
+probabilità
+ora qui
+non sto riferendo
+all'esempio
+se a e b
+sono eventi
+indichiamo
+con probabilità
+a
+dato b
+si chiamo in questo modo
+a barra b
+si legge
+probabilità
+di a
+dato b
+probabilità
+che avvenga
+come
+la probabilità
+che avvenga
+a
+sapendo
+che
+il risultato
+che accade
+è
+quindi
+abbiamo
+delle
+informazioni
+su
+risultate
+del
+fenomeno
+questo
+lo possiamo
+pensare
+sia come
+una cosa
+cronologica
+ad esempio
+una partita
+di calcio
+uno può
+dire
+a
+è il risultato
+finale
+e b
+è il risultato
+almeno
+tempo
+quanto cambia
+la probabilità
+che la probabilità
+di un certo punto
+con le estrazioni
+dopo che è fatta
+la prima estrazione
+come cambia
+la probabilità
+che è la seconda
+estrazione
+di un certo punto
+ok
+allora
+da tutto
+vista
+poi
+quantitativo
+matematico
+come
+la possiamo
+difendere
+la probabilità
+allora
+ci arriviamo
+in modo
+abbastanza
+intuitivo
+questa
+è
+rifiata
+devo
+dire
+in vendo
+mi
+davvero
+voce
+quando
+yes
+ma
+e dentro abbiamo i vari eventi possiamo immaginare tanto più grandi quanto più grande
+è la rispettiva probabilità
+facciamo in modo proporzionale alla loro probabilità
+diciamo che Omega avrà area 1 e poi ogni evento avrà area proporzionale
+più grande
+diciamo che questi sono i nostri A e B
+in questo disegno B è un po' più probabile di A
+questo è un po' il nostro modo intuitivo di rappresentare le proprie
+ora quando diciamo dato B cosa vuol dire?
+vuol dire che sappiamo che il risultato sta dentro B
+e quindi tutto quello che sta fuori B diventa vietato
+lo cancelliamo, come se non esistessero
+ricorda, il nostro nuovo mondo sono solo questi risultati qua
+allora a questo punto una volta che abbiamo questo nuovo mondo qui
+dire che accade l'evento A
+corrisponde a questa zona qui
+però insomma in proporzione rispetto a questa superficie qua
+d'accordo?
+ma allora il rapporto tra questa superficie e questa
+è anche il rapporto tra le rispettive probabilità originali
+il rapporto tra l'evento A
+A intersezione B e D
+è uguale al rapporto tra l'evento A intersezione B e D
+è uguale al rapporto tra l'evento A intersezione B e D
+A intersezione B e D
+è uguale al rapporto tra l'evento A intersezione B e D
+tra l'evento A intersezione B e D
+è uguale al rapporto tra l'evento A intersezione B e D
+rispettive probabilità
+la probabilità di A intersezione B
+è uguale al rapporto tra l'evento A intersezione B
+finiamo per definizione
+la probabilità di A intersezione B
+sarà uguale a questo rapporto
+la probabilità di A intersezione B
+è uguale al rapporto tra l'evento A intersezione B
+in questo nuovo mondo in cui sappiamo che il risultato sta dentro B
+dentro B, la probabilità che accade anche A è il rapporto tra questa piccola zona qui
+e B. Se volete questa spiegazione intuitiva uno la può anche non dare e prendere direttamente
+questa definizione, però penso che sia abbastanza illuminante vedere questo modo, non dà un
+senso a questa definizione. Ok? Solitamente, ma non sempre, nei problemi quello di cui uno
+ha bisogno è la probabilità di A intersezione B. E quindi questa formula si usa a rovetto.
+Cioè si usa la probabilità di A intersezione B che non è più facile a calcolare per calcolare
+la probabilità di A intersezione B. Ed è quello che uno fa nell'esempio che stiamo studiando.
+Nel nostro esempio
+la probabilità di B, lo riprendiamo adesso
+ovviamente i ruoli di gestione. Eravamo arrivati a questa situazione, no?
+Quindi A intersezione A1 più la probabilità di B intersezione A2.
+abbiamo diviso in due casi. Bene, a questo punto la probabilità di B intersezione A1, questa
+qua, uno la può scrivere come la probabilità...
+direi che possiamo scambiare i ruoli di A e B. Adesso la vogliamo scrivere come la probabilità
+di B dato A1 per la probabilità di A1. Cioè dobbiamo prendere questa formula con B al posto
+di A. E quindi la probabilità di B intersezione A1 è uguale alla probabilità di A1. E quindi
+la probabilità di B intersezione A1 è uguale alla probabilità di B dato A1 per la probabilità di A1.
+Da qui la condizione che uno imporre è sempre riferita alla partizione, che erano i casi che
+volevamo fare, ma in questo caso tra l'urna 1 e l'urna 2. Quindi facciamo la probabilità
+data all'urna 1 per la probabilità di B intersezione A1. Più, analogamente, la probabilità
+di B intersezione A1, sapendo che siamo per l'urna 1, per la probabilità di B intersezione A1.
+Ok? Ora questa formula che abbiamo scritto è una cosa che voi fate in automatico. Che cosa
+stiamo dicendo qui? La probabilità di estrarre una farina bianca è uguale alla probabilità
+di stare nella prima urna, che è la probabilità di estrarre la bianca nella prima urna. Più la
+probabilità di stare nella seconda urna, che è la probabilità di estrarre una farina bianca
+sapendo che siamo per l'urna 1. E quindi solitamente, come mando io, correggo la vostra
+soluzione, uno qua spara subito i numeri, insomma senza fare questo passaggio, diciamo,
+di intermedio però. Perché chiaramente va bene perché gli esercizi sono un po' di semplici.
+Quando gli esercizi si complicano un po', imparare a formalizzarlo in modo
+corretto è l'unico modo per arrivare alla scuola. Quindi adesso possiamo, diciamo, fare le
+citate, no? Quindi qua cosa agiamo? La probabilità di una bianca sapendo che siamo nella prima urna.
+urna. È come dire che cancelliamo tutto quello che non è prima urna, cioè cancelliamo
+la seconda urna. Il nostro mondo nuovo è la urna 1. E qual è la probabilità di estrarre una bianca
+nella urna 1? È un terzo. Perché la urna 2 non esiste qui quando abbiamo questa condizione.
+quindi questo è un terzo. E poi la probabilità dell'urna 1?
+Quando lo scuola? Tre settini. Cioè, è più probabile scegliere l'urna 1 che l'urna 2? No, per come è stato
+che abbiamo formulato il problema. Le due urne sono equivalenti. Io scelgo il 50%
+l'urna 1 e il 50% l'urna 2. La probabilità di scegliere l'urna 1 è un mezzo. Le due urne
+sono bilocali, da fuori sono indistinguibili. Io non so quale urna c'ha tre patine, quale
+quale c'ha tre patine. Quindi la probabilità dell'urna 1 è un mezzo. Poi facciamo più.
+La probabilità di una bianca sapendo che siamo dell'urna 2. Quindi in questo caso cancelliamo
+l'urna 1. Il nostro nuovo mondo è solo l'urna 2, nel secondo caso. E qual è la probabilità
+di essere una bianca dell'urna 2? Due quarti, cioè un mezzo. E infine chiaramente la probabilità
+di aver scelto l'urna 2, senza condizioni, è ancora in base. No, una pallina è base
+in queste settembre. Qual è il nostrouben oppure le queste patine?
+Allora, un'altra pallina e ci trovo le regole Tel Bjar были
+una sola pallina, e ci trovo le regole parecchieット
+Quando devo fare con uno parquet ha malcomito, quando uno con un e un o?
+12-6-2
+e otteniamo il nostro
+5-12esimo è una probabilità che sia bianca
+e chiaramente il 7-12esimo
+è una probabilità che sia rossa
+è un po' più probabile che sia rossa
+giustamente
+va bene
+ancora
+un'osservazione un po' più teorica
+grazie
+grazie
+allora
+allora
+fissato un evento b
+uno considera
+in un altro tema
+infeliamo la qualità condizionata da b
+con lo stesso spazio di risultati
+con lo stesso eletto
+e questo è ancora un spazio di risultati
+questo cosa voglio dire
+è chiaramente che questa
+produzione qui è una nuova
+valutazione di probabilità che ha
+la stessa abilità
+diciamo
+tra l'inferno di probabilità
+iniziale
+diciamo
+il quale dovremmo verificare
+insomma
+per fare questa affermazione
+magari coscriviamo
+cioè
+diciamo due cose
+uno
+che la probabilità
+di omega dato b
+è ancora uguale a 1
+questa è la normalizzazione
+cioè la qualità condizionata
+di omega
+e la seconda
+era l'addissimità
+quindi andiamo
+un po' di venti
+un po' di venti
+uno
+due
+per certi
+di senni
+rispondi
+allora
+la probabilità
+della dominione
+visto
+la risposta
+dicendo
+di
+il quale è uguale
+alla somma
+delle probabilità
+le due condizioni
+che abbiamo impostato
+per una valutazione
+di probabilità
+se queste valgono per b
+valgono anche per i da 1
+non voglio fare
+insomma
+perché non voglio ammogliarvi troppo
+con i conti
+però
+è solo per dire
+che tutto quello che diremo
+per una probabilità
+vale anche
+se uno considera
+una probabilità condizionata
+da un evento
+di stato
+ok
+va bene
+va bene
+direi che invece
+possiamo
+formalizzare
+un po' di cose
+una
+quella che abbiamo
+svalutato
+lì
+dobbiamo dare un nome
+vedremo la formula
+delle probabilità
+totale
+la cosa è
+semplicemente
+la formalizzazione
+di quanto parte
+nel esempio
+e cos'è
+allora
+noi abbiamo
+omega
+prima
+una parte
+insieme di omega
+in due blocchi
+che abbiamo chiamato
+a 1
+o 2
+i blocchi
+possono essere anche
+più di due
+anche
+infiniti
+più che numerati
+allora
+nel disegno
+facciamo
+la nostra finita
+a 1
+a 2
+a 3
+a 4
+a 5
+quindi abbiamo
+a 1
+a 2
+eccetera
+partizione
+di omega
+in evento
+sono eventi
+che partiziano
+nomina
+che sono i casi
+che vogliamo
+calcolare
+dopo di che
+abbiamo
+l'evento
+B
+di cui
+vogliamo calcolare
+se dobbiamo calcolare
+la probabilità
+di B
+proprio per come
+è impostato
+il problema
+sarà naturale
+dividerlo
+in casa
+in caso
+in caso
+in questo caso
+in A1
+in caso
+in A2
+in A3
+in A4
+in questo caso
+non è possibile
+in A5
+in ogni caso
+questo lo possiamo
+scrivere come
+somma
+della probabilità
+di B
+in per sezione
+A1
+e come abbiamo fatto
+nell'esempio prima
+la probabilità
+di B
+in per sezione
+A1
+la possiamo
+esprimere
+in funzione
+della probabilità
+condizionale
+e qua diventa
+la somma
+sui
+della probabilità
+di cui
+dato A1
+per la probabilità
+di A1
+questa è quella
+che stiamo
+a forma
+della probabilità
+cotale
+e ripeto
+è la cosa
+più naturale
+che fare
+quando viene
+naturale
+dipende
+questa qua
+un altro errore
+tipico
+adesso
+mi viene in mente
+quando
+l'errore
+tipico
+compiti
+elaborati
+è
+spesso
+si fa
+confusione
+tra la probabilità
+di intersezione
+e la probabilità
+di condizioni
+qual è la differenza
+probabilità
+di A
+intersezione
+B
+e la probabilità
+di A
+dato B
+quando parliamo
+di A
+intersezione
+B
+vuol dire
+che noi
+stiamo imponendo
+che il risultato
+sia sia in A
+che in B
+senza
+nessuna
+condizione
+come dire
+all'inizio
+del processo
+quando ci stiamo
+B
+A
+dato B
+vuol dire
+che siamo
+dato per buono
+per il risultato
+di B
+e quindi
+poi
+andiamo a
+calcolarci
+la probabilità
+che stia
+anche
+in A
+quindi
+non solo
+il cuore
+che stia
+in A
+mentre
+quando facciamo
+A
+intersezione
+B
+bisogna
+il cuore
+che stia
+sia in A
+che in B
+va bene
+ora molto spesso
+tra poco
+le probabilità
+totale
+chiusa
+in congiunzione
+con un'altra
+formula
+questa
+sì
+ma
+è la base
+dei processi
+dei processi
+speciali
+in particolare
+quelli siamo
+dei processi
+dei siani
+non parleremo
+nel dettaglio
+però
+la base
+adesso
+la vediamo
+e poi
+vediamo la formula
+di base
+che è molto semplice
+tanto semplice
+quanto utile
+cosa dice
+dice che
+in certi casi
+se noi abbiamo
+i due eventi
+A e B
+magari ci serve
+calcolare
+la formula
+di A
+da
+però
+insomma
+ci viene
+più facile
+pensare
+alla probabilità
+commissionata
+opposta
+cioè la probabilità
+di B
+dato A
+allora
+quando
+pensiamo
+che questo
+sia il caso
+uno
+c'è una formula
+per invertire
+A con B
+ed è semplicemente
+la seconda
+la probabilità
+di A
+dato B
+è uguale
+alla probabilità
+B dato A
+e la probabilità
+di A
+fratto
+la probabilità
+di A
+se uno vuole
+scambiare
+A con B
+deve usare
+questa formula
+di B
+e la dimostrazione
+è veramente
+molto semplice
+come si dimostra
+noi sappiamo
+che la probabilità
+di A
+intersezione
+B
+quando ho detto
+prima
+è uguale
+alla probabilità
+di A
+dato B
+per la probabilità
+di B
+allora
+qui
+posso scambiare
+A e B
+perché questa
+è l'intersezione
+A e la intersezione
+B
+è uguale
+all'intersezione
+A
+quindi
+questa è anche
+uguale
+alla probabilità
+di B
+dato A
+di una probabilità
+di A
+e quindi
+a questo punto
+se questi due
+sono uguali
+io posso scrivere
+il B
+dato A
+come questo
+diviso questo
+da D
+vabbè
+A dato B
+uguale a questo
+diviso questo
+da qui
+segue la foto
+chiaro?
+è un spesso
+la probabilità
+dell'intersezione
+si può scrivere
+in due modi diversi
+ma secondo
+se vogliamo fare
+la probabilità
+condizionata
+che per il programma
+porta B
+e uguagliando
+queste due formule
+abbiamo
+la forma
+di B
+S
+B
+S
+ok
+mettiamole all'opera
+queste formule
+così
+le iniziamo a fissare
+abbiamo
+abbiamo un po'
+di esempi
+fatto?
+da questo
+uguale a questo
+qualità di A
+che?
+qualità di A
+dato B
+per la qualità di B
+guarda
+qualità di B
+dato A
+per la qualità di A
+se io qua mi vengo
+va bene
+ah si forse la prima cosa
+di cui vi parlo
+la applicazione a forma del cosato pari
+è quella delle estrazioni della porta
+cerchiamo di infugare
+un po' di bui
+le palline da 1 a 90
+la facciamo più generica
+le palline colorate
+e c'è una nostra urla
+che contiene un numero di palline
+le palline
+le palline
+le palline
+le palline
+le palline
+le palline
+le palline
+le palline
+le palline
+quindi diciamo che abbiamo
+i bianche
+e r rosse
+facciamo certe numero di estrazioni
+facciamo
+ecco
+le estrazioni
+le facciamo
+senza rimpiazzare la palline
+una volta che estraiamo
+la palline estratta
+la lasciamo fuori
+dalla pallina
+quindi senza
+rimpiazza
+ok
+e questo è il nostro fenomeno
+estraiamo n palline
+senza rimpiazza
+e ci facciamo n domande
+la prima domanda è
+qual è la probabilità
+che la prima sia bianca
+la prima è bianca
+2
+qual è la probabilità
+che la seconda è bianca
+e così via
+la domanda è
+qual è la probabilità
+che la ennesima
+è bianca
+ok
+rispondiamo alla domanda 1
+allora chiamiamo
+l'evento
+di coni
+l'evento
+l'esima
+l'esplosione
+la piazza
+e sicuramente
+chiamiamo
+l'esplosione
+l'esplosione
+la prima domanda
+è b1
+ok
+qual è la probabilità
+che la prima estratta
+sia bianca
+che la prima estratta sia bianca
+in questa situazione
+se uno guarda solo
+la prima stazione
+abbiamo
+bqr
+e i possibili risultati
+sono tutte
+le più probabili
+tutte le più probabili
+ognuna
+ognuna ha probabilità
+in uno fratto
+bqr
+i risultati favorevoli
+sono b
+quindi la probabilità
+è b fratto
+bqr
+questo diciamo
+quindi è b
+fratto bqr
+semplicemente
+questi sono i risultati
+favorevoli
+questi sono i risultati possibili
+perché chiaramente
+come è formato il problema
+lo spazio è uniforme
+per la prima strazione
+tutte le palline
+hanno la stessa prova
+ok
+sono d'accordo
+su questo
+ora dobbiamo
+passare alla seconda
+estrazione
+ok
+allora quando sono più
+della seconda estrazione
+può essere naturale
+usare la formula
+del probabili
+antropanali
+che ho cancellato
+sicuramente
+non ho capito
+la probabilità
+della seconda
+sia bianca
+dipende
+vedete
+non viene naturale
+direttamente
+dipende
+dalla finestrazione
+ma quando uno dice
+dipende
+vuol dire
+deve fare una partizione
+fra i casi
+per cui dipende
+dipende
+se la prima
+è la bianca
+o se la prima è la rossa
+stiamo facendo
+la partizione
+rispetto alla prima
+estrazione
+allora
+la probabilità
+di 2
+è uguale
+è uguale
+alla probabilità
+di avere
+B2
+cioè la seconda
+bianca
+sapendo che la prima
+era bianca
+per la probabilità
+che la prima
+era bianca
+più
+l'altro caso
+la probabilità
+che la seconda
+sia bianca
+sapendo che la prima
+era rossa
+per la probabilità
+che la prima
+è sospessa
+questa è la formula
+della probabilità
+totale
+totale
+va bene
+rispetto alla partizione
+B1R1
+sono due casi
+insomma
+disgiunti
+che portano
+tutte le possibilità
+d'accordo
+su domande
+su questa cosa
+vedete che io
+insisto a spiegare
+un po' di gesto
+insomma
+per farvi vedere
+i dettagli
+di queste dimostrazioni
+anche nei casi
+più semplici
+perché a questo punto
+direi che possiamo
+rispondere
+a queste cose
+secondo me
+tutte
+queste 4 probabilità
+che un po'
+le conosciamo
+perché la probabilità
+è che la seconda
+è bianca
+sapendo che la prima
+è bianca
+che informazione
+la prima è bianca
+quindi vuol dire
+che nella nostra urna
+abbiamo tolto
+una pallina bianca
+quindi ne sono rimaste
+R rosse
+e B-1 bianca
+quindi in questo caso
+se ne ho R rosse
+e B-1 bianche
+i risultati favorevoli
+sono B-1
+i risultati totali
+sono B-1
+con una pallina in meno
+una pallina in meno
+con una pallina in meno
+la probabilità di B-1
+e poi abbiamo
+la probabilità di B-1
+poi B fratto di 2e
+la qualità che la prima
+sia bianca
+senza alcun po'
+poi passiamo a quest'altra
+che invece
+adesso diamo per buono
+che la prima sia rossa
+quindi abbiamo tolto
+una pallina rossa da luna
+se abbiamo tolto
+la pallina rossa da luna
+i casi favorevoli
+sono sempre B
+nei casi possibili
+sono
+una pallina in meno
+infine la probabilità
+che la prima sia rossa
+dicemolo voi
+quant'è?
+R fratto di B
+ora chi non ci accontentiamo
+questa formula
+la vogliamo un po'
+simpaticare
+vediamo cosa accade
+allora
+mettiamo un po'
+e due sono gli stessi
+sotto c'è
+B più R
+Sopra
+possiamo raccogliere B
+e qui viene
+B meno 1
+più F
+B
+il fattore 1
+lo raccolto
+all'unione B
+per B meno 1
+più R
+ma
+allora
+questo è semplice
+uguale
+e otteniamo
+B fatto B più R
+cosa che
+dopo la lezione scorsa
+dovrebbe
+sorprendere
+un po'
+meno
+e qui
+cosa
+stiamo dicendo
+che la probabilità
+che la seconda
+sia rossa
+è uguale
+alla probabilità
+che la prima
+sia rossa
+perché è uguale
+alla probabilità
+è per lo stesso
+ragione
+dell'altra volta
+ma se uno guarda
+solo la seconda
+estrazione
+i risultati possibili
+sono sempre
+le B più R
+palline
+a priori
+prima di iniziare
+non so
+quale palline
+sarà estratta
+come seconda
+quindi
+come seconda
+estrarò
+una di queste B2M
+e sicuramente
+non è che
+c'è una più bella
+delle altre
+hanno tutti
+la stessa
+probabilità
+quindi
+se uno guarda
+solo la seconda
+estrazione
+senza
+fregarsi
+della prima
+abbiamo
+uno spazio
+in fuori
+e quindi
+possono fare
+risultati
+proponeboli
+su risultati
+quindi
+i risultati possibili
+sono
+quindi
+questo
+ci dà
+una spiegazione
+del fatto
+che
+i B2
+guarda
+B
+senza
+passare
+la prima
+in questo caso
+sono utili
+perché
+spiegano
+come
+usare
+la forma
+delle
+problemi
+dattali
+che in altri
+casi
+sono alimentati
+in questo caso
+lo potrebbero
+anche
+risparinarsela
+e fare
+direttamente
+il riscosto
+guardando
+la seconda
+estrazione
+chiaramente
+le altre
+domande
+hanno la stessa
+risposta
+e se io
+guardo
+la quinta
+estrazione
+la quinta
+estrazione
+una delle
+B2R
+palline
+tutte
+con la stessa
+probabilità
+e quindi
+hanno sempre
+B2R
+vediamo
+che la probabilità
+B2R
+alla B
+fratto
+B2R
+per ogni
+ora
+questo esempio
+è veramente
+importante
+quindi
+lo dovete
+assolutamente
+capire bene
+perché
+poi
+lo utilizzeremo
+anche
+tante volte
+e ci
+è molto
+l'altro
+vedete
+la differenza
+tra avere
+poi la stessa
+probabilità
+e essere
+indipendenti
+il concetto
+che vedremo
+quindi ci sono domande
+per questo
+il compagnie
+è quei
+di
+evno
+per krijgen
+qui
+di
+attesa
+Vediamo, questo è il primo esercizio.
+Vediamo, il 40% degli abitanti di una certa regione è costituito da sfumature.
+Il 40% è sfumature.
+Il 25% dei fumatori è affetto da una certa malattia.
+Il 20% dei fumatori è affetto da una certa malattia.
+È meglio specificata.
+Mentre solo il 7% dei fumatori sono fatti di questa malattia.
+Allora, ci proviamo due domande.
+Potremmo porci anche direttamente la seconda.
+Però, insomma, la prima è un aiuto per il suo lavoro.
+La prima domanda è
+qual è la probabilità che una persona tutta a caso
+non so se c'è un fumatore, ma credo dire che sia malattia.
+La probabilità
+che una persona sia malattia
+due
+qual è la probabilità
+che un malato sia un fumatore.
+va bene?
+Ora, l'esercizio è piuttosto semplice
+e uno può anche farlo così con un po' di proporzioni.
+Allora, mi vede chiaramente quello di farlo
+impostandolo
+il mio comando, non mi viene da dire.
+Ma proprio perché
+vogliamo imparare poi a affrontare
+cosa è difficile.
+Non mi stancherò mai di ripetere questa cosa.
+Se uno impara a impostare bene
+con una facile
+poi può affrontare bene.
+Se uno non sa impostare bene con una facile
+non può neanche avvicinare.
+Ok?
+Allora, come lo vogliamo impostare?
+Lo impostiamo
+come abbiamo imparato in queste due lezioni.
+Dobbiamo capire
+chi è
+l'insieme dei risultati
+e chi sono gli eventi
+che sono interessanti.
+Scusate, qua.
+E com'è
+il primo lato?
+Scusate,
+i risultati
+chi sono?
+Chi è omega?
+la popolazione totale?
+è una popolazione totale.
+Chi è?
+Non è la popolazione totale.
+Scusate,
+ma chi è?
+Sì.
+Popolazione totale?
+È la popolazione totale.
+Sono tutti gli abitanti
+di questa regione.
+perché il fenomeno, diciamo,
+consiste nello scegliere a caso una persona.
+Quindi omega
+sono tutti gli abitanti
+della regione.
+Vedete, chiaramente il nostro fenomeno
+ne scegliamo a caso una persona.
+Chiaramente c'è l'evento
+distribuito da tutti i malati,
+c'è l'evento distribuito dai fumatori,
+l'evento distribuito dai non fumatori.
+Sono eventi,
+sono tutti insieme
+nel nostro spazio di abitanti,
+l'insieme del risultato.
+Adesso dobbiamo tradurre
+i dati
+in modo matematico.
+Quindi diciamo,
+quantizziamo degli eventi.
+F
+insieme
+l'evento di fumatori.
+M
+con fumatori.
+Possiamo fare anche A e B,
+insomma,
+però se diciamo
+che ci ricordano
+cosa significano.
+E poi abbiamo
+un altro evento rilevante,
+M
+che sono i malati.
+Diciamo che l'evento M
+accade
+se la persona è scelta a caso
+è malata.
+Questa è la nostra modificazione.
+E adesso vediamo di tradurre
+i dati.
+Il 40% è fumatore.
+Cosa vuol dire
+in quel momento di probabilità?
+che la probabilità
+di una persona scelta a caso
+c'è un fumatore
+è
+0,40.
+chiaramente la probabilità di N
+siccome N è il complementare di F
+sarà 0,60.
+è d'accordo?
+Sì.
+Sì.
+Sì.
+Beh, poi c'è un altro dato.
+Il 25% dei fumatori
+è malato.
+Come lo trovo diciamo
+un po'
+non è la probabilità
+che sei malato
+sapendo che sei
+ah, sì, sì, sì, sì.
+L'ho detta bene
+ma l'ho capitato
+che è l'altro.
+è la probabilità
+che sei malato
+sapendo che sei
+un fumatore
+e in questa affermazione
+stiamo dicendo
+consideriamo solo i fumatori
+diamo questa condizione
+cancelliamo i non fumatori
+e guardiamo solo i fumatori
+tra i fumatori
+il 25% è malato
+quindi
+imponendo la condizione fumatore
+la probabilità che sei malato
+è il 25%.
+Ok?
+Prima di l'altro
+la probabilità che uno è malato
+sapendo che è un non fumatore
+è lo 007.
+Ok?
+Il più è fatto
+per esempio
+scrivere i dati
+in questo modo
+è la parte più sostanziale
+dell'esercizio
+perché adesso
+uno ha delle formulette
+diciamo
+e qualcuno lo risponde
+ma la probabilità
+che la persona
+a caso sia malata
+dobbiamo calcolare
+il pgm
+accorto la probabilità
+e la possibilità
+di una situazione
+di una malata
+e chiaramente qua
+dipende
+se è fumatore
+o non fumatore
+allora facciamo
+la formula
+di probabilità totale
+dividiamo i casi
+tra fumatore
+e non fumatore
+quindi
+questo è spiegato
+come la probabilità
+di una malata
+sapendo che è fumatore
+che è la probabilità
+che è fumatore
+più
+in questo caso
+non malata
+malata
+sapendo che è non fumatore
+e la probabilità
+di una malata
+ok
+e qui abbiamo tutti i dati
+dobbiamo solo
+scriverli
+n dato f
+è 0,25
+f è 0,40
+m dato n
+è 0,60
+riporto alla mia domanda
+ok
+2
+cosa ci chiede 2?
+di una malata
+quindi
+quindi
+quindi
+guardiamo solo i malati
+non ci chiediamo tutti i non malati
+i sani
+e lì
+calcoliamo la probabilità
+che siamo
+quindi questa è la probabilità
+di f
+e la probabilità
+imponiamo la condizione
+di malata
+e questo è un tipo di esempio
+in cui abbiamo
+la forma di Bayes
+in cui vogliamo
+cambiare
+i due elementi
+noi vogliamo
+per farlo
+perché se è fumatore
+sapendo che è malato
+ma noi già stacchiamo
+la probabilità
+che sia malato
+sapendo che è tutto
+nella 1
+abbiamo usato
+la forma
+della geografia
+e nella 2
+usiamo la forma
+di Bayes
+che ci dice
+che questa è la probabilità
+di n
+dato f
+che è la probabilità
+di n
+dato la probabilità
+di n
+ok
+se io avessi chiesto
+direttamente la 2
+senza chiedere la 1
+uno arrivava a questa formula
+e diceva
+questo lo so
+questo lo so
+questo no
+e per calcolare questo
+uno deve comunque
+in questo senso
+perché le due formule
+si usano spesso insieme
+come in questo esempio
+va bene
+a questo momento
+dobbiamo solo
+costituire
+qui abbiamo
+0 a 25
+e per calcolare questa risposta
+come sempre
+prima di fare i calcoli
+prima non l'ho fatto
+come sempre
+come suggerisco
+ma poi qualche volta
+non lo faccio
+fare un po' di analisi qualitativa
+cosa ci aspettiamo
+qual è la probabilità
+che un malato
+sia un fumatore
+considerando i dati
+del problema
+è una probabilità
+molto alta
+perché i fumatori
+non sono pochi
+e la probabilità
+sui fumatori
+è molto uguale
+probabilità consistente
+di certo
+non il 5%
+neanche il 90%
+non ho fatto cose estreme
+ma qualcosa di sostanziale
+me l'aspetto
+ah no
+l'ho sbagliato tutto
+ecco
+perfetto
+no
+e l'altro
+viene
+70%
+quindi
+la mia previsione
+è confermata
+poi ci sono dei casi
+in cui le previsioni
+non sono confermate
+non abbiamo fatto
+delle consenze
+molte relazioni sbagliate
+e in tuo caso
+magari
+siete restati
+un po' più attento
+a vedere
+se effettivamente
+ha fatto un errore
+oppure
+se era la tua previsione
+non era potente
+questa data
+è quella che mi ha stefato
+tutto il mondo
+e quindi
+non so
+niente
+di cosa
+quindi
+questo è per dire
+che gli errori di conto
+sono errori di conto
+gli errori di conto
+per me
+sono errori
+però
+se un errore di conto
+gli porta
+a un risultato
+sballato
+quello
+diventa
+importante
+quindi
+se alla fine
+uno fa un errore di conto
+e poi
+gli viene
+0,01
+non posso
+dire
+che tu
+non fai il pallone
+ma è una
+consapevolezza
+che non è
+che c'è
+o peggio ancora
+che è una probabilità
+maggiore di uno
+o negativa
+insomma
+proprio
+va bene?
+allora adesso
+vi faccio
+un godinello
+plastico
+abbiamo
+tre comodini
+ogni comodino
+ha due
+cassetti
+ok?
+non sappiamo quali
+ma sappiamo
+che uno dei tre
+comodini
+contiene
+una moneta d'oro
+in un cassetto
+poi c'è
+un comodino
+che contiene
+due monete
+di bronzo
+doveva essere
+d'argento
+e poi c'è
+un terzo comodino
+e non sappiamo
+quale
+quindi
+ora
+insieme
+in questo modo
+e contiene
+una moneta
+di bronzo
+e una moneta d'oro
+ma non so
+quale cassetto
+c'è l'oro
+e quale d'oro
+allora
+qui ho disegnato
+il bronzo
+nel primo cassetto
+e l'oro
+nel secondo
+ma potrebbe essere
+dicevo
+ok?
+questo è il dato
+del problema
+il mio fenomeno
+è il seguente
+apro un cassetto
+e guardo
+il moneta c'è
+e noi supponiamo
+che avendo
+il suo cassetto
+troviamo
+una moneta d'oro
+supponiamo
+che avendo
+il cassetto
+nel caso
+troviamo
+oro
+qual'è la probabilità
+che l'altro cassetto
+tenga una moneta d'oro
+l'altro cassetto
+è lo stesso
+vi lascerei qualche minuto
+per pensarci
+per parlarne anche
+tra di voi
+poi
+vediamo
+provate
+ad impostare
+il dolore
+e poi
+la domanda
+la domanda
+è una pillow
+della Kimi
+c'è
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Perché?
+Non ho mica un vincolo che possa essere per forza bronzo o oro.
+Se ho preso una moneta d'oro da un comodino, l'altro cassetto ha due possibilità.
+C'è proprio 50-50.
+O c'è un altro oro, o c'è un altro oro.
+Se prendo da un qualsiasi cassetto o comodino, adesso ho anche di nuovo le possibilità dove sono entrambi bronzo.
+Sì, ma i cassetti potrebbero essere anche 6 comodini diversi.
+Non mi cambia niente.
+Però, col fatto che vuole due cassetti del stesso comodino, e ci ha specificato che sono in quella disposizione,
+secondo me non è uguale dire che prendo due cassetti da lo stesso o due cassetti qualsiasi dato che mi viene.
+Perché ti dice che in un cassetto ce ne sono due d'oro, in un altro uno uno bronzo e in un altro due bronzo.
+Poi ti dice ok, mi hai già preso uno d'oro, quindi quello bronzo puoi escludere in generale.
+Dall'apparenza.
+Vediamo, per me c'è quanto c'è per cento?
+50%?
+Sì.
+Bulli c'è un 50%.
+Un 50% o un po' il processo di questo stesso per cento?
+Un 50% o un po' il processo di questo stesso per cento?
+Secondo me, secondo me è il problema quella lì delle tre porte.
+Soprattutto perché escludi anche il cassetto con i due, se tu fai il tuo ragionamento che escludi anche il cassetto con i due bronzo, vuol dire che ti aumenta ancora di più la probabilità.
+Perché non devi più calcolarla su sei cassetti, devi calcolarla su tre.
+Il problema ne ha due porte, no?
+Quando tu apri una porta ed esce tipo la capra, tu devi calcolare la probabilità togliendo quella porta e quindi ti si alza di brutto sull'altra porta che tu non hai scelto e ti si abbassa sulla tua.
+Quando hai detto ho aperto la porta e poi c'è la capra, in questi due, qual è la probabilità che ci sia la Ferrari?
+No, perché devi togliere il bronzo, oltre al tuo cassetto, quindi si alza ancora di più.
+Te inizialmente c'hai, no, le tre, diciamo le tre porte, diciamo la collezione delle porte.
+Se non sai per niente che monete ci sono, è uguale, uguale a quello della Ferrari e della capra.
+Sì, però in questo caso tu escludi al cento per cento un cassetto.
+Quando ne hai già aperto uno e sai che c'è la moneta d'oro?
+Esatto, esatto, sì.
+Quindi devi buttare la probabilità sugli altri, sull'altro cassetto ancora.
+No, di più secondo me è meno di più.
+Cioè è più probabile...
+Cioè per me non è importante che ha un oro e che hai preso il secondo primo.
+Per me se hai preso l'uno è uguale, cioè quello che hai preso l'altro e quello che hai preso l'altro.
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+
+...
+...
+
+...
+...
+
+...
+
+
+
+
+
+...
+...
+...
+...
+
+...
+...
+...
+...
+...
+
+
+
+
+
+
+
+
+
+
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+
+
+
+
+
+...
+...
+...
+...
+...
+...
+...
+...
+...
+questa partizione dei dispari e questa partizione dei pari, le devo combinare tra di loro.
+In questo esempio qua ho combinato mettendo questa con questa, questa con questa e questa con questa.
+Però ci sono altri modi di combinare, perché potevo ad esempio unire questa con questa qui o con questa qui.
+In quanti modi le posso combinare?
+Sono tre, posso permutare quelle dispari in tre factoriali modi.
+Quindi scelta una permutazione in tre blocchi dei dispari, scelta una permutazione in tre blocchi dei pari,
+quindi siamo AS5-3 e AS5-3, e poi le posso combinare in tre factoriali modi.
+Posso decidere di mettere questo con questo, questo con questo, oppure permuto questi tre blocchi in tutti i modi.
+Questo è chiaramente fatto con tre blocchi, però uno lo fa con quattro blocchi,
+ma la stessa cosa è da AS5-4 e da AS5-4, e quattro factoriali, cioè con quattro blocchi.
+E quindi la risposta alla domanda sarà la somma, il dato che va da 1 a 5,
+di AS5-4, e il dato che va da 1 a 5, di AS5-4, e il dato che va da 1 a 5.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Sì, prima è un deciso complicato.
+Di certo, il deciso che abbiamo visto prima ha una difficoltà molto più elevata da quello che potete trovare al mio santo.
+4.9
+Prima volevamo che si postero numerosi, sia numeri pari che numeri disponibili.
+5.9
+Sono pari
+O sono dispari
+Esempio
+Un blocco parto da 2, 8, 10
+Poi c'è un blocco che c'ha solo 3
+Un blocco c'ha 5 e 5
+Poi uno c'ha 4 e 6
+Un'esempio di una partizione.
+Anche qua, quanto si deve poter fare, anche per quello di chi, no?
+Se uno è un po' bloccato e non sa cosa fare
+E magari lo svolgo su un numero più piccolo di numeri
+Anche per 10 ne prendiamo 6
+Un numero più piccolo e cerchiamo di dire come funziona la cosa
+Come lo produrremo
+Come lo produrremo
+Come lo produrremo
+Come lo produrremo
+Come lo produrremo
+Come lo produrremo
+Come lo produrremo
+Allora, c'è un buon notario per questo?
+Oh
+Ci sentiamo in notario
+No
+No
+No
+No
+No
+No
+No
+No
+No
+No
+No
+No
+No
+No
+No
+No
+No
+Allora
+Mi sentite?
+Si
+Perfetto
+Allora, io ho diviso, diciamo, queste partizioni in due parti, diciamo
+In questa caso ci stanno chiedendo delle partizioni in cui i blocchi siamo o solo pari o solo dispari
+In questo caso ci stanno chiedendo delle partizioni in cui i blocchi siano o solo pari o solo dispari
+sono dispari. Quindi noi sappiamo certamente che non avremo mai uno o due. Avremo ad esempio
+per i numeri pari 2, 4 e 6 con 8 e 10. E per i dispari ad esempio 1, 3 e 7 con 5 e 8. Possiamo notare che questi due lotti
+non avranno mai più numeri pari e non avranno dispari. Quindi sappiamo che il seno diverso,
+ovvero tutti i numeri da 1 a 10, avranno blocchi di numeri pari e quindi pari. Quindi molto
+semplicemente andiamo a calcolare quanti blocchi riusciamo a fare per i pari e quanti per i
+pari. Quante partizioni per i pari? Sì, quante partizioni per i pari. Quindi molto semplicemente
+visto che in questo caso non abbiamo un numero di numeri, a esempio quando utilizziamo il numero
+di pari, sappiamo che dobbiamo fare il campo a blocchi, in questo caso non lo sappiamo,
+quindi utilizziamo il numero di pelle. E nell'insieme dei pari, il pari e i numeri sono 5, anche
+il filo dei dispari, quindi ci servirà a calcolare il triangolo.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Quante partuzioni
+in cui almeno un blocco
+un blocco
+ecco, se lo dà un numero pari
+qua faccio un esempio
+punto 4
+e poi il resto non mi interesso
+un po' di due
+quando mi puoi .
+c'è anche un altro blocco
+ma poi c'è anche un altro blocco
+in un monopaglio
+che non è ripetato
+un esempio di una partizione
+che soddisfa le condizioni
+grazie
+grazie
+grazie
+grazie
+grazie
+grazie
+grazie
+grazie
+grazie
+grazie
+grazie
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Va bene, grazie.
+È stato impeccabile.
+Ecco, diciamo, lo sforzo di scrivere una parola in più è sempre complicato.
+Però il senso è questo qua.
+Abbiamo usato il principio di inclusione-esclusione,
+come già nell'altro esempio, analogo a questo.
+Io faccio anche le partizioni in cui il 2 è un blocco.
+Un 2 numero pari è un blocco.
+Proprio, in questo modo, le partizioni che hanno più di un blocco,
+così da un numero pari, le costriamo più volte.
+Ad esempio, la partizione che c'è sia il 2 che il 4,
+la partizione che c'è ha 2, 4 e 6,
+la partizione che c'è ha 3 volte.
+Chissando il 2, chissando il 4, chissando il 3.
+Perché questo è un tipico esempio,
+che è in questo modo,
+quindi andiamo avanti.
+A queste qua, abbiamo un'altra strada del 2,
+andiamo al 2,
+andiamo al 2,
+andiamo al 2,
+andiamo al 2,
+andiamo al 3,
+andiamo al 2,
+e andiamo al 1,
+in questo modo.
+Il risultato sarà il risultato di un'alternate.
+Proprio perché il caso più in alto ci dà delle ripetizioni.
+Conta le stesse cose più volte, come avevamo appena detto.
+Se tu hai una partizione che ha sia un blocco con 2 che un blocco con 4,
+se tu hai un blocco con 3,
+cioè la puntata di due volte.
+Sia quando fissi il 2,
+e poi tutto il resto è libero,
+sia quando fissi il 4,
+e tutto il resto è libero.
+Ti trovi due volte
+una partizione che c'è sia il 2 che il 4.
+Nella partizione che c'è il 2, il 4 e il 6,
+ce la trovi 3 volte.
+Quindi alcune sono state sentate troppo volte.
+e questo è il sistema proprio per il 2.
+Vediamo a 2 a 2,
+risegniamo a 3 a 3,
+risegniamo a 4 a 4,
+e risegniamo a 5 a 5.
+Quindi sempre attenti a questa questione dell'univocità delle scelte.
+non credo che è in realtà riguarda l'univocità.
+Va bene,
+chiaramente gli esercizi combinatori
+ne faremo ancora quando scriveremo le probabilità.
+Possiamo magari vedere qualcosina di statistica.
+vediamo il 5-1 rapidamente.
+Vediamo il 5-1 rapidamente.
+xD
+Ora, ci sono un 21 di Canadians
+per il 5-1 ha questo bambino che disegna
+che si immagina la tua papà
+su 200 grammi
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Allora, qui abbiamo essenzialmente un bambino che sta mangiando la sua Pappa.
+Quindi, andiamo a dire tutto.
+Allora, dobbiamo determinare la velocità complessiva nei 7 giorni in grammi al minuto.
+e quindi come facciamo? Allora noi abbiamo i tempi e la pappa, quindi i vari giorni, quindi
+semplicemente che cosa dobbiamo andare a fare? Prendere la nostra formuletta, quindi la velocità
+e andare a prendere ovviamente la velocità nei vari giorni e andare a fare la pappa fratto
+la velocità con cui ha mangiato, quindi andremo a fare per tutti i vari giorni i grammi di pappa
+fratto i minuti che ci ha messo. Per ogni giorno, quindi noi che andiamo a fare? Ogni singolo
+giorno, quindi il primo, il secondo, il terzo, fino ad arrivare al settimo e per ogni giorno
+andiamo a fare il nostro calcolo. Quindi andiamo a fare il nostro calcolo per il primo giorno
+che sarà, il primo giorno, la velocità sarà 200 grammi fratto 5 minuti, noi andiamo a fare
+la velocità per il secondo giorno, quindi sarà 200 grammi, 200 grammi per il secondo giorno
+e ci ha messo e ci ha messo 10 minuti, è stato un po' più lento, cattivo, poi abbiamo
+il terzo giorno, eccetera eccetera, fino ad arrivare al settimo giorno. Quindi al settimo giorno
+ci ha messo 4 minuti, è stato super veloce, non si sa come, c'è veramente 200 grammi per il
+bambino. Allora, e andiamo. Insomma, poi che cosa dobbiamo andare a fare? La velocità
+nei 7 giorni, quindi, vabbè, noi andiamo a calcolare, però insomma i numeri ci interessano
+poco, perché, cioè, ve li posso anche scrivere, però, cioè, scriviamo e scriviamo, però l'importante
+è che noi sappiamo quanto mangia in questi 7 giorni questo dannato bambino e allora poi
+che cosa andiamo a fare? Da questo bambino, questo bambino che deve mangiare insomma, chissà
+perché i genitori si chiedevano quanto mangiasse in 7 giorni, però se lo chiedevano. E allora
+che andiamo a fare? La velocità media nei 7 giorni. Come la possiamo fare? Beh, sicuramente
+ci servirà le varie velocità dei 7 giorni, quindi che cosa utilizziamo per la velocità
+media? Sicuramente ci servirà le velocità dei 6 giorni.
+e quindi ci servirà le varie velocità dei 6 giorni. Come la possiamo fare?
+Sì, esatto. I 200 grammi di cibo sono al giorno, quindi... Sì.
+Sì, è una costante e... Sono i minuti del giorno.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Il primo risultato è la formula grammi su minuto, alla fine, no?
+A questo punto, che cosa dobbiamo fare?
+Ovviamente dobbiamo prendere le varie pappe,
+quale sono le pappe, 200 grammi,
+questo bambino ci farà spendere un po' troppo, non lo so,
+però insomma, dopo che abbiamo preso i nostri 200 grammi,
+sembra troppo bella,
+1,200 grammi,
+diviso il nostro tempo totale,
+quanto è stato il nostro tempo totale,
+questo momento dobbiamo ricordare qui,
+dobbiamo prendere tutti i vari cronometraggi del nostro bambino,
+è stato preciso un rispondo per tutti i vari cronometraggi,
+e ne andiamo a dividere 65,
+che sarà nel tempo totale,
+va bene,
+e poi abbiamo cliccare il minuto,
+e questo è quanto ha mangiato in fretta il nostro bambino,
+medico,
+esattamente,
+la media delle velocità,
+la media armonica,
+avremmo potuto anche fare la media armonica,
+e saremmo riusciti a andare allo stesso risultato,
+io l'ho fatto perché sono abbastanza...
+è quanto bello,
+è quanto bello,
+esatto,
+però abbiamo,
+non è stato effetto,
+così si può aggiungere la media,
+cancellare,
+la media armonica,
+e poi,
+vediamo,
+quando,
+con queste unità di misura,
+non è stato da un rapporto,
+se facciamo la media,
+il tempo,
+il tempo uguale,
+allora facciamo la media,
+se facciamo il grande uguale,
+o il grande uguale,
+non è la media uguale,
+dipende da cosa ci siamo,
+non è la media uguale,
+ok?
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+Grazie.
+Grazie.
+Grazie.
+Grazie a tutti.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+la varianza
+la media del quadrato
+questo si permette di calcolare A
+per calcolare B dobbiamo
+indicarci che la rete al quadrato
+passa per il punto
+sia come coordinato la media di x
+e
+la rete al quadrato
+e la rete al quadrato
+quindi qui abbiamo messo
+insomma quindi che c'era
+il quadrato
+quando dobbiamo applicare
+questo cuore
+noi vediamo
+il quadrato
+è pronto
+la nostra x è
+grazie a tutti
+grazie a tutti
+quindi abbiamo inserito qua i dati dei due caratteri
+si iniziono
+inizio
+tutti i quadrati
+e per osi
+quindi
+insinizziamo
+il quadrato
+il quadrato
+inizio
+lo mi Collardo
+si, per l'aria
+l'equazione
+viene a
+7
+quindi quello che otteniamo è che inizio
+è uguale a 3,7
+l'altezza di un uomo
+è 121 cm
+più 0,7 volte il peso
+è la formula che permette di
+accrossimare la retta
+chiaramente se invece
+vogliamo fare l'inverso
+facciamo
+per l'amore
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.

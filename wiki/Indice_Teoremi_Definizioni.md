@@ -57,4 +57,7 @@ Questo è il catalogo globale di tutte le definizioni formali, dei teoremi e del
 - **Definizioni:** Fenomeno Deterministico e Fenomeno Aleatorio, Spazio Campionario ($\Omega$), Evento, Famiglia Coerente di Eventi ($\sigma$-algebra), Valutazione/Misura di Probabilità (Assiomi di Kolmogorov), Spazio di Probabilità $(\Omega, \mathcal{A}, P)$, Spazio di Probabilità Uniforme.
 - **Teoremi/Proposizioni:** Proprietà Derivate della Probabilità (Probabilità del Complementare, Monotonia, Decomposizione su Partizioni, Formula per l'Unione di Due Eventi), Formula della Probabilità Uniforme ($P(E) = \frac{|E|}{|\Omega|}$), Teorema di Impossibilità della Probabilità Uniforme su Insiemi Infiniti Numerabili.
 
-
+## Probabilità Condizionale e Formula di Bayes
+**Pagina:** [[Probabilita_Condizionale_e_Bayes]]
+- **Definizioni:** Probabilità Condizionale ($P(A|B) = \frac{P(A \cap B)}{P(B)}$).
+- **Teoremi/Proposizioni:** Lo Spazio di Probabilità Condizionato $(\Omega, \mathcal{A}, P')$, Formula delle Probabilità Totali ($P(B) = \sum_{i=1}^n P(B|A_i)P(A_i)$), Invarianza della Probabilità a Priori nelle Estrazioni Senza Rimpiazzo ($P(B_i) = \frac{b}{b+r}$), Formula di Bayes ($P(A|B) = \frac{P(B|A)P(A)}{P(B)}$).

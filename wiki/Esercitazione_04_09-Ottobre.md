@@ -41,23 +41,27 @@ file_sorgente: "[[EserciziMDPnew.pdf]]"
 
 - [ ] **Es. 4.8.** Quante sono le partizioni di $\{1, 2, \dots, 10\}$ in cui ogni blocco contiene almeno un numero pari e un numero dispari?
 > [!info]- Soluzione
-> Se ho una partizione di questo tipo in $k$ blocchi eliminando i numeri pari ottengo una partizione dei dispari in $k$ blocchi e viceversa. Possiamo quindi ottenere una partizione di questo tipo considerando una partizione dei numeri pari e una dei numeri dispari nello stesso numero di blocchi, per poi combinarle in tutti i modi possibili. Abbiamo quindi
-> $S_{5,1}^2 \cdot 1! + S_{5,2}^2 \cdot 2! + S_{5,3}^2 \cdot 3! + S_{5,4}^2 \cdot 4! + S_{5,5}^2 \cdot 5! = 1 + 15^2 \cdot 2 + 25^2 \cdot 6 + 10^2 \cdot 24 + 1^2 \cdot 120 = 6721$.
+> Se ho una [[Partizioni_di_un_Insieme|partizione]] di questo tipo in $k$ blocchi, eliminando i numeri pari ottengo una partizione dei $5$ numeri dispari in $k$ blocchi, e viceversa eliminando i dispari ottengo una partizione dei $5$ numeri pari in $k$ blocchi. Possiamo quindi costruire univocamente ogni partizione di questo tipo fissando il numero di blocchi $k \in \{1, \dots, 5\}$, scegliendo una partizione dei pari ($S_{5,k}$ modi) e una dei dispari ($S_{5,k}$ modi) nello stesso numero di blocchi $k$, per poi abbinare biunivocamente i $k$ blocchi pari ai $k$ blocchi dispari in tutti i $k!$ modi possibili. Sommando su $k$ abbiamo quindi:
+> $$S_{5,1}^2 \cdot 1! + S_{5,2}^2 \cdot 2! + S_{5,3}^2 \cdot 3! + S_{5,4}^2 \cdot 4! + S_{5,5}^2 \cdot 5! = 1 + 15^2 \cdot 2 + 25^2 \cdot 6 + 10^2 \cdot 24 + 1^2 \cdot 120 = 6721$$
 
 - [ ] **Es. 4.9.** Quante sono le partizioni di $\{1, 2, \dots, 10\}$ in cui ogni blocco ha solo numeri pari o solo numeri dispari?
 > [!info]- Soluzione
-> Ogni partizione di questo tipo si ottiene partizionando i pari e separatamente i dispari per cui otteniamo esattamente
-> $B_5^2 = 52^2 = 2704$
+> Poiché nessun blocco può mescolare pari e dispari, ogni partizione di questo tipo si ottiene scegliendo in modo indipendente una partizione qualsiasi dei $5$ numeri pari ($B_5$ modi, [[Partizioni_di_un_Insieme#I Numeri di Bell ($B_n$)|numero di Bell]]) e separatamente una partizione qualsiasi dei $5$ numeri dispari ($B_5$ modi). Per il principio di moltiplicazione otteniamo esattamente:
+> $$B_5^2 = 52^2 = 2704$$
+> *(Osservazione d'aula: se fosse stato richiesto anche che il numero di blocchi dei pari fosse uguale a quello dei dispari, il risultato sarebbe stato $\sum_{k=1}^5 S_{5,k}^2$).*
 
 - [ ] **Es. 4.10.** Quante sono le partizioni di $\{1, 2, \dots, 10\}$ in cui almeno un blocco è costituito da un solo numero pari?
 > [!info]- Soluzione
-> Questo è simile al precedente esercizio (4.5): qui chiamiamo $A_2$ le partizioni che hanno un blocco formato dal solo numero 2 e similmente definiamo $A_4, A_6, A_8, A_{10}$.
-> L'insieme considerato è $A_2 \cup A_4 \cup A_6 \cup A_8 \cup A_{10}$. Abbiamo $|A_2| = B_9 = 21147$ e similmente gli altri (un blocco è formato dal solo 2 e gli altri numeri devono essere partizionati).
-> Abbiamo $|A_2 \cap A_4| = B_8 = 4140$.
-> Abbiamo $|A_2 \cap A_4 \cap A_6| = B_7 = 877$.
-> Abbiamo $|A_2 \cap A_4 \cap A_6 \cap A_8| = B_6 = 203$.
-> Abbiamo $|A_2 \cap A_4 \cap A_6 \cap A_8 \cap A_{10}| = B_5 = 52$. Usando il principio di inclusione esclusione abbiamo quindi
-> $|(A_2 \cup A_4 \cup \dots \cup A_{10})| = 5 \cdot 21147 - 10 \cdot 4140 + 10 \cdot 877 - 5 \cdot 203 + 1 \cdot 52 = 72142$.
+> Questo è simile al precedente esercizio (4.5): qui chiamiamo $A_2$ le partizioni che hanno un blocco singoletto formato dal solo numero $2$ e similmente definiamo $A_4, A_6, A_8, A_{10}$.
+> L'insieme considerato è l'unione $A_2 \cup A_4 \cup A_6 \cup A_8 \cup A_{10}$. Per evitare il doppio conteggio (una partizione con i blocchi $\{2\}$ e $\{4\}$ verrebbe contata due volte fissando un singolo pari e lasciando liberi gli altri), usiamo il [[Principio_di_Inclusione_Esclusione|principio di inclusione-esclusione]]:
+> - $|A_2| = B_9 = 21147$ (un blocco è formato dal solo $2$ e gli altri $9$ numeri sono partizionati liberamente);
+> - $|A_2 \cap A_4| = B_8 = 4140$;
+> - $|A_2 \cap A_4 \cap A_6| = B_7 = 877$;
+> - $|A_2 \cap A_4 \cap A_6 \cap A_8| = B_6 = 203$;
+> - $|A_2 \cap A_4 \cap A_6 \cap A_8 \cap A_{10}| = B_5 = 52$.
+>
+> Sommando a segni alterni otteniamo quindi:
+> $$|A_2 \cup A_4 \cup \dots \cup A_{10}| = \binom{5}{1} \cdot 21147 - \binom{5}{2} \cdot 4140 + \binom{5}{3} \cdot 877 - \binom{5}{4} \cdot 203 + \binom{5}{5} \cdot 52 = 72142$$
 
 - [ ] **Es. 4.11.** Stabilire in quanti modi 10 persone possono essere suddivise in 3 gruppi (non vuoti).
 > [!info]- Soluzione
