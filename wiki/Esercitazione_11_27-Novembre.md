@@ -1,7 +1,6 @@
 ---
 indice: "5.11"
 title: Esercizi 11 - Variabili normali e limite centrale
-stato: "🔴 Da Iniziare"
 file_sorgente: "[[EserciziMDPnew.pdf]]"
 ---
 

@@ -1,0 +1,885 @@
+{
+  "nodes": [
+    {
+      "id": "in_user_prompt",
+      "type": "text",
+      "text": "### 👤 Input Utente Diretto\n- Domande su teoria, dubbi concettuali, richieste di spiegazione\n- Invio o indicazione di nuovi materiali (audio, PDF, note)\n- Richiesta esplicita di esercizi, quiz o approfondimenti\n- Comandi di manutenzione, audit o sincronizzazione",
+      "x": -1850,
+      "y": -450,
+      "width": 380,
+      "height": 200,
+      "color": "2"
+    },
+    {
+      "id": "in_slash_cmd",
+      "type": "text",
+      "text": "### ⚡ Slash Commands (UI Shortcuts)\n- `/plan`: Pianificazione strutturata prima dell'esecuzione\n- `/goal`: Modalità autonoma intensiva fino a obiettivo raggiunto\n- `/schedule`: Pianificazione timer o job ricorrenti\n- `/browser`: Navigazione o consultazione web interattiva\n- `/compact`: Compattazione e riassunto del contesto chat\n- `/ingest-audio`: Invocazione diretta della skill audio",
+      "x": -1850,
+      "y": -210,
+      "width": 380,
+      "height": 230,
+      "color": "2"
+    },
+    {
+      "id": "in_async_events",
+      "type": "text",
+      "text": "### 🔄 Risveglio Reattivo & Eventi Asincroni\n- Completamento task background (es. trascrizione Whisper finita)\n- Notifica di subagente completato (es. subagent `research`)\n- Scadenza di un timer `schedule` (one-shot o cron)\n- **Zero polling:** Nessun loop di attesa attiva; risveglio a evento",
+      "x": -1850,
+      "y": 60,
+      "width": 380,
+      "height": 210,
+      "color": "2"
+    },
+    {
+      "id": "in_time_context",
+      "type": "text",
+      "text": "### 🕒 Contesto Temporale & Stato Giornata\n- Metadata orario locale inviato ad ogni turno\n- Controllo vincoli orari per proattività (es. orario serale >= 17:30 per ripasso AOSR)\n- Controllo dello stato di studio e progressione giornaliera",
+      "x": -1850,
+      "y": 310,
+      "width": 380,
+      "height": 190,
+      "color": "2"
+    },
+    {
+      "id": "in_repo_status",
+      "type": "text",
+      "text": "### 📁 Modifiche al File System & Fine Task\n- Rilevamento file modificati o aggiunti nel vault\n- Chiusura di un ciclo operativo complesso (es. completata ingestione)\n- Richiesta / Necessità di salvaguardare lo stato su Git",
+      "x": -1850,
+      "y": 540,
+      "width": 380,
+      "height": 190,
+      "color": "2"
+    },
+    {
+      "id": "cog_system_prompt",
+      "type": "text",
+      "text": "### 🧠 Core Agent Engine (Antigravity)\n**Ciclo Reattivo Percezione-Decisione-Azione:**\n1. Ricezione input + transcript conversazione\n2. Caricamento regole `always_on` (`AGENTS.md`, `llmwiki.md`, `strict-sourcing.md`, `math-entities.md`)\n3. Valutazione intenti e pianificazione interna (Chain-of-Thought)\n4. Smistamento autonomo a Skill, Subagente o Risposta Diretta",
+      "x": -1350,
+      "y": -350,
+      "width": 420,
+      "height": 220,
+      "color": "3"
+    },
+    {
+      "id": "cog_progressive_disclosure",
+      "type": "text",
+      "text": "### 📑 Progressive Disclosure Engine\n- **Skills & Regole `model_decision`:** Note all'AI per **Nome e Descrizione**\n- Il corpo completo (`SKILL.md` o `git-guide.md`, `log-guide.md`, `readme-guide.md`) viene caricato nel contesto **SOLO on-demand** quando serve\n- Massimizza la pulizia del Context Window durante lo studio",
+      "x": -1350,
+      "y": -90,
+      "width": 420,
+      "height": 210,
+      "color": "3"
+    },
+    {
+      "id": "cog_subagent_dispatcher",
+      "type": "text",
+      "text": "### 🤖 Subagent Dispatcher (`invoke_subagent`)\n- Delega task complessi o ad alto volume a sotto-agenti:\n  * `research`: Lettura intensiva, search web, esplorazione codebase\n  * `image-generator`: Generazione e modifica asset visivi\n  * `self`: Istanza parallela completa con stesso contesto\n  * `define_subagent`: Creazione al volo di agenti specializzati",
+      "x": -1350,
+      "y": 160,
+      "width": 420,
+      "height": 230,
+      "color": "3"
+    },
+    {
+      "id": "cog_router_llmwiki",
+      "type": "text",
+      "text": "### 🧭 Schema & Router: `llmwiki.md` (`always_on`)\n- **Paradigma Karpathy (3 Layer):** `raw/` ➔ `wiki/` ➔ `index.md` + `log.md`\n- **Zero-Prompt Routing autonomo verso tutte le 7 Skill:**\n  `ingest_audio`, `wiki_ingest`, `wiki_query`, `wiki_insights`, `wiki_exercises`, `wiki_lint`, `generate_aosr_flashcards`",
+      "x": -1350,
+      "y": 430,
+      "width": 420,
+      "height": 190,
+      "color": "3"
+    },
+    {
+      "id": "cog_git_trigger",
+      "type": "text",
+      "text": "### 🛑 Gatekeeper Rilasci & Commit (`AGENTS.md`)\n- Alla fine di ogni task con modifiche a file, l'AI **chiede proattivamente** se committare\n- Richiama on-demand (`model_decision`) le guide `log-guide.md`, `readme-guide.md` e `git-guide.md`",
+      "x": -1350,
+      "y": 660,
+      "width": 420,
+      "height": 180,
+      "color": "3"
+    },
+    {
+      "id": "rule_strict_sourcing",
+      "type": "text",
+      "text": "### 🛡️ Regola `always_on`: `strict-sourcing.md`\n**Aderenza Assoluta alle Fonti del Corso**\n- Divieto assoluto di introdurre nomenclature esterne\n- Nessuna divagazione didattica non richiesta\n- Rispetto millimetrico del gergo del professore\n- **La Bibbia (`lezioniNew.pdf`):** Integrazioni ammesse solo in callout `> [!info] Approfondimento dalle Dispense`\n- **Anti-Spoiler:** Vietato anticipare argomenti o capitoli futuri",
+      "x": -800,
+      "y": -520,
+      "width": 450,
+      "height": 250,
+      "color": "5"
+    },
+    {
+      "id": "rule_math_entities",
+      "type": "text",
+      "text": "### 📐 Regola `always_on`: `math-entities.md`\n**Standardizzazione Visiva & Semantic Color Coding**\n- **Callout obbligatori:**\n  * `> [!summary]` ➔ Definizioni\n  * `> [!info]` ➔ Teoremi & Proposizioni\n  * `> [!quote]` ➔ Dimostrazioni\n- **MathJax Color Coding (`\\textcolor{colore}{var}`):**\n  * Consistenza semantica (es. `n`=`blue`, `k`=`purple`, `i`=`darkgreen`)\n  * Solo colori ad alto contrasto su bianco (vietati `green`, `orange`, `yellow`, `cyan`)\n  * Targeting mirato solo a indici e incognite mobili",
+      "x": -800,
+      "y": -230,
+      "width": 450,
+      "height": 270,
+      "color": "5"
+    },
+    {
+      "id": "rule_mathjax",
+      "type": "text",
+      "text": "### 💲 Regola `always_on`: Formattazione Formule (`AGENTS.md`)\n- Formule inline: `$formula$` (**MAI spazi** dopo il dollaro!)\n- Formule a blocco: `$$formula$$`\n- **SEVERAMENTE VIETATO** usare sintassi LaTeX standard `\\(` o `\\[`",
+      "x": -800,
+      "y": 70,
+      "width": 450,
+      "height": 160,
+      "color": "5"
+    },
+    {
+      "id": "rule_didactic_instances",
+      "type": "text",
+      "text": "### 📊 Regola `always_on`: Esempi Didattici (`AGENTS.md`)\n- **Obbligo Definizione Istanza Base prima dei calcoli:**\n  * **Combinatoria/Discreta:** insieme di riferimento, cardinalità $n, k$, regole di ordinamento e ripetizione\n  * **Probabilità/Statistica:** spazio campionario $\\Omega$, eventi, variabili aleatorie con distribuzione e parametri",
+      "x": -800,
+      "y": 260,
+      "width": 450,
+      "height": 170,
+      "color": "5"
+    },
+    {
+      "id": "rule_workspace_confinement",
+      "type": "text",
+      "text": "### 🔒 Regola `always_on`: Workspace & Asset (`AGENTS.md`)\n- **Nessun inquinamento FS:** Tutti i file utente SOLO nella root del progetto o sottocartelle\n- **Asset Management:** Immagini e grafici SOLO in `raw/assets/`\n- **Area Protetta:** Cartella `appunti_dani/` in sola lettura per la Wiki",
+      "x": -800,
+      "y": 460,
+      "width": 450,
+      "height": 170,
+      "color": "5"
+    },
+    {
+      "id": "rule_daily_review",
+      "type": "text",
+      "text": "### ⏰ Regola `always_on`: Ripasso Giornaliero (`AGENTS.md`)\n- Proposta proattiva mazzi AOSR condizionata all'orario:\n  * **SOLO dalle ore 17:30 in poi** per consolidare la giornata\n  * Oppure al mattino seguente per il giorno prima\n- Vietato interrompere l'utente a metà giornata lavorativa",
+      "x": -800,
+      "y": 660,
+      "width": 450,
+      "height": 170,
+      "color": "5"
+    },
+    {
+      "id": "rule_log_guide",
+      "type": "text",
+      "text": "### 📜 Regola `model_decision`: `log-guide.md`\n- Caricata **on-demand** quando si aggiorna `log.md` o prima di un commit\n- **Regola del Master:** Ogni commit su `master` promuove `## [Unreleased]` a versione `## [X.Y.Z] - AAAA-MM-GG`\n- Categorie: `Added`, `Changed`, `Deprecated`, `Removed`, `Fixed`, `Security`\n- `readme-guide.md` (`model_decision`): caricata solo se si modifica `README.md`",
+      "x": -800,
+      "y": 860,
+      "width": 450,
+      "height": 220,
+      "color": "5"
+    },
+    {
+      "id": "rule_git_preflight",
+      "type": "text",
+      "text": "### 🚀 Regola `model_decision`: `git-guide.md` & Pre-Flight\n- Caricata **on-demand** a fine task o prima di operazioni Git\n- Conventional Commits in italiano (`feat:`, `fix:`, `docs:`, `refactor:`, ecc.)\n- Pull preventivo obbligatorio e merge rigorosamente `--no-ff`\n- **PRE-FLIGHT PROTOCOL OBBLIGATORIO:** Stampa in chat della checklist con le 4 spunte verificate prima di ogni `git commit` o `git push`",
+      "x": -800,
+      "y": 1110,
+      "width": 450,
+      "height": 220,
+      "color": "1"
+    },
+    {
+      "id": "wf_audio",
+      "type": "text",
+      "text": "### 🎙️ Skill: `ingest_audio` (`.agents/skills/ingest-audio/`)\n1. **Step 0:** Check Fast-Path e cartelle via `scripts/prep_and_clean.sh prep`\n2. **Step 1:** Trascrizione locale Whisper Turbo (`transcribe -t 24`) in background (saltata se `.txt` esiste già)\n3. **Step 2:** Spostamento `.txt` e pulizia automatica (`.vtt`, `.tsv`, `.srt`, `.json`) via `prep_and_clean.sh clean`\n4. **Step 3:** Merge Whisper + Pixel, disambiguazione termini con Bibbia `lezioniNew.pdf`, formule MathJax\n5. **Step 4:** Salva in `trascrizioni-sistemate/` e attiva `wiki_ingest`",
+      "x": -220,
+      "y": -520,
+      "width": 460,
+      "height": 260,
+      "color": "4"
+    },
+    {
+      "id": "sk_wiki_ingest",
+      "type": "text",
+      "text": "### 📥 Skill: `wiki_ingest`\n- **Compilazione Knowledge Base:** Trasforma note/PDF in pagine permanenti\n- Frontmatter YAML essenziale (`indice`, `tipo`, `tags`, `data_creazione`, `fonti_usate`)\n- Cross-reference massiva `[[nome_pagina]]` per graph view densa\n- **Active Recall Obbligatorio:** Sezione finale `## 📝 Domande di Verifica` con callout `> [!question]-` da `raw/MDP Domande orale.pdf` (anti-spoiler)\n- Aggiorna `index.md`, `wiki/Indice_Teoremi_Definizioni.md` e `log.md`",
+      "x": -220,
+      "y": -220,
+      "width": 460,
+      "height": 250,
+      "color": "4"
+    },
+    {
+      "id": "sk_wiki_query",
+      "type": "text",
+      "text": "### 🔎 Skill: `wiki_query`\n- Ricerca strutturata tramite catalogo `index.md`\n- Drill-down tra le pagine collegate della wiki\n- Sintesi multi-documento con citazioni `[[..]]`\n- **La Regola d'Oro:** Se la risposta genera una connessione inedita o spiegazione di valore, l'AI propone di salvarla come nuova pagina permanente della wiki",
+      "x": -220,
+      "y": 60,
+      "width": 460,
+      "height": 210,
+      "color": "4"
+    },
+    {
+      "id": "sk_wiki_insights",
+      "type": "text",
+      "text": "### 💡 Skill: `wiki_insights`\n- Formalizzazione di metafore, esempi pratici o approfondimenti emersi in chat\n- Garanzia di conformità a Strict Sourcing (termini esatti del corso)\n- Applicazione frontmatter YAML (`template_approfondimento.md`)\n- Inserimento indentato sotto l'argomento padre in `index.md` e voce in `log.md`",
+      "x": -220,
+      "y": 300,
+      "width": 460,
+      "height": 220,
+      "color": "4"
+    },
+    {
+      "id": "sk_wiki_exercises",
+      "type": "text",
+      "text": "### ✏️ Skill: `wiki_exercises`\n- Generazione schede problemi e soluzioni in callout `> [!info]- Soluzione`\n- **Strict Sourcing Esteso:** Ricalca la notazione di `lezioniNew.pdf` ed `EserciziMDPnew.pdf` (es. $H(n;b,r)$, $d_X$, $\\zeta_0$)\n- Usa `examples/template_esercizi.md`\n- Inserimento in `index.md` e tracciamento in `log.md`",
+      "x": -220,
+      "y": 550,
+      "width": 460,
+      "height": 240,
+      "color": "4"
+    },
+    {
+      "id": "sk_wiki_lint",
+      "type": "text",
+      "text": "### 🛠️ Skill: `wiki_lint`\n- Audit periodico della qualità e salute del vault\n- Confronto tra struttura in `index.md` e file fisici in `wiki/`\n- Rilevamento pagine orfane, dead links e discrepanze logiche\n- **Audit Active Recall:** Identifica pagine prive di domande di verifica o da aggiornare",
+      "x": -220,
+      "y": 820,
+      "width": 460,
+      "height": 230,
+      "color": "4"
+    },
+    {
+      "id": "sk_generate_flashcards",
+      "type": "text",
+      "text": "### 🗂️ Skill: `generate_aosr_flashcards`\n- Estrazione concetti chiave in formato plugin Obsidian AOSR (`#Q`, `?`, cloze `==...==`)\n- Salvataggio in `wiki/flashcards/` con link `*Fonte: [[Nome_Pagina]]*` per il collegamento nella Graph View\n- Registrazione del mazzo generato in `log.md`",
+      "x": -220,
+      "y": 1080,
+      "width": 460,
+      "height": 200,
+      "color": "4"
+    },
+    {
+      "id": "sk_builtin_agy",
+      "type": "text",
+      "text": "### 🧩 Skill di Sistema Antigravity\n- `antigravity-guide`: Manuale, sitemap e guida ai comandi dell'agente\n- `agy-customizations`: Guida a regole, skill, plugin e hooks\n- `automation`: Creazione di automazioni in background con `schedule`\n- `generative_ui`: Rendering di widget HTML interattivi inline o artifact\n- `plugin` & `migrate-workflows`: Gestione e migrazione di estensioni",
+      "x": -220,
+      "y": 1310,
+      "width": 460,
+      "height": 220,
+      "color": "3"
+    },
+    {
+      "id": "tool_files",
+      "type": "text",
+      "text": "### 📝 File Tools (`view_file`, `write_to_file`, `replace_file_content`)\n- Ispezione selettiva per righe e byte offset\n- Scrittura atomica o modifica puntuale con blocco contiguo\n- Rispetto integrità commenti e documentazione esistente",
+      "x": 380,
+      "y": -320,
+      "width": 440,
+      "height": 180,
+      "color": "4"
+    },
+    {
+      "id": "tool_terminal",
+      "type": "text",
+      "text": "### 💻 Terminal Tools (`run_command`, `manage_task`)\n- Esecuzione comandi Linux bash e script helper (`prep_and_clean.sh`)\n- Supporto comandi asincroni in background (es. Whisper turbo 24 thread)\n- Gestione task asincroni (`status`, `send_input`, `kill`)",
+      "x": 380,
+      "y": -110,
+      "width": 440,
+      "height": 210,
+      "color": "4"
+    },
+    {
+      "id": "tool_subagents",
+      "type": "text",
+      "text": "### 👥 Subagent Tools (`invoke_subagent`, `send_message`, `manage_subagents`)\n- Esecuzione parallela con prompt, ruoli e workspace isolati\n- Modelli delegabili: `flash`, `pro`, `flash_lite`, `inherit`\n- Comunicazione bidirezionale asincrona tra agenti",
+      "x": 380,
+      "y": 130,
+      "width": 440,
+      "height": 180,
+      "color": "4"
+    },
+    {
+      "id": "tool_web",
+      "type": "text",
+      "text": "### 🌐 Web & Search Tools (`search_web`, `read_url_content`)\n- Ricerca web live per aggiornamenti, documentazione o lookup veloci\n- Download e conversione automatica di pagine web in Markdown pulito",
+      "x": 380,
+      "y": 340,
+      "width": 440,
+      "height": 170,
+      "color": "4"
+    },
+    {
+      "id": "tool_schedule",
+      "type": "text",
+      "text": "### ⏱️ Scheduler Tools (`schedule`)\n- One-shot timer con condizioni reattive (`never`, `any`, `<sender-id>`)\n- Recurring cron schedules (es. automazioni periodiche)\n- Modalità daemon o monitoraggio attivo di task",
+      "x": 380,
+      "y": 540,
+      "width": 440,
+      "height": 170,
+      "color": "4"
+    },
+    {
+      "id": "tool_ux",
+      "type": "text",
+      "text": "### 💬 Interactive UX (`ask_question`, Artifacts)\n- `ask_question`: Modale interattiva a scelta multipla per l'utente\n- Artifacts (`<appDataDir>/brain/<conversation-id>/...`): Piani di sviluppo (`/plan`), walkthrough, diagrammi Mermaid, KaTeX",
+      "x": 380,
+      "y": 740,
+      "width": 440,
+      "height": 190,
+      "color": "4"
+    },
+    {
+      "id": "out_obsidian_vault",
+      "type": "text",
+      "text": "### 📚 Obsidian Vault (`wiki/`)\n- Pagine concettuali interconnesse con backlink e YAML snello\n- Callout colorati per entità matematiche (`[!summary]`, `[!info]`, `[!quote]`)\n- Sezioni Active Recall (`## 📝 Domande di Verifica`)\n- Approfondimenti ed esercitazioni",
+      "x": 980,
+      "y": -280,
+      "width": 440,
+      "height": 190,
+      "color": "6"
+    },
+    {
+      "id": "out_flashcards_vault",
+      "type": "text",
+      "text": "### 🧠 Mazzi AOSR (`wiki/flashcards/`)\n- Flashcard con ripetizione spaziata per il plugin Obsidian Aosr\n- Collegate nella Graph View alle pagine di teoria tramite `*Fonte: [[...]]*`",
+      "x": 980,
+      "y": -60,
+      "width": 440,
+      "height": 150,
+      "color": "6"
+    },
+    {
+      "id": "out_indices_vault",
+      "type": "text",
+      "text": "### 🗺️ Indici Navigabili\n- `index.md`: Catalogo tematico del percorso di studio ed esercitazioni\n- `wiki/Indice_Teoremi_Definizioni.md`: Censimento di teoremi, definizioni e dimostrazioni",
+      "x": 980,
+      "y": 120,
+      "width": 440,
+      "height": 160,
+      "color": "6"
+    },
+    {
+      "id": "out_changelog_vault",
+      "type": "text",
+      "text": "### 📜 Changelog Semantico (`log.md`)\n- Tracciamento cronologico continuo in formato Keep a Changelog\n- Promozione della sezione `[Unreleased]` a versione ad ogni rilascio su `master`",
+      "x": 980,
+      "y": 310,
+      "width": 440,
+      "height": 160,
+      "color": "6"
+    },
+    {
+      "id": "out_git_repo",
+      "type": "text",
+      "text": "### 🐙 Version Control Git (`.git` & Remote)\n- Commit atomici con messaggi convenzionali in italiano\n- Branching sicuro e merge `--no-ff`\n- Sincronizzazione validata dal Pre-Flight Protocol",
+      "x": 980,
+      "y": 500,
+      "width": 440,
+      "height": 170,
+      "color": "6"
+    },
+    {
+      "id": "out_chat_response",
+      "type": "text",
+      "text": "### 💬 Risposta Finale in Chat per l'Utente\n- Risposte concise, strutturate e con link cliccabili (`file://`)\n- Formule matematiche MathJax rigorose (`$...$` e `$$...$$`)\n- Definizione dell'Istanza Base prima di ogni esempio di calcolo",
+      "x": 980,
+      "y": 700,
+      "width": 440,
+      "height": 190,
+      "color": "6"
+    },
+    {
+      "id": "grp_col1",
+      "type": "group",
+      "label": "1. CANALI DI INGRESSO, EVENTI & CASI D'USO",
+      "x": -1890,
+      "y": -490,
+      "width": 460,
+      "height": 1280
+    },
+    {
+      "id": "grp_col2",
+      "type": "group",
+      "label": "2. MOTORE COGNITIVO & ROUTING DELL'AGENTE",
+      "x": -1390,
+      "y": -400,
+      "width": 500,
+      "height": 1280
+    },
+    {
+      "id": "grp_col3",
+      "type": "group",
+      "label": "3. GOVERNANCE, REGOLE (ALWAYS_ON + MODEL_DECISION)",
+      "x": -840,
+      "y": -560,
+      "width": 530,
+      "height": 1930
+    },
+    {
+      "id": "grp_col4",
+      "type": "group",
+      "label": "4. SKILLS ESECUTIVE DEL VAULT & DI SISTEMA",
+      "x": -260,
+      "y": -560,
+      "width": 540,
+      "height": 2130
+    },
+    {
+      "id": "grp_col5",
+      "type": "group",
+      "label": "5. RUNTIME STRUMENTI & NATIVE TOOLS",
+      "x": 340,
+      "y": -360,
+      "width": 520,
+      "height": 1340
+    },
+    {
+      "id": "grp_col6",
+      "type": "group",
+      "label": "6. PERSISTENZA, MEMORIA & ARTEFATTI DEL VAULT",
+      "x": 940,
+      "y": -320,
+      "width": 520,
+      "height": 1260
+    }
+  ],
+  "edges": [
+    {
+      "id": "e_in1",
+      "fromNode": "in_user_prompt",
+      "fromSide": "right",
+      "toNode": "cog_system_prompt",
+      "toSide": "left",
+      "toEnd": "arrow",
+      "label": "Richiesta o domanda"
+    },
+    {
+      "id": "e_in2",
+      "fromNode": "in_slash_cmd",
+      "fromSide": "right",
+      "toNode": "cog_system_prompt",
+      "toSide": "left",
+      "toEnd": "arrow",
+      "label": "Comando slash attivato"
+    },
+    {
+      "id": "e_in3",
+      "fromNode": "in_async_events",
+      "fromSide": "right",
+      "toNode": "cog_system_prompt",
+      "toSide": "left",
+      "toEnd": "arrow",
+      "label": "Risveglio da task/timer"
+    },
+    {
+      "id": "e_in4",
+      "fromNode": "in_time_context",
+      "fromSide": "right",
+      "toNode": "cog_system_prompt",
+      "toSide": "left",
+      "toEnd": "arrow",
+      "label": "Valutazione orario"
+    },
+    {
+      "id": "e_in5",
+      "fromNode": "in_repo_status",
+      "fromSide": "right",
+      "toNode": "cog_git_trigger",
+      "toSide": "left",
+      "toEnd": "arrow",
+      "label": "Modifiche rilevate"
+    },
+    {
+      "id": "e_dec1",
+      "fromNode": "cog_router_llmwiki",
+      "fromSide": "right",
+      "toNode": "wf_audio",
+      "toSide": "left",
+      "toEnd": "arrow",
+      "label": "Audio / /ingest-audio"
+    },
+    {
+      "id": "e_dec2",
+      "fromNode": "cog_router_llmwiki",
+      "fromSide": "right",
+      "toNode": "sk_wiki_ingest",
+      "toSide": "left",
+      "toEnd": "arrow",
+      "label": "Nuove fonti in raw/"
+    },
+    {
+      "id": "e_dec3",
+      "fromNode": "cog_router_llmwiki",
+      "fromSide": "right",
+      "toNode": "sk_wiki_query",
+      "toSide": "left",
+      "toEnd": "arrow",
+      "label": "Domande complesse"
+    },
+    {
+      "id": "e_dec4",
+      "fromNode": "cog_router_llmwiki",
+      "fromSide": "right",
+      "toNode": "sk_wiki_insights",
+      "toSide": "left",
+      "toEnd": "arrow",
+      "label": "Esempi / metafore"
+    },
+    {
+      "id": "e_dec5",
+      "fromNode": "cog_router_llmwiki",
+      "fromSide": "right",
+      "toNode": "sk_wiki_exercises",
+      "toSide": "left",
+      "toEnd": "arrow",
+      "label": "Richiesta esercizi"
+    },
+    {
+      "id": "e_dec6",
+      "fromNode": "cog_router_llmwiki",
+      "fromSide": "right",
+      "toNode": "sk_wiki_lint",
+      "toSide": "left",
+      "toEnd": "arrow",
+      "label": "Audit / lint"
+    },
+    {
+      "id": "e_dec7",
+      "fromNode": "cog_router_llmwiki",
+      "fromSide": "right",
+      "toNode": "sk_generate_flashcards",
+      "toSide": "left",
+      "toEnd": "arrow",
+      "label": "Ripasso AOSR"
+    },
+    {
+      "id": "e_dec8",
+      "fromNode": "cog_progressive_disclosure",
+      "fromSide": "right",
+      "toNode": "sk_builtin_agy",
+      "toSide": "left",
+      "toEnd": "arrow",
+      "label": "Carica on-demand"
+    },
+    {
+      "id": "e_sub1",
+      "fromNode": "cog_subagent_dispatcher",
+      "fromSide": "right",
+      "toNode": "tool_subagents",
+      "toSide": "left",
+      "toEnd": "arrow",
+      "label": "Delega a sotto-agenti"
+    },
+    {
+      "id": "e_wf_audio_to_ingest",
+      "fromNode": "wf_audio",
+      "fromSide": "bottom",
+      "toNode": "sk_wiki_ingest",
+      "toSide": "top",
+      "toEnd": "arrow",
+      "label": "Inoltra markdown pulito",
+      "color": "4"
+    },
+    {
+      "id": "e_golden_rule",
+      "fromNode": "sk_wiki_query",
+      "fromSide": "bottom",
+      "toNode": "sk_wiki_insights",
+      "toSide": "top",
+      "toEnd": "arrow",
+      "label": "Regola d'Oro: formalizza risposte eccellenti"
+    },
+    {
+      "id": "e_gov1",
+      "fromNode": "rule_strict_sourcing",
+      "fromSide": "right",
+      "toNode": "wf_audio",
+      "toSide": "left",
+      "toEnd": "arrow",
+      "label": "Bibbia lezioniNew.pdf"
+    },
+    {
+      "id": "e_gov2",
+      "fromNode": "rule_strict_sourcing",
+      "fromSide": "right",
+      "toNode": "sk_wiki_ingest",
+      "toSide": "left",
+      "toEnd": "arrow",
+      "label": "Nessuna nozione esterna"
+    },
+    {
+      "id": "e_gov3",
+      "fromNode": "rule_strict_sourcing",
+      "fromSide": "right",
+      "toNode": "sk_wiki_query",
+      "toSide": "left",
+      "toEnd": "arrow",
+      "label": "Fedeltà nomenclaturale"
+    },
+    {
+      "id": "e_gov4",
+      "fromNode": "rule_strict_sourcing",
+      "fromSide": "right",
+      "toNode": "sk_wiki_insights",
+      "toSide": "left",
+      "toEnd": "arrow",
+      "label": "Aderenza definizioni"
+    },
+    {
+      "id": "e_gov5",
+      "fromNode": "rule_strict_sourcing",
+      "fromSide": "right",
+      "toNode": "sk_wiki_exercises",
+      "toSide": "left",
+      "toEnd": "arrow",
+      "label": "Strict sourcing esteso"
+    },
+    {
+      "id": "e_gov6",
+      "fromNode": "rule_strict_sourcing",
+      "fromSide": "right",
+      "toNode": "sk_generate_flashcards",
+      "toSide": "left",
+      "toEnd": "arrow",
+      "label": "Solo materiale corso"
+    },
+    {
+      "id": "e_gov7",
+      "fromNode": "rule_math_entities",
+      "fromSide": "right",
+      "toNode": "sk_wiki_ingest",
+      "toSide": "left",
+      "toEnd": "arrow",
+      "label": "Callout & color coding"
+    },
+    {
+      "id": "e_gov8",
+      "fromNode": "rule_math_entities",
+      "fromSide": "right",
+      "toNode": "sk_wiki_insights",
+      "toSide": "left",
+      "toEnd": "arrow",
+      "label": "Callout & color coding"
+    },
+    {
+      "id": "e_gov9",
+      "fromNode": "rule_math_entities",
+      "fromSide": "right",
+      "toNode": "sk_wiki_exercises",
+      "toSide": "left",
+      "toEnd": "arrow",
+      "label": "Callout & color coding"
+    },
+    {
+      "id": "e_gov10",
+      "fromNode": "rule_mathjax",
+      "fromSide": "right",
+      "toNode": "sk_wiki_ingest",
+      "toSide": "left",
+      "toEnd": "arrow",
+      "label": "Sintassi $ e $$"
+    },
+    {
+      "id": "e_gov11",
+      "fromNode": "rule_mathjax",
+      "fromSide": "right",
+      "toNode": "sk_wiki_exercises",
+      "toSide": "left",
+      "toEnd": "arrow",
+      "label": "Sintassi $ e $$"
+    },
+    {
+      "id": "e_gov12",
+      "fromNode": "rule_mathjax",
+      "fromSide": "right",
+      "toNode": "sk_generate_flashcards",
+      "toSide": "left",
+      "toEnd": "arrow",
+      "label": "Sintassi $ e $$"
+    },
+    {
+      "id": "e_gov13",
+      "fromNode": "rule_didactic_instances",
+      "fromSide": "right",
+      "toNode": "sk_wiki_insights",
+      "toSide": "left",
+      "toEnd": "arrow",
+      "label": "Istanza base obbligatoria"
+    },
+    {
+      "id": "e_gov14",
+      "fromNode": "rule_workspace_confinement",
+      "fromSide": "bottom",
+      "toNode": "tool_files",
+      "toSide": "top",
+      "toEnd": "arrow",
+      "label": "Confinamento file & assets"
+    },
+    {
+      "id": "e_gov15",
+      "fromNode": "rule_daily_review",
+      "fromSide": "right",
+      "toNode": "sk_generate_flashcards",
+      "toSide": "left",
+      "toEnd": "arrow",
+      "label": "Sblocca solo se >= 17:30"
+    },
+    {
+      "id": "e_gov16",
+      "fromNode": "rule_log_guide",
+      "fromSide": "right",
+      "toNode": "out_changelog_vault",
+      "toSide": "left",
+      "toEnd": "arrow",
+      "label": "Gestione [Unreleased] & SemVer"
+    },
+    {
+      "id": "e_gov17",
+      "fromNode": "rule_git_preflight",
+      "fromSide": "right",
+      "toNode": "out_git_repo",
+      "toSide": "left",
+      "toEnd": "arrow",
+      "label": "Pre-Flight Protocol ➔ Commit / Push",
+      "color": "1"
+    },
+    {
+      "id": "e_gov18",
+      "fromNode": "cog_git_trigger",
+      "fromSide": "right",
+      "toNode": "rule_git_preflight",
+      "toSide": "left",
+      "toEnd": "arrow",
+      "label": "Carica on-demand a fine task",
+      "color": "1"
+    },
+    {
+      "id": "e_gov19",
+      "fromNode": "cog_git_trigger",
+      "fromSide": "right",
+      "toNode": "rule_log_guide",
+      "toSide": "left",
+      "toEnd": "arrow",
+      "label": "Carica on-demand per log.md",
+      "color": "5"
+    },
+    {
+      "id": "e_sk_tool1",
+      "fromNode": "wf_audio",
+      "fromSide": "right",
+      "toNode": "tool_terminal",
+      "toSide": "left",
+      "toEnd": "arrow",
+      "label": "Whisper 24-th & prep_and_clean.sh"
+    },
+    {
+      "id": "e_sk_tool2",
+      "fromNode": "sk_wiki_ingest",
+      "fromSide": "right",
+      "toNode": "tool_files",
+      "toSide": "left",
+      "toEnd": "arrow",
+      "label": "Scrittura note e indici"
+    },
+    {
+      "id": "e_sk_tool3",
+      "fromNode": "sk_wiki_query",
+      "fromSide": "right",
+      "toNode": "tool_files",
+      "toSide": "left",
+      "toEnd": "arrow",
+      "label": "Lettura index.md e drill-down"
+    },
+    {
+      "id": "e_sk_tool4",
+      "fromNode": "sk_wiki_insights",
+      "fromSide": "right",
+      "toNode": "tool_files",
+      "toSide": "left",
+      "toEnd": "arrow",
+      "label": "Salva template approfondimento"
+    },
+    {
+      "id": "e_sk_tool5",
+      "fromNode": "sk_wiki_exercises",
+      "fromSide": "right",
+      "toNode": "tool_files",
+      "toSide": "left",
+      "toEnd": "arrow",
+      "label": "Salva scheda esercizi"
+    },
+    {
+      "id": "e_sk_tool6",
+      "fromNode": "sk_wiki_lint",
+      "fromSide": "right",
+      "toNode": "tool_files",
+      "toSide": "left",
+      "toEnd": "arrow",
+      "label": "Audit filesystem e link"
+    },
+    {
+      "id": "e_sk_tool7",
+      "fromNode": "sk_generate_flashcards",
+      "fromSide": "right",
+      "toNode": "tool_files",
+      "toSide": "left",
+      "toEnd": "arrow",
+      "label": "Salva mazzi AOSR"
+    },
+    {
+      "id": "e_sk_tool8",
+      "fromNode": "sk_builtin_agy",
+      "fromSide": "right",
+      "toNode": "tool_schedule",
+      "toSide": "left",
+      "toEnd": "arrow",
+      "label": "Schedulazione timer/cron"
+    },
+    {
+      "id": "e_tool_out1",
+      "fromNode": "tool_files",
+      "fromSide": "right",
+      "toNode": "out_obsidian_vault",
+      "toSide": "left",
+      "toEnd": "arrow",
+      "label": "Persistenza wiki/"
+    },
+    {
+      "id": "e_tool_out2",
+      "fromNode": "tool_files",
+      "fromSide": "right",
+      "toNode": "out_flashcards_vault",
+      "toSide": "left",
+      "toEnd": "arrow",
+      "label": "Persistenza flashcards/"
+    },
+    {
+      "id": "e_tool_out3",
+      "fromNode": "tool_files",
+      "fromSide": "right",
+      "toNode": "out_indices_vault",
+      "toSide": "left",
+      "toEnd": "arrow",
+      "label": "Aggiorna index.md e indici"
+    },
+    {
+      "id": "e_tool_out4",
+      "fromNode": "tool_files",
+      "fromSide": "right",
+      "toNode": "out_changelog_vault",
+      "toSide": "left",
+      "toEnd": "arrow",
+      "label": "Aggiorna log.md"
+    },
+    {
+      "id": "e_tool_out5",
+      "fromNode": "tool_terminal",
+      "fromSide": "right",
+      "toNode": "out_git_repo",
+      "toSide": "left",
+      "toEnd": "arrow",
+      "label": "Esegue git add/commit/push"
+    },
+    {
+      "id": "e_tool_out6",
+      "fromNode": "tool_ux",
+      "fromSide": "right",
+      "toNode": "out_chat_response",
+      "toSide": "left",
+      "toEnd": "arrow",
+      "label": "Renderizza risposte e modal"
+    }
+  ]
+}

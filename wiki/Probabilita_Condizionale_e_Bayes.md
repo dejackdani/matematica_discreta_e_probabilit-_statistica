@@ -11,10 +11,6 @@ fonti_usate:
   - "[[MdP20261023.md]]"
   - "[[lezioniNew.pdf]]"
   - "[[MDP Domande orale.pdf]]"
-stato: "🔴 Da Iniziare"
-difficolta: Media
-ultimo_ripasso:
-tempo_stimato: 30 min
 ---
 
 # Probabilità Condizionale, Formula di Bayes ed Eventi Indipendenti

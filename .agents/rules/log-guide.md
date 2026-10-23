@@ -1,5 +1,6 @@
 ---
-trigger: always_on
+trigger: model_decision
+description: Regole obbligatorie per aggiornare e validare il file log.md secondo Keep a Changelog (v1.1.0) e SemVer, inclusa la gestione di [Unreleased]. Carica sempre prima di modificare log.md o eseguire un commit.
 ---
 
 # RUOLO E OBIETTIVO

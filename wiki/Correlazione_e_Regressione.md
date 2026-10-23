@@ -9,10 +9,6 @@ data_creazione: 2026-10-15
 fonti_usate:
   - "[[MdP20261009.md]]"
   - "[[lezioniNew.pdf]]"
-stato: "🔴 Da Iniziare"
-difficolta: Media
-ultimo_ripasso:
-tempo_stimato: 25 min
 ---
 
 # Correlazione, Regressione e Altri Indici di Posizione

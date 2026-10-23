@@ -1,7 +1,6 @@
 ---
 indice: "5.8"
 title: Esercizi Densità congiunta
-stato: "🔴 Da Iniziare"
 file_sorgente: "[[EserciziMDPnew.pdf]]"
 ---
 # Esercizi: Densità congiunta e indipendenza

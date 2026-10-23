@@ -8,10 +8,6 @@ tags:
 data_creazione: 2026-09-24
 fonti_usate:
   - "[[MdP20260916.md]]"
-stato: 🟢 Completato
-difficolta: Bassa
-ultimo_ripasso:
-tempo_stimato: 5 min
 ---
 
 # Regole dell'Esame e Intro al Corso

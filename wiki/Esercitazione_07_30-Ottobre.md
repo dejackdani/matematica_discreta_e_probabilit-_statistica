@@ -1,7 +1,6 @@
 ---
 indice: "5.7"
 title: Esercizi Variabili discrete
-stato: "🔴 Da Iniziare"
 file_sorgente: "[[EserciziMDPnew.pdf]]"
 ---
 # Esercizi: Variabili aleatorie discrete

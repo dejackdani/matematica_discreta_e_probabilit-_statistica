@@ -9,10 +9,6 @@ data_creazione: 2026-10-15
 fonti_usate:
   - "[[Lezione di 2026 ottobre 14 - 2° ora.md]]"
   - "[[lezioniNew.pdf]]"
-stato: "🔴 Da Iniziare"
-difficolta: Media
-ultimo_ripasso:
-tempo_stimato: 25 min
 ---
 
 # Spazi di Probabilità e Probabilità Uniforme

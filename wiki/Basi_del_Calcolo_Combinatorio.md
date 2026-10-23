@@ -9,10 +9,6 @@ data_creazione: 2026-09-24
 fonti_usate:
   - "[[MdP20260918.md]]"
   - "[[lezioniNew.pdf]]"
-stato: 🔴 Da Iniziare
-difficolta: Media
-ultimo_ripasso:
-tempo_stimato: 15 min
 ---
 
 # Basi del Calcolo Combinatorio

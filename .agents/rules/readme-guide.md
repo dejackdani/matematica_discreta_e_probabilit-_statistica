@@ -1,5 +1,6 @@
 ---
-trigger: always_on
+trigger: model_decision
+description: Regole obbligatorie per creare, strutturare, aggiornare e validare il file README.md nella root del progetto. Carica sempre prima di modificare il README.md.
 ---
 
 # RUOLO E OBIETTIVO

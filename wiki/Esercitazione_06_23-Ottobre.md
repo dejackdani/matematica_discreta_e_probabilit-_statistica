@@ -1,7 +1,6 @@
 ---
 indice: "5.6"
 title: Esercizi Probabilità base
-stato: "🔴 Da Iniziare"
 file_sorgente:
   - "[[EserciziMDPnew.pdf]]"
   - "[[MdP20261023.md]]"

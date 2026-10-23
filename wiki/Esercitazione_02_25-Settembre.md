@@ -1,7 +1,6 @@
 ---
 indice: "5.2"
 titolo: Esercizi di Combinatoria di Base
-stato: "🔴 Da Iniziare"
 file_sorgente: "[[EserciziMDPnew.pdf]]"
 ---
 

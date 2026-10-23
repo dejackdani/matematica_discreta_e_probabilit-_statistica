@@ -1,5 +1,5 @@
 # Flashcard: 03 - Correlazione e Regressione
-*Fonte: Correlazione_e_Regressione.md*
+*Fonte: [[Correlazione_e_Regressione]]*
 
 #Q
 Che cos'è la **Covarianza Campionaria** tra due caratteri $X$ e $Y$?

@@ -8,10 +8,6 @@ data_creazione: 2026-09-24
 fonti_usate:
   - "[[MdP20260916.md]]"
   - "[[lezioniNew.pdf]]"
-stato: 🟡 In Corso
-difficolta: Media
-ultimo_ripasso:
-tempo_stimato: 10 min
 ---
 
 # Insiemi e Cardinalità

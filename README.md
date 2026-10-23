@@ -29,25 +29,28 @@ Successivamente, apri Obsidian, seleziona l'opzione **"Open folder as vault"** (
 
 Il progetto è strutturato gerarchicamente per massimizzare la facilità di studio e la separazione dei concetti:
 
-- La **teoria e le definizioni** rielaborate vengono salvate all'interno della directory `wiki/`.
+- La **teoria, le definizioni e le esercitazioni** rielaborate vengono salvate all'interno della directory `wiki/` (con i mazzi di flashcard in `wiki/flashcards/`).
 - Il file `index.md` nella root funge da hub e punto d'ingresso principale per navigare tra gli argomenti.
-- Tutto il **materiale grezzo, le dispense e i contenuti multimediali** devono risiedere rigorosamente in `raw/assets/`.
+- Tutto il **materiale grezzo di partenza** risiede in `raw/`:
+  - In `raw/` risiedono le dispense e i PDF ufficiali del corso (`lezioniNew.pdf`, `MDP Domande orale.pdf`, `EserciziMDPnew.pdf`).
+  - In `raw/registrazioni/` risiedono i file audio delle lezioni e le relative sottocartelle di trascrizione (`trascrizioni-pixel/`, `trascrizioni-whisper/`, `trascrizioni-sistemate/`).
+  - In `raw/assets/` devono risiedere rigorosamente ed esclusivamente le immagini, i grafici e i contenuti multimediali generati per essere inclusi nella wiki.
 
 ### Esempio Pratico
 Per consultare rapidamente un concetto come il *Principio di Inclusione-Esclusione*:
 1. Apri il vault in Obsidian.
 2. Usa la scorciatoia da tastiera `Ctrl+O` (o `Cmd+O` su Mac).
 3. Digita "Principio di Inclusione-Esclusione" e premi Invio.
-4. Troverai la teoria strutturata, con definizioni e teoremi evidenziati tramite *callout* dedicati e l'integrazione di relative flashcard in fondo alla pagina.
+4. Troverai la teoria strutturata, con definizioni e teoremi evidenziati tramite *callout* dedicati e le domande ufficiali d'esame a scomparsa in fondo alla pagina.
 
 ## Contributing
 
-Per contribuire all'espansione della wiki (ad esempio integrando nuove lezioni o risolvendo esercizi), è assolutamente fondamentale rispettare i workflow operativi definiti nella cartella `.agents/`.
+Per contribuire all'espansione della wiki (ad esempio integrando nuove lezioni o risolvendo esercizi), è assolutamente fondamentale rispettare i workflow operativi e le skill definiti nella cartella `.agents/`.
 
 I passaggi e vincoli essenziali per un contributo corretto sono:
 1. **Strict Sourcing**: Non introdurre mai concetti, nomenclature o nozioni esterne (non presenti nel materiale ufficiale del docente). Attieniti esclusivamente alle fonti in `raw/`.
 2. **Aggiornamento Documentale**: Ogni modifica architetturale o procedurale deve essere documentata aggiornando opportunamente questo `README.md` e, categoricamente, il `log.md`.
-3. **Gestione degli Asset**: Qualsiasi nuovo media (immagini, audio, pdf) deve essere salvato esclusivamente in `raw/assets/`, senza eccezioni.
+3. **Gestione degli Asset**: Qualsiasi nuovo asset visivo o grafico destinato alla documentazione deve essere salvato esclusivamente in `raw/assets/`, senza eccezioni.
 4. **Validazione Git**: Prima di effettuare commit o push (anche e soprattutto se coadiuvati da agenti AI), è obbligatorio assicurarsi che venga eseguito il "Pre-Flight Protocol" delineato in `git-guide.md`. I commit devono rispettare il formato *Conventional Commits* in italiano.
 
 ## License

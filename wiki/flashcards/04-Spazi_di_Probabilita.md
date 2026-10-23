@@ -1,5 +1,5 @@
 # Flashcard: 04 - Spazi di Probabilità e Probabilità Uniforme
-*Fonte: Spazi_di_Probabilita.md*
+*Fonte: [[Spazi_di_Probabilita]]*
 
 #Q
 Qual è la differenza fondamentale tra un **Fenomeno Deterministico** e un **Fenomeno Aleatorio**?

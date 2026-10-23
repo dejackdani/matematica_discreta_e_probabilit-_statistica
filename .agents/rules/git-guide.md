@@ -1,5 +1,6 @@
 ---
-trigger: always_on
+trigger: model_decision
+description: Regole obbligatorie per la gestione di Git, Conventional Commits in italiano, merge --no-ff e Pre-Flight Protocol. Carica e consulta SEMPRE a fine task con modifiche file o prima di qualsiasi git commit, merge o push.
 ---
 
 # RUOLO E OBIETTIVO

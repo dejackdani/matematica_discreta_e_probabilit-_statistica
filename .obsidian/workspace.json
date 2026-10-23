@@ -11,14 +11,17 @@
             "id": "904a890e9dab3fa8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "appunti_dani/EsercitazioneNumero01.md",
-                "mode": "source",
-                "source": false
+                "file": "Architettura_Agente_e_Casi_Uso.canvas",
+                "viewState": {
+                  "x": 57.517426780427286,
+                  "y": 576.5917421438469,
+                  "zoom": -1.6813948658113405
+                }
               },
-              "icon": "lucide-file",
-              "title": "EsercitazioneNumero01"
+              "icon": "lucide-layout-dashboard",
+              "title": "Architettura_Agente_e_Casi_Uso"
             }
           }
         ]
@@ -205,23 +208,27 @@
   },
   "active": "904a890e9dab3fa8",
   "lastOpenFiles": [
+    "scratch/apply_cleanup.py",
+    "wiki/Variabili_Discrete_e_Schemi_Successo_Insuccesso.md",
+    "raw/registrazioni/trascrizioni-sistemate/MdP20261023.md",
+    "raw/registrazioni/trascrizioni-whisper/MdP20261023.txt",
+    "raw/registrazioni/MdP20261023.json",
+    "raw/registrazioni/MdP20261023.tsv",
+    "raw/registrazioni/MdP20261023.srt",
+    "raw/registrazioni/MdP20261023.vtt",
+    "raw/registrazioni/MdP20261023.txt",
+    "log.md",
+    "Architettura_Agente_e_Casi_Uso.canvas",
+    "scratch/generate_ai_canvas.py",
+    "kanban.base",
+    "scratch/generate_canvas.py",
+    "wiki/Spazi_di_Probabilita.md",
+    "index.md",
+    "appunti_dani/EsercitazioneNumero01.md",
     "raw/registrazioni/trascrizioni-whisper/MdP20261016.txt",
-    "raw/registrazioni/MdP20261016.json",
-    "raw/registrazioni/MdP20261016.tsv",
-    "raw/registrazioni/MdP20261016.srt",
-    "raw/registrazioni/MdP20261016.vtt",
-    "raw/registrazioni/MdP20261016.txt",
-    "raw/registrazioni/trascrizioni-pixel/MdP20261016.txt",
-    "raw/registrazioni/MdP20261016.m4a",
-    "raw/registrazioni/MdP20261016_g.txt",
-    "raw/registrazioni/drive-download-20261019T090134Z-1-001.zip",
-    "raw/registrazioni/Non confermato 896495.crdownload",
     "appunti_dani/01_Calcolo Combinatorio.md",
     "wiki/flashcards/04-Spazi_di_Probabilita.md",
     "wiki/flashcards/03-Correlazione_e_Regressione.md",
-    "appunti_dani/EsercitazioneNumero01.md",
-    "index.md",
-    "wiki/Spazi_di_Probabilita.md",
     "wiki/Correlazione_e_Regressione.md",
     "raw/registrazioni/trascrizioni-sistemate/MdP20261009.md",
     "appunti_dani/Insieme Discreto.md",
@@ -247,10 +254,7 @@
     "appunti_dani/02_Statistica_Descrittiva.md",
     "appunti_dani/03_Probabilità.md",
     "raw/registrazioni/trascrizioni-sistemate/MdP20261007.md",
-    "log.md",
     "README.md",
-    "wiki/Basi_del_Calcolo_Combinatorio.md",
-    "⠀⠀.md",
-    "⠀.md"
+    "wiki/Basi_del_Calcolo_Combinatorio.md"
   ]
 }

@@ -1,5 +1,5 @@
 # Flashcard: 01 - Partizioni di un Insieme
-*Fonte: MdP20261002.md e lezioniNew.pdf*
+*Fonte: [[Partizioni_di_un_Insieme]], [[MdP20261002.md]] e [[lezioniNew.pdf]]*
 
 #Q
 Cos'è una partizione di un insieme $A$?

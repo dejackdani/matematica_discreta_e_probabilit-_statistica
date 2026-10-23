@@ -6,7 +6,6 @@ tags:
   - definizioni
   - teoremi
 data_creazione: 2026-09-30
-stato: 🟢 Completato
 ---
 
 # Indice dei Teoremi e delle Definizioni

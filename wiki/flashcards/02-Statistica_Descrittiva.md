@@ -1,5 +1,5 @@
 # Flashcard: 02 - Statistica Descrittiva
-*Fonte: Statistica_Descrittiva_di_Base.md*
+*Fonte: [[Statistica_Descrittiva_di_Base]]*
 
 #Q
 Che cos'è la **Popolazione** in statistica descrittiva?

@@ -4,10 +4,6 @@ tipo: [concetto]
 tags: [matematica_discreta, calcolo_combinatorio]
 data_creazione: 2026-09-24
 fonti_usate: ["[[MdP20260923.md]]", "[[lezioniNew.pdf]]"]
-stato: "🔴 Da Iniziare"
-difficolta: Media
-ultimo_ripasso: 
-tempo_stimato: 20 min
 ---
 
 # Disposizioni e Combinazioni

@@ -5,6 +5,25 @@ Il formato è basato su [Keep a Changelog](https://keepachangelog.com/en/1.1.0/)
 
 ## [Unreleased]
 
+### Added
+- Creata la lavagna interattiva di Obsidian `Architettura_Agente_e_Casi_Uso.canvas` con la mappa completa dell'architettura AI, dei flussi decisionali, delle skill, delle regole e dei tool nativi.
+- Migrato il workflow audio nella nuova skill moderna `.agents/skills/ingest-audio/SKILL.md`, corredata dallo script di automazione e pulizia `.agents/skills/ingest-audio/scripts/prep_and_clean.sh`.
+- Creato il modello `.agents/skills/wiki-exercises/examples/template_esercizi.md` per uniformare le schede di esercizi del corso.
+
+### Changed
+- Riqualificata la regola `.agents/rules/llmwiki.md` (`trigger: always_on`) come **LLM Wiki Schema & Autonomous Router** secondo il paradigma a 3 layer di Andrej Karpathy, abilitando l'attivazione autonoma di tutte le 7 skill del vault.
+- Ottimizzato il caricamento del Context Window passando `.agents/rules/git-guide.md`, `.agents/rules/log-guide.md` e `.agents/rules/readme-guide.md` a `trigger: model_decision` (con richiamo sempre attivo in `.agents/AGENTS.md`).
+- Adattati gli esempi didattici e le istruzioni in `.agents/AGENTS.md`, `.agents/skills/wiki-exercises/SKILL.md` e `.agents/skills/generate-flashcards/SKILL.md` al dominio di Matematica Discreta e Probabilità Statistica.
+- Collegati i mazzi in `wiki/flashcards/` (`01`–`04`) alle rispettive pagine teoriche tramite link `[[...]]` nella riga `*Fonte:*` per l'integrazione nella Graph View di Obsidian.
+- Chiarita in `README.md` la ripartizione architetturale tra `raw/`, `raw/registrazioni/` e `raw/assets/`.
+
+### Removed
+- Rimossa la directory deprecata `.agents/workflows/` (sostituita da `.agents/skills/ingest-audio/`).
+- Rimosse le proprietà YAML obsolete legate al Kanban (`stato`, `stato_studio`, `difficolta`, `ultimo_ripasso`, `tempo_stimato`) e il tag `ricerca_operativa` dai template in `.agents/skills/` e dai frontmatter delle pagine in `wiki/*.md`.
+
+### Fixed
+- Ripristinato il caricamento automatico di `.agents/rules/math-entities.md` aggiungendo il frontmatter `trigger: always_on` e risolto il conflitto di colori nell'esempio MathJax (`\textcolor{darkgreen}{i}`).
+
 ## [0.13.0] - 2026-10-23
 
 ### Added

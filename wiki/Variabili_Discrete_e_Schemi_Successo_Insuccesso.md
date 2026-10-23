@@ -14,10 +14,6 @@ fonti_usate:
   - "[[MdP20261023.md]]"
   - "[[lezioniNew.pdf]]"
   - "[[MDP Domande orale.pdf]]"
-stato: "🔴 Da Iniziare"
-difficolta: Media
-ultimo_ripasso:
-tempo_stimato: 40 min
 ---
 
 # Variabili Aleatorie Discrete e Schemi Successo-Insuccesso

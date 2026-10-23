@@ -4,10 +4,6 @@ tipo: concetto
 tags: [combinatoria, insiemistica]
 data_creazione: 2026-09-30
 fonti_usate: ["[[MdP20260930.md]]", "[[MDP Domande orale.pdf]]"]
-stato: "🔴 Da Iniziare"
-difficolta: Alta
-ultimo_ripasso: 
-tempo_stimato: 20 min
 ---
 
 # Principio di Inclusione-Esclusione, Sequenze k-piene e Scombussolamenti

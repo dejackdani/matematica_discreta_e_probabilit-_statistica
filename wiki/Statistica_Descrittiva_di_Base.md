@@ -7,10 +7,6 @@ data_creazione: 2026-10-07
 fonti_usate:
   - "[[MdP20261007.md]]"
   - "[[lezioniNew.pdf]]"
-stato: "🔴 Da Iniziare"
-difficolta: Bassa
-ultimo_ripasso:
-tempo_stimato: 20 min
 ---
 
 # Statistica Descrittiva di Base

@@ -4,10 +4,6 @@ tipo: concetto
 tags: [matematica_discreta, combinatoria, partizioni]
 data_creazione: 2026-10-02
 fonti_usate: ["[[MdP20261002.md]]", "[[lezioniNew.pdf]]"]
-stato: "🔴 Da Iniziare"
-difficolta: Bassa
-ultimo_ripasso: 
-tempo_stimato: 15 min
 ---
 
 # Partizioni di un Insieme
