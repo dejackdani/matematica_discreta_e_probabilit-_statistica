@@ -8,7 +8,7 @@ fonti_usate: ["[[MdP20260925.md]]", "[[lezioniNew.pdf]]"]
 
 # Combinazioni Multinomiali, Anagrammi e Fibonacci
 
-Questo documento approfondisce le combinazioni espandendo i concetti introdotti in [[Disposizioni_e_Combinazioni]], includendo le combinazioni con ripetizione (attraverso l'uso degli anagrammi e del metodo stars and bars) e collegando le sequenze binarie ristrette ai numeri di Fibonacci.
+Questo documento approfondisce le combinazioni espandendo i concetti introdotti in [[Basi_del_Calcolo_Combinatorio]] e [[Disposizioni_e_Combinazioni]], includendo le [[Partizioni_di_un_Insieme|partizioni ordinate]] (combinazioni multinomiali), le combinazioni con ripetizione (attraverso l'uso degli anagrammi e del metodo *stars and bars*) e collegando le sequenze binarie ristrette ai numeri di Fibonacci (si veda anche [[Esercitazione_03_02-Ottobre]]).
 
 ## 1. Combinazioni Multinomiali (Tipo a,b,c)
 

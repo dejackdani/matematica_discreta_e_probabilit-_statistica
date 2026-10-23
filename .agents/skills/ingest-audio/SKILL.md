@@ -7,12 +7,13 @@ description: Usa questa skill quando l'utente invoca /ingest-audio o chiede di t
 
 Quando l'utente invoca `/ingest-audio` o ti chiede di processare/ingerire un file audio o una registrazione della lezione, esegui RIGOROSAMENTE questi passaggi in ordine:
 
-## Step 0: Organizzazione Cartelle e Check Fast-Path
-1. Assicurati che il file audio e l'eventuale file testuale generato dall'app Google Pixel si trovino in `raw/registrazioni/`.
-2. Puoi eseguire lo script helper [prep_and_clean.sh](./scripts/prep_and_clean.sh) in modalità `prep`:
+## Step 0: Organizzazione Cartelle, Verifica Origine `.txt` e Check Fast-Path
+1. Esegui lo script helper [prep_and_clean.sh](./scripts/prep_and_clean.sh) in modalità `prep` per assicurarti che esistano le sottocartelle (`trascrizioni-pixel/`, `trascrizioni-whisper/`, `trascrizioni-sistemate/`) e verificare lo stato dei file:
    `bash .agents/skills/ingest-audio/scripts/prep_and_clean.sh prep <nome_base_lezione>`
-   *(in alternativa, assicurati che esistano le sottocartelle `trascrizioni-pixel/`, `trascrizioni-whisper/` e `trascrizioni-sistemate/` dentro `raw/registrazioni/` e che la trascrizione Pixel sia in `raw/registrazioni/trascrizioni-pixel/`)*.
-3. **SCORCIATOIA (Fast-Path):** Controlla se in `raw/registrazioni/` o in `raw/registrazioni/trascrizioni-whisper/` esiste già un file `.txt` con lo stesso nome dell'audio (es. `MdP20260923.txt`). Se esiste già, significa che la trascrizione Whisper è già stata effettuata: **salta interamente lo Step 1 e lo Step 2**, e procedi direttamente allo Step 3 leggendo quel file `.txt`.
+2. **Verifica Prudenziale dei `.txt` in `raw/registrazioni/` (Strada A):** Se in `raw/registrazioni/` è presente un file `<nome_base_lezione>.txt`, **NON spostarlo mai alla cieca**. Leggi sempre le sue prime 10–15 righe con `view_file` per identificarne l'origine dall'impronta del formato:
+   - **Trascrizione Google Pixel:** Paragrafi lunghi alternati sistematicamente a righe vuote (~50% di righe vuote) $\implies$ spostalo in `raw/registrazioni/trascrizioni-pixel/<nome_base_lezione>.txt`.
+   - **Trascrizione Whisper:** Frasi brevi continue stile sottotitolo senza righe vuote (0–1% di righe vuote) $\implies$ spostalo in `raw/registrazioni/trascrizioni-whisper/<nome_base_lezione>.txt`.
+3. **SCORCIATOIA (Fast-Path):** Dopo la verifica del punto 2, controlla se in `raw/registrazioni/trascrizioni-whisper/` esiste già il file `<nome_base_lezione>.txt`. Se esiste già, significa che la trascrizione Whisper è già stata effettuata: **salta interamente lo Step 1 e lo Step 2**, e procedi direttamente allo Step 3.
 
 ## Step 1: Trascrizione Audio (Se il `.txt` non esiste)
 1. Imposta come `Cwd` (Current Working Directory) la directory `raw/registrazioni/` in cui si trova il file audio.

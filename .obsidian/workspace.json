@@ -11,17 +11,10 @@
             "id": "904a890e9dab3fa8",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Architettura_Agente_e_Casi_Uso.canvas",
-                "viewState": {
-                  "x": 57.517426780427286,
-                  "y": 576.5917421438469,
-                  "zoom": -1.6813948658113405
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Architettura_Agente_e_Casi_Uso"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista grafo"
             }
           }
         ]
@@ -208,8 +201,23 @@
   },
   "active": "904a890e9dab3fa8",
   "lastOpenFiles": [
-    "scratch/apply_cleanup.py",
+    "⠀.md",
+    "wiki/Probabilita_Condizionale_e_Bayes.md",
+    "wiki/Regole_Esame.md",
+    "wiki/Insiemi_e_Cardinalità.md",
+    "wiki/Indice_Teoremi_Definizioni.md",
+    "wiki/Esercitazione_02_25-Settembre.md",
+    "wiki/Disposizioni_e_Combinazioni.md",
+    "index.md",
+    "wiki/Partizioni_di_un_Insieme.md",
+    "wiki/Combinazioni_con_Ripetizione_e_Fibonacci.md",
+    "wiki/Basi_del_Calcolo_Combinatorio.md",
     "wiki/Variabili_Discrete_e_Schemi_Successo_Insuccesso.md",
+    "wiki/Spazi_di_Probabilita.md",
+    "raw/lezioniNew.pdf",
+    "wiki/Principio_di_Inclusione_Esclusione.md",
+    "Architettura_Agente_e_Casi_Uso.canvas",
+    "scratch/apply_cleanup.py",
     "raw/registrazioni/trascrizioni-sistemate/MdP20261023.md",
     "raw/registrazioni/trascrizioni-whisper/MdP20261023.txt",
     "raw/registrazioni/MdP20261023.json",
@@ -218,14 +226,9 @@
     "raw/registrazioni/MdP20261023.vtt",
     "raw/registrazioni/MdP20261023.txt",
     "log.md",
-    "Architettura_Agente_e_Casi_Uso.canvas",
     "scratch/generate_ai_canvas.py",
     "kanban.base",
-    "scratch/generate_canvas.py",
-    "wiki/Spazi_di_Probabilita.md",
-    "index.md",
     "appunti_dani/EsercitazioneNumero01.md",
-    "raw/registrazioni/trascrizioni-whisper/MdP20261016.txt",
     "appunti_dani/01_Calcolo Combinatorio.md",
     "wiki/flashcards/04-Spazi_di_Probabilita.md",
     "wiki/flashcards/03-Correlazione_e_Regressione.md",
@@ -238,23 +241,13 @@
     "raw/assets/Pasted image 20261014143721.png",
     "raw/assets/Pasted image 20261014143005.png",
     "appunti_dani/04_Statistica_Inferenziale.md",
-    "appunti_dani/Corrispondenza Biunivoca tra insiemi.md",
     "raw/assets/Pasted image 20261014145300.png",
     "raw/assets/Pasted image 20261014145628.png",
     "raw/assets/Pasted image 20261014150156.png",
     "raw/assets/venn_3_insiemi.png",
     "raw/assets/venn_2_insiemi.png",
-    "raw/Lezione di 2026 ottobre 14 - 2° ora.md",
     "Pasted image 20261014150156.png",
     "Pasted image 20261014145628.png",
-    "EsercitazioneNumero1.md",
-    "appunti_dani/Cardinalità.md",
-    "appunti_dani/00_appunti_dani.md",
-    "Senza nome.canvas",
-    "appunti_dani/02_Statistica_Descrittiva.md",
-    "appunti_dani/03_Probabilità.md",
-    "raw/registrazioni/trascrizioni-sistemate/MdP20261007.md",
-    "README.md",
-    "wiki/Basi_del_Calcolo_Combinatorio.md"
+    "Senza nome.canvas"
   ]
 }

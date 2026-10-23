@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "path:appunti_dani  ",
+  "search": "",
   "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -12,11 +12,11 @@
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
-  "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
-  "linkStrength": 1,
-  "linkDistance": 250,
+  "collapse-forces": false,
+  "centerStrength": 0.333759716619109,
+  "repelStrength": 7.52336908393191,
+  "linkStrength": 0.942241464134606,
+  "linkDistance": 30,
   "scale": 1,
   "close": true
 }

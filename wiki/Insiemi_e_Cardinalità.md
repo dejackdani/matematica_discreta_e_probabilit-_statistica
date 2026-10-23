@@ -12,7 +12,7 @@ fonti_usate:
 
 # Insiemi e Cardinalità
 
-Nella teoria degli insiemi, la cardinalità rappresenta il "numero di elementi" di un insieme. La natura degli insiemi gioca un ruolo centrale nei futuri argomenti di calcolo combinatorio e di probabilità, costringendoci ad utilizzare due approcci matematici diversi in base al caso che trattiamo.
+Nella teoria degli insiemi, la cardinalità rappresenta il "numero di elementi" di un insieme. La natura degli insiemi gioca un ruolo centrale nei futuri argomenti di [[Basi_del_Calcolo_Combinatorio|calcolo combinatorio]] e di [[Spazi_di_Probabilita|probabilità]], costringendoci ad utilizzare due approcci matematici diversi in base al caso che trattiamo (si vedano anche i primi problemi applicativi in [[Esercitazione_01_18-Settembre]]).
 
 ## Definizioni Fondamentali
 
@@ -24,7 +24,7 @@ Nella teoria degli insiemi, la cardinalità rappresenta il "numero di elementi" 
 > - Esempi di insiemi numerabili: I Numeri Interi $\mathbb{Z}$, i Numeri Razionali Positivi $\mathbb{Q}_{>0}$.
 
 > [!summary] Definizione: Insieme Discreto
-> Ai fini di questo corso, un insieme si dice **discreto** se è finito oppure numerabile.
+> Ai fini di questo corso, un insieme si dice **discreto** se è finito oppure numerabile (definizione alla base dello studio delle [[Variabili_Discrete_e_Schemi_Successo_Insuccesso|variabili aleatorie discrete]]).
 
 ## L'Infinito Non Numerabile e il Continuo
 Esistono infiniti che sono più "grandi" di $\mathbb{N}$. Tali insiemi si dicono non numerabili e si definisce la loro cardinalità come **cardinalità del continuo** (pari a quella dei Numeri Reali $\mathbb{R}$). 

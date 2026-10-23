@@ -13,7 +13,7 @@ fonti_usate:
 
 # Basi del Calcolo Combinatorio
 
-Lo scopo fondamentale della combinatoria è sempre quello di rispondere alla domanda **"quanti sono?"** gli elementi di un determinato insieme. Molto spesso questo richiede di partizionare un problema complesso in più sottoproblemi elementari.
+Lo scopo fondamentale della combinatoria è sempre quello di rispondere alla domanda **"quanti sono?"** gli elementi di un determinato insieme (ovvero determinarne la [[Insiemi_e_Cardinalità|cardinalità]]). Molto spesso questo richiede di [[Partizioni_di_un_Insieme|partizionare]] un problema complesso in più sottoproblemi elementari, come messo in pratica in [[Esercitazione_01_18-Settembre]] e [[Esercitazione_02_25-Settembre]].
 
 ## Prodotto Cartesiano e Potenza
 
@@ -36,7 +36,7 @@ Un passaggio di astrazione essenziale in matematica discreta è considerare un i
 > Se un insieme $A$ ha $\textcolor{blue}{n}$ elementi, allora l'insieme delle parti $\mathcal{P}(A)$ avrà esattamente $2^{\textcolor{blue}{n}}$ elementi.
 
 > [!quote] Dimostrazione
-> Sfruttiamo una geniale corrispondenza biunivoca: associamo ad ogni sottoinsieme una sequenza binaria di lunghezza $\textcolor{blue}{n}$ (definita come "funzione indicatrice").
+> Sfruttiamo una geniale corrispondenza biunivoca: associamo ad ogni sottoinsieme una sequenza binaria di lunghezza $\textcolor{blue}{n}$ (definita come "[[Variabili_Discrete_e_Schemi_Successo_Insuccesso|funzione indicatrice]]").
 > Mettiamo un $1$ se l'elemento appartiene al sottoinsieme e uno $0$ se non appartiene. Dal momento che per ogni elemento abbiamo due scelte (incluso o escluso), e l'associazione è invertibile e perfetta, la cardinalità dell'insieme delle parti è esattamente $2^{\textcolor{blue}{n}}$.
 
 **Esempio pratico con $A = \{a, b, c\}$:**
@@ -61,7 +61,7 @@ Nella costruzione e nel conteggio degli insiemi, il rischio più grande è quell
 Se costruiamo forzatamente l'insieme scegliendo prima due numeri pari (es. $\{2,4\}$) e poi due numeri qualsiasi tra i restanti (es. $\{6,7\}$), otterremo l'insieme $\{2,4,6,7\}$. Il problema è che avremmo potuto ottenere *esattamente lo stesso insieme* partendo dai numeri $\{2,6\}$ e pescando successivamente $\{4,7\}$. 
 Per risolvere questo difetto, bisogna spezzare il problema in classi di equivalenza mutuamente esclusive (esattamente 2 pari, esattamente 3 pari, esattamente 4 pari) e sommarne i risultati individuali in maniera sicura (la somma dà $53$).
 
-**I Pugnetti e le Simmetrie:** In un gruppo di 10 amici che si scambiano un pugnetto, possiamo contare tutte le interazioni in sequenza: abbiamo $10$ possibilità per il primo e $9$ per il secondo, ovvero $10 \cdot 9 = 90$ sequenze possibili (questo è un **prodotto condizionato**). Tuttavia, l'interazione A $\to$ B è fisicamente identica a B $\to$ A. Per evitare il doppio conteggio ci basterà semplicemente dividere il risultato a metà ($45$).
+**I Pugnetti e le Simmetrie:** In un gruppo di 10 amici che si scambiano un pugnetto, possiamo contare tutte le interazioni in sequenza: abbiamo $10$ possibilità per il primo e $9$ per il secondo, ovvero $10 \cdot 9 = 90$ sequenze possibili (questo è un **prodotto condizionato**, che porterà direttamente al concetto di [[Disposizioni_e_Combinazioni]]). Tuttavia, l'interazione A $\to$ B è fisicamente identica a B $\to$ A. Per evitare il doppio conteggio ci basterà semplicemente dividere il risultato a metà ($45$).
 
 ---
 

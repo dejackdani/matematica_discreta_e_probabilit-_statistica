@@ -8,7 +8,7 @@ fonti_usate: ["[[MdP20260923.md]]", "[[lezioniNew.pdf]]"]
 
 # Disposizioni e Combinazioni
 
-Questi due concetti fondanti della matematica discreta formalizzano l'estrazione e il raggruppamento degli elementi a partire da un insieme madre di cardinalità $\textcolor{blue}{n}$.
+Questi due concetti fondanti della matematica discreta estendono le [[Basi_del_Calcolo_Combinatorio]] e formalizzano l'estrazione e il raggruppamento degli elementi a partire da un insieme madre di [[Insiemi_e_Cardinalità|cardinalità]] $\textcolor{blue}{n}$ (con applicazioni dirette in [[Esercitazione_02_25-Settembre]] e [[Esercitazione_03_02-Ottobre]]).
 
 ## Disposizioni
 
@@ -48,7 +48,7 @@ L'eleganza di questa formula mostra immediatamente la simmetria profonda tra l'i
 ### Identità di Ricorrenza (Regola di Pascal)
 
 > [!info] Teorema: Regola di Pascal
-> Un'importante proprietà ricorsiva ci permette di calcolare le combinazioni sfruttando il partizionamento. 
+> Un'importante proprietà ricorsiva ci permette di calcolare le combinazioni sfruttando il [[Partizioni_di_un_Insieme|partizionamento]]. 
 > $$ \binom{\textcolor{blue}{n}}{\textcolor{purple}{a}} = \binom{\textcolor{blue}{n}-1}{\textcolor{purple}{a}} + \binom{\textcolor{blue}{n}-1}{\textcolor{purple}{a}-1} $$
 
 > [!quote] Dimostrazione
@@ -60,7 +60,7 @@ L'eleganza di questa formula mostra immediatamente la simmetria profonda tra l'i
 ### Generalizzazione: Combinazioni Tri-variate (Multinomiali)
 
 > [!summary] Definizione: Combinazioni Tri-variate
-> Anziché dividere l'insieme iniziale in soli due gruppi (l'insieme e il suo complementare), lo si può partizionare in tre insiemi $A, B, C$ di cardinalità $\textcolor{purple}{a}, \textcolor{teal}{b}, \textcolor{darkgreen}{c}$ (tali che $\textcolor{purple}{a}+\textcolor{teal}{b}+\textcolor{darkgreen}{c} = \textcolor{blue}{n}$).
+> Anziché dividere l'insieme iniziale in soli due gruppi (l'insieme e il suo complementare), lo si può partizionare in tre insiemi $A, B, C$ di cardinalità $\textcolor{purple}{a}, \textcolor{teal}{b}, \textcolor{darkgreen}{c}$ (tali che $\textcolor{purple}{a}+\textcolor{teal}{b}+\textcolor{darkgreen}{c} = \textcolor{blue}{n}$), come approfondito in [[Combinazioni_con_Ripetizione_e_Fibonacci]].
 > In modo naturale, estendiamo la formula al caso tri-variato:
 > $$ \binom{\textcolor{blue}{n}}{\textcolor{purple}{a},\textcolor{teal}{b},\textcolor{darkgreen}{c}} = \frac{\textcolor{blue}{n}!}{\textcolor{purple}{a}! \cdot \textcolor{teal}{b}! \cdot \textcolor{darkgreen}{c}!} $$
 

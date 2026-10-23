@@ -39,7 +39,8 @@ Questo è il catalogo globale di tutte le definizioni formali, dei teoremi e del
 
 ## Partizioni
 **Pagina:** [[Partizioni_di_un_Insieme]]
-- **Definizioni:** Partizione di un Insieme, Blocchi.
+- **Definizioni:** Partizione di un Insieme, Blocchi, Numeri di Bell ($B_n$), Triangolo di Bell, Numeri di Stirling di Seconda Specie ($S_{n,k}$), Triangolo di Stirling.
+- **Teoremi/Proposizioni:** Formula Ricorsiva per i Numeri di Bell ($B_n = \sum_{h=0}^{n-1} \binom{n-1}{h} B_h$), Formula Ricorsiva per i Numeri di Stirling ($S_{n,k} = S_{n-1,k-1} + k S_{n-1,k}$), Formula Esplicita per i Numeri di Stirling tramite Funzioni Suriettive ($S_{n,k} = \frac{1}{k!} \sum_{i=0}^k (-1)^i \binom{k}{i} (k-i)^n$).
 
 ## Statistica Descrittiva di Base
 **Pagina:** [[Statistica_Descrittiva_di_Base]]

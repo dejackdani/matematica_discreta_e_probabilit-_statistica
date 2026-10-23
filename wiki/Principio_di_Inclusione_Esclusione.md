@@ -8,7 +8,7 @@ fonti_usate: ["[[MdP20260930.md]]", "[[MDP Domande orale.pdf]]"]
 
 # Principio di Inclusione-Esclusione, Sequenze k-piene e Scombussolamenti
 
-Questa pagina illustra il Principio di Inclusione-Esclusione, un metodo fondamentale per calcolare la cardinalità dell'unione di più insiemi. Vengono inoltre presentate due applicazioni pratiche: il calcolo delle sequenze k-piene e degli scombussolamenti (derangements).
+Questa pagina illustra il Principio di Inclusione-Esclusione, un metodo fondamentale per calcolare la [[Insiemi_e_Cardinalità|cardinalità]] dell'unione di più insiemi (e base per la probabilità dell'unione in [[Spazi_di_Probabilita]]). Vengono inoltre presentate due applicazioni pratiche basate su [[Disposizioni_e_Combinazioni]]: il calcolo delle sequenze $k$-piene (strettamente legate ai numeri di Stirling in [[Partizioni_di_un_Insieme]]) e degli scombussolamenti (*derangements*), approfonditi negli esercizi di [[Esercitazione_03_02-Ottobre]].
 
 ## Il Principio di Inclusione-Esclusione per 2 e 3 insiemi
 
@@ -99,6 +99,6 @@ $$ \textcolor{blue}{n}! \sum_{\textcolor{darkgreen}{i}=0}^{\textcolor{blue}{n}} 
 > [!question]- Cos’è uno scombussolamento? (x2)
 > **Risposta:**
 > Uno scombussolamento è una permutazione in cui nessun elemento rimane al suo posto. Per esempio (3 2 1 4) è uno scombussolamento. Il numero di scombussolamenti di lunghezza $\textcolor{blue}{n}$ è:
-> $$ \sum_{\textcolor{green}{i}=0}^{\textcolor{blue}{n}} (-1)^{\textcolor{green}{i}} (\textcolor{blue}{n})_{\textcolor{blue}{n}-\textcolor{green}{i}} $$
+> $$ \sum_{\textcolor{darkgreen}{i}=0}^{\textcolor{blue}{n}} (-1)^{\textcolor{darkgreen}{i}} (\textcolor{blue}{n})_{\textcolor{blue}{n}-\textcolor{darkgreen}{i}} $$
 > Che si può anche scrivere (usando i fattoriali) come:
-> $$ \textcolor{blue}{n}! \sum_{\textcolor{green}{i}=0}^{\textcolor{blue}{n}} \frac{(-1)^{\textcolor{green}{i}}}{\textcolor{green}{i}!} $$
+> $$ \textcolor{blue}{n}! \sum_{\textcolor{darkgreen}{i}=0}^{\textcolor{blue}{n}} \frac{(-1)^{\textcolor{darkgreen}{i}}}{\textcolor{darkgreen}{i}!} $$
