@@ -8,17 +8,18 @@ tags:
 data_creazione: 2026-10-19
 fonti_usate:
   - "[[MdP20261016.md]]"
+  - "[[MdP20261023.md]]"
   - "[[lezioniNew.pdf]]"
   - "[[MDP Domande orale.pdf]]"
 stato: "🔴 Da Iniziare"
 difficolta: Media
 ultimo_ripasso:
-tempo_stimato: 25 min
+tempo_stimato: 30 min
 ---
 
-# Probabilità Condizionale, Probabilità Totali e Formula di Bayes
+# Probabilità Condizionale, Formula di Bayes ed Eventi Indipendenti
 
-La **probabilità condizionale** modella come si evolve la valutazione di probabilità di un evento quando si acquisiscono nuove informazioni sul risultato del fenomeno aleatorio, ovvero quando si sa già (o si vuole imporre) che l'esito appartenga a un determinato sottoinsieme dello [[Spazi_di_Probabilita|spazio campionario]].
+La **probabilità condizionale** modella come si evolve la valutazione di probabilità di un evento quando si acquisiscono nuove informazioni sul risultato del fenomeno aleatorio, ovvero quando si sa già (o si vuole imporre) che l'esito appartenga a un determinato sottoinsieme dello [[Spazi_di_Probabilita|spazio campionario]]. Da essa discendono anche la **Formula delle Probabilità Totali**, la **Formula di Bayes** e il concetto formale di **indipendenza stocastica** tra eventi.
 
 ---
 
@@ -171,6 +172,57 @@ Si sceglie un cassetto a caso tra i $6$ e si trova una moneta d'oro (evento $\te
 
 ---
 
+> [!warning] ⚠️ Sezione Ricostruita da Dispense (Lezione del 21 Ottobre - Assenza a Lezione)
+> La seguente sezione sugli **Eventi Indipendenti** (§4) è stata ricostruita autonomamente dalla bibbia del corso ([[lezioniNew.pdf]], Capitolo 5, §6, pp. 54–55) per coprire la prima parte della lezione di Mercoledì 21 Ottobre 2026 non registrata in aula, integrata con il caso studio sull'aggiornamento delle credenze spiegato dal docente nella lezione del 23 Ottobre ([[MdP20261023.md]]).
+
+## 4. Eventi Indipendenti
+
+Nella modellizzazione probabilistica capita frequentemente che il verificarsi di un evento $\textcolor{teal}{A}$ non alteri in alcun modo la probabilità che si verifichi un altro evento $\textcolor{blue}{B}$ (ad esempio quando si effettuano lanci successivi di un dado o estrazioni **con rimpiazzo** da un'urna).
+
+> [!summary] Definizione: Eventi Indipendenti
+> Due eventi $\textcolor{teal}{A}$ e $\textcolor{blue}{B}$ si dicono **indipendenti** se il fatto che uno dei due accada non modifica la probabilità che accada anche l'altro, ovvero (qualora $P(\textcolor{teal}{A}) > 0$ e $P(\textcolor{blue}{B}) > 0$):
+> $$P(\textcolor{blue}{B}|\textcolor{teal}{A}) = P(\textcolor{blue}{B}) \qquad \text{e} \qquad P(\textcolor{teal}{A}|\textcolor{blue}{B}) = P(\textcolor{teal}{A})$$
+> Ricordando la definizione di probabilità condizionale $P(\textcolor{blue}{B}|\textcolor{teal}{A}) = \frac{P(\textcolor{teal}{A} \cap \textcolor{blue}{B})}{P(\textcolor{teal}{A})}$, entrambe le condizioni equivalgono alla relazione simmetrica (valida anche quando uno degli eventi ha probabilità nulla):
+> $$P(\textcolor{teal}{A} \cap \textcolor{blue}{B}) = P(\textcolor{teal}{A}) \cdot P(\textcolor{blue}{B})$$
+> In modo analogo si definisce l'indipendenza di $n$ eventi $\textcolor{teal}{A_1}, \dots, \textcolor{teal}{A_n}$ (la probabilità dell'intersezione coincide con il prodotto delle singole probabilità).
+
+### Esempi Fondamentali dalle Dispense ([[lezioniNew.pdf]], pp. 54–55)
+
+1. **Estrazioni con rimpiazzo da un'urna (Esempio 5.16):**
+   Un'urna contiene $4$ palline bianche e $3$ rosse ($7$ in totale). Si estraggono $2$ palline **con rimpiazzo** (reintroducendo nell'urna la prima pallina estratta prima della seconda estrazione). *È più probabile che le due palline estratte siano dello stesso colore o di colore diverso?*
+   Sia $\textcolor{blue}{B_{\textcolor{purple}{i}}}$ l'evento *"pallina bianca all'estrazione $\textcolor{purple}{i}$"* e $\textcolor{red}{R_{\textcolor{purple}{i}}}$ l'evento *"pallina rossa all'estrazione $\textcolor{purple}{i}$"*. L'evento $\textcolor{teal}{E} = \text{"estrazione di 2 palline dello stesso colore"}$ si decompone nell'unione disgiunta:
+   $$\textcolor{teal}{E} = (\textcolor{blue}{B_1} \cap \textcolor{blue}{B_2}) \cup (\textcolor{red}{R_1} \cap \textcolor{red}{R_2})$$
+   Poiché le estrazioni avvengono con rimpiazzo, $\textcolor{blue}{B_1}$ e $\textcolor{blue}{B_2}$ sono **indipendenti** (così come $\textcolor{red}{R_1}$ e $\textcolor{red}{R_2}$), pertanto:
+   $$P(\textcolor{teal}{E}) = P(\textcolor{blue}{B_1} \cap \textcolor{blue}{B_2}) + P(\textcolor{red}{R_1} \cap \textcolor{red}{R_2}) = P(\textcolor{blue}{B_1})P(\textcolor{blue}{B_2}) + P(\textcolor{red}{R_1})P(\textcolor{red}{R_2}) = \frac{4}{7}\cdot\frac{4}{7} + \frac{3}{7}\cdot\frac{3}{7} = \frac{16 + 9}{49} = \frac{25}{49} > \frac{1}{2}$$
+   È quindi leggermente più probabile ottenere $2$ palline dello stesso colore ($\frac{25}{49}$) piuttosto che di colore diverso ($\frac{24}{49}$).
+
+2. **Sequenze di prove indipendenti e invarianza rispetto all'ordine (Esempio 5.17):**
+   Lanciando un dado, diciamo di ottenere un **successo** ($1$) se esce un numero $\ge 5$ (probabilità $p = \frac{2}{6} = \frac{1}{3}$) e un **insuccesso** ($0$) se esce un numero $\le 4$ (probabilità $1-p = \frac{2}{3}$).
+   Lanciando il dado $8$ volte, qual è la probabilità di ottenere la specifica sequenza `00101001`?
+   Poiché i lanci sono prove indipendenti tra loro, la probabilità dell'intersezione è il prodotto delle probabilità dei singoli esiti:
+   $$P(\text{00101001}) = \frac{2}{3}\cdot\frac{2}{3}\cdot\frac{1}{3}\cdot\frac{2}{3}\cdot\frac{1}{3}\cdot\frac{2}{3}\cdot\frac{2}{3}\cdot\frac{1}{3} = \left(\frac{1}{3}\right)^3 \left(\frac{2}{3}\right)^5$$
+   *(Nota: sul testo della dispensa gli esponenti sono riportati con un refuso invertito $\left(\frac{1}{3}\right)^5 \left(\frac{2}{3}\right)^3$, ma il principio concettuale è fondamentale)*: **la probabilità di una specifica sequenza di prove indipendenti non dipende dall'ordine in cui si susseguono i successi e gli insuccessi, ma esclusivamente dal numero totale di successi e di insuccessi**. Ad esempio, la sequenza `00000111` ha esattamente la stessa probabilità di `00101001`. Questa osservazione è il pilastro su cui si fonda la costruzione delle [[Variabili_Discrete_e_Schemi_Successo_Insuccesso|variabili aleatorie binomiali]].
+
+---
+
+### Caso Studio Sottile: Apparente Indipendenza e "Aggiornamento delle Credenze" (Lezione 23 Ottobre - Es. 6.9)
+Si hanno a disposizione due monete: una **truccata** ($\textcolor{teal}{A_1}$, che dà testa con probabilità $0.6$) e una **regolare** ($\textcolor{teal}{A_2}$, che dà testa con probabilità $0.5$). Si sceglie una moneta a caso ($P(\textcolor{teal}{A_1}) = P(\textcolor{teal}{A_2}) = \frac{1}{2}$) e la si lancia più volte.
+Consideriamo gli eventi $\textcolor{blue}{E_1} = \text{"testa al 1° lancio"}$ ed $\textcolor{blue}{E_2} = \text{"testa al 2° lancio"}$. **Sono indipendenti?**
+
+- **L'intuizione ingannevole:** Si potrebbe pensare che, poiché si lancia sempre la stessa moneta e i lanci fisici non si influenzano, $\textcolor{blue}{E_1}$ ed $\textcolor{blue}{E_2}$ siano indipendenti.
+- **La realtà matematica (sono DIPENDENTI):** I lanci sono condizionatamente indipendenti *solo una volta fissata la moneta* ($P(\textcolor{blue}{E_1} \cap \textcolor{blue}{E_2}|\textcolor{teal}{A_1}) = 0.6^2$ e $P(\textcolor{blue}{E_1} \cap \textcolor{blue}{E_2}|\textcolor{teal}{A_2}) = 0.5^2$), ma a priori **noi non sappiamo quale moneta abbiamo in mano**!
+  - Per la formula delle probabilità totali:
+    $$P(\textcolor{blue}{E_1}) = P(\textcolor{blue}{E_2}) = \frac{1}{2}(0.6) + \frac{1}{2}(0.5) = 0.55 \implies P(\textcolor{blue}{E_1})P(\textcolor{blue}{E_2}) = 0.55^2 = 0.3025$$
+  - Calcolando invece la probabilità dell'intersezione $\textcolor{blue}{E_1} \cap \textcolor{blue}{E_2}$ tramite la formula delle probabilità totali:
+    $$P(\textcolor{blue}{E_1} \cap \textcolor{blue}{E_2}) = \frac{1}{2}(0.6)^2 + \frac{1}{2}(0.5)^2 = \frac{0.36 + 0.25}{2} = 0.305 \neq 0.3025$$
+- **Spiegazione tramite l'Aggiornamento delle Credenze (*Belief Updating*):**
+  Osservare che il primo lancio ha dato testa ($\textcolor{blue}{E_1}$) fornisce un'informazione sulla moneta scelta: per la formula di Bayes, la probabilità che la moneta in mano sia quella truccata sale da $0.50$ a:
+  $$P(\textcolor{teal}{A_1}|\textcolor{blue}{E_1}) = \frac{P(\textcolor{blue}{E_1}|\textcolor{teal}{A_1})P(\textcolor{teal}{A_1})}{P(\textcolor{blue}{E_1})} = \frac{0.6 \cdot 0.5}{0.55} = \frac{6}{11} \approx 0.5454$$
+  Poiché ora è più probabile avere in mano la moneta truccata, aumenta anche la probabilità di ottenere testa al secondo lancio!
+  *(Esempio estremo del docente)*: Se lanciassimo la moneta scelta $1000$ volte ottenendo $603$ teste e $397$ croci, avremmo ormai la certezza quasi assoluta ($99.9999\%$) che la moneta impugnata sia quella truccata, e la probabilità di testa al $1001$-esimo lancio diventerebbe praticamente $0.60$. Questo meccanismo di **aggiornamento delle credenze** alla luce delle evidenze osservate è alla base dell'inferenza bayesiana e dei moderni algoritmi di intelligenza artificiale.
+
+---
+
 ## 📝 Domande di Verifica
 
 > [!question]- 25. Qual è la formula delle probabilità totali? Come funziona? A cosa serve? (x2)
@@ -187,4 +239,10 @@ Si sceglie un cassetto a caso tra i $6$ e si trova una moneta d'oro (evento $\te
 >
 > La **formula di Bayes** viene utilizzata per invertire il condizionamento, ossia per calcolare $P(\textcolor{blue}{A}|\textcolor{teal}{B})$ quando è noto o più semplice calcolare $P(\textcolor{teal}{B}|\textcolor{blue}{A})$:
 > $$P(\textcolor{blue}{A}|\textcolor{teal}{B}) = \frac{P(\textcolor{teal}{B}|\textcolor{blue}{A})P(\textcolor{blue}{A})}{P(\textcolor{teal}{B})}$$
-> **Dimostrazione:** Dalla definizione di probabilità condizionale applicata in entrambi i versi si ha $P(\textcolor{blue}{A} \cap \textcolor{teal}{B}) = P(\textcolor{blue}{A}|\textcolor{teal}{B})P(\textcolor{teal}{B})$ e $P(\textcolor{teal}{B} \cap \textcolor{blue}{A}) = P(\textcolor{teal}{B}|\textcolor{blue}{A})P(\textcolor{blue}{A})$. Poiché $\textcolor{blue}{A} \cap \textcolor{teal}{B} = \textcolor{teal}{B} \cap \textcolor{blue}{A}$, uguagliando i secondi membri si ottiene $P(\textcolor{blue}{A}|\textcolor{teal}{B})P(\textcolor{teal}{B}) = P(\textcolor{teal}{B}|\textcolor{blue}{A})P(\textcolor{blue}{A})$, da cui dividendo per $P(\textcolor{teal}{B})$ segue la tesi.
+> **Dimostrazione:** Dalla definizione di probabilità condizionale applicata in entrambi i versi si ha $P(\textcolor{blue}{A} \cap \textcolor{teal}{B}) = P(\textcolor{blue}{A}|\textcolor{teal}{B})P(\textcolor{teal}{B})$ e $P(\textcolor{teal}{B} \cap \textcolor{blue}{A}) = P(\textcolor{teal}{B}|\textcolor{blue}{A})P(\textcolor{teal}{B})$. Poiché $\textcolor{blue}{A} \cap \textcolor{teal}{B} = \textcolor{teal}{B} \cap \textcolor{blue}{A}$, uguagliando i secondi membri si ottiene $P(\textcolor{blue}{A}|\textcolor{teal}{B})P(\textcolor{teal}{B}) = P(\textcolor{teal}{B}|\textcolor{blue}{A})P(\textcolor{blue}{A})$, da cui dividendo per $P(\textcolor{teal}{B})$ segue la tesi.
+
+> [!question]- Quando due eventi $A$ e $B$ si dicono indipendenti?
+> **Risposta:**
+> Due eventi $\textcolor{teal}{A}$ e $\textcolor{blue}{B}$ si dicono **indipendenti** se il verificarsi di uno non modifica la probabilità che si verifichi l'altro, ossia $P(\textcolor{blue}{B}|\textcolor{teal}{A}) = P(\textcolor{blue}{B})$ (se $P(\textcolor{teal}{A}) > 0$) e $P(\textcolor{teal}{A}|\textcolor{blue}{B}) = P(\textcolor{teal}{A})$ (se $P(\textcolor{blue}{B}) > 0$). Dalla definizione di probabilità condizionale, ciò è equivalente alla condizione simmetrica:
+> $$P(\textcolor{teal}{A} \cap \textcolor{blue}{B}) = P(\textcolor{teal}{A}) \cdot P(\textcolor{blue}{B})$$
+

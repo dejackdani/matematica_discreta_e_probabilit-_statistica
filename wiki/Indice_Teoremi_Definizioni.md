@@ -59,5 +59,11 @@ Questo è il catalogo globale di tutte le definizioni formali, dei teoremi e del
 
 ## Probabilità Condizionale e Formula di Bayes
 **Pagina:** [[Probabilita_Condizionale_e_Bayes]]
-- **Definizioni:** Probabilità Condizionale ($P(A|B) = \frac{P(A \cap B)}{P(B)}$).
+- **Definizioni:** Probabilità Condizionale ($P(A|B) = \frac{P(A \cap B)}{P(B)}$), Eventi Indipendenti ($P(A \cap B) = P(A)P(B)$, ovvero $P(B|A) = P(B)$).
 - **Teoremi/Proposizioni:** Lo Spazio di Probabilità Condizionato $(\Omega, \mathcal{A}, P')$, Formula delle Probabilità Totali ($P(B) = \sum_{i=1}^n P(B|A_i)P(A_i)$), Invarianza della Probabilità a Priori nelle Estrazioni Senza Rimpiazzo ($P(B_i) = \frac{b}{b+r}$), Formula di Bayes ($P(A|B) = \frac{P(B|A)P(A)}{P(B)}$).
+
+## Variabili Aleatorie Discrete e Schemi Successo-Insuccesso
+**Pagina:** [[Variabili_Discrete_e_Schemi_Successo_Insuccesso]]
+- **Definizioni:** Variabile Aleatoria ($X: \Omega \to \mathbb{R}$ tale che $\{\omega \in \Omega : X(\omega) \le a\} \in \mathcal{A}$), Funzione di Ripartizione ($F_X(t) = P(X \le t)$), Variabile Aleatoria Discreta, Densità Discreta Concreta e Astratta ($d_X(h) = P(X = h)$), Variabile Uniforme Discreta ($X \sim U(a_1, \dots, a_n)$), Variabile di Bernoulli ($X \sim B(1, p)$), Funzione Indicatrice/Caratteristica di un Evento ($\chi_A \sim B(1, P(A))$), Schema Successo-Insuccesso (a prove indipendenti e senza rimpiazzo), Variabile Aleatoria Binomiale ($X \sim B(n, p)$), Variabile Aleatoria Ipergeometrica ($X \sim H(n; b, r)$).
+- **Teoremi/Proposizioni:** Proposizione sugli Eventi Generati da una Variabile Aleatoria ($\{X > a\}, \{X < a\}, \{X \ge a\}, \{X = a\}, \{X \neq a\} \in \mathcal{A}$), Proprietà Caratterizzanti della Densità Discreta (supporto discreto, non-negatività, normalizzazione $\sum_h d_X(h) = 1$), Formula della Densità Binomiale ($d_X(k) = \binom{n}{k}p^k(1-p)^{n-k}$ e normalizzazione tramite Binomio di Newton), Formula della Densità Ipergeometrica ($d_X(k) = \frac{\binom{b}{k}\binom{r}{n-k}}{\binom{b+r}{n}}$ con dominio $\max(0, n-r) \le k \le \min(n, b)$).
+

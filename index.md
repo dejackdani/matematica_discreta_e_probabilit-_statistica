@@ -23,7 +23,8 @@ Qui troverai un catalogo strutturato di tutti i concetti, regole, ed entità est
 
 ## 5. Teoria della Probabilità
 * [[Spazi_di_Probabilita]]: Fenomeni deterministici e aleatori, $\sigma$-algebra di eventi, assiomi di Kolmogorov, spazio di probabilità uniforme discreto ed esempi classici (dadi, lotto).
-* [[Probabilita_Condizionale_e_Bayes]]: Definizione e interpretazione geometrica della probabilità condizionale, spazio di probabilità condizionato, Formula delle Probabilità Totali, estrazioni senza rimpiazzo, Formula di Bayes e paradosso dei tre comodini.
+* [[Probabilita_Condizionale_e_Bayes]]: Definizione e interpretazione geometrica della probabilità condizionale, spazio di probabilità condizionato, Formula delle Probabilità Totali, estrazioni senza rimpiazzo, Formula di Bayes, paradosso dei tre comodini, eventi indipendenti e aggiornamento delle credenze.
+* [[Variabili_Discrete_e_Schemi_Successo_Insuccesso]]: Definizione formale di variabile aleatoria e funzione di ripartizione, densità discreta (concreta e astratta), variabili uniformi, variabili di Bernoulli e funzione indicatrice $\chi_A$, schemi successo-insuccesso, variabili binomiali $B(n,p)$ e variabili ipergeometriche $H(n;b,r)$.
 
 ## 6. Esercitazioni (EserciziMDPnew)
 * [[Esercitazione_01_18-Settembre]]: Esercizi su combinatoria intuitiva

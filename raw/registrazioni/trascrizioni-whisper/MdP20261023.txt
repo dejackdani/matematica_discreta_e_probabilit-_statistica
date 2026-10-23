@@ -1,0 +1,3468 @@
+Allora, stiamo parlando di variabili discrete.
+Allora, cosa abbiamo imparato? Facciamo un piccolo riassunto delle ultime cose viste.
+Allora, abbiamo detto che in generale è una variabile aleatoria,
+e ora la dobbiamo pensare come una quantità aleatoria,
+quindi un numero, una quantità, che dipende dall'esito del fenomeno aleatorio,
+cioè dal risultato del fenomeno aleatorio.
+Quindi in questo senso abbiamo detto che è una variabile aleatoria
+che mi chiamo con la lettera X,
+a differenza di quello che si fa solitamente a scuola,
+ma anche nei corsi di analisi, di geometria,
+in cui X è la variabile indipendente,
+in questo caso X indica la funzione.
+D'accordo? È una tradizione della probabilità.
+Un po' parecchio, viste?
+Proviamo ad abbassare, vediamo se da meno.
+Vediamo che succede.
+Allora, diciamo che questa X per me è una funzione
+definita sullo spazio di una vita a valori reali.
+Quindi a ogni risultato la faccia un numero.
+Poi abbiamo delle proprietà, insomma,
+abbiamo visto che c'è i suoi pensieri da maestri identi,
+che per oggi non voglio richiamare.
+Anche perché nel mondo discreto,
+cioè nel caso in cui X assume una quantità finita,
+un numerabile di valori,
+quella proprietà verrà spesso
+praticamente soddisfatta
+e che non tenderemo a minificare.
+Discreta appunto vuol dire
+che assume una quantità discreta di valori
+e in questo caso definiamo la densità discreta di X.
+Densità discreta di X
+è la funzione di X di X di H
+che semplicemente ci dà la probabilità
+che X assume il valore H.
+D'accordo?
+Per ogni H.
+Insomma, è la funzione che ci dice
+le probabilità che vengono assunti
+i vari valori possibili o non possibili.
+Insomma, quando H è un valore che non è possibile
+avrà densità 0.
+Abbiamo visto anche le proprietà
+che caratterizzano la densità
+e queste le richiamiamo.
+Abbiamo fatto che l'X di H
+è diverso da 0
+per una quantità discreta di valori H
+per una quantità discreta di valori
+di H
+e poi abbiamo detto che l'X di H
+deve essere sempre maggiore o uguale a 0
+questo per ogni H.
+chiaramente insomma è sempre una probabilità
+non può essere negativa
+e l'altra proprietà
+anche insomma
+ci dice che se io faccio la somma
+di tutte le probabilità
+tutti i valori della densità
+dobbiamo ottenere 1
+abbiamo questa condizione
+di normalizzazione
+abbiamo anche detto insomma che una funzione
+che soddisfa queste tre proprietà qui
+la chiamiamo una densità astratta
+e come vedremo ci saranno delle situazioni
+in cui definiremo una densità astratta
+come la densità di Poisson
+e poi cercheremo di capire
+se e quando ha senso
+e chiaramente avrà senso applicarlo
+in certa situazione
+abbiamo chiuso la versione
+facendo gli esempi
+più semplici possibili
+di variabili datore
+ma queste sono le variabili uniformi
+le variabili uniformi insomma
+indichiamo in questo modo
+x a densità
+questo simbolo sta a indicare la densità
+della variabile che stiamo considerando
+uniforme sull'insieme
+dei valori
+a1 a n
+questo cosa vuol dire?
+vuol dire che la x assume
+i valori di cui stiamo parlando
+cioè a1 a n
+tutti con la stessa probabilità
+che quindi sarà necessariamente
+1 su a n e sempre
+questo vuol dire appunto
+che la densità x
+calcolata in h
+fa 1 su n
+se h è uno di questi n valori
+e fa 0
+in tutti gli altri casi
+ok questo diciamo ad esempio
+diciamo più semplice
+in cui questi valori hanno tutti la stessa probabilità
+uno può pensare al lancio del dato
+in cui abbiamo 6 possibili valori
+1,2,3,4,5,6
+tutti con quella di danza
+l'altra variabile di cui abbiamo parlato
+che oggi andiamo a generalizzare
+in due modi diversi
+come vedremo
+sono le variabili di Bernoulli
+che sono molto semplici per un altro aspetto
+non perché assume valori con la stessa probabilità
+no perché assume solo due valori
+che sono 0,1
+d'accordo?
+x è di Bernoulli
+se assume
+solo valori
+solo 0,1
+d'accordo?
+quindi secondo me ci sono i due valori
+se uno lo assume con probabilità p
+assume l'altro con probabilità 1-p
+e solitamente si indica con p
+minuscolo la probabilità
+che valga 1
+diciamo in questo caso
+scriviamo che x
+è una variabile di Bernoulli
+1p
+se la sua densità è fatta da lì
+l' densità di x
+calcolata in h
+fa p per h uguale a 1
+fa 1-p
+per h uguale a 0
+e fa 0
+altrimenti
+ok, tutto qua
+non c'è niente di più sorprendente
+di quello che ti ho scritto
+va bene
+tipicamente
+lavorare di Bernoulli
+appunto
+si usa per indicare
+quando qualcosa
+accade
+o non accade
+quindi diciamo in generale
+uno può pensare
+a una situazione di questo tipo
+se consideriamo
+un evento A
+possiamo usare
+questa variabile
+x
+che vale
+1 se A accade
+0 se non accade
+se A non accade
+questa è quella che si chiama
+la funzione
+indicatrice di A
+appunto ci dà informazione
+sul fatto che A
+è accaduto oppure no
+ad esempio
+superare un esame
+appunto
+A
+se A è superare un esame
+diciamo
+questa variabile
+vale
+1
+se l'esame è superato
+vale 0
+se non è superato
+ok
+se appunto si dice
+x si chiama
+funzione
+A
+indicatrice di A
+solitamente si indica
+non lo useremo quasi mai
+insomma
+però
+si indica
+chi di A
+questa è la x
+chi di A
+insomma è un nome
+chiaramente questa
+chi di A
+è una variabile di Bernoulli
+perché vale 0,1
+quando abbiamo una variabile
+che vale 0,1
+è sempre la variabile di Bernoulli
+per definizione
+e dobbiamo adesso capire
+chi è P
+P
+per definizione
+di variabile di Bernoulli
+è la probabilità
+che valga 1
+P
+è uguale
+alla probabilità
+che questa variabile
+valga 1
+ma quando è che vale 1?
+quando accade A
+quindi scrivere
+x uguale a 1
+o scrivere A
+è la stessa cosa
+quindi la probabilità
+che x uguale a 1
+è la probabilità
+che accada A
+ok?
+questo è un modo diverso
+di la stessa cosa
+dire che x uguale a 1
+che A
+accade
+per definizione
+è la stessa cosa
+e quindi diciamo
+che questa
+chi di A
+è proprio
+x
+o P di A
+x
+è proprio
+B
+1
+P di A
+ok?
+niente sorprendente
+non c'è neanche da fare
+esempio
+insomma
+è proprio
+una cosa molto
+elementare
+domande?
+bene
+allora
+come anticipato
+questo un po'
+chiude
+il ripasso
+della scorsa
+con questa piccola
+integrazione
+osservazione
+adesso invece
+vogliamo
+generalizzare
+le variabili
+Bernoulli
+come anticipato
+lo vogliamo fare
+in due modi diversi
+anzi
+in teoria
+si può fare
+in tanti modi diversi
+poi ne vedremo
+due nel dettaglio
+in quelli che si chiamano
+schemi successo-insuccesso
+ok
+allora cos'è uno schema successo-insuccesso?
+questo schema
+diciamo
+uno schema successo-insuccesso
+successo-insuccesso
+SI
+che cos'è?
+è una
+diciamo
+sequenza
+di n tentativi
+n prove
+è
+una sequenza
+di n prove
+o tentativi
+che possono andare bene
+o andare male
+che possono andare in successo
+o in successo
+che possono
+andare
+bene
+o male
+d'accordo?
+questo diciamo
+bene o male
+diciamo
+successo-insuccesso
+va bene?
+quando abbiamo una situazione
+di questo tipo
+siamo
+interessati a considerare
+la variabile
+aleatoria
+x
+data dal numero
+di successi
+negli n tentativi
+quindi x
+è uguale
+al numero
+di successi
+negli n tentativi
+ok
+chiaramente
+la definizione
+del successo
+è molto generale
+in generale
+a priori
+non abbiamo
+una condizione
+specifica
+per noi
+successo
+vorrà semplicemente
+dire che
+un certo evento
+accade
+facciamo degli esempi
+esempi
+esempio
+uno
+andiamo sempre
+lancio
+un dato
+lancio
+un dato
+5 volte
+5 volte
+diciamo che per noi
+il successo
+è ottenere 6
+quindi alla fine
+vogliamo considerare
+la variabile
+aleatoria
+successo
+è uguale a 6
+e quindi x
+il numero di successi
+sarà il numero di volte
+in cui esce 6
+ok
+oppure un altro esempio
+potrebbe essere
+il seguente
+abbiamo
+un'urna
+qui dentro
+abbiamo
+un po' di palline
+bianche
+un po' di palline
+rosse
+abbiamo
+urna
+diciamo anche
+come ho disegnato qua
+con 4 rosse
+e 3 bianche
+facciamo
+3 estrazioni
+4 estrazioni
+3 estrazioni
+in questo caso
+per noi
+il successo
+è uguale
+al
+bianco
+e quindi
+x
+è uguale
+al numero
+di bianche
+estratte
+ok
+però
+uno
+può anche
+considerare
+altri tipi
+di successi
+insomma
+per mantenere
+questo esempio
+2
+è uguale
+rischio
+2
+Grazie.
+Uno può cambiare il concetto di successo e può dire che abbiamo un successo, possiamo
+cambiare il concetto di successo, chiaramente non cambiando bianco e rosso che sono tutte
+equivalenti, però ad esempio non può dire che un successo, vuol dire che una pallina
+estratta ha lo stesso colore della precedente.
+Una pallina estratta ha lo stesso colore della precedente.
+Ok, ora se facciamo tre estrazioni, diciamo, in questo concetto di successo quanti sono
+i tentativi. Sono due i tentativi, perché chiaramente la prima estrazione non è un tentativo
+di successo. Possiamo avere successo quando estraiamo la seconda o quando estraiamo la
+terza. Quindi questo qui, che chiaramente X è il numero di successi, come sempre, e qui
+abbiamo due tentativi. Abbiamo due tentativi. Questo vuol dire che, insomma, appunto il concetto
+di successo e successo è molto vario. Uno può definire successo quello che vuole, come qualunque
+cosa che accade, insomma, in una certa sequenza, che può accadere, o non accadere, o non accadere,
+o non accadere, o non accadere, o non accadere, o non accadere, o non accadere, o non accadere,
+come successo. Ok? Quindi, ora quello che vogliamo fare è cercare di distinguere due famiglie
+importanti di schermo successo in successo, di cui gli esempi di 1 e 2, insomma, sono dei rappresentanti.
+l'esempio 3, questo qui invece è un esempio un po' così, come dire, che non ricadono
+la famiglia, insomma, sono degli esempi che uno poi va a studiare quando capitano caso
+per caso. L'esempio 1, magari facciamo così, prima di inquadrarli in famiglie generali,
+che noi risolviamo. Calcoliamo le densità in questi esempi. Calcoliamo, se lo chiamiamo
+3, calcoliamo, quindi facciamo un esercizio, la densità di x nei 3 esempi.
+Allora, 1. Allora, facciamo un dato 5 volte successo uguale a 6. Ok? Quindi che valori
+può assumere x? Questa è sempre la prima domanda che ci facciamo. x assume valori da 0 a 5.
+x assume valori da 0 a 5. Quindi dobbiamo calcolare la probabilità che valga 0, la probabilità
+che valga 1, 2, 3, 4, 5. Beh, cominciamo. Qual è la probabilità che valga 0?
+chi me la dice? Qual è la probabilità che su 5 tentativi non esca mai il 6?
+Forza e coraggio. Quanto? Allora, i 5 tentativi sono indipendenti. Il risultato di un tentativo
+non influenza è il risultato di un altro tentativo. Quindi se per 5 volte non vogliamo
+6, ci basta calcolare la probabilità che una volta non otteniamo 6 e poi lo modificiamo
+per se stesso 5 volte. La probabilità di non ottenere 6 a primo tentativo
+è il 5 e 5 sesti. Perché ho 5 risultati favorevoli sui 6 possibili a non avere mai 6. Quindi
+ho questi 5 sesti alla sesta. Ritorna? Siamo alla quinta. Ok. Ok. Alla quinta.
+c'è la probabilità che x vale 1. Ora, x vale 1 vuol dire che otteniamo 6 una volta
+nei 5 tentativi e otteniamo qualcosa di diverso da 6 e ne rimane più 4. Quindi come lo possiamo
+calcolare questo? Prima di tutto scegliamo in quale tentativo otteniamo 6. Questo lo possiamo
+scegliere in 5 modi di differenza. Dopodiché una volta che abbiamo fissato il tentativo in cui
+otteniamo 6, vogliamo che negli altri 4 non otteniamo 6 e in quello lì otteniamo 6. Quindi
+quale sarà la probabilità? Il discorso sull'indipendenza che abbiamo fatto prima continua a valere.
+Cioè ogni lancio ha indipendenza dagli altri. Quindi devo avere 5 sesti 4 volte. Nei 4 tentativi
+che non danno 6. E poi in quello che ho scelto in cui devo ottenere 6 ho probabilità 1 sesto.
+Bene, questo discorso uno lo generalizza anche agli altri. La probabilità è che x vale 2.
+Cosa vuol dire? Ottengo 6 per 2 volte nei 5 tentativi. Quindi devo scegliere 2 tentativi in cui ottenere 6.
+E questi li posso scegliere in... Quanti modi posso scegliere i 2 tentativi che danno 6?
+5 su 2. Qualcuno lo dice un po' sotto il suo voce.
+Ok? 5 su 2 sono i modi in cui scelgo i 2 tentativi che danno 6.
+Devo dire che su questi 2 tentativi devo ottenere 6, quindi ho un sesto alla seconda.
+e negli altri 3 non devo ottenere 6, quindi ho 5 sesti alla terza.
+Ok?
+E così via negli altri.
+Insomma, vado a fare la possibilità che x vale a 3 e ormai abbiamo capito come funziona.
+Questo viene da scegliere di 3 posti su 5 in cui ottengo 6, 5 su 3, e poi avrò un sesto alla terza,
+del 5 sesti alla seconda.
+Ok?
+E così via negli altri casi, 4, 5, 6, insomma, sono del tutto analoghi.
+Poi lo speriamo per bene in generale, come io ho anticipato.
+Domande su questo esempio?
+Benissimo, vediamo l'esempio 2 invece.
+L'esempio 2 ha una natura diversa, no?
+Qui abbiamo quest'una che ha 3 palline bianche e 4 rosse.
+Facciamo 3 estrazioni.
+Allora, in questo caso,
+io lo imposterei, insomma,
+considerando casi favori,
+i risultati possibili.
+I risultati possibili sono tutte le combinazioni di 3 palline scelte tra le 7.
+E qui abbiamo
+7 su 3 risultati possibili.
+Diciamo, sono le 3 palline estratte
+tra le 7 nell'ultimo.
+Ok?
+Io ho 7 su 3 modi,
+scegliere 3 palline tra le 7.
+Vabbè, dovete che
+andiamo a vedere x, insomma,
+x sono le palline bianche estratte,
+faccio 3 estrazioni,
+va bene, x assume valori
+da 0 a 3.
+Ok, quindi dobbiamo calcolare
+la probabilità che x valga 0,
+1, 2, 3.
+Ok?
+Vabbè, cominciamo anche qua.
+Quanta è qui la probabilità che x
+valga 0?
+Allora,
+sotto abbiamo 7 su 3
+che sono i risultati possibili.
+l'abbiamo già calcolato
+una volta per tutti.
+Questo vale
+ancora per tutti i casi.
+E sopra dobbiamo mettere
+il numero di risultati
+favorevoli
+ad avere x valga 0.
+Cioè, x valga 0
+vuol dire che
+ho estratto
+3 palline rosse.
+Ok?
+E in quanti modi
+posso estrarre
+3 palline rosse?
+Senza l'impiazzo.
+Senza l'impiazzo.
+Quindi, senza l'impiazzo,
+guarda,
+d'altra parte,
+anche 7 su 3
+sono risultati possibili
+se consideriamo
+l'estrazione senza l'impiazzo.
+Quindi, in quanti modi
+posso estrarre
+3 palline rosse?
+4, 3
+vuol dire
+4 su 3
+è corretto.
+Dovevo scegliere
+3 palline rosse
+tra le 4 disponibili.
+Quindi lo posso fare
+in 4 modi
+che è 4 su 3.
+Io ho 4
+ne devo scartare una,
+diciamo.
+Va bene?
+Chi non ha capito
+questo calcolo?
+Alzata,
+alzata.
+Allora.
+C'è qualcuno
+che non ha capito.
+Abbassa bene.
+Proviamo a rivederlo.
+Dobbiamo calcolare
+la probabilità
+che x uguale a 0.
+Quindi cosa vuol dire?
+Che io faccio
+le mie 3 estrazioni
+e il numero di bianche
+che è x
+è uguale a 0.
+Ok?
+Il numero di bianche
+è uguale a 0
+su 3 estrazioni
+vuol dire
+che ho estratto
+3 palline rosse.
+Ti d'accordo?
+Quindi dobbiamo calcolare
+la probabilità
+di estrarre
+3 palline rosse.
+e lo facciamo
+considerando
+lo spazio
+uniforme
+delle terne
+di palline
+che stanno
+nel nulla.
+Diciamo,
+abbiamo nel nulla
+7 palline.
+E chiaramente
+siccome le palline
+sono tutte equivalenti
+alla fine dell'estrazione
+avremo estratto
+3 palline
+a casa
+fra queste 7.
+Quindi
+il modo di scegliere
+3 palline
+fra 7
+è 7 su 3.
+Questo è il numero
+di risultati possibili
+del nostro fenomeno.
+Ok?
+Cioè
+su tutti i modi
+consiglio di scegliere
+3 palline
+fra queste 7.
+Sopra
+ci dobbiamo mettere
+i risultati favorevoli
+cioè
+tutti i modi
+di prendere
+3 palline
+che siano
+tutte e 3 rosse.
+Perché voglio
+x uola a 0?
+Va bene,
+avendo 4 palline
+se devo scegliere 3
+il risultato è 4 su 3.
+Va bene?
+Non so
+l'ho ripetuto un po'
+con le stesse parole
+non è che posso dire
+tanto diversamente
+quindi
+spero che sia
+un pochino più chiaro
+tanto bene.
+Se rimangono dubbi
+venite a chiedere
+all'intervallo
+o a ricevimento
+sempre timidi
+non tutti eh?
+Qualcuno
+è più sociale.
+comunque
+la seconda chance
+per capirlo
+è fare il caso
+x uola a 1.
+x uola a 1
+vuol dire
+che ne staviamo
+una bianca
+nelle nostre tre
+estrazioni.
+Abbiamo un successo.
+I casi possibili
+sono 7 su 3
+come prima.
+non cambiano
+i modi
+di pescare
+capala.
+Adesso cambiano
+risultati favorevoli
+no?
+Perché adesso
+siccome voglio
+una bianca
+vuol dire
+che nelle mie
+tre palline
+estratte
+c'è una bianca
+e due rosse.
+va bene
+e in quanti modi
+posso ottenere
+una bianca
+e due rosse?
+Beh la bianca
+la posso scegliere
+in tre modi
+che ha tre sui
+e la rossa
+la posso scegliere
+anzi
+le rosse
+le posso scegliere
+in
+4 su 2 modi
+posso scegliere
+due rosse
+tra le quattro
+disponibili
+e una bianca
+tra le tre
+disponibili
+e chiaramente
+poi questi
+li moltiplicano
+le due scelte
+sono
+indipendenti
+ok?
+in questo modo
+quindi otteniamo
+la probabilità
+che x uguale a 1
+3 per 4
+fratto
+questo è un problema
+3 per 6
+fratto questo è un problema
+vabbè
+qui possiamo anche
+completarlo
+abbiamo altri due casi
+da fare
+la probabilità
+che x uguale a 2
+ora siamo lanciati
+quanto fa?
+allora
+prima che x uguale a 2
+sotto abbiamo sempre
+7 su 3
+sopra adesso
+se x uguale a 2
+vuol dire che
+nelle mie tre
+problemi stratti
+ne ho due bianche
+e una rossa
+va bene
+ma quella rossa
+quindi la posso
+scegliere
+in 4 su 1 modi
+prendere una rossa
+tra le 4 disponibili
+e poi le due bianche
+le posso scegliere
+in 3 su 2 modi
+lo prendo le due bianche
+fra le 3 disponibili
+infine
+l'ultimo caso
+la probabilità
+che x uguale a 3
+7 su 3
+e sopra
+devo mettere tutti i modi
+in cui posso pescare
+3 palline bianche
+e quanti qua
+posso pescare
+3 palline bianche
+1
+ho 3 palline bianche
+non c'è nessuna r
+io devo prendere
+tutte e 3
+chiaramente
+questo 1
+lo possiamo ottenere
+ancora
+esternando questa forma
+no?
+perché
+vuol dire
+che ne prendiamo
+0 rossa
+quindi abbiamo
+4 su 0
+che fa 1
+e 3 bianche
+3 su 3
+che fa 1
+quindi questo 1
+è anche il risultato
+di 4 su 0
+che è 3 su 3
+però
+è 1
+non c'è nulla da qui
+ok?
+quindi vedete
+i due problemi
+insomma
+che sono comunque
+che è un successo
+e un successo
+hanno una soluzione
+piuttosto diversa
+e il terzo
+caso
+è una soluzione
+ancora
+quindi
+ancora
+più diversa
+andiamo a vederla
+grazie a tutti
+allora
+abbiamo un esempio 3
+ok?
+nell'esempio 3
+abbiamo detto
+x può assumere valori
+0, 1 o 2
+ok?
+x
+assume
+valori
+0, 1 o 2
+ok?
+allora
+calcoliamo
+intanto
+chiaramente
+quando uno
+deve calcolare
+la densità
+può calcolare
+tutti i valori
+tranne 1
+l'ultimo
+sarà dato
+dalla complementarità
+perché la somma
+di tutti
+deve fare
+una cosa
+che prima
+nel primo caso
+non abbiamo neanche completato
+nel secondo
+potremo calcolare
+questi numeri
+e verificare
+che la somma
+fa 1
+se no
+non ci sarebbe
+un problema
+comunque
+magari
+in questo caso
+lo facciamo
+con tutti i dettagli
+vediamo
+partiamo da 2
+cosa vuol dire
+che x
+uguale a 2
+come dice
+qua abbiamo successo
+con una pallina estratta
+allo stesso colore
+della precedente
+quindi
+qui vuol dire
+che abbiamo ottenuto
+3 palline bianche
+ok?
+oppure
+3 palline rosse
+d'accordo?
+quindi
+in questo caso
+la seconda
+è uguale a la prima
+la terza
+è uguale a la seconda
+e abbiamo
+due successi
+ok?
+anche qua
+abbiamo la seconda
+uguale a la prima
+la terza
+uguale a la seconda
+e abbiamo
+due successi
+ok?
+quindi
+per calcolare
+la probabilità
+che x
+è uguale a 2
+in questo caso
+dobbiamo fare
+la probabilità
+di ottenere 3 bianche
+e la probabilità
+di ottenere 3 rossi
+quindi
+la probabilità
+di x
+uguale a 2
+la possiamo calcolare
+usando lo spazio di probabilità di prima
+3 bianche
+più la probabilità di 3 rosse
+ora la probabilità di 3 bianche l'abbiamo già calcolata
+era 1 fratto 7 su 3
+è quella di prima
+qual è la probabilità di ottenere 3 rosse invece?
+esatto, ottenere 3 rosse è uguale a avere 0 bianche
+e quindi questo qui è quello che abbiamo calcolato prima
+che è 4 su 3 fratto 7 su 3
+ok?
+noi rifacciamo questo calcolo
+così scriviamo anche dei numeri
+allora, 7 su 3 è 7 per 6 per 5 fratto 6
+e sopra abbiamo 1 più 4 che fa 5
+5 e 5 semplici
+e quindi fa 1 settimo
+se non ho fatto errori
+quindi la probabilità di avere 2 successi
+in questo schema successi
+successi è un settimo
+va bene?
+calcoliamo adesso la probabilità di avere x uguale a 1
+come si può avere x uguale a 1?
+ci sono tante combinazioni
+x uguale a 1 possiamo avere
+bianco, bianco, rosso
+oppure possiamo avere rosso, rosso, bianco
+oppure bianco, rosso, rosso
+oppure rosso, bianco, bianco
+ok?
+vedete che in questo caso
+l'ordine con cui scriviamo le palline è importante
+mentre nell'esempio 2 non lo era
+quindi per rispondere a questa domanda
+qui con x uguale a 2
+diciamo l'ordine ancora non era importante
+se sono 3 bianche
+l'ordine non è importante
+ma qua sì
+insomma io voglio restare nell'ordine che ho descritto
+quindi devo cambiare anche lo spazio di probabilità
+magari le calcoliamo queste probabilità
+cominciamo dalla prima
+bianco, bianco, rosso
+qual è la probabilità di avere bianco, bianco, rossa?
+vabbè, allora
+iniziamo dalla prima
+in questo caso la probabilità che la prima sia bianca
+in questo caso la probabilità condizionata
+la probabilità che la prima sia bianca
+è
+abbiamo
+dove è tornata?
+abbiamo 3 bianche su 7
+quindi questo è 3 settimini
+la prima bianca
+dopodiché ho tolto la pallina bianca
+voglio che anche la seconda sia bianca
+quindi sono rimaste 2 bianche su 6
+quindi questo fa 2 sesti
+e infine voglio la pallina rossa
+quindi ho tolto 2 palline bianche
+e poi una pallina rossa
+a questo punto sono rimaste 5 palline
+di cui 4 rosse
+e quindi questo
+fa così
+chiaramente uno può
+amplificare un po' di cose
+poi possiamo fare
+la probabilità di avere
+rossa, rossa, bianca
+questo si calcola in modo analogo
+la probabilità che la prima sia rossa
+è 4 settimini
+una volta che la prima è rossa
+la probabilità che anche la seconda sia rossa
+sarà 3 sesti
+e infine la probabilità che la terza sia bianca
+dopo aver tolto le prime due rosse
+sarà
+3 quinti
+abbiamo 3 bianche
+su 5 palline del massimo
+va bene
+e anche qua insomma
+uno può un po' semplificare
+non riesco a risultare
+qui era 4
+su 35
+gli viene 6
+su 35
+questa sequenza p
+secondo voi
+la dobbiamo fare
+o è uguale a questa
+questa
+è uguale a questa
+perché è uguale
+noi studiamo
+con il numero rosse
+non abbiamo
+è proprio in un ordine diverso
+diciamo di sì
+insomma uno può pensare
+che chiaramente
+l'estrazione delle tre palline
+alla fine che cos'è?
+è una disposizione
+di lunghezza 3
+sulle sette palline scelte
+uno pensa magari alle palline
+come se fossero numerate
+non come se fossero dei numeri
+magari pensiamo a delle palline bianche
+come 1, 2, 3
+e delle palline rosse
+come il numero 4, 5, 6, 7
+tutti i numeri sono
+equivalenti
+quindi
+avere questa soluzione qua
+o questa soluzione qui
+è la stessa cosa
+perché qua sto chiedendo
+comunque
+di avere due numeri
+compresi tra
+4, 5, 6, 7
+e un numero
+compreso tra
+1, 2, 3
+e in ogni caso
+possiamo dire
+che il numero
+la probabilità di avere questo
+è uguale a questo
+e la probabilità di avere questo
+è uguale a la probabilità di avere questo
+ok?
+quindi qui abbiamo
+che questo è uguale
+alla probabilità di avere prima una rossa
+e poi due bianche
+e questa è uguale alla probabilità
+di avere prima una bianca
+e poi due rosse
+ok?
+quindi in conclusione
+la probabilità che x vale a 1
+quanto fa?
+fa il doppio di questo
+più il doppio di questo
+cioè fa 8
+più 12
+trentacinquesimi
+quindi 20 trentacinquesimi
+dividiamo per 5
+e rimane 4 settimi
+ok?
+quindi
+la probabilità di avere
+due successi
+è un settimo
+la probabilità di avere
+un successimo
+è 4 settimi
+la probabilità di avere
+due successi
+sarà
+2 settimi
+perché la somma deve fare 1
+ok?
+quindi
+lo possiamo già scrivere
+però lo facciamo lo stesso
+il calcolo
+così che
+lo prendiamo come esercizio
+per esempio
+un po' improvvisato
+è tornato piuttosto interessante
+quindi qua concludiamo
+che la probabilità
+che x uguale a 2
+è 1 meno
+la probabilità
+che x uguale a 0
+che è quella che ci manca
+è 1 meno la probabilità
+che sia 1 meno la che sia 2
+e quindi fa
+2 settimi
+però come dicevo
+la vogliamo anche calcolare
+facciamo questa verifica
+cosa vuol dire
+x uguale a 0?
+x uguale a 0
+vuol dire che abbiamo
+rosso
+bianco-rosso
+oppure bianco-bianco
+non abbiamo mai
+un'estrazione
+uguale alla precedente
+bene
+facciamo il calcolo
+e vediamo
+che probabilità
+hanno queste
+queste due opzioni
+allora
+in questo
+la prima rossa
+era
+4 settimi
+dopo ho estratto la prima rossa
+che la seconda sia bianca
+è 3 sesti
+e poi voglio avere
+la terza
+rossa
+le rosse sono rimaste
+3
+3 qui
+ok
+quest'altro esempio
+invece abbiamo
+la prima bianca
+3 settimi
+ho tolto
+la bianca
+e quindi sono rimaste
+6 palline
+di cui 4 rosse
+quindi 4 sesti
+e poi infine
+adesso sono rimaste
+2 bianche
+sul 5
+ok
+va bene
+vediamo
+cosa possiamo
+concludere qua
+adesso sentite
+io con questo
+e questo
+quindi questo primo
+fa 6
+trentacinquesimi
+quest'altro
+fa 4 trentacinquesimi
+e quindi la probabilità
+che x uguale a 0
+fa 6 più 4
+trentacinquesimi
+che è 10 trentacinquesimi
+dividendo per 5
+otteniamo 2 settimi
+che era quello
+che avevamo già intuito
+però chiaramente
+è importante
+quando l'uomo fa
+un esercizio
+anche all'esame
+cercare di capire
+se
+quando devi calcolare
+tra i valori
+di cui conosciamo
+la somma
+calcoliamo
+quelli più facili
+e l'ultimo
+lo lasciamo
+per la differenza
+in questo caso
+quelle più facili
+hanno i due estremi
+il primo
+è il terzo
+questo era quello
+che uno
+doveva evitare
+diciamo
+poi se avanzano
+10 minuti
+uno se lo fa
+e così
+alla verifica
+che il punto
+è il giusto
+ok?
+va bene
+abbiamo passato
+un'ora a fare
+degli esercizi
+non ci hanno fatto male
+la seconda ora
+invece
+vediamo
+di generalizzare
+i primi due esempi
+il terzo
+è un esempio
+un po' così
+qui in genere
+è un po' così
+è un po' così
+è un po' così
+è un po' così
+è un po' così
+e noi vogliamo
+affrontare
+da un punto di vista
+più teorico
+più generale
+i primi due esempi
+fatti nella prima ora
+il primo ricade
+all'interno
+di quelle che si chiamano
+le variabili
+primoniali
+che si applicano
+ogni qualvolta
+lo schema
+successo
+che dobbiamo studiare
+è
+come si dice
+a prove indipendenti
+lo schema
+successo in successo
+si dice
+a prove indipendenti
+bene
+lo dice la parola stessa
+se i vari tentativi
+sono
+indipendenti
+l'uno dall'altro
+cioè il fatto
+di avere un successo
+in un tentativo
+non cambia
+la probabilità
+di avere successo
+in un altro
+se
+la probabilità
+di avere successo
+in un tentativo
+non è
+influenzata
+diciamo così
+influenzata
+dagli altri
+questa è la prima condizione
+come nel primo
+esempio di prima
+che erano
+i lanci di un dato
+quando il risultato
+del secondo lancio
+di un dato
+non cambia
+la probabilità
+di ottenere successo
+nel terzo lancio
+così via
+e inoltre
+come nel caso del dato
+la probabilità
+di avere successo
+è sempre la stessa
+ad ogni tentativo
+e
+la probabilità
+di avere successo
+è la stessa
+ad ogni tentativo
+come vedremo invece
+nella seconda famiglia
+che andremo a studiare
+che generalizza
+l'esempio 2
+quest'ultima condizione
+sarà ancora soddisfatta
+cioè la probabilità
+di successo
+è la stessa
+in ogni tentativo
+ma i tentativi
+non sono indipendenti
+sono influenzati
+l'uno dall'altro
+e quindi
+insomma
+è un'altra famiglia
+ok
+allora
+se chiamiamo
+chi
+piccolo
+la probabilità
+di avere successo
+di successo
+ad ogni tentativo
+e come d'abitudine
+chiamiamo
+n
+uguale
+al numero
+di tentativi
+allora
+schiamiamo
+in questo caso
+che x
+è una variabile
+di densità binomiale
+qui è
+quasi una coincidenza
+insomma
+una fortunata coincidenza
+che sia due arrolli
+che binomiali
+cominciano a fare
+tra b
+e qua schiamiamo
+b
+n
+p
+e
+osserviamo
+che
+se qui mettiamo
+n uguale a 1
+ritroviamo
+la variabile
+di Bernoulli
+chiaramente
+se noi
+facciamo
+un solo tentativo
+d'accordo
+allora
+i successi possibili
+sono 0 u
+un successo
+se va bene
+0 successo
+se va male
+e la probabilità
+di avere successo
+è p
+quindi la probabilità
+che valga 1
+è proprio p
+e quindi otteniamo
+la variabile
+di Bernoulli
+che abbiamo introdotto
+nella reazione scorsa
+lo diciamo
+e osserviamo
+che
+se n uguale a 1
+allora
+abbiamo un tentativo
+abbiamo un tentativo
+x
+vale
+0
+1
+e ritroviamo
+Bernoulli
+ok
+quindi insomma
+la notazione è coerente
+con quello che abbiamo fatto
+prima
+se mettiamo
+b 1 p
+è proprio la variabile
+di Bernoulli
+che abbiamo visto prima
+ok
+va bene
+a questo punto
+vogliamo scrivere
+la densità
+insomma
+il ragionamento
+l'abbiamo fatto prima
+con il dado
+nel caso
+adesso
+generico
+dobbiamo solo
+estendere
+una idea
+esattamente la stessa
+prima osservazione
+che è la mente
+x
+assume valori
+tra 0 e n
+abbiamo n tentativi
+quindi il numero
+di successi
+è al massimo n
+e al minimo 0
+se fanno tutti male
+quindi x
+assume
+valori
+a 0
+e n
+ok
+e quant'è la probabilità
+fissiamo k
+o a k
+tale che è 0
+minore o uguale a k
+minore o uguale di n
+qual'è la probabilità
+che x è uguale a k
+allora
+questi sono gli n tentativi
+sono n
+io voglio
+che di questi n
+k di uno successo
+e n meno k
+è insuccesso
+quindi chiaramente
+la prima cosa da fare
+come vedete bene
+qua c'è anche la sedia di mezzo
+è scegliere
+quali tentativi
+danno successo
+e quali insuccesso
+chiaramente
+i tentativi
+che mi danno successo
+li posso scegliere
+in n su k
+modi
+ho n tentativi
+e devo scegliere k
+quindi la prima cosa
+da fare
+è questa
+ne scelgo
+un certo numero
+che sono quelli
+in cui voglio
+successo
+e di conseguenza
+scelgo anche quelli
+che mi danno
+il successo
+che sono
+i rimanenti
+riprendo la scritta
+naturalità
+e insomma
+k
+qui dicevo
+la prima cosa
+da fare
+è questo n su k
+sono le scelte
+possibili
+dei k
+tentativi
+che danno successo
+va bene
+perché poi
+come abbiamo già
+streparato prima
+una volta che ho scelto
+quali tentativi
+mi danno successo
+una volta che ho scelto
+questi k
+che probabilità
+ha di accadere
+questa sequenza
+di successi
+insuccessi
+beh
+ogni insuccesso
+ha probabilità
+1-p
+e ogni successo
+ha probabilità
+p
+d'accordo
+quindi quando arrivano
+a moltiplicare
+tutti tra di loro
+ci avrò
+1-p
+n-k
+e p
+k
+non dipende
+dall'ordine
+in cui compagno
+io so quanti sono
+d'accordo
+quindi qua
+avremmo
+p
+alla k
+e 1-p
+alla n-k
+quindi
+questo p alla k
+è la probabilità
+di avere
+successo
+nei k
+tentativi scelti
+k
+tentativi scelti
+e chiaramente
+questo invece
+è la probabilità
+di avere
+un successo
+negli
+n-k
+tentativi
+non scelti
+e rimanenti
+ok
+queste probabilità
+le posso moltiplicare
+tra di loro
+perché per ipotesi
+sono tutte
+indipendenti
+di vari tentativi
+usiamo
+l'indipendenza
+dei vari tentativi
+cioè
+il fatto che ottengo
+un successo
+nel primo
+non mi cambia
+la probabilità
+di avere successo
+nel secondo
+e quindi
+rimane sempre
+p
+p p
+quale che sia
+l'esito
+degli altri risultati
+ok
+questa quindi
+è la densità
+binuniale
+possiamo scrivere
+se vogliamo
+anche in questa forma
+la densità
+binuniale
+calcolata in k
+fa
+m su k
+p alla k
+1-p
+alla m-k
+per k
+che va
+da 0
+fino a m
+e chiaramente
+fa 0
+altrimenti
+e quindi
+la somma
+di tutti questi numeri
+qui
+fa 1
+in particolare
+se uno fa
+la sommatoria
+k
+da 0
+a n
+di questi numeri
+ok
+io sono numeri
+un po' così
+ma alla fine
+non si capisce bene
+che faccia 1
+ma in realtà
+il nostro ragionamento
+ci dice che fa 1
+ora c'è anche
+un modo algebrico
+è molto semplice
+per dire che questo fa 1
+se volete
+ma si
+vi dedico
+30 secondi in più
+su questa cosa
+infatti
+uno può anche dire
+questa cosa
+che 1
+è uguale a 1
+alla n
+qua
+si rilassero
+e quindi
+questo è uguale
+è anche
+a 1
+meno p
+più p
+alla n
+1 è 1
+meno p
+più p
+e qua
+diciamo
+questo si può
+scrivere così
+è una potenza
+di un binomio
+con
+1
+meno p
+e p
+e come si fa
+la potenza del binomio
+si fa esattamente
+in questo modo
+questa è la somma
+k da 0 a n
+n su k
+p alla k
+1 meno p
+alla n
+meno k
+è la formula
+per la potenza del binomio
+ma questa è proprio
+una parentesi
+così
+che possiamo mettere
+possiamo omettere
+se non mi interessa
+e non capite
+quello che sto dicendo
+ok
+bene
+vediamo anche
+l'altro esempio
+se non ci sono domande
+o inutile dirlo
+ma insomma
+forse non è inutile
+queste variabili
+fanno un nome
+sono le domande
+più facili
+da fare
+a un esame
+parla di le variabili
+binomiali
+parla di le variabili
+pergiometri
+è più facile
+che chiedi qualcosa
+di più intricato
+chiaramente
+le variabili binomiali
+li riprenderemo
+più amati
+insomma
+perché non dovremmo dire
+delle cose
+intanto
+quello che ho raccontato
+in questi pochi minuti
+è già una risposta
+l'altra famiglia
+invece
+sono le variabili
+ipergeometriche
+che riguardano proprio
+le estrazioni
+senza rimpiazzo
+la variabili binomiale
+non l'ho detto prima
+uno la incontra
+anche quando ha le estrazioni
+con rimpiazzo
+perché se noi facciamo
+estrazioni
+con rimpiazzo
+allora il risultato
+delle varie estrazioni
+è indipendente
+l'uno dall'altro
+e quindi
+ricade perfettamente
+nel caso
+delle variabili binomiale
+qui invece abbiamo
+quello che si chiama
+lo schema
+successo
+e insuccesso
+senza rimpiazzo
+e lo rinunciamo
+proprio così
+con le palline
+dopo di che
+chiaramente
+uno lo potrà applicare
+ogni qualvolta
+insomma
+può immaginare
+gli oggetti
+che ha a disposizione
+come se fossero
+delle palline colorate
+e vedremo
+degli esercizi
+insomma
+anche per la prossima settimana
+implicati
+dalla prossima settimana
+comunque qua
+lo presentiamo
+con le palline
+come dicevo prima
+abbiamo
+la nostra bella urna
+un po' di palline bianche
+e un po' di palline rosse
+abbiamo urna
+con
+B palline bianche
+e R palline rosse
+ok
+e
+effettuiamo
+N estrazioni
+quindi abbiamo
+tre parametri
+in questo caso
+il numero di palline bianche
+il numero di palline rosse
+e il numero di estrazioni
+e qua
+effettuiamo
+effettuiamo
+N estrazioni
+senza l'impiazza
+scelto
+di tre parametri
+del problema
+chiaramente
+N
+della resta
+è minore
+di B più E
+se no
+le palline finiscono
+e
+quindi non c'è
+più niente
+in questo caso
+la nostra variabile
+successo
+è un'estrazione
+di una pallina bianca
+successo
+uguale
+estrazione
+di una bianca
+e x
+è il numero di successo
+come sempre
+nel nostro piano
+successo e successo
+ok
+ora che valori
+può assumere
+quanto vale
+al massimo x
+allora sicuramente
+x non può essere
+né maggiore di B
+né maggiore di N
+perché non possiamo
+estrarre più palline
+del numero di estrazioni
+né possiamo estrarre
+più palline
+del numero di palline bianche
+ok
+può capitare
+che N sia
+maggiore di B
+magari abbiamo
+4 bianche
+5 rosse
+e facciamo
+6 espanzioni
+qui diciamo che
+x
+sicuramente
+è il numero
+uguale
+del minimo
+tra B
+e N
+cioè non può superare
+né B
+né
+ok
+non è così
+importante
+questa cosa
+però
+la facciamo
+perché tutti ci ragioniamo
+insieme
+e qual è il valore
+invece
+minimo
+che assume x
+0
+se estrariamo
+tutte rosse
+però se il numero
+di estrazioni
+è maggiore
+del numero
+di palline rosse
+allora
+il numero
+di palline bianche
+estratte
+non sarà mai
+0
+allora diciamo
+che x
+in questo caso
+sarà sempre
+maggiore
+del massimo
+tra 0
+e
+direi
+N-R
+d'accordo
+se io faccio
+6 estrazioni
+e ce ne sono
+4 rosse
+sono sicuro
+che estraggo
+almeno 2 bianche
+nel caso
+più sfortunato
+è quando estraggo
+tutte le rosse
+a disposizione
+quindi se R
+è minore di N
+il numero
+di estrazioni
+di palline bianche
+è almeno
+la differenza
+ok
+però
+diciamo
+questa
+è una cosa
+un po'
+ignora
+se vogliamo
+però
+diciamo
+è precisa
+diciamo
+x può assumere
+tutti i valori
+che stanno
+tra il massimo
+tra questi due
+è il minimo
+tra questi due
+ditemi
+ditemi
+se c'è
+ok
+ora
+se uno
+non lo scrive
+in questo modo
+possiamo anche
+scrivere
+x
+compreso
+tra 0 e n
+senza problemi
+e dopo di che
+ci accorgeremo
+che nella formula
+che andiamo
+a scrivere
+quando usciamo
+da questo intervallo
+qua stora
+il risultato
+darà automaticamente
+0
+quindi
+non rischiamo nulla
+comunque
+andiamo adesso
+a calcolare
+questa probabilità
+diciamo
+k
+ha un valore
+possibile
+e vogliamo
+calcolarci
+la probabilità
+che x
+sia uguale
+a k
+e qui
+il ragionamento
+che facciamo
+è esattamente
+lo stesso
+che abbiamo fatto
+prima
+c'eravamo
+3 bianche
+e 4 rosse
+o viceversa
+non ricordo
+però
+il ragionamento
+che abbiamo fatto
+lo possiamo
+estendere
+quindi
+cosa facciamo
+ci mettiamo
+nello spazio
+pensiamo
+come risultato
+e tutti i modi
+di pescare
+n palline
+dalla nostra urna
+ne abbiamo
+quante palline ci sono
+di urna
+n
+quanti
+sono
+b più r
+ok
+il numero di palline
+è b più r
+quindi non confondiamo
+n
+con il numero di palline
+questo anche
+è un numero
+n
+n sono le estrazioni
+n sono le estrazioni
+le palline
+sono b bianche
+e r rosse
+quindi tutto
+sono b più r
+devo estrarre n
+i modi in cui
+le posso estrarre
+sono
+b più r
+d più r
+su n
+questo qui
+è il numero
+di possibili
+estrazioni
+d'accordo
+d n
+è lì
+è l'accordo
+adesso sovraniamo
+mentre risultati
+favorevoli
+in questo
+in questo
+spazio
+x uguale a k
+vuol dire che
+doniamo k palline bianche
+quindi dobbiamo
+prendere
+k bianche
+e almeno
+k rosse
+quindi dobbiamo
+in quanti modi
+posso scegliere
+k bianche
+e almeno
+k rosse
+bene
+chiaramente
+i k bianche
+le posso scegliere
+in b
+su k modi
+questi sono i modi
+di scegliere
+k palline bianche
+e poi devo scegliere
+anche le altre rosse
+le rosse sono r
+quindi vedete che se uno
+prende k
+qui
+questo tra 0 e n
+se per caso
+k
+viene maggiore di b
+beh questo fa 0
+b su k
+se k è maggiore di b
+fa 0
+non è che uno sbaglia
+ottiene una formula
+che in certi casi
+fa 0
+se invece
+vogliamo ottenere
+una formula
+che non fa mai 0
+dobbiamo metterci
+in questa condizione qua
+stessa cosa
+vale qua
+insomma
+se prendiamo
+k
+che non è maggiore
+di n meno r
+allora qui
+abbiamo che
+quello che sta sotto
+è più grande
+di quello che sta sopra
+quindi fa 0
+un coefficiente binomiale
+se il numero sotto
+è più grande
+di quello sopra
+per definizione
+fa 0
+ma uno non si sbaglia
+semmai
+proprio per questo motivo
+insomma
+in conclusione
+abbiamo
+questa densità
+di xk
+che è b
+su k
+f su n
+su k
+tratto b
+più r
+su n
+questo diciamo
+se k
+è compreso
+in quei due valori
+la
+max
+tra 0
+e n
+meno r
+minore uguale
+di k
+minore uguale
+del minimo
+tra b
+n
+e 0
+altrimenti
+va bene
+quello che abbiamo detto
+possiamo sostituire
+questa
+semplicemente
+con
+questa
+tenendo presente
+che se usiamo
+questa varia
+di k
+in certi casi
+possiamo ottenere
+il 0
+non è un problema
+la notazione
+come si indica
+questa variabile
+appunto si chiama
+variabile
+ipergeometrica
+x
+si dice
+variabile
+ipergeometrica
+e scriviamo
+in questo caso
+x
+è una variabile
+di densità
+ipergeometrica
+quindi si usa la lettera
+h
+in inglese
+ma
+ipergeometrica
+e poi
+mettiamo i tre parametri
+prima
+mettiamo n
+il numero
+di tentativi
+o di estrazione
+e poi
+mettiamo
+bianche
+e rosse
+qua ho messo
+un punto e virgola
+qua una virgola
+non è importante
+possiamo anche mettere
+due virgoli
+possiamo mettere
+un punto e virgola
+separa le estrazioni
+da bianche a rosse
+è uguale
+potete trovare
+sicuramente
+tutte e due
+le notazioni
+sui libri
+ok?
+di esempio
+li abbiamo anticipati
+quindi direi che
+possiamo chiudere
+la lezione
+e iniziamo a fare
+un po' di esercizi
+se è da qua
+c'è una domanda?
+quello che abbiamo
+raccontato
+in questa ora
+no
+fantastico
+allora
+siamo al foglio
+5
+6
+abbiamo un po' di esercizi
+diciamo di probabilità
+di base
+e qui ce n'è da fare
+ci sono alcuni esercizi
+che sono
+collegati
+ad alcuni esercizi
+combinatori
+che abbiamo già
+affrontato
+nelle scorse settimane
+come detto
+insomma la parte combinatoria
+ci serve
+soprattutto noi
+per rispondere
+a queste domande
+che oggi
+e uno è
+collegato
+il 6.3
+i primi due
+sono meno interessanti
+se qualcuno
+ha bisogno
+di chiarimenti
+sui primi due
+può venire
+a parlarvi
+dall'interno
+allora
+6.3
+vi ricordate
+abbiamo
+studiato
+questo esercizio
+abbiamo una urna
+con tante palline
+30 palline
+di 5 colori diversi
+e ce n'erano
+6 per colore
+6 bianche
+6
+così
+poi ce n'erano
+6 blu
+e poi 6 verdi
+e 6 gialli
+non so se si vedono
+la differenza
+di questo
+come ci vediamo
+queste 30 palline
+ok
+l'esercizio
+è il seguente
+peschiamo
+8 palline
+a caso
+8 palline
+e ci chiediamo
+qual è la probabilità
+che siano
+esattamente
+3 colori diversi
+ok
+ok
+ricordate
+che nell'esercizio di colorità che avevamo fatto
+avevamo puntato in quanti modi
+si possono pescare le palline
+in modo che possono riflettere
+con colori differenti
+eravamo anche diviso le esercizio in due parti
+uno in cui pensavamo alle palline come distinguibili
+e un altro come pensavamo alle palline indistinguibili
+qui chiaramente invece il problema non c'è
+distinguibili o indistinguibili
+il problema non si può
+perché io faccio la domanda di probabilità
+io riscrivo il fenomeno
+estrargo queste otto palline
+e mi dirò qual è la probabilità che alla fine
+che tutte le palline pescate
+siamo di tre colline
+quindi dobbiamo decidere che modello utilizzare
+c'è qualcuno da quale venire
+fare questo esercizio
+tocca lavorare
+va bene
+d'altra parte
+non mi pagano per lavorare
+allora
+avventiamo il problema
+se noi
+riteniamo le palline
+indistinguibili
+vediamo
+ai colori che possono uscire fuori
+da questa estrazione
+i risultati
+sono tutti equiprobabili
+cioè
+avere
+non so
+seppaline bianche
+e due blu
+ha la stessa probabilità
+di avere
+due bianche
+un arancione
+una verde
+una gialla
+oppure
+oppure
+oppure no
+secondo me
+se noi riteniamo
+indistinguibili
+indistinguibili
+vuol dire
+insomma che i colori
+sono importanti
+quindi diciamo
+ottenere sempre
+le bianche
+dovete scommettere
+potete scommettere
+quanto restano
+sei bianche
+e due blu
+oppure
+due
+due
+uno e due
+cosa scommettere
+è uguale?
+eh?
+è uguale?
+non dire proprio
+ma neanche un caramento
+insomma
+poi se volete
+lo calcoliamo
+insomma
+estrarre
+le seppaline bianche
+è abbastanza difficile
+insomma
+estrarre otto palline
+già
+estrarre
+le seppaline bianche
+è una richiesta forte
+sembra abbastanza intuitivo
+se poi richiedo anche
+che pure le altre due
+siano del stesso colore
+ancora più
+più improbabie
+sarà
+più probabile
+insomma
+che abbiamo una cosa
+mista
+in ogni caso
+insomma
+se uno dei dubbi
+se lo devi calcolare
+questo è proprio
+chiaramente
+se invece
+noi
+impostiamo
+il problema
+con le palline
+distinguibili
+come se fossero
+numerate
+allora
+ogni insieme
+di palline
+ha la stessa
+qualità
+di essere estratte
+perché
+nell'esempio
+prima
+se noi
+numeriamo
+abbiamo
+1,2,3,4,5,6
+e poi abbiamo
+due
+fra queste
+però
+facciamo
+nel nostro insieme
+abbiamo
+tutte le palline
+numerate da 1 a 6
+nella seconda ipotesi
+non sto facendo una richiesta
+così forte
+perché
+dico
+voglio
+2
+fra il numero
+di 1 e 6
+ma non necessariamente
+la 1 e la 2
+ma non viene 2 qualunque
+poi voglio
+altre 2
+tra il 7 e il 12
+voglio una
+tra il 13 e il 18
+una cosa così
+ma è una richiesta
+molto più
+debole
+quindi qua dicevo
+lo spazio
+e probabilità
+che consideriamo
+omega
+è lo spazio
+dato da
+tutti
+i sottoinsiemi
+di 8 palline
+di 8 palline
+e quindi
+diciamo che
+la calda
+in italia
+è uguale
+a
+30 suoni
+sono tanti
+però
+se vogliamo
+uno spazio
+uniforme
+dobbiamo prendere
+tutto
+è un numero
+molto grande
+va bene
+in questo modo
+tra l'altro
+lo possiamo anche
+calcolare facilmente
+mentre l'altro
+verrà molto più piccolo
+ma sarà molto più
+complicato anche
+da calcolare
+quindi abbiamo
+questo numero
+sono questi qua
+sono i risultati
+possibili
+e chiaramente
+ogni
+sottoinsieme
+di 8 palline
+ha la stessa probabilità
+di essere estratto
+ci sono 8 palline
+più belle di altre
+ok
+quindi abbiamo
+uno spazio uniforme
+omega
+uno spazio uniforme
+va bene
+dopo di che
+dobbiamo contare
+i risultati favorevoli
+ma questo
+l'abbiamo già fatto
+questo era l'esercizio
+di combinatorio
+quanti sono i risultati
+favorevoli
+rifacciamo
+un ripasto
+di questi esercizi
+l'abbiamo già fatto
+come abbiamo fatto
+allora abbiamo detto
+prima di tutto
+scegliamo i tre colori
+d'accordo?
+dobbiamo ricontare
+tutte
+i possibili
+sottoinsieme
+di 8 palline
+in cui sono tre colori
+e prima di tutto
+scegliamo i tre colori
+tra i cinque disponibili
+ho cinque su tre modi
+di scegliere
+i tre colori
+e quindi a questo punto
+ci rimangono solo questi
+tre colori
+facciamo questi
+così c'è una bandiera italiana
+invece che francese
+ok?
+tre colori
+non c'è niente con i francesi
+anzi
+con tanti amici francesi
+allora dopo di che
+cosa avevamo fatto?
+abbiamo detto
+siccome vogliamo
+tutte e tre
+i colori
+insomma questo è il complementare
+rispetto a quelli in cui
+non c'è il bianco
+non c'è il rosso
+non c'è il blu
+non c'è il terzo colore
+quindi come eravamo calcolati?
+avevamo detto
+prendiamo
+tutti i modi di pescare
+queste palline
+che sono
+abbiamo 18 palline
+18 su
+8
+e a questo
+sottraiamo
+i modi di estrarre
+queste 8 palline
+in modo che non ci sia
+il bianco
+se non c'è il bianco
+abbiamo
+12 su 8
+non c'è il rosso
+non c'è il blu
+e quindi abbiamo
+tre volte
+questo 12 suono
+ce ne vado un po' rapido
+perché l'abbiamo già fatto
+poi a priori
+dovevamo risommare
+le intersezioni
+ma le intersezioni
+sono vuote
+se io prendo
+8 palline
+tra queste 18
+non posso
+non averle
+né bianche
+né rosse
+almeno due colori
+ce ne sono state
+quindi questo
+si ne va a ragionare
+e quindi la risposta
+la probabilità
+di avere
+esattamente
+tre colori
+è
+5 su 3
+per
+18 su 8
+meno 3
+per 12 su 8
+ok
+questo è il numero
+dei risultati favorevoli
+tutto fratto
+il numero dei risultati
+possibili
+che è
+30 su 8
+a questo punto
+uno può fare il calcolo
+chiaramente
+quello di una
+calcolatrice
+o di un computer
+di quello che volete
+però prima di fare il calcolo
+facciamo un'analisi
+qualitativa
+quanto ci aspettiamo
+che faccia
+è una qualità
+molto alta
+media
+medio alta
+medio bassa
+molto bassa
+meglio alta
+diciamo
+è probabile
+avere esattamente
+tre colori
+allora
+diciamo
+media
+ci può fare
+sicuramente
+non è bassissima
+non è neanche
+troppo alta
+è sicuramente
+più probabile
+avere quattro colori
+così
+è un tumido
+e forse
+è anche più probabile
+averne 5
+sicuramente
+averne 2
+invece
+è piuttosto improbabile
+1
+impossibile
+quindi
+direi
+medio
+bassa
+medio
+si sta
+meglio
+comunque
+calcolo
+dovrei averlo già fatto
+un po'
+se lo trovo
+nelle soluzioni
+ci va la soluzione
+ah non lo ha la soluzione
+ok
+io ho stampato
+fino
+fino al foglio
+non c'è la soluzione
+qualcuno che vuole
+forse ce l'ha
+quanto fa?
+0,06
+6%
+7%
+7%
+ma è piuttosto bassa
+medio-bassa
+non è 0
+7%
+ci può stare
+non è che avessimo gli strumenti
+per dare molto di più
+d'accordo?
+se uno vuole
+proseguire
+può risolvere l'esercizio
+con
+2
+4
+5 colori
+calcolare
+anche queste probabilità
+e verificare
+che la sombra
+fa 7
+cioè possiamo
+considerare
+la variabile
+relatoria
+numero di colori
+estratti
+di questo fenomeno
+e scrivere
+nella densità
+questa è la densità
+calcolata per k
+uguale a 3
+il lungo di colori
+estratti
+è 3
+però uno
+si può divertire
+può esercitare
+perché divertire
+a fare anche
+le applicazioni
+va bene
+una domanda
+su questo esercizio
+va bene
+direi che possiamo
+fare
+una pausa
+e poi
+facciamo
+l'esercizio
+perché non
+siamo
+passati
+questo
+possiamo fare
+un po'
+tutto
+insomma
+6.4
+i primi
+sono tutti
+riferiti a spazi
+di probabilità
+uniforme
+sicuramente
+di combinatoria
+così fanno sempre
+risultati favorevoli
+sono risultati possibili
+bisogna individuare
+chi sono
+con i risultati
+favorevoli
+e chi li possibili
+6.4
+c'è questa
+parola
+la
+la
+la
+e vi è chiesto
+qual è la probabilità
+che scegliendo
+un anagramma
+a caso
+qual è
+la
+probabilità
+che
+un anagramma
+a caso
+abbia
+le a
+in posizioni
+consecutive
+va bene
+cosa ci aspettiamo
+la probabilità
+sarà alta
+bassa
+direi
+decisamente
+bassa
+una
+a caso
+che le a
+finiscono
+in posizioni
+consecutive
+è un caso
+piuttosto
+fortuito
+va bene
+ma qui
+in questo caso
+chi è il nostro
+spazio
+omega
+stiamo chiedendo
+un anagramma
+a caso
+diciamo che
+i risultati
+possibili
+sono tutti
+gli anagrammi
+della parola
+di all'anca
+omega
+sono tutti
+gli anagrammi
+anagrammi
+di
+vallalla
+e chiaramente
+l'evento
+di cui stiamo
+considerando
+la probabilità
+è l'evento
+e
+sono gli anagrammi
+con le a
+consecutive
+ok
+questo è un evento
+che è uno
+sotto insieme
+di omega
+di questi anagrammi
+siccome
+per come è formato
+il problema
+tutti gli anagrammi
+sono equiprobabili
+abbiamo spazio
+probabilità
+uniforme
+quindi la probabilità
+di e
+è semplicemente
+data dalla cardinalità
+di e
+fratto la cardinalità
+di omega
+e quindi
+a tutti gli effetti
+abbiamo esercizio
+di combinatore
+che sappiamo
+risolvere
+quant'è la cardinalità
+di omega
+omega
+se non abbiamo
+grammi
+allora siccome
+lallalla
+è una parola
+di otto lettere
+che ha
+quattro
+l
+tre a
+e una n
+allora
+questa è una combinazione
+di tipo
+4
+3
+1
+ok
+ritorna
+combinazione
+di tipo
+4
+3
+1
+quindi qua
+ripassiamo
+8 fattoriale
+7
+6
+5
+4
+3
+2
+e sotto abbiamo
+4 fattoriale
+e 3 fattoriale
+tutti questi numeri
+si semplificano
+il risultato
+fa
+8 per 5
+40
+40 per 7
+280
+giusto?
+bene
+e adesso andiamo a calcolare
+invece la cardinalità di E
+ma quanti di questi
+280 anagrammi
+hanno le tre a
+in posizione
+consecutive
+ora come si fa
+a calcolare
+gli anagrammi
+con le tre a
+in posizione
+consecutive
+esatto
+si considera
+come se le tre a
+fossero
+un'unica grande a
+un'unica lettera
+quindi stiamo
+considerando
+a fare E
+facciamo gli anagrammi
+D
+L
+L
+L
+L
+M
+e poi
+una lettera
+che è una tripa
+diciamo
+avere le tre a
+consecutive
+è come avere
+un'unica lettera
+che dà le tre a
+quindi quante sono
+la cardinalità di E
+è come avere
+1,2,3,4,5,6
+lettere
+e sotto abbiamo
+chiaramente
+4,1,1
+ok?
+che abbiamo
+4L
+e una N
+e una
+tripa
+e quindi questo fa
+6,5,4,3,2
+trattato 4,3,2
+tutto qua
+e quindi concludiamo
+e quindi concludiamo
+andiamo chiesto di qua
+come vuole venire
+quindi concludiamo
+che la probabilità di E
+va bene
+la cardinalità di E
+fratto la cardinalità di Omega
+quindi
+30 su 280
+3,2
+effettivamente
+è una probabilità
+piuttosto bassa
+come ci aspettavamo
+ok?
+domande sull'esercizio?
+bene, bene
+andiamo se qualcuno
+vuole fare quello dopo
+6,5
+me la mando proprio su
+va bene?
+presento l'esercizio
+e poi vediamo
+se qualcuno
+al 6,5
+io ho questo insegnante
+che interroga
+casualmente
+ogni giorno
+uno dei suoi
+sei studenti
+interrogato
+uno studente
+interrogato
+a caso
+uno studente
+sui sei
+interrogato
+a caso
+una mattina
+l'insegnante
+lancia il dado
+voglio sull'esercizio numero 1
+domani
+sull'esercizio numero 1
+ancora
+se ci si chiede
+qual è la probabilità
+qual è la probabilità
+che dopo
+dieci giorni
+abbia
+interrogato
+tutti
+sei
+questo è un esercizio
+era nato
+qualche anno fa
+quando
+tutti gli studenti
+che volevano
+che volevano
+erano stati
+suddivisi
+in sei gruppi
+e poi
+un'altra settimana
+dovevano svolgere
+gli istituzioni
+per la settimana
+e
+ogni settimana
+in estrevo
+a caso
+uno dei sei gruppi
+dovevano consegnare
+l'esercizio
+per avere
+le sue parole
+dallo scritto
+una cosa
+che si faceva
+in quel tempo
+adesso non si fa più
+anche perché
+non riesco neanche
+a gestire
+però
+insomma
+il punto era
+di capire
+se in dieci
+settimane
+gli esercizi
+tutti quanti
+lo segnavano
+almeno una volta
+l'esercizio
+ma veramente
+tutti quanti
+dovevano sempre
+portare l'esercizio
+perché
+se non lo portavano
+potrebbero essere
+estrati
+ogni settimana
+va bene
+comunque
+questo esercizio
+lo abbiamo fatto
+più semplice
+su questi sessi
+c'è un volontario
+che vuole fare
+o almeno
+un postale
+non mi fa tutto
+Sergio
+Sergio
+Sergio
+allora io
+per risolvere
+questo esercizio
+pronto a vederlo
+da un punto di vista
+di più
+basso livello
+spiego subito
+il senso
+i sei studenti
+li ho visti
+non tanto
+proprio come
+fisicamente studenti
+ma come
+dei numeri
+quindi
+un insieme numerico
+da uno a sei
+mentre
+i dieci giorni
+durante i quali
+il professore
+interrogerà
+l'ho vista
+come
+una sequenza
+in che senso
+dieci posizioni
+nelle quali
+collocare
+questi sei numeri
+quindi
+posizioni
+ora
+cominciamo
+impostarlo
+come
+vuole
+il professore
+quindi
+omega
+omega
+sarà
+l'insieme
+dei
+sotto insiemi
+anzi
+delle sequenze
+lunghe dieci
+di uno sei
+calcolare la cardinalità
+di omega
+per calcolare
+la cardinalità
+di omega
+basta fare
+sei
+elevato
+da dieci
+benissimo
+sicuramente
+Sergio
+per noi
+il risultato
+del fenomeno
+dell'adoro
+sono le dieci
+estrazioni
+che si fanno
+nel dieci
+giorni
+diciamo
+a non dire
+estrazione
+che si fanno
+in numero
+quindi
+abbiamo
+una sequenza
+lunga dieci
+nel numero
+da uno
+cento
+queste sequenze
+sono
+sei
+la decine
+se esce
+la decina
+la decina
+la decina
+la decina
+la decina
+la decina
+la decina
+ora
+il nostro evento
+sempre visto
+da un punto di vista
+sempre di basso livello
+saranno le sequenze
+K piene
+o meno
+sei piene
+o meglio
+lunghe dieci
+per calcolare
+E
+abbiamo
+la formuletta
+che abbiamo
+dimostrato
+con il principio
+di inclusione
+esclusione
+in questo caso
+sarà
+sommatoria
+da i uguale a 0
+a 6
+di meno 1
+alla i
+per
+6
+su i
+per
+6
+meno i
+alla n
+e
+per
+fare
+tutto il calcolo
+oppure
+non posso
+lo posso anche fare
+a 10
+ah no
+scusi
+allora
+io
+uguale a 0
+vabbè
+è semplice
+se è da 10
+meno
+6 su i
+diventa 6
+per 5
+è da 10
+più
+più
+più
+più
+più
+più
+più
+più
+più
+più
+più
+più
+più
+più
+più
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Ah, vediamo anche il 6.6, che è un esercizio con le partizioni.
+Eh? Certo.
+Lo presenti anche tu o lo presento io?
+Tanto è corto, ci fa presto a presentare.
+Qui abbiamo ancora una classe di dieci bambini, ma non ancora.
+Abbiamo una classe di dieci bambini.
+E' divisa in tre gruppi in modo casuale.
+Divisa, divisi in tre gruppi casualmente.
+Dobbiamo determinare la probabilità che Andrea finisca nello stesso gruppo di Margherita.
+qual è la probabilità che Andrea e Margherita
+stia noi no spesso dobbondrò questo gruppo di Margherita.
+Sì, ho dovuta fare un'altra cultura dei suoi vecchi bambini.
+Grazie.
+Perfetto.
+Allora, intanto devo fare i casi possibili dei tre gruppi, quindi utilizzo, devo fare un partizionamento, i tre gruppi, quindi utilizzo il triangolo di stirling, che sarà, questi sono i casi possibili.
+Siete su dieci elementi e tre gruppi, che è 9, 3, 3, se non sbaglio.
+Sì, l'avamo già calcolato con l'applicazione, quindi abbiamo fatto, allora, con la formula di stirling, oppure anche con la formula di stirling, oppure anche con la formula di stirling.
+Questi sono i casi possibili.
+Questi sono i casi.
+Grazie.
+Come nel caso di prima, abbiamo contato tre lettere con un unico blocco, qua conto Andrea
+e Margherita come un'unica persona, come un unico elemento, quindi farò il triangolo
+su nove e tre, che fa...
+No, è il contrario.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Grazie.
+Va bene.
+Qual è la probabilità di lanciandola 5 volte otteniamo più teste che croci.
+Che pensiamo di questa probabilità alta, bassa?
+Io direi molto alta.
+Mi aspetto che sia una probabilità molto alta, ma sperando che testa a probabilità maggiore
+di croci, 5 aranci, quindi avere almeno 3 croci, insomma, ho la sensazione che sia una probabilità
+alta, mi aspetterei almeno 75%.
+C'è qualcuno che lo vuole fare?
+No, va bene, allora lo faccio io.
+Allora, come si fa?
+Avere più teste che croci vuol dire che il numero di teste è 3, 4, 5.
+Questo è un po' un esercizio che si può risolvere facilmente con le variabili binomiali che abbiamo
+fatto.
+non avendo a disposizione dei variabili binomiali fino ad ora uno lo può risolvere un po' con
+le mani, diciamo, avere come abbiamo fatto il primo esercizio di oggi.
+Come è la probabilità di avere TTT, 3 teste?
+La testa al primo, la testa al secondo, la testa al terzo, 0,6 alla terza.
+Dopodiché, la probabilità di avere due teste e una croce, ah, erano 5 i rancidi, scusate.
+Quindi questo era TTT, TTT, 0,6 alla quinta.
+Non di che la probabilità di avere, allora lo scrivo così, 4 teste e una croce, quant'è?
+Beh, chiaramente, diciamo, come abbiamo fatto prima, diciamo, andiamo prima a stabilire
+quale lancio mi dà la croce dei 5 e poi calcoliamo la probabilità.
+Chiaramente il lancio che mi dà la croce lo posso scegliere in 5 modi.
+Qua sia il primo, il secondo, il terzo, il quarto, il quinto.
+Dopodiché, una volta che ho stabilito questo lancio, voglio testa e 4 lanci.
+che dobbiamo dare testa e avere croce nel lancio prescetto.
+e poi dobbiamo anche calcolare la probabilità di avere tre teste e due croci.
+Vabbè, in questo caso dobbiamo scegliere i due lanci che mi danno croce o i tre lanci
+che mi danno testa, è la stessa cosa.
+Ovviamente se scelgo i due lanci che danno croce, automaticamente scelgo anche i tre che danno testa.
+E questo è 5 su 2, con 5 su 3 che è uguale.
+che è sempre 10.
+5 per 4 diviso 2.
+E dopodiché, una volta che abbiamo fatto questa scelta, voglio avere tre testa nelle posizioni prescente
+e le due croci nelle posizioni prescente.
+la somma di questi tre numeri è la probabilità di avere più testa che croci.
+Qualcuno ve lo fa a questo punto?
+o lo guarda dagli stuali?
+52 solo?
+0,68 mi suona meglio.
+ecco, vedete, questo è proprio un caso in cui 0,52, se avessi 0,52, avrei fatto il capo.
+mi sembra troppo basso.
+0,68 ancora ci può stare, insomma, ho aspettato 0,75, però 0,68 mi sembra più ragionabile.
+Ok?
+Sì?
+che escono più testa che croci?
+con certezza, almeno il 60% della scelta di testa che croci.
+io non me la sentirei dire.
+non me la sentirei dire.
+sicuramente se fai due lanci non è vero.
+perché rimane comunque il caso una testa e una testa e una croce molto probabili.
+con tre non lo so, non lo so, non farei una previsione di questo tipo.
+in ogni caso non è vero.
+in ogni caso non vedo un motivo, ecco, rigoroso per cui debba essere.
+poi magari lo sarà, però non vedo un motivo.
+sì, sì, sì, ma questo non mi dice che il numero di testa è almeno 60%, cioè che il testa e croce è almeno 60%.
+beh, sì, cioè, sarà maggiore del caso equilibrato, questo non c'è dubbio.
+sì, sì, sì.
+però, insomma, che siamo al 60%, non direi che possiamo fare una previsione esatta di questo tipo.
+almeno non vedo il motivo.
+poi magari, se uno ci ragiona, lo trova.
+però, non sempre c'è un problema evidente.
+abbiamo qualche minuto.
+c'è ancora una domanda?
+voglio dire, fare qualche considerazione sul 6-9, che è un esercizio interessante.
+perché qui abbiamo due monete, ok?
+una è quella truccata che conosciamo già, che è da testa con probabilità 0-6, e l'altra è una moneta regolare.
+ok?
+abbiamo una moneta truccata e una regolare.
+e una regolare.
+ok?
+il fenomeno qui consiste nella seguente cosa.
+scegliamo una moneta a caso e la lanciamo tre volte.
+ok?
+ok?
+allora, la prima domanda che vi faccio, così, non so se la...
+non so se la...
+non so se la...
+non so se la...
+non so se la...
+non so se la...
+non so se la...
+non so se la...
+non so se la...
+non so se la...
+non so se la...
+non so se la...
+non so se la...
+non so se la...
+non so se la...
+non so se la...
+non so se la...
+non so se la...
+non so se la...
+non so se la...
+ok?
+allora, la prima domanda che vi faccio, così...
+non so se la...
+non so se la...
+non so se la...
+che è la domanda tre.
+allora, la domanda tre è la seguente.
+consideriamo questi due eventi, T1 e T2.
+T1 è testa al primo lancio, e T2 è testa al secondo lancio, e T2 è testa al secondo lancio.
+allora, vi chiedo, secondo voi, questi due eventi sono dipendenti o indipendenti?
+cioè sapere che il primo lancio da testa cambia la probabilità che il secondo già testa oppure no?
+ma...
+ma...
+è la stessa moneta, cioè...
+e quindi da questa moneta la scendo e la lancio tre volte.
+il risultato del primo lancio infuisce sulla probabilità che il primo già testa cambia la probabilità che è anche la seconda già testa oppure no?
+allora...
+allora...
+il motivo per cui questo interciso è interessante è che il primo è tentato di dire che sono indipendenti.
+in realtà non è così.
+perché non è così?
+perché se io so che questa moneta ha dato testa
+è a un'informazione che è più probabile che la moneta che ho scelto è quella truccata rispetto a quella regolata.
+e quindi l'informazione che il primo lancio ha dato testa influisce sulla probabilità del secondo lancio.
+lo porta ad un eccesso, così diventa più chiaro.
+supponete che anziché aver fatto un solo lancio dal dato testa
+abbiamo fatto mille lanci.
+abbiamo preso questa moneta e l'abbiamo lanciata mille volte.
+abbiamo ottenuto 603 volte testa e 397 volte bruci.
+cosa pensate?
+com'è?
+la moneta che lanciamo è sempre la stessa
+però non sappiamo quando.
+scegliamo una e la lanciamo mille volte.
+se otteniamo
+circa 600 volte testa
+e circa 400 volte bruci
+come nell'esempio che avevo fatto
+a quel punto abbiamo
+la certezza
+al 99,9999
+per cento
+che la moneta che abbiamo in mano è quella truccata
+e quindi a quel punto la probabilità
+che il lancio successivo via testa
+è 0,60
+quindi
+le informazioni che noi abbiamo
+su come si svolge il fenomeno
+hanno influenza
+su quello che accade dopo
+questo è un po'
+alla base anche di tutti gli algoritmi dell'intelligenza artificiale
+è quello che si chiama
+l'aggiornamento delle credenze
+che tutte le informazioni che uno ha
+cambiano le probabilità
+delle osservazioni che uno va a fare in futuro
+ora che ho dato una spiegazione impediva
+però lo possiamo fare
+anche con
+con dettaglio
+e forse merita di essere fatto
+con la dovuta calma
+e quindi
+il proprio credito
+mi vedrò
+ecco le ditte
+perché adesso non voglio farlo in 30 secondi di forza
+per dire
+ricordiamo ora questo esercizio
+e poi andiamo avanti
+grazie

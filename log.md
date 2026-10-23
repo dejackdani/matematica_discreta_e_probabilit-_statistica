@@ -5,6 +5,17 @@ Il formato è basato su [Keep a Changelog](https://keepachangelog.com/en/1.1.0/)
 
 ## [Unreleased]
 
+## [0.13.0] - 2026-10-23
+
+### Added
+- Completato il workflow `ingest-audio.md` per la lezione del 23 Ottobre (`MdP20261023.m4a`): archiviazione della trascrizione del tablet in `raw/registrazioni/trascrizioni-pixel/MdP20261023.txt`, trascrizione Whisper a 24 thread in `raw/registrazioni/trascrizioni-whisper/MdP20261023.txt` e generazione della trascrizione unificata e corretta in `raw/registrazioni/trascrizioni-sistemate/MdP20261023.md`.
+- Creata la nuova pagina wiki `wiki/Variabili_Discrete_e_Schemi_Successo_Insuccesso.md` con indice `5.3`: include il recupero annotato dalla dispensa `lezioniNew.pdf` per la lezione mancante del 21 Ottobre (definizione di variabile aleatoria, funzione di ripartizione, densità discreta concreta e astratta, variabili uniformi $U(a_1,\dots,a_n)$, variabili di Bernoulli $B(1,p)$ e funzione indicatrice $\chi_A$) e l'ingestione della lezione del 23 Ottobre (schemi successo-insuccesso, tre esempi guida, variabili binomiali $B(n,p)$, variabili ipergeometriche $H(n;b,r)$ e domande d'esame da `MDP Domande orale.pdf`).
+- Integrata in `wiki/Probabilita_Condizionale_e_Bayes.md` la Sezione 4 sugli **Eventi Indipendenti** (ricostruita e annotata da `lezioniNew.pdf` per la lezione del 21 Ottobre) e il caso studio sull'apparente indipendenza e l'aggiornamento delle credenze (*belief updating* bayesiano) discusso nella lezione del 23 Ottobre.
+
+### Changed
+- Aggiornato `index.md` e `wiki/Indice_Teoremi_Definizioni.md` con il censimento completo delle definizioni e proposizioni sulle variabili aleatorie discrete, gli schemi successo-insuccesso e gli eventi indipendenti.
+- Arricchite le soluzioni di `wiki/Esercitazione_06_23-Ottobre.md` (Es. 6.2, 6.3, 6.4, 6.5, 6.6, 6.7, 6.8, 6.9) con le spiegazioni metodologiche svolte in aula dal docente e dagli studenti il 23 Ottobre e i collegamenti incrociati alla Wiki.
+
 ## [0.12.0] - 2026-10-23
 
 ### Added
